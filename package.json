@@ -1,0 +1,23 @@
+{
+  "name": "parametermismatch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zcl0203/parameter-mismatch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zcl0203/parameter-mismatch/issues"
+  },
+  "homepage": "https://github.com/zcl0203/parameter-mismatch#readme",
+  "dependencies": {
+    "csv": "^5.0.1",
+    "fast-csv": "^2.4.1"
+  }
+}
