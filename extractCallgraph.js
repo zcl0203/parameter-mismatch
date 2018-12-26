@@ -23,6 +23,7 @@ for (call of callInfo) {
     if (func) {
         pair.call_info = {};
         pair.call_info.file = call.file;
+        pair.call_info.name = call.name;
         pair.call_info.line = call.line;
 
         pair.func_info = {};
