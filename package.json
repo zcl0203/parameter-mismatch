@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/zcl0203/parameter-mismatch#readme",
   "dependencies": {
-    "esprima": "^4.0.1"
+    "esprima": "^4.0.1",
+    "estraverse": "^4.2.0"
   }
 }
