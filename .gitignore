@@ -2,3 +2,5 @@ node_modules
 .vscode
 dataset
 dataset/atom
+test.js
+test.json
