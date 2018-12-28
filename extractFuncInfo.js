@@ -49,7 +49,7 @@ function extractFuncComment(file = 'E:/research/parameterMismatch/parametermisma
 
     estraverse.traverse(ast, {
         enter: function (node, parent) {
-            
+
             // case1: 普通函数定义 function a() {}
             if (node.type === 'FunctionDeclaration') {
                 var func = node.id.name,
@@ -60,7 +60,7 @@ function extractFuncComment(file = 'E:/research/parameterMismatch/parametermisma
                     comment = node.leadingComments.map(comment => comment.value);
                 }
                 if (node.params.length) {
-                    params = node.params.map(param => param.name);
+                    params = node.params.map(param => resolveParam(param));
                 }
                 func_comment_pair.push({
                     'func': func,
@@ -81,7 +81,7 @@ function extractFuncComment(file = 'E:/research/parameterMismatch/parametermisma
                     comment = node.leadingComments.map(comment => comment.value);
                 }
                 if (node.declarations[0].init.params.length) {
-                    params = node.declarations[0].init.params.map(param => param.name);
+                    params = node.declarations[0].init.params.map(param => resolveParam(param));
                 }
 
                 func_comment_pair.push({
@@ -109,7 +109,7 @@ function extractFuncComment(file = 'E:/research/parameterMismatch/parametermisma
                         }
 
                         if (expression.value.params.length) {
-                            params = expression.value.params.map(param => param.name);
+                            params = expression.value.params.map(param => resolveParam(param));
                         }
 
                         func_comment_pair.push({
@@ -139,7 +139,7 @@ function extractFuncComment(file = 'E:/research/parameterMismatch/parametermisma
                         }
 
                         if (expression.value.params.length) {
-                            params = expression.value.params.map(param => param.name);
+                            params = expression.value.params.map(param => resolveParam(param));
                         }
 
                         func_comment_pair.push({
@@ -155,7 +155,7 @@ function extractFuncComment(file = 'E:/research/parameterMismatch/parametermisma
 
             // case5: 赋值表达式 a/console.log = function (...args) { }
             if (node.type === 'AssignmentExpression' && node.right.type === 'FunctionExpression') {
-                
+
                 var func,
                     comment = [],
                     params = [];
@@ -165,7 +165,7 @@ function extractFuncComment(file = 'E:/research/parameterMismatch/parametermisma
                     comment = parent.leadingComments.map(comment => comment.value);
                 }
                 if (node.right.params.length) {
-                    params = node.right.params.map(param => param.name);
+                    params = node.right.params.map(param => resolveParam(param));
                 }
                 func_comment_pair.push({
                     'func': func,
@@ -174,6 +174,32 @@ function extractFuncComment(file = 'E:/research/parameterMismatch/parametermisma
                     'start_line': node.loc.start.line,
                     'end_line': node.loc.end.line
                 });
+            }
+
+            // case6: object内函数，a = { func(x) {} }/ var a = { func(x) {} } ObjectExpression
+            if (node.type === 'ObjectExpression') {
+                for (property of node.properties) {
+                    if (property.value.type === 'FunctionExpression') {
+                        var func,
+                            comment = [],
+                            params = [];
+
+                        func = resolveFuncName(property.key);
+                        if (property.leadingComments) {
+                            comment = property.leadingComments.map(comment => comment.value);
+                        }
+                        if (property.value.params.length) {
+                            params = property.value.params.map(param => resolveParam(param));
+                        }
+                        func_comment_pair.push({
+                            'func': func,
+                            'comment': comment,
+                            'params': params,
+                            'start_line': property.loc.start.line,
+                            'end_line': property.loc.end.line
+                        });
+                    }
+                }
             }
         }
     });
@@ -192,4 +218,37 @@ function resolveFuncName(obj) {
 
     name = name.join('.');
     return name;
+}
+
+function resolveParam(obj) {
+    var param;
+    if (obj.type === 'RestElement') {
+        param = obj.argument.name;
+    }
+
+    if (obj.type === 'Identifier') {
+        param = obj.name;
+    }
+
+    if (obj.type === 'AssignmentPattern') {
+        if (obj.left.type === 'Identifier') {
+            param = obj.left.name;
+        } else if (obj.left.type === 'ObjectPattern') {
+            var tmp = [];
+            for (prop of obj.left.properties) {
+                tmp.push(prop.key.name);
+            }
+            param = tmp;
+        }
+    }
+
+    if (obj.type === 'ObjectPattern') {
+        var tmp = [];
+        for (prop of obj.properties) {
+            tmp.push(prop.key.name);
+        }
+        param = tmp;
+    }
+
+    return param;
 }

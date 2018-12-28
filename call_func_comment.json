@@ -24,7 +24,7 @@
         "start_line": 78,
         "end_line": 81,
         "comment": [],
-        "params": [null]
+        "params": ["args"]
     }
 }, {
     "call_info": {
@@ -38,7 +38,7 @@
         "start_line": 78,
         "end_line": 81,
         "comment": [],
-        "params": [null]
+        "params": ["args"]
     }
 }, {
     "call_info": {
@@ -120,7 +120,9 @@
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/null-grammar.js",
         "name": "module.exports.scopeForId",
         "start_line": 6,
-        "end_line": 12
+        "end_line": 12,
+        "comment": [],
+        "params": ["id"]
     }
 }, {
     "call_info": {
@@ -470,7 +472,7 @@
         "start_line": 86,
         "end_line": 89,
         "comment": [],
-        "params": [null]
+        "params": ["args"]
     }
 }, {
     "call_info": {
@@ -540,7 +542,7 @@
         "start_line": 82,
         "end_line": 85,
         "comment": [],
-        "params": [null]
+        "params": ["args"]
     }
 }, {
     "call_info": {
@@ -1072,7 +1074,7 @@
         "start_line": 78,
         "end_line": 81,
         "comment": [],
-        "params": [null]
+        "params": ["args"]
     }
 }, {
     "call_info": {
@@ -1086,7 +1088,7 @@
         "start_line": 78,
         "end_line": 81,
         "comment": [],
-        "params": [null]
+        "params": ["args"]
     }
 }, {
     "call_info": {
@@ -1560,7 +1562,9 @@
         "start_line": 1922,
         "end_line": 1959,
         "comment": [],
-        "params": [null, null]
+        "params": [
+            ["clientX", "clientY"], "verticalOnly"
+        ]
     }
 }, {
     "call_info": {
@@ -1602,7 +1606,7 @@
         "start_line": 221,
         "end_line": 289,
         "comment": [],
-        "params": [null]
+        "params": ["useScheduler"]
     }
 }, {
     "call_info": {
@@ -1616,7 +1620,7 @@
         "start_line": 221,
         "end_line": 289,
         "comment": [],
-        "params": [null]
+        "params": ["useScheduler"]
     }
 }, {
     "call_info": {
@@ -1630,7 +1634,9 @@
         "start_line": 1922,
         "end_line": 1959,
         "comment": [],
-        "params": [null, null]
+        "params": [
+            ["clientX", "clientY"], "verticalOnly"
+        ]
     }
 }, {
     "call_info": {
@@ -1672,7 +1678,7 @@
         "start_line": 221,
         "end_line": 289,
         "comment": [],
-        "params": [null]
+        "params": ["useScheduler"]
     }
 }, {
     "call_info": {
@@ -1686,7 +1692,7 @@
         "start_line": 221,
         "end_line": 289,
         "comment": [],
-        "params": [null]
+        "params": ["useScheduler"]
     }
 }, {
     "call_info": {
@@ -1798,7 +1804,7 @@
         "start_line": 78,
         "end_line": 81,
         "comment": [],
-        "params": [null]
+        "params": ["args"]
     }
 }, {
     "call_info": {
@@ -1826,7 +1832,7 @@
         "start_line": 92,
         "end_line": 104,
         "comment": [" Public: Modifies the buffer {Range} for the selection.", "", " * `bufferRange` The new {Range} to select.", " * `options` (optional) {Object} with the keys:", "   * `preserveFolds` if `true`, the fold settings are preserved after the", "     selection moves.", "   * `autoscroll` {Boolean} indicating whether to autoscroll to the new", "     range. Defaults to `true` if this is the most recently added selection,", "     `false` otherwise."],
-        "params": ["bufferRange", null]
+        "params": ["bufferRange", "options"]
     }
 }, {
     "call_info": {
@@ -1896,7 +1902,7 @@
         "start_line": 221,
         "end_line": 289,
         "comment": [],
-        "params": [null]
+        "params": ["useScheduler"]
     }
 }, {
     "call_info": {
@@ -1952,7 +1958,7 @@
         "start_line": 86,
         "end_line": 89,
         "comment": [],
-        "params": [null]
+        "params": ["args"]
     }
 }, {
     "call_info": {
@@ -1980,7 +1986,7 @@
         "start_line": 204,
         "end_line": 219,
         "comment": [],
-        "params": [null]
+        "params": ["nextUpdateOnlyBlinksCursors"]
     }
 }, {
     "call_info": {
@@ -2050,7 +2056,7 @@
         "start_line": 204,
         "end_line": 219,
         "comment": [],
-        "params": [null]
+        "params": ["nextUpdateOnlyBlinksCursors"]
     }
 }, {
     "call_info": {
@@ -2064,7 +2070,7 @@
         "start_line": 2508,
         "end_line": 2560,
         "comment": [],
-        "params": ["decoration", null]
+        "params": ["decoration", "subscribeToChanges"]
     }
 }, {
     "call_info": {
@@ -2092,7 +2098,7 @@
         "start_line": 204,
         "end_line": 219,
         "comment": [],
-        "params": [null]
+        "params": ["nextUpdateOnlyBlinksCursors"]
     }
 }, {
     "call_info": {
@@ -2120,7 +2126,7 @@
         "start_line": 204,
         "end_line": 219,
         "comment": [],
-        "params": [null]
+        "params": ["nextUpdateOnlyBlinksCursors"]
     }
 }, {
     "call_info": {
@@ -2218,7 +2224,7 @@
         "start_line": 86,
         "end_line": 89,
         "comment": [],
-        "params": [null]
+        "params": ["args"]
     }
 }, {
     "call_info": {
@@ -2232,7 +2238,7 @@
         "start_line": 82,
         "end_line": 85,
         "comment": [],
-        "params": [null]
+        "params": ["args"]
     }
 }, {
     "call_info": {
@@ -2260,7 +2266,7 @@
         "start_line": 82,
         "end_line": 85,
         "comment": [],
-        "params": [null]
+        "params": ["args"]
     }
 }, {
     "call_info": {
@@ -2274,7 +2280,7 @@
         "start_line": 78,
         "end_line": 81,
         "comment": [],
-        "params": [null]
+        "params": ["args"]
     }
 }, {
     "call_info": {
@@ -2330,7 +2336,7 @@
         "start_line": 66,
         "end_line": 70,
         "comment": ["\r\n  Section: Managing Cursor Position\r\n  ", " Public: Moves a cursor to a given screen position.", "", " * `screenPosition` {Array} of two numbers: the screen row, and the screen column.", " * `options` (optional) {Object} with the following keys:", "   * `autoscroll` A Boolean which, if `true`, scrolls the {TextEditor} to wherever", "     the cursor moves to."],
-        "params": ["screenPosition", null]
+        "params": ["screenPosition", "options"]
     }
 }, {
     "call_info": {
@@ -2620,7 +2626,7 @@
         "start_line": 84,
         "end_line": 88,
         "comment": [" Public: Moves a cursor to a given buffer position.", "", " * `bufferPosition` {Array} of two numbers: the buffer row, and the buffer column.", " * `options` (optional) {Object} with the following keys:", "   * `autoscroll` {Boolean} indicating whether to autoscroll to the new", "     position. Defaults to `true` if this is the most recently added cursor,", "     `false` otherwise."],
-        "params": ["bufferPosition", null]
+        "params": ["bufferPosition", "options"]
     }
 }, {
     "call_info": {
@@ -2746,7 +2752,7 @@
         "start_line": 221,
         "end_line": 289,
         "comment": [],
-        "params": [null]
+        "params": ["useScheduler"]
     }
 }, {
     "call_info": {
@@ -2942,7 +2948,7 @@
         "start_line": 305,
         "end_line": 327,
         "comment": [" Public: Moves the cursor right one screen column.", "", " * `columnCount` (optional) {Number} number of columns to move (default: 1)", " * `options` (optional) {Object} with the following keys:", "   * `moveToEndOfSelection` if true, move to the right of the selection if a", "     selection exists."],
-        "params": [null, null]
+        "params": ["columnCount", ["moveToEndOfSelection"]]
     }
 }, {
     "call_info": {
@@ -3080,7 +3086,7 @@
         "start_line": 281,
         "end_line": 297,
         "comment": [" Public: Moves the cursor left one screen column.", "", " * `columnCount` (optional) {Number} number of columns to move (default: 1)", " * `options` (optional) {Object} with the following keys:", "   * `moveToEndOfSelection` if true, move to the left of the selection if a", "     selection exists."],
-        "params": [null, null]
+        "params": ["columnCount", ["moveToEndOfSelection"]]
     }
 }, {
     "call_info": {
@@ -3178,7 +3184,9 @@
         "start_line": 136,
         "end_line": 143,
         "comment": [],
-        "params": [null]
+        "params": [
+            ["hidePopups"]
+        ]
     }
 }, {
     "call_info": {
@@ -3234,7 +3242,7 @@
         "start_line": 241,
         "end_line": 253,
         "comment": ["\r\n  Section: Moving the Cursor\r\n  ", " Public: Moves the cursor up one screen row.", "", " * `rowCount` (optional) {Number} number of rows to move (default: 1)", " * `options` (optional) {Object} with the following keys:", "   * `moveToEndOfSelection` if true, move to the left of the selection if a", "     selection exists."],
-        "params": [null, null]
+        "params": ["rowCount", ["moveToEndOfSelection"]]
     }
 }, {
     "call_info": {
@@ -3332,7 +3340,7 @@
         "start_line": 261,
         "end_line": 273,
         "comment": [" Public: Moves the cursor down one screen row.", "", " * `rowCount` (optional) {Number} number of rows to move (default: 1)", " * `options` (optional) {Object} with the following keys:", "   * `moveToEndOfSelection` if true, move to the left of the selection if a", "     selection exists."],
-        "params": [null, null]
+        "params": ["rowCount", ["moveToEndOfSelection"]]
     }
 }, {
     "call_info": {
@@ -3514,7 +3522,7 @@
         "start_line": 1215,
         "end_line": 1229,
         "comment": [],
-        "params": ["newScopedSettings", null]
+        "params": ["newScopedSettings", "options"]
     }
 }, {
     "call_info": {
@@ -3708,7 +3716,7 @@
         "start_line": 117,
         "end_line": 157,
         "comment": [],
-        "params": ["source", null]
+        "params": ["source", "params"]
     }
 }, {
     "call_info": {
@@ -3750,7 +3758,7 @@
         "start_line": 4,
         "end_line": 7,
         "comment": [" Private: re-join the segments split from an absolute path to form another absolute path."],
-        "params": [null]
+        "params": ["parts"]
     }
 }, {
     "call_info": {
@@ -3890,7 +3898,7 @@
         "start_line": 204,
         "end_line": 219,
         "comment": [],
-        "params": [null]
+        "params": ["nextUpdateOnlyBlinksCursors"]
     }
 }, {
     "call_info": {
@@ -4836,7 +4844,7 @@
         "start_line": 117,
         "end_line": 157,
         "comment": [],
-        "params": ["source", null]
+        "params": ["source", "params"]
     }
 }, {
     "call_info": {
@@ -5242,7 +5250,7 @@
         "start_line": 221,
         "end_line": 289,
         "comment": [],
-        "params": [null]
+        "params": ["useScheduler"]
     }
 }, {
     "call_info": {
@@ -5758,7 +5766,9 @@
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/null-grammar.js",
         "name": "module.exports.scopeForId",
         "start_line": 6,
-        "end_line": 12
+        "end_line": 12,
+        "comment": [],
+        "params": ["id"]
     }
 }, {
     "call_info": {
@@ -5856,7 +5866,7 @@
         "start_line": 82,
         "end_line": 85,
         "comment": [],
-        "params": [null]
+        "params": ["args"]
     }
 }, {
     "call_info": {
@@ -5870,7 +5880,7 @@
         "start_line": 82,
         "end_line": 85,
         "comment": [],
-        "params": [null]
+        "params": ["args"]
     }
 }, {
     "call_info": {
@@ -5912,7 +5922,7 @@
         "start_line": 82,
         "end_line": 85,
         "comment": [],
-        "params": [null]
+        "params": ["args"]
     }
 }, {
     "call_info": {
@@ -6150,7 +6160,9 @@
         "start_line": 328,
         "end_line": 335,
         "comment": [],
-        "params": [null]
+        "params": [
+            ["serviceHub"]
+        ]
     }
 }, {
     "call_info": {
@@ -6654,7 +6666,9 @@
         "start_line": 408,
         "end_line": 417,
         "comment": [],
-        "params": [null]
+        "params": [
+            ["saveCallback", "mainSource", "projectHomeSchema"]
+        ]
     }
 }, {
     "call_info": {
@@ -6876,7 +6890,9 @@
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/null-grammar.js",
         "name": "module.exports.onDidUpdate",
         "start_line": 33,
-        "end_line": 35
+        "end_line": 35,
+        "comment": [],
+        "params": ["callback"]
     }
 }, {
     "call_info": {
@@ -6918,7 +6934,7 @@
         "start_line": 221,
         "end_line": 289,
         "comment": [],
-        "params": [null]
+        "params": ["useScheduler"]
     }
 }, {
     "call_info": {
@@ -7156,7 +7172,7 @@
         "start_line": 221,
         "end_line": 289,
         "comment": [],
-        "params": [null]
+        "params": ["useScheduler"]
     }
 }, {
     "call_info": {
@@ -7212,7 +7228,7 @@
         "start_line": 221,
         "end_line": 289,
         "comment": [],
-        "params": [null]
+        "params": ["useScheduler"]
     }
 }, {
     "call_info": {
@@ -7282,7 +7298,7 @@
         "start_line": 221,
         "end_line": 289,
         "comment": [],
-        "params": [null]
+        "params": ["useScheduler"]
     }
 }, {
     "call_info": {
@@ -7576,7 +7592,7 @@
         "start_line": 117,
         "end_line": 123,
         "comment": [],
-        "params": ["child", null]
+        "params": ["child", "index"]
     }
 }, {
     "call_info": {
@@ -7604,7 +7620,9 @@
         "start_line": 328,
         "end_line": 335,
         "comment": [],
-        "params": [null]
+        "params": [
+            ["serviceHub"]
+        ]
     }
 }, {
     "call_info": {
@@ -7814,7 +7832,7 @@
         "start_line": 125,
         "end_line": 265,
         "comment": [],
-        "params": [null]
+        "params": ["params"]
     }
 }, {
     "call_info": {
@@ -8220,7 +8238,7 @@
         "start_line": 82,
         "end_line": 85,
         "comment": [],
-        "params": [null]
+        "params": ["args"]
     }
 }, {
     "call_info": {
@@ -8234,7 +8252,9 @@
         "start_line": 12,
         "end_line": 28,
         "comment": [],
-        "params": [null, "viewRegistry"]
+        "params": [
+            ["orientation", "children", "flexScale"], "viewRegistry"
+        ]
     }
 }, {
     "call_info": {
@@ -8402,7 +8422,7 @@
         "start_line": 2508,
         "end_line": 2560,
         "comment": [],
-        "params": ["decoration", null]
+        "params": ["decoration", "subscribeToChanges"]
     }
 }, {
     "call_info": {
@@ -8542,7 +8562,7 @@
         "start_line": 204,
         "end_line": 219,
         "comment": [],
-        "params": [null]
+        "params": ["nextUpdateOnlyBlinksCursors"]
     }
 }, {
     "call_info": {
@@ -8584,7 +8604,7 @@
         "start_line": 204,
         "end_line": 219,
         "comment": [],
-        "params": [null]
+        "params": ["nextUpdateOnlyBlinksCursors"]
     }
 }, {
     "call_info": {
@@ -8640,7 +8660,7 @@
         "start_line": 451,
         "end_line": 513,
         "comment": ["\r\n  Section: Modifying the selected text\r\n  ", " Public: Replaces text at the current selection.", "", " * `text` A {String} representing the text to add", " * `options` (optional) {Object} with keys:", "   * `select` If `true`, selects the newly added text.", "   * `autoIndent` If `true`, indents all inserted text appropriately.", "   * `autoIndentNewline` If `true`, indent newline appropriately.", "   * `autoDecreaseIndent` If `true`, decreases indent level appropriately", "     (for example, when a closing bracket is inserted).", "   * `preserveTrailingLineIndentation` By default, when pasting multiple", "   lines, Atom attempts to preserve the relative indent level between the", "   first line and trailing lines, even if the indent level of the first", "   line has changed from the copied text. If this option is `true`, this", "   behavior is suppressed.", "     level between the first lines and the trailing lines.", "   * `normalizeLineEndings` (optional) {Boolean} (default: true)", "   * `undo` *Deprecated* If `skip`, skips the undo stack for this operation. This property is deprecated. Call groupLastChanges() on the {TextBuffer} afterward instead.", "   * `bypassReadOnly` (optional) {Boolean} Must be `true` to modify a read-only editor. (default: false)"],
-        "params": ["text", null]
+        "params": ["text", "options"]
     }
 }, {
     "call_info": {
@@ -8710,7 +8730,7 @@
         "start_line": 204,
         "end_line": 219,
         "comment": [],
-        "params": [null]
+        "params": ["nextUpdateOnlyBlinksCursors"]
     }
 }, {
     "call_info": {
@@ -8752,7 +8772,7 @@
         "start_line": 204,
         "end_line": 219,
         "comment": [],
-        "params": [null]
+        "params": ["nextUpdateOnlyBlinksCursors"]
     }
 }, {
     "call_info": {
@@ -8850,7 +8870,7 @@
         "start_line": 92,
         "end_line": 104,
         "comment": [" Public: Modifies the buffer {Range} for the selection.", "", " * `bufferRange` The new {Range} to select.", " * `options` (optional) {Object} with the keys:", "   * `preserveFolds` if `true`, the fold settings are preserved after the", "     selection moves.", "   * `autoscroll` {Boolean} indicating whether to autoscroll to the new", "     range. Defaults to `true` if this is the most recently added selection,", "     `false` otherwise."],
-        "params": ["bufferRange", null]
+        "params": ["bufferRange", "options"]
     }
 }, {
     "call_info": {
@@ -8878,7 +8898,9 @@
         "start_line": 1886,
         "end_line": 1920,
         "comment": [],
-        "params": [null]
+        "params": [
+            ["didDrag", "didStopDragging"]
+        ]
     }
 }, {
     "call_info": {
@@ -8934,7 +8956,7 @@
         "start_line": 204,
         "end_line": 219,
         "comment": [],
-        "params": [null]
+        "params": ["nextUpdateOnlyBlinksCursors"]
     }
 }, {
     "call_info": {
@@ -8962,7 +8984,7 @@
         "start_line": 204,
         "end_line": 219,
         "comment": [],
-        "params": [null]
+        "params": ["nextUpdateOnlyBlinksCursors"]
     }
 }, {
     "call_info": {
@@ -9018,7 +9040,7 @@
         "start_line": 204,
         "end_line": 219,
         "comment": [],
-        "params": [null]
+        "params": ["nextUpdateOnlyBlinksCursors"]
     }
 }, {
     "call_info": {
@@ -9074,7 +9096,7 @@
         "start_line": 204,
         "end_line": 219,
         "comment": [],
-        "params": [null]
+        "params": ["nextUpdateOnlyBlinksCursors"]
     }
 }, {
     "call_info": {
@@ -9130,7 +9152,7 @@
         "start_line": 221,
         "end_line": 289,
         "comment": [],
-        "params": [null]
+        "params": ["useScheduler"]
     }
 }, {
     "call_info": {
@@ -9186,7 +9208,7 @@
         "start_line": 451,
         "end_line": 513,
         "comment": ["\r\n  Section: Modifying the selected text\r\n  ", " Public: Replaces text at the current selection.", "", " * `text` A {String} representing the text to add", " * `options` (optional) {Object} with keys:", "   * `select` If `true`, selects the newly added text.", "   * `autoIndent` If `true`, indents all inserted text appropriately.", "   * `autoIndentNewline` If `true`, indent newline appropriately.", "   * `autoDecreaseIndent` If `true`, decreases indent level appropriately", "     (for example, when a closing bracket is inserted).", "   * `preserveTrailingLineIndentation` By default, when pasting multiple", "   lines, Atom attempts to preserve the relative indent level between the", "   first line and trailing lines, even if the indent level of the first", "   line has changed from the copied text. If this option is `true`, this", "   behavior is suppressed.", "     level between the first lines and the trailing lines.", "   * `normalizeLineEndings` (optional) {Boolean} (default: true)", "   * `undo` *Deprecated* If `skip`, skips the undo stack for this operation. This property is deprecated. Call groupLastChanges() on the {TextBuffer} afterward instead.", "   * `bypassReadOnly` (optional) {Boolean} Must be `true` to modify a read-only editor. (default: false)"],
-        "params": ["text", null]
+        "params": ["text", "options"]
     }
 }, {
     "call_info": {
@@ -9214,7 +9236,7 @@
         "start_line": 204,
         "end_line": 219,
         "comment": [],
-        "params": [null]
+        "params": ["nextUpdateOnlyBlinksCursors"]
     }
 }, {
     "call_info": {
@@ -9242,7 +9264,7 @@
         "start_line": 204,
         "end_line": 219,
         "comment": [],
-        "params": [null]
+        "params": ["nextUpdateOnlyBlinksCursors"]
     }
 }, {
     "call_info": {
@@ -9256,7 +9278,7 @@
         "start_line": 204,
         "end_line": 219,
         "comment": [],
-        "params": [null]
+        "params": ["nextUpdateOnlyBlinksCursors"]
     }
 }, {
     "call_info": {
@@ -9340,7 +9362,7 @@
         "start_line": 204,
         "end_line": 219,
         "comment": [],
-        "params": [null]
+        "params": ["nextUpdateOnlyBlinksCursors"]
     }
 }, {
     "call_info": {
@@ -9368,7 +9390,7 @@
         "start_line": 221,
         "end_line": 289,
         "comment": [],
-        "params": [null]
+        "params": ["useScheduler"]
     }
 }, {
     "call_info": {
@@ -9578,7 +9600,7 @@
         "start_line": 92,
         "end_line": 104,
         "comment": [" Public: Modifies the buffer {Range} for the selection.", "", " * `bufferRange` The new {Range} to select.", " * `options` (optional) {Object} with the keys:", "   * `preserveFolds` if `true`, the fold settings are preserved after the", "     selection moves.", "   * `autoscroll` {Boolean} indicating whether to autoscroll to the new", "     range. Defaults to `true` if this is the most recently added selection,", "     `false` otherwise."],
-        "params": ["bufferRange", null]
+        "params": ["bufferRange", "options"]
     }
 }, {
     "call_info": {
@@ -9606,7 +9628,7 @@
         "start_line": 92,
         "end_line": 104,
         "comment": [" Public: Modifies the buffer {Range} for the selection.", "", " * `bufferRange` The new {Range} to select.", " * `options` (optional) {Object} with the keys:", "   * `preserveFolds` if `true`, the fold settings are preserved after the", "     selection moves.", "   * `autoscroll` {Boolean} indicating whether to autoscroll to the new", "     range. Defaults to `true` if this is the most recently added selection,", "     `false` otherwise."],
-        "params": ["bufferRange", null]
+        "params": ["bufferRange", "options"]
     }
 }, {
     "call_info": {
@@ -9634,7 +9656,7 @@
         "start_line": 606,
         "end_line": 616,
         "comment": [" Public: Returns the buffer Range occupied by the word located under the cursor.", "", " * `options` (optional) {Object}", "   * `wordRegex` A {RegExp} indicating what constitutes a \"word\"", "     (default: {::wordRegExp})."],
-        "params": [null]
+        "params": ["options"]
     }
 }, {
     "call_info": {
@@ -9784,7 +9806,7 @@
         "start_line": 2853,
         "end_line": 2864,
         "comment": [],
-        "params": ["scrollTopRow", null]
+        "params": ["scrollTopRow", "scheduleUpdate"]
     }
 }, {
     "call_info": {
@@ -9798,7 +9820,7 @@
         "start_line": 2874,
         "end_line": 2885,
         "comment": [],
-        "params": ["scrollLeftColumn", null]
+        "params": ["scrollLeftColumn", "scheduleUpdate"]
     }
 }, {
     "call_info": {
@@ -9812,7 +9834,7 @@
         "start_line": 221,
         "end_line": 289,
         "comment": [],
-        "params": [null]
+        "params": ["useScheduler"]
     }
 }, {
     "call_info": {
@@ -9896,7 +9918,9 @@
         "start_line": 38,
         "end_line": 40,
         "comment": ["\r\n  Section: Construction and Destruction\r\n  ", " Public: Create a {ScopeDescriptor} object.", "", " * `object` {Object}", "   * `scopes` {Array} of {String}s"],
-        "params": [null]
+        "params": [
+            ["scopes"]
+        ]
     }
 }, {
     "call_info": {
@@ -9952,7 +9976,7 @@
         "start_line": 994,
         "end_line": 1018,
         "comment": [],
-        "params": ["keyPath", null]
+        "params": ["keyPath", "options"]
     }
 }, {
     "call_info": {
@@ -9966,7 +9990,7 @@
         "start_line": 994,
         "end_line": 1018,
         "comment": [],
-        "params": ["keyPath", null]
+        "params": ["keyPath", "options"]
     }
 }, {
     "call_info": {
@@ -10120,7 +10144,7 @@
         "start_line": 994,
         "end_line": 1018,
         "comment": [],
-        "params": ["keyPath", null]
+        "params": ["keyPath", "options"]
     }
 }, {
     "call_info": {
@@ -10230,7 +10254,7 @@
         "start_line": 559,
         "end_line": 578,
         "comment": [" Public: Retrieves the buffer position of where the current word ends.", "", " * `options` (optional) {Object} with the following keys:", "   * `wordRegex` A {RegExp} indicating what constitutes a \"word\"", "      (default: {::wordRegExp})", "   * `includeNonWordCharacters` A Boolean indicating whether to include", "     non-word characters in the default word regex. Has no effect if", "     wordRegex is set.", "", " Returns a {Range}."],
-        "params": [null]
+        "params": ["options"]
     }
 }, {
     "call_info": {
@@ -10438,7 +10462,7 @@
         "start_line": 936,
         "end_line": 938,
         "comment": ["\r\n  Section: Private methods managing global settings\r\n  "],
-        "params": ["newSettings", null]
+        "params": ["newSettings", "options"]
     }
 }, {
     "call_info": {
@@ -10618,7 +10642,7 @@
         "start_line": 527,
         "end_line": 547,
         "comment": [" Public: Retrieves the buffer position of where the current word starts.", "", " * `options` (optional) An {Object} with the following keys:", "   * `wordRegex` A {RegExp} indicating what constitutes a \"word\"", "     (default: {::wordRegExp}).", "   * `includeNonWordCharacters` A {Boolean} indicating whether to include", "     non-word characters in the default word regex.", "     Has no effect if wordRegex is set.", "   * `allowPrevious` A {Boolean} indicating whether the beginning of the", "     previous word can be returned.", "", " Returns a {Range}."],
-        "params": [null]
+        "params": ["options"]
     }
 }, {
     "call_info": {
@@ -13524,7 +13548,9 @@
         "start_line": 35,
         "end_line": 77,
         "comment": [],
-        "params": [null]
+        "params": [
+            ["panel", "index"]
+        ]
     }
 }, {
     "call_info": {
@@ -13580,7 +13606,7 @@
         "start_line": 936,
         "end_line": 938,
         "comment": ["\r\n  Section: Private methods managing global settings\r\n  "],
-        "params": ["newSettings", null]
+        "params": ["newSettings", "options"]
     }
 }, {
     "call_info": {
@@ -14348,7 +14374,7 @@
         "start_line": 117,
         "end_line": 123,
         "comment": [],
-        "params": ["child", null]
+        "params": ["child", "index"]
     }
 }, {
     "call_info": {
@@ -14362,7 +14388,7 @@
         "start_line": 117,
         "end_line": 123,
         "comment": [],
-        "params": ["child", null]
+        "params": ["child", "index"]
     }
 }, {
     "call_info": {
@@ -14432,7 +14458,7 @@
         "start_line": 92,
         "end_line": 104,
         "comment": [" Public: Modifies the buffer {Range} for the selection.", "", " * `bufferRange` The new {Range} to select.", " * `options` (optional) {Object} with the keys:", "   * `preserveFolds` if `true`, the fold settings are preserved after the", "     selection moves.", "   * `autoscroll` {Boolean} indicating whether to autoscroll to the new", "     range. Defaults to `true` if this is the most recently added selection,", "     `false` otherwise."],
-        "params": ["bufferRange", null]
+        "params": ["bufferRange", "options"]
     }
 }, {
     "call_info": {
@@ -14446,7 +14472,7 @@
         "start_line": 84,
         "end_line": 88,
         "comment": [" Public: Moves a cursor to a given buffer position.", "", " * `bufferPosition` {Array} of two numbers: the buffer row, and the buffer column.", " * `options` (optional) {Object} with the following keys:", "   * `autoscroll` {Boolean} indicating whether to autoscroll to the new", "     position. Defaults to `true` if this is the most recently added cursor,", "     `false` otherwise."],
-        "params": ["bufferPosition", null]
+        "params": ["bufferPosition", "options"]
     }
 }, {
     "call_info": {
@@ -14768,7 +14794,7 @@
         "start_line": 204,
         "end_line": 219,
         "comment": [],
-        "params": [null]
+        "params": ["nextUpdateOnlyBlinksCursors"]
     }
 }, {
     "call_info": {
@@ -15662,7 +15688,7 @@
         "start_line": 249,
         "end_line": 298,
         "comment": [],
-        "params": ["lessStylesheetPath", null]
+        "params": ["lessStylesheetPath", "importFallbackVariables"]
     }
 }, {
     "call_info": {
@@ -15732,7 +15758,7 @@
         "start_line": 117,
         "end_line": 157,
         "comment": [],
-        "params": ["source", null]
+        "params": ["source", "params"]
     }
 }, {
     "call_info": {
@@ -15844,7 +15870,7 @@
         "start_line": 78,
         "end_line": 81,
         "comment": [],
-        "params": [null]
+        "params": ["args"]
     }
 }, {
     "call_info": {
@@ -16236,7 +16262,7 @@
         "start_line": 52,
         "end_line": 66,
         "comment": [],
-        "params": ["menu", null]
+        "params": ["menu", ["type", "label", "submenu"]]
     }
 }, {
     "call_info": {
@@ -16264,7 +16290,7 @@
         "start_line": 14,
         "end_line": 32,
         "comment": [],
-        "params": ["menu", "item", null]
+        "params": ["menu", "item", "itemSpecificity"]
     }
 }, {
     "call_info": {
@@ -16278,7 +16304,7 @@
         "start_line": 154,
         "end_line": 174,
         "comment": [],
-        "params": ["table", "defaultTable", null]
+        "params": ["table", "defaultTable", "mergeIndices"]
     }
 }, {
     "call_info": {
@@ -16292,7 +16318,7 @@
         "start_line": 154,
         "end_line": 174,
         "comment": [],
-        "params": ["table", "defaultTable", null]
+        "params": ["table", "defaultTable", "mergeIndices"]
     }
 }, {
     "call_info": {
@@ -16446,7 +16472,7 @@
         "start_line": 66,
         "end_line": 70,
         "comment": ["\r\n  Section: Managing Cursor Position\r\n  ", " Public: Moves a cursor to a given screen position.", "", " * `screenPosition` {Array} of two numbers: the screen row, and the screen column.", " * `options` (optional) {Object} with the following keys:", "   * `autoscroll` A Boolean which, if `true`, scrolls the {TextEditor} to wherever", "     the cursor moves to."],
-        "params": ["screenPosition", null]
+        "params": ["screenPosition", "options"]
     }
 }, {
     "call_info": {
@@ -16488,7 +16514,7 @@
         "start_line": 66,
         "end_line": 70,
         "comment": ["\r\n  Section: Managing Cursor Position\r\n  ", " Public: Moves a cursor to a given screen position.", "", " * `screenPosition` {Array} of two numbers: the screen row, and the screen column.", " * `options` (optional) {Object} with the following keys:", "   * `autoscroll` A Boolean which, if `true`, scrolls the {TextEditor} to wherever", "     the cursor moves to."],
-        "params": ["screenPosition", null]
+        "params": ["screenPosition", "options"]
     }
 }, {
     "call_info": {
@@ -16516,7 +16542,7 @@
         "start_line": 66,
         "end_line": 70,
         "comment": ["\r\n  Section: Managing Cursor Position\r\n  ", " Public: Moves a cursor to a given screen position.", "", " * `screenPosition` {Array} of two numbers: the screen row, and the screen column.", " * `options` (optional) {Object} with the following keys:", "   * `autoscroll` A Boolean which, if `true`, scrolls the {TextEditor} to wherever", "     the cursor moves to."],
-        "params": ["screenPosition", null]
+        "params": ["screenPosition", "options"]
     }
 }, {
     "call_info": {
@@ -16558,7 +16584,7 @@
         "start_line": 66,
         "end_line": 70,
         "comment": ["\r\n  Section: Managing Cursor Position\r\n  ", " Public: Moves a cursor to a given screen position.", "", " * `screenPosition` {Array} of two numbers: the screen row, and the screen column.", " * `options` (optional) {Object} with the following keys:", "   * `autoscroll` A Boolean which, if `true`, scrolls the {TextEditor} to wherever", "     the cursor moves to."],
-        "params": ["screenPosition", null]
+        "params": ["screenPosition", "options"]
     }
 }, {
     "call_info": {
@@ -16586,7 +16612,7 @@
         "start_line": 66,
         "end_line": 70,
         "comment": ["\r\n  Section: Managing Cursor Position\r\n  ", " Public: Moves a cursor to a given screen position.", "", " * `screenPosition` {Array} of two numbers: the screen row, and the screen column.", " * `options` (optional) {Object} with the following keys:", "   * `autoscroll` A Boolean which, if `true`, scrolls the {TextEditor} to wherever", "     the cursor moves to."],
-        "params": ["screenPosition", null]
+        "params": ["screenPosition", "options"]
     }
 }, {
     "call_info": {
@@ -16600,7 +16626,7 @@
         "start_line": 84,
         "end_line": 88,
         "comment": [" Public: Moves a cursor to a given buffer position.", "", " * `bufferPosition` {Array} of two numbers: the buffer row, and the buffer column.", " * `options` (optional) {Object} with the following keys:", "   * `autoscroll` {Boolean} indicating whether to autoscroll to the new", "     position. Defaults to `true` if this is the most recently added cursor,", "     `false` otherwise."],
-        "params": ["bufferPosition", null]
+        "params": ["bufferPosition", "options"]
     }
 }, {
     "call_info": {
@@ -16628,7 +16654,7 @@
         "start_line": 84,
         "end_line": 88,
         "comment": [" Public: Moves a cursor to a given buffer position.", "", " * `bufferPosition` {Array} of two numbers: the buffer row, and the buffer column.", " * `options` (optional) {Object} with the following keys:", "   * `autoscroll` {Boolean} indicating whether to autoscroll to the new", "     position. Defaults to `true` if this is the most recently added cursor,", "     `false` otherwise."],
-        "params": ["bufferPosition", null]
+        "params": ["bufferPosition", "options"]
     }
 }, {
     "call_info": {
@@ -16642,7 +16668,7 @@
         "start_line": 587,
         "end_line": 599,
         "comment": [" Public: Retrieves the buffer position of where the next word starts.", "", " * `options` (optional) {Object}", "   * `wordRegex` A {RegExp} indicating what constitutes a \"word\"", "     (default: {::wordRegExp}).", "", " Returns a {Range}"],
-        "params": [null]
+        "params": ["options"]
     }
 }, {
     "call_info": {
@@ -16656,7 +16682,7 @@
         "start_line": 84,
         "end_line": 88,
         "comment": [" Public: Moves a cursor to a given buffer position.", "", " * `bufferPosition` {Array} of two numbers: the buffer row, and the buffer column.", " * `options` (optional) {Object} with the following keys:", "   * `autoscroll` {Boolean} indicating whether to autoscroll to the new", "     position. Defaults to `true` if this is the most recently added cursor,", "     `false` otherwise."],
-        "params": ["bufferPosition", null]
+        "params": ["bufferPosition", "options"]
     }
 }, {
     "call_info": {
@@ -16670,7 +16696,7 @@
         "start_line": 84,
         "end_line": 88,
         "comment": [" Public: Moves a cursor to a given buffer position.", "", " * `bufferPosition` {Array} of two numbers: the buffer row, and the buffer column.", " * `options` (optional) {Object} with the following keys:", "   * `autoscroll` {Boolean} indicating whether to autoscroll to the new", "     position. Defaults to `true` if this is the most recently added cursor,", "     `false` otherwise."],
-        "params": ["bufferPosition", null]
+        "params": ["bufferPosition", "options"]
     }
 }, {
     "call_info": {
@@ -16684,7 +16710,7 @@
         "start_line": 66,
         "end_line": 70,
         "comment": ["\r\n  Section: Managing Cursor Position\r\n  ", " Public: Moves a cursor to a given screen position.", "", " * `screenPosition` {Array} of two numbers: the screen row, and the screen column.", " * `options` (optional) {Object} with the following keys:", "   * `autoscroll` A Boolean which, if `true`, scrolls the {TextEditor} to wherever", "     the cursor moves to."],
-        "params": ["screenPosition", null]
+        "params": ["screenPosition", "options"]
     }
 }, {
     "call_info": {
@@ -16712,7 +16738,7 @@
         "start_line": 84,
         "end_line": 88,
         "comment": [" Public: Moves a cursor to a given buffer position.", "", " * `bufferPosition` {Array} of two numbers: the buffer row, and the buffer column.", " * `options` (optional) {Object} with the following keys:", "   * `autoscroll` {Boolean} indicating whether to autoscroll to the new", "     position. Defaults to `true` if this is the most recently added cursor,", "     `false` otherwise."],
-        "params": ["bufferPosition", null]
+        "params": ["bufferPosition", "options"]
     }
 }, {
     "call_info": {
@@ -16726,7 +16752,7 @@
         "start_line": 527,
         "end_line": 547,
         "comment": [" Public: Retrieves the buffer position of where the current word starts.", "", " * `options` (optional) An {Object} with the following keys:", "   * `wordRegex` A {RegExp} indicating what constitutes a \"word\"", "     (default: {::wordRegExp}).", "   * `includeNonWordCharacters` A {Boolean} indicating whether to include", "     non-word characters in the default word regex.", "     Has no effect if wordRegex is set.", "   * `allowPrevious` A {Boolean} indicating whether the beginning of the", "     previous word can be returned.", "", " Returns a {Range}."],
-        "params": [null]
+        "params": ["options"]
     }
 }, {
     "call_info": {
@@ -16740,7 +16766,7 @@
         "start_line": 84,
         "end_line": 88,
         "comment": [" Public: Moves a cursor to a given buffer position.", "", " * `bufferPosition` {Array} of two numbers: the buffer row, and the buffer column.", " * `options` (optional) {Object} with the following keys:", "   * `autoscroll` {Boolean} indicating whether to autoscroll to the new", "     position. Defaults to `true` if this is the most recently added cursor,", "     `false` otherwise."],
-        "params": ["bufferPosition", null]
+        "params": ["bufferPosition", "options"]
     }
 }, {
     "call_info": {
@@ -16754,7 +16780,7 @@
         "start_line": 84,
         "end_line": 88,
         "comment": [" Public: Moves a cursor to a given buffer position.", "", " * `bufferPosition` {Array} of two numbers: the buffer row, and the buffer column.", " * `options` (optional) {Object} with the following keys:", "   * `autoscroll` {Boolean} indicating whether to autoscroll to the new", "     position. Defaults to `true` if this is the most recently added cursor,", "     `false` otherwise."],
-        "params": ["bufferPosition", null]
+        "params": ["bufferPosition", "options"]
     }
 }, {
     "call_info": {
@@ -16782,7 +16808,7 @@
         "start_line": 66,
         "end_line": 70,
         "comment": ["\r\n  Section: Managing Cursor Position\r\n  ", " Public: Moves a cursor to a given screen position.", "", " * `screenPosition` {Array} of two numbers: the screen row, and the screen column.", " * `options` (optional) {Object} with the following keys:", "   * `autoscroll` A Boolean which, if `true`, scrolls the {TextEditor} to wherever", "     the cursor moves to."],
-        "params": ["screenPosition", null]
+        "params": ["screenPosition", "options"]
     }
 }, {
     "call_info": {
@@ -16810,7 +16836,7 @@
         "start_line": 559,
         "end_line": 578,
         "comment": [" Public: Retrieves the buffer position of where the current word ends.", "", " * `options` (optional) {Object} with the following keys:", "   * `wordRegex` A {RegExp} indicating what constitutes a \"word\"", "      (default: {::wordRegExp})", "   * `includeNonWordCharacters` A Boolean indicating whether to include", "     non-word characters in the default word regex. Has no effect if", "     wordRegex is set.", "", " Returns a {Range}."],
-        "params": [null]
+        "params": ["options"]
     }
 }, {
     "call_info": {
@@ -16824,7 +16850,7 @@
         "start_line": 84,
         "end_line": 88,
         "comment": [" Public: Moves a cursor to a given buffer position.", "", " * `bufferPosition` {Array} of two numbers: the buffer row, and the buffer column.", " * `options` (optional) {Object} with the following keys:", "   * `autoscroll` {Boolean} indicating whether to autoscroll to the new", "     position. Defaults to `true` if this is the most recently added cursor,", "     `false` otherwise."],
-        "params": ["bufferPosition", null]
+        "params": ["bufferPosition", "options"]
     }
 }, {
     "call_info": {
@@ -16866,7 +16892,7 @@
         "start_line": 84,
         "end_line": 88,
         "comment": [" Public: Moves a cursor to a given buffer position.", "", " * `bufferPosition` {Array} of two numbers: the buffer row, and the buffer column.", " * `options` (optional) {Object} with the following keys:", "   * `autoscroll` {Boolean} indicating whether to autoscroll to the new", "     position. Defaults to `true` if this is the most recently added cursor,", "     `false` otherwise."],
-        "params": ["bufferPosition", null]
+        "params": ["bufferPosition", "options"]
     }
 }, {
     "call_info": {
@@ -16880,7 +16906,7 @@
         "start_line": 493,
         "end_line": 513,
         "comment": [" Public: Returns buffer position of the next word boundary. It might be on", " the current word, or the previous word.", "", " * `options` (optional) {Object} with the following keys:", "   * `wordRegex` A {RegExp} indicating what constitutes a \"word\"", "      (default: {::wordRegExp})"],
-        "params": [null]
+        "params": ["options"]
     }
 }, {
     "call_info": {
@@ -16894,7 +16920,7 @@
         "start_line": 84,
         "end_line": 88,
         "comment": [" Public: Moves a cursor to a given buffer position.", "", " * `bufferPosition` {Array} of two numbers: the buffer row, and the buffer column.", " * `options` (optional) {Object} with the following keys:", "   * `autoscroll` {Boolean} indicating whether to autoscroll to the new", "     position. Defaults to `true` if this is the most recently added cursor,", "     `false` otherwise."],
-        "params": ["bufferPosition", null]
+        "params": ["bufferPosition", "options"]
     }
 }, {
     "call_info": {
@@ -16908,7 +16934,7 @@
         "start_line": 493,
         "end_line": 513,
         "comment": [" Public: Returns buffer position of the next word boundary. It might be on", " the current word, or the previous word.", "", " * `options` (optional) {Object} with the following keys:", "   * `wordRegex` A {RegExp} indicating what constitutes a \"word\"", "      (default: {::wordRegExp})"],
-        "params": [null]
+        "params": ["options"]
     }
 }, {
     "call_info": {
@@ -16922,7 +16948,7 @@
         "start_line": 84,
         "end_line": 88,
         "comment": [" Public: Moves a cursor to a given buffer position.", "", " * `bufferPosition` {Array} of two numbers: the buffer row, and the buffer column.", " * `options` (optional) {Object} with the following keys:", "   * `autoscroll` {Boolean} indicating whether to autoscroll to the new", "     position. Defaults to `true` if this is the most recently added cursor,", "     `false` otherwise."],
-        "params": ["bufferPosition", null]
+        "params": ["bufferPosition", "options"]
     }
 }, {
     "call_info": {
@@ -16936,7 +16962,7 @@
         "start_line": 463,
         "end_line": 485,
         "comment": ["\r\n  Section: Local Positions and Ranges\r\n  ", " Public: Returns buffer position of previous word boundary. It might be on", " the current word, or the previous word.", "", " * `options` (optional) {Object} with the following keys:", "   * `wordRegex` A {RegExp} indicating what constitutes a \"word\"", "      (default: {::wordRegExp})"],
-        "params": [null]
+        "params": ["options"]
     }
 }, {
     "call_info": {
@@ -16950,7 +16976,7 @@
         "start_line": 84,
         "end_line": 88,
         "comment": [" Public: Moves a cursor to a given buffer position.", "", " * `bufferPosition` {Array} of two numbers: the buffer row, and the buffer column.", " * `options` (optional) {Object} with the following keys:", "   * `autoscroll` {Boolean} indicating whether to autoscroll to the new", "     position. Defaults to `true` if this is the most recently added cursor,", "     `false` otherwise."],
-        "params": ["bufferPosition", null]
+        "params": ["bufferPosition", "options"]
     }
 }, {
     "call_info": {
@@ -16964,7 +16990,7 @@
         "start_line": 463,
         "end_line": 485,
         "comment": ["\r\n  Section: Local Positions and Ranges\r\n  ", " Public: Returns buffer position of previous word boundary. It might be on", " the current word, or the previous word.", "", " * `options` (optional) {Object} with the following keys:", "   * `wordRegex` A {RegExp} indicating what constitutes a \"word\"", "      (default: {::wordRegExp})"],
-        "params": [null]
+        "params": ["options"]
     }
 }, {
     "call_info": {
@@ -16978,7 +17004,7 @@
         "start_line": 84,
         "end_line": 88,
         "comment": [" Public: Moves a cursor to a given buffer position.", "", " * `bufferPosition` {Array} of two numbers: the buffer row, and the buffer column.", " * `options` (optional) {Object} with the following keys:", "   * `autoscroll` {Boolean} indicating whether to autoscroll to the new", "     position. Defaults to `true` if this is the most recently added cursor,", "     `false` otherwise."],
-        "params": ["bufferPosition", null]
+        "params": ["bufferPosition", "options"]
     }
 }, {
     "call_info": {
@@ -16992,7 +17018,7 @@
         "start_line": 84,
         "end_line": 88,
         "comment": [" Public: Moves a cursor to a given buffer position.", "", " * `bufferPosition` {Array} of two numbers: the buffer row, and the buffer column.", " * `options` (optional) {Object} with the following keys:", "   * `autoscroll` {Boolean} indicating whether to autoscroll to the new", "     position. Defaults to `true` if this is the most recently added cursor,", "     `false` otherwise."],
-        "params": ["bufferPosition", null]
+        "params": ["bufferPosition", "options"]
     }
 }, {
     "call_info": {
@@ -17048,7 +17074,7 @@
         "start_line": 66,
         "end_line": 70,
         "comment": ["\r\n  Section: Managing Cursor Position\r\n  ", " Public: Moves a cursor to a given screen position.", "", " * `screenPosition` {Array} of two numbers: the screen row, and the screen column.", " * `options` (optional) {Object} with the following keys:", "   * `autoscroll` A Boolean which, if `true`, scrolls the {TextEditor} to wherever", "     the cursor moves to."],
-        "params": ["screenPosition", null]
+        "params": ["screenPosition", "options"]
     }
 }, {
     "call_info": {
@@ -17074,7 +17100,9 @@
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/null-grammar.js",
         "name": "module.exports.scopeForId",
         "start_line": 6,
-        "end_line": 12
+        "end_line": 12,
+        "comment": [],
+        "params": ["id"]
     }
 }, {
     "call_info": {
@@ -17116,7 +17144,7 @@
         "start_line": 86,
         "end_line": 89,
         "comment": [],
-        "params": [null]
+        "params": ["args"]
     }
 }, {
     "call_info": {
@@ -17228,7 +17256,7 @@
         "start_line": 2508,
         "end_line": 2560,
         "comment": [],
-        "params": ["decoration", null]
+        "params": ["decoration", "subscribeToChanges"]
     }
 }, {
     "call_info": {
@@ -17368,7 +17396,7 @@
         "start_line": 585,
         "end_line": 602,
         "comment": ["\r\n  Section: Managing Settings\r\n  ", " Essential: Retrieves the setting for the given key.", "", " ### Examples", "", " You might want to know what themes are enabled, so check `core.themes`", "", " ```coffee", " atom.config.get('core.themes')", " ```", "", " With scope descriptors you can get settings within a specific editor", " scope. For example, you might want to know `editor.tabLength` for ruby", " files.", "", " ```coffee", " atom.config.get('editor.tabLength', scope: ['source.ruby']) # => 2", " ```", "", " This setting in ruby files might be different than the global tabLength setting", "", " ```coffee", " atom.config.get('editor.tabLength') # => 4", " atom.config.get('editor.tabLength', scope: ['source.ruby']) # => 2", " ```", "", " You can get the language scope descriptor via", " {TextEditor::getRootScopeDescriptor}. This will get the setting specifically", " for the editor's language.", "", " ```coffee", " atom.config.get('editor.tabLength', scope: @editor.getRootScopeDescriptor()) # => 2", " ```", "", " Additionally, you can get the setting at the specific cursor position.", "", " ```coffee", " scopeDescriptor = @editor.getLastCursor().getScopeDescriptor()", " atom.config.get('editor.tabLength', scope: scopeDescriptor) # => 2", " ```", "", " * `keyPath` The {String} name of the key to retrieve.", " * `options` (optional) {Object}", "   * `sources` (optional) {Array} of {String} source names. If provided, only", "     values that were associated with these sources during {::set} will be used.", "   * `excludeSources` (optional) {Array} of {String} source names. If provided,", "     values that  were associated with these sources during {::set} will not", "     be used.", "   * `scope` (optional) {ScopeDescriptor} describing a path from", "     the root of the syntax tree to a token. Get one by calling", "     {editor.getLastCursor().getScopeDescriptor()}", "     See [the scopes docs](http://flight-manual.atom.io/behind-atom/sections/scoped-settings-scopes-and-scope-descriptors/)", "     for more information.", "", " Returns the value from Atom's default settings, the user's configuration", " file in the type specified by the configuration schema."],
-        "params": [null]
+        "params": ["args"]
     }
 }, {
     "call_info": {
@@ -17480,7 +17508,7 @@
         "start_line": 585,
         "end_line": 602,
         "comment": ["\r\n  Section: Managing Settings\r\n  ", " Essential: Retrieves the setting for the given key.", "", " ### Examples", "", " You might want to know what themes are enabled, so check `core.themes`", "", " ```coffee", " atom.config.get('core.themes')", " ```", "", " With scope descriptors you can get settings within a specific editor", " scope. For example, you might want to know `editor.tabLength` for ruby", " files.", "", " ```coffee", " atom.config.get('editor.tabLength', scope: ['source.ruby']) # => 2", " ```", "", " This setting in ruby files might be different than the global tabLength setting", "", " ```coffee", " atom.config.get('editor.tabLength') # => 4", " atom.config.get('editor.tabLength', scope: ['source.ruby']) # => 2", " ```", "", " You can get the language scope descriptor via", " {TextEditor::getRootScopeDescriptor}. This will get the setting specifically", " for the editor's language.", "", " ```coffee", " atom.config.get('editor.tabLength', scope: @editor.getRootScopeDescriptor()) # => 2", " ```", "", " Additionally, you can get the setting at the specific cursor position.", "", " ```coffee", " scopeDescriptor = @editor.getLastCursor().getScopeDescriptor()", " atom.config.get('editor.tabLength', scope: scopeDescriptor) # => 2", " ```", "", " * `keyPath` The {String} name of the key to retrieve.", " * `options` (optional) {Object}", "   * `sources` (optional) {Array} of {String} source names. If provided, only", "     values that were associated with these sources during {::set} will be used.", "   * `excludeSources` (optional) {Array} of {String} source names. If provided,", "     values that  were associated with these sources during {::set} will not", "     be used.", "   * `scope` (optional) {ScopeDescriptor} describing a path from", "     the root of the syntax tree to a token. Get one by calling", "     {editor.getLastCursor().getScopeDescriptor()}", "     See [the scopes docs](http://flight-manual.atom.io/behind-atom/sections/scoped-settings-scopes-and-scope-descriptors/)", "     for more information.", "", " Returns the value from Atom's default settings, the user's configuration", " file in the type specified by the configuration schema."],
-        "params": [null]
+        "params": ["args"]
     }
 }, {
     "call_info": {
@@ -17802,7 +17830,7 @@
         "start_line": 74,
         "end_line": 108,
         "comment": [],
-        "params": ["path", null]
+        "params": ["path", "options"]
     }
 }, {
     "call_info": {
@@ -18248,7 +18276,7 @@
         "start_line": 221,
         "end_line": 289,
         "comment": [],
-        "params": [null]
+        "params": ["useScheduler"]
     }
 }, {
     "call_info": {
@@ -18694,7 +18722,7 @@
         "start_line": 687,
         "end_line": 722,
         "comment": [" Essential: Sets the value for a configuration setting.", "", " This value is stored in Atom's internal configuration file.", "", " ### Examples", "", " You might want to change the themes programmatically:", "", " ```coffee", " atom.config.set('core.themes', ['atom-light-ui', 'atom-light-syntax'])", " ```", "", " You can also set scoped settings. For example, you might want change the", " `editor.tabLength` only for ruby files.", "", " ```coffee", " atom.config.get('editor.tabLength') # => 4", " atom.config.get('editor.tabLength', scope: ['source.ruby']) # => 4", " atom.config.get('editor.tabLength', scope: ['source.js']) # => 4", "", " # Set ruby to 2", " atom.config.set('editor.tabLength', 2, scopeSelector: '.source.ruby') # => true", "", " # Notice it's only set to 2 in the case of ruby", " atom.config.get('editor.tabLength') # => 4", " atom.config.get('editor.tabLength', scope: ['source.ruby']) # => 2", " atom.config.get('editor.tabLength', scope: ['source.js']) # => 4", " ```", "", " * `keyPath` The {String} name of the key.", " * `value` The value of the setting. Passing `undefined` will revert the", "   setting to the default value.", " * `options` (optional) {Object}", "   * `scopeSelector` (optional) {String}. eg. '.source.ruby'", "     See [the scopes docs](http://flight-manual.atom.io/behind-atom/sections/scoped-settings-scopes-and-scope-descriptors/)", "     for more information.", "   * `source` (optional) {String} The name of a file with which the setting", "     is associated. Defaults to the user's config file.", "", " Returns a {Boolean}", " * `true` if the value was set.", " * `false` if the value was not able to be coerced to the type specified in the setting's schema."],
-        "params": [null]
+        "params": ["args"]
     }
 }, {
     "call_info": {
@@ -18974,7 +19002,7 @@
         "start_line": 13,
         "end_line": 29,
         "comment": [],
-        "params": ["channel", null]
+        "params": ["channel", "args"]
     }
 }, {
     "call_info": {
@@ -19170,7 +19198,7 @@
         "start_line": 687,
         "end_line": 722,
         "comment": [" Essential: Sets the value for a configuration setting.", "", " This value is stored in Atom's internal configuration file.", "", " ### Examples", "", " You might want to change the themes programmatically:", "", " ```coffee", " atom.config.set('core.themes', ['atom-light-ui', 'atom-light-syntax'])", " ```", "", " You can also set scoped settings. For example, you might want change the", " `editor.tabLength` only for ruby files.", "", " ```coffee", " atom.config.get('editor.tabLength') # => 4", " atom.config.get('editor.tabLength', scope: ['source.ruby']) # => 4", " atom.config.get('editor.tabLength', scope: ['source.js']) # => 4", "", " # Set ruby to 2", " atom.config.set('editor.tabLength', 2, scopeSelector: '.source.ruby') # => true", "", " # Notice it's only set to 2 in the case of ruby", " atom.config.get('editor.tabLength') # => 4", " atom.config.get('editor.tabLength', scope: ['source.ruby']) # => 2", " atom.config.get('editor.tabLength', scope: ['source.js']) # => 4", " ```", "", " * `keyPath` The {String} name of the key.", " * `value` The value of the setting. Passing `undefined` will revert the", "   setting to the default value.", " * `options` (optional) {Object}", "   * `scopeSelector` (optional) {String}. eg. '.source.ruby'", "     See [the scopes docs](http://flight-manual.atom.io/behind-atom/sections/scoped-settings-scopes-and-scope-descriptors/)", "     for more information.", "   * `source` (optional) {String} The name of a file with which the setting", "     is associated. Defaults to the user's config file.", "", " Returns a {Boolean}", " * `true` if the value was set.", " * `false` if the value was not able to be coerced to the type specified in the setting's schema."],
-        "params": [null]
+        "params": ["args"]
     }
 }, {
     "call_info": {
@@ -20346,7 +20374,9 @@
         "start_line": 328,
         "end_line": 335,
         "comment": [],
-        "params": [null]
+        "params": [
+            ["serviceHub"]
+        ]
     }
 }, {
     "call_info": {
@@ -20360,7 +20390,9 @@
         "start_line": 328,
         "end_line": 335,
         "comment": [],
-        "params": [null]
+        "params": [
+            ["serviceHub"]
+        ]
     }
 }, {
     "call_info": {
@@ -20374,7 +20406,7 @@
         "start_line": 940,
         "end_line": 967,
         "comment": [],
-        "params": ["newSettings", null]
+        "params": ["newSettings", "options"]
     }
 }, {
     "call_info": {
@@ -20444,7 +20476,7 @@
         "start_line": 940,
         "end_line": 967,
         "comment": [],
-        "params": ["newSettings", null]
+        "params": ["newSettings", "options"]
     }
 }, {
     "call_info": {
@@ -20598,7 +20630,7 @@
         "start_line": 82,
         "end_line": 85,
         "comment": [],
-        "params": [null]
+        "params": ["args"]
     }
 }, {
     "call_info": {
@@ -20626,7 +20658,7 @@
         "start_line": 82,
         "end_line": 85,
         "comment": [],
-        "params": [null]
+        "params": ["args"]
     }
 }, {
     "call_info": {
@@ -20654,7 +20686,7 @@
         "start_line": 82,
         "end_line": 85,
         "comment": [],
-        "params": [null]
+        "params": ["args"]
     }
 }, {
     "call_info": {
@@ -20738,7 +20770,7 @@
         "start_line": 204,
         "end_line": 219,
         "comment": [],
-        "params": [null]
+        "params": ["nextUpdateOnlyBlinksCursors"]
     }
 }, {
     "call_info": {
@@ -20752,7 +20784,7 @@
         "start_line": 221,
         "end_line": 289,
         "comment": [],
-        "params": [null]
+        "params": ["useScheduler"]
     }
 }, {
     "call_info": {
@@ -20794,7 +20826,9 @@
         "start_line": 2379,
         "end_line": 2456,
         "comment": [],
-        "params": [null]
+        "params": [
+            ["top", "left"]
+        ]
     }
 }, {
     "call_info": {
@@ -20808,7 +20842,9 @@
         "start_line": 1965,
         "end_line": 1974,
         "comment": [],
-        "params": [null]
+        "params": [
+            ["clientX", "clientY"]
+        ]
     }
 }, {
     "call_info": {
@@ -20976,7 +21012,7 @@
         "start_line": 92,
         "end_line": 104,
         "comment": [" Public: Modifies the buffer {Range} for the selection.", "", " * `bufferRange` The new {Range} to select.", " * `options` (optional) {Object} with the keys:", "   * `preserveFolds` if `true`, the fold settings are preserved after the", "     selection moves.", "   * `autoscroll` {Boolean} indicating whether to autoscroll to the new", "     range. Defaults to `true` if this is the most recently added selection,", "     `false` otherwise."],
-        "params": ["bufferRange", null]
+        "params": ["bufferRange", "options"]
     }
 }, {
     "call_info": {
@@ -21018,7 +21054,7 @@
         "start_line": 92,
         "end_line": 104,
         "comment": [" Public: Modifies the buffer {Range} for the selection.", "", " * `bufferRange` The new {Range} to select.", " * `options` (optional) {Object} with the keys:", "   * `preserveFolds` if `true`, the fold settings are preserved after the", "     selection moves.", "   * `autoscroll` {Boolean} indicating whether to autoscroll to the new", "     range. Defaults to `true` if this is the most recently added selection,", "     `false` otherwise."],
-        "params": ["bufferRange", null]
+        "params": ["bufferRange", "options"]
     }
 }, {
     "call_info": {
@@ -21032,7 +21068,7 @@
         "start_line": 92,
         "end_line": 104,
         "comment": [" Public: Modifies the buffer {Range} for the selection.", "", " * `bufferRange` The new {Range} to select.", " * `options` (optional) {Object} with the keys:", "   * `preserveFolds` if `true`, the fold settings are preserved after the", "     selection moves.", "   * `autoscroll` {Boolean} indicating whether to autoscroll to the new", "     range. Defaults to `true` if this is the most recently added selection,", "     `false` otherwise."],
-        "params": ["bufferRange", null]
+        "params": ["bufferRange", "options"]
     }
 }, {
     "call_info": {
@@ -21116,7 +21152,7 @@
         "start_line": 92,
         "end_line": 104,
         "comment": [" Public: Modifies the buffer {Range} for the selection.", "", " * `bufferRange` The new {Range} to select.", " * `options` (optional) {Object} with the keys:", "   * `preserveFolds` if `true`, the fold settings are preserved after the", "     selection moves.", "   * `autoscroll` {Boolean} indicating whether to autoscroll to the new", "     range. Defaults to `true` if this is the most recently added selection,", "     `false` otherwise."],
-        "params": ["bufferRange", null]
+        "params": ["bufferRange", "options"]
     }
 }, {
     "call_info": {
@@ -21130,7 +21166,7 @@
         "start_line": 606,
         "end_line": 616,
         "comment": [" Public: Returns the buffer Range occupied by the word located under the cursor.", "", " * `options` (optional) {Object}", "   * `wordRegex` A {RegExp} indicating what constitutes a \"word\"", "     (default: {::wordRegExp})."],
-        "params": [null]
+        "params": ["options"]
     }
 }, {
     "call_info": {
@@ -21228,7 +21264,7 @@
         "start_line": 1020,
         "end_line": 1039,
         "comment": [],
-        "params": ["keyPath", "value", null]
+        "params": ["keyPath", "value", "options"]
     }
 }, {
     "call_info": {
@@ -21480,7 +21516,7 @@
         "start_line": 82,
         "end_line": 85,
         "comment": [],
-        "params": [null]
+        "params": ["args"]
     }
 }, {
     "call_info": {
@@ -21788,7 +21824,7 @@
         "start_line": 92,
         "end_line": 104,
         "comment": [" Public: Modifies the buffer {Range} for the selection.", "", " * `bufferRange` The new {Range} to select.", " * `options` (optional) {Object} with the keys:", "   * `preserveFolds` if `true`, the fold settings are preserved after the", "     selection moves.", "   * `autoscroll` {Boolean} indicating whether to autoscroll to the new", "     range. Defaults to `true` if this is the most recently added selection,", "     `false` otherwise."],
-        "params": ["bufferRange", null]
+        "params": ["bufferRange", "options"]
     }
 }, {
     "call_info": {
@@ -21858,7 +21894,7 @@
         "start_line": 204,
         "end_line": 219,
         "comment": [],
-        "params": [null]
+        "params": ["nextUpdateOnlyBlinksCursors"]
     }
 }, {
     "call_info": {
@@ -21900,7 +21936,7 @@
         "start_line": 204,
         "end_line": 219,
         "comment": [],
-        "params": [null]
+        "params": ["nextUpdateOnlyBlinksCursors"]
     }
 }, {
     "call_info": {
@@ -21970,7 +22006,7 @@
         "start_line": 204,
         "end_line": 219,
         "comment": [],
-        "params": [null]
+        "params": ["nextUpdateOnlyBlinksCursors"]
     }
 }, {
     "call_info": {
@@ -22012,7 +22048,7 @@
         "start_line": 204,
         "end_line": 219,
         "comment": [],
-        "params": [null]
+        "params": ["nextUpdateOnlyBlinksCursors"]
     }
 }, {
     "call_info": {
@@ -22026,7 +22062,7 @@
         "start_line": 221,
         "end_line": 289,
         "comment": [],
-        "params": [null]
+        "params": ["useScheduler"]
     }
 }, {
     "call_info": {
@@ -22040,7 +22076,7 @@
         "start_line": 154,
         "end_line": 174,
         "comment": [],
-        "params": ["table", "defaultTable", null]
+        "params": ["table", "defaultTable", "mergeIndices"]
     }
 }, {
     "call_info": {
@@ -22068,7 +22104,7 @@
         "start_line": 154,
         "end_line": 174,
         "comment": [],
-        "params": ["table", "defaultTable", null]
+        "params": ["table", "defaultTable", "mergeIndices"]
     }
 }, {
     "call_info": {
@@ -22484,7 +22520,7 @@
         "start_line": 84,
         "end_line": 88,
         "comment": [" Public: Moves a cursor to a given buffer position.", "", " * `bufferPosition` {Array} of two numbers: the buffer row, and the buffer column.", " * `options` (optional) {Object} with the following keys:", "   * `autoscroll` {Boolean} indicating whether to autoscroll to the new", "     position. Defaults to `true` if this is the most recently added cursor,", "     `false` otherwise."],
-        "params": ["bufferPosition", null]
+        "params": ["bufferPosition", "options"]
     }
 }, {
     "call_info": {
@@ -22680,7 +22716,7 @@
         "start_line": 204,
         "end_line": 219,
         "comment": [],
-        "params": [null]
+        "params": ["nextUpdateOnlyBlinksCursors"]
     }
 }, {
     "call_info": {
@@ -22708,7 +22744,7 @@
         "start_line": 204,
         "end_line": 219,
         "comment": [],
-        "params": [null]
+        "params": ["nextUpdateOnlyBlinksCursors"]
     }
 }, {
     "call_info": {
@@ -22762,7 +22798,9 @@
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/null-grammar.js",
         "name": "module.exports.onDidUpdate",
         "start_line": 33,
-        "end_line": 35
+        "end_line": 35,
+        "comment": [],
+        "params": ["callback"]
     }
 }, {
     "call_info": {
@@ -23134,7 +23172,9 @@
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/null-grammar.js",
         "name": "module.exports.startIdForScope",
         "start_line": 13,
-        "end_line": 19
+        "end_line": 19,
+        "comment": [],
+        "params": ["scopeName"]
     }
 }, {
     "call_info": {
@@ -23146,7 +23186,9 @@
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/null-grammar.js",
         "name": "module.exports.endIdForScope",
         "start_line": 20,
-        "end_line": 26
+        "end_line": 26,
+        "comment": [],
+        "params": ["scopeName"]
     }
 }, {
     "call_info": {
@@ -23328,7 +23370,7 @@
         "start_line": 52,
         "end_line": 66,
         "comment": [],
-        "params": ["menu", null]
+        "params": ["menu", ["type", "label", "submenu"]]
     }
 }, {
     "call_info": {
@@ -23356,7 +23398,7 @@
         "start_line": 687,
         "end_line": 722,
         "comment": [" Essential: Sets the value for a configuration setting.", "", " This value is stored in Atom's internal configuration file.", "", " ### Examples", "", " You might want to change the themes programmatically:", "", " ```coffee", " atom.config.set('core.themes', ['atom-light-ui', 'atom-light-syntax'])", " ```", "", " You can also set scoped settings. For example, you might want change the", " `editor.tabLength` only for ruby files.", "", " ```coffee", " atom.config.get('editor.tabLength') # => 4", " atom.config.get('editor.tabLength', scope: ['source.ruby']) # => 4", " atom.config.get('editor.tabLength', scope: ['source.js']) # => 4", "", " # Set ruby to 2", " atom.config.set('editor.tabLength', 2, scopeSelector: '.source.ruby') # => true", "", " # Notice it's only set to 2 in the case of ruby", " atom.config.get('editor.tabLength') # => 4", " atom.config.get('editor.tabLength', scope: ['source.ruby']) # => 2", " atom.config.get('editor.tabLength', scope: ['source.js']) # => 4", " ```", "", " * `keyPath` The {String} name of the key.", " * `value` The value of the setting. Passing `undefined` will revert the", "   setting to the default value.", " * `options` (optional) {Object}", "   * `scopeSelector` (optional) {String}. eg. '.source.ruby'", "     See [the scopes docs](http://flight-manual.atom.io/behind-atom/sections/scoped-settings-scopes-and-scope-descriptors/)", "     for more information.", "   * `source` (optional) {String} The name of a file with which the setting", "     is associated. Defaults to the user's config file.", "", " Returns a {Boolean}", " * `true` if the value was set.", " * `false` if the value was not able to be coerced to the type specified in the setting's schema."],
-        "params": [null]
+        "params": ["args"]
     }
 }, {
     "call_info": {
@@ -23412,7 +23454,7 @@
         "start_line": 687,
         "end_line": 722,
         "comment": [" Essential: Sets the value for a configuration setting.", "", " This value is stored in Atom's internal configuration file.", "", " ### Examples", "", " You might want to change the themes programmatically:", "", " ```coffee", " atom.config.set('core.themes', ['atom-light-ui', 'atom-light-syntax'])", " ```", "", " You can also set scoped settings. For example, you might want change the", " `editor.tabLength` only for ruby files.", "", " ```coffee", " atom.config.get('editor.tabLength') # => 4", " atom.config.get('editor.tabLength', scope: ['source.ruby']) # => 4", " atom.config.get('editor.tabLength', scope: ['source.js']) # => 4", "", " # Set ruby to 2", " atom.config.set('editor.tabLength', 2, scopeSelector: '.source.ruby') # => true", "", " # Notice it's only set to 2 in the case of ruby", " atom.config.get('editor.tabLength') # => 4", " atom.config.get('editor.tabLength', scope: ['source.ruby']) # => 2", " atom.config.get('editor.tabLength', scope: ['source.js']) # => 4", " ```", "", " * `keyPath` The {String} name of the key.", " * `value` The value of the setting. Passing `undefined` will revert the", "   setting to the default value.", " * `options` (optional) {Object}", "   * `scopeSelector` (optional) {String}. eg. '.source.ruby'", "     See [the scopes docs](http://flight-manual.atom.io/behind-atom/sections/scoped-settings-scopes-and-scope-descriptors/)", "     for more information.", "   * `source` (optional) {String} The name of a file with which the setting", "     is associated. Defaults to the user's config file.", "", " Returns a {Boolean}", " * `true` if the value was set.", " * `false` if the value was not able to be coerced to the type specified in the setting's schema."],
-        "params": [null]
+        "params": ["args"]
     }
 }, {
     "call_info": {
@@ -23426,7 +23468,7 @@
         "start_line": 687,
         "end_line": 722,
         "comment": [" Essential: Sets the value for a configuration setting.", "", " This value is stored in Atom's internal configuration file.", "", " ### Examples", "", " You might want to change the themes programmatically:", "", " ```coffee", " atom.config.set('core.themes', ['atom-light-ui', 'atom-light-syntax'])", " ```", "", " You can also set scoped settings. For example, you might want change the", " `editor.tabLength` only for ruby files.", "", " ```coffee", " atom.config.get('editor.tabLength') # => 4", " atom.config.get('editor.tabLength', scope: ['source.ruby']) # => 4", " atom.config.get('editor.tabLength', scope: ['source.js']) # => 4", "", " # Set ruby to 2", " atom.config.set('editor.tabLength', 2, scopeSelector: '.source.ruby') # => true", "", " # Notice it's only set to 2 in the case of ruby", " atom.config.get('editor.tabLength') # => 4", " atom.config.get('editor.tabLength', scope: ['source.ruby']) # => 2", " atom.config.get('editor.tabLength', scope: ['source.js']) # => 4", " ```", "", " * `keyPath` The {String} name of the key.", " * `value` The value of the setting. Passing `undefined` will revert the", "   setting to the default value.", " * `options` (optional) {Object}", "   * `scopeSelector` (optional) {String}. eg. '.source.ruby'", "     See [the scopes docs](http://flight-manual.atom.io/behind-atom/sections/scoped-settings-scopes-and-scope-descriptors/)", "     for more information.", "   * `source` (optional) {String} The name of a file with which the setting", "     is associated. Defaults to the user's config file.", "", " Returns a {Boolean}", " * `true` if the value was set.", " * `false` if the value was not able to be coerced to the type specified in the setting's schema."],
-        "params": [null]
+        "params": ["args"]
     }
 }, {
     "call_info": {
@@ -23510,7 +23552,7 @@
         "start_line": 204,
         "end_line": 219,
         "comment": [],
-        "params": [null]
+        "params": ["nextUpdateOnlyBlinksCursors"]
     }
 }, {
     "call_info": {
@@ -23552,7 +23594,7 @@
         "start_line": 221,
         "end_line": 289,
         "comment": [],
-        "params": [null]
+        "params": ["useScheduler"]
     }
 }, {
     "call_info": {
@@ -23608,7 +23650,7 @@
         "start_line": 221,
         "end_line": 289,
         "comment": [],
-        "params": [null]
+        "params": ["useScheduler"]
     }
 }, {
     "call_info": {
@@ -23732,7 +23774,7 @@
         "start_line": 221,
         "end_line": 289,
         "comment": [],
-        "params": [null]
+        "params": ["useScheduler"]
     }
 }, {
     "call_info": {
@@ -23774,7 +23816,7 @@
         "start_line": 221,
         "end_line": 289,
         "comment": [],
-        "params": [null]
+        "params": ["useScheduler"]
     }
 }, {
     "call_info": {
@@ -23788,7 +23830,7 @@
         "start_line": 221,
         "end_line": 289,
         "comment": [],
-        "params": [null]
+        "params": ["useScheduler"]
     }
 }, {
     "call_info": {
@@ -23830,7 +23872,7 @@
         "start_line": 221,
         "end_line": 289,
         "comment": [],
-        "params": [null]
+        "params": ["useScheduler"]
     }
 }, {
     "call_info": {
@@ -23844,7 +23886,7 @@
         "start_line": 221,
         "end_line": 289,
         "comment": [],
-        "params": [null]
+        "params": ["useScheduler"]
     }
 }, {
     "call_info": {
@@ -23872,7 +23914,7 @@
         "start_line": 204,
         "end_line": 219,
         "comment": [],
-        "params": [null]
+        "params": ["nextUpdateOnlyBlinksCursors"]
     }
 }, {
     "call_info": {
@@ -23886,7 +23928,7 @@
         "start_line": 204,
         "end_line": 219,
         "comment": [],
-        "params": [null]
+        "params": ["nextUpdateOnlyBlinksCursors"]
     }
 }, {
     "call_info": {
@@ -23900,7 +23942,7 @@
         "start_line": 204,
         "end_line": 219,
         "comment": [],
-        "params": [null]
+        "params": ["nextUpdateOnlyBlinksCursors"]
     }
 }, {
     "call_info": {
@@ -23914,7 +23956,7 @@
         "start_line": 204,
         "end_line": 219,
         "comment": [],
-        "params": [null]
+        "params": ["nextUpdateOnlyBlinksCursors"]
     }
 }, {
     "call_info": {
@@ -23928,7 +23970,7 @@
         "start_line": 204,
         "end_line": 219,
         "comment": [],
-        "params": [null]
+        "params": ["nextUpdateOnlyBlinksCursors"]
     }
 }, {
     "call_info": {
@@ -23942,7 +23984,7 @@
         "start_line": 204,
         "end_line": 219,
         "comment": [],
-        "params": [null]
+        "params": ["nextUpdateOnlyBlinksCursors"]
     }
 }, {
     "call_info": {
@@ -24082,7 +24124,7 @@
         "start_line": 117,
         "end_line": 157,
         "comment": [],
-        "params": ["source", null]
+        "params": ["source", "params"]
     }
 }, {
     "call_info": {
@@ -24568,7 +24610,7 @@
         "start_line": 2853,
         "end_line": 2864,
         "comment": [],
-        "params": ["scrollTopRow", null]
+        "params": ["scrollTopRow", "scheduleUpdate"]
     }
 }, {
     "call_info": {
@@ -24596,7 +24638,7 @@
         "start_line": 2874,
         "end_line": 2885,
         "comment": [],
-        "params": ["scrollLeftColumn", null]
+        "params": ["scrollLeftColumn", "scheduleUpdate"]
     }
 }, {
     "call_info": {
@@ -24680,7 +24722,7 @@
         "start_line": 221,
         "end_line": 289,
         "comment": [],
-        "params": [null]
+        "params": ["useScheduler"]
     }
 }, {
     "call_info": {
@@ -24708,7 +24750,7 @@
         "start_line": 221,
         "end_line": 289,
         "comment": [],
-        "params": [null]
+        "params": ["useScheduler"]
     }
 }, {
     "call_info": {
@@ -24764,7 +24806,7 @@
         "start_line": 221,
         "end_line": 289,
         "comment": [],
-        "params": [null]
+        "params": ["useScheduler"]
     }
 }, {
     "call_info": {
@@ -24960,7 +25002,7 @@
         "start_line": 221,
         "end_line": 289,
         "comment": [],
-        "params": [null]
+        "params": ["useScheduler"]
     }
 }, {
     "call_info": {
@@ -25100,7 +25142,7 @@
         "start_line": 82,
         "end_line": 85,
         "comment": [],
-        "params": [null]
+        "params": ["args"]
     }
 }, {
     "call_info": {
