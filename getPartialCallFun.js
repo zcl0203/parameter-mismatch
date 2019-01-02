@@ -1,7 +1,7 @@
 var fs = require('fs');
 var path = require('path');
 
-var func_type_file = 'func_type.json';
+var func_type_file = 'call_func_type.json';
 var func_type_info = JSON.parse(fs.readFileSync(path.join(process.cwd(), func_type_file)));
 var func_type_total_file = 'func_type_total.json';
 var func_type_total = [];

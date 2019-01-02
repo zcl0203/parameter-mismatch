@@ -3,13 +3,11 @@ var path = require('path');
 var esprima = require('esprima');
 var estraverse = require('estraverse');
 
-var call_func_comment = 'call_func_comment.json';
+var call_func_info_file = 'call_func_info.json';
 var call_func_file = 'call_func_pair.json';
 var call_func_info = JSON.parse(fs.readFileSync(path.join(process.cwd(), call_func_file)));
-var file_comment = {};
 
-console.log(call_func_info.length);
-
+var file_func_info = {};
 for (var call_func_pair of call_func_info) {
 
     var func_info = call_func_pair.func_info;
@@ -18,16 +16,16 @@ for (var call_func_pair of call_func_info) {
     var start_line = func_info.start_line;
     var end_line = func_info.end_line;
 
-    if (!file_comment[file]) {
+    if (!file_func_info[file]) {
         try {
-            file_comment[file] = extractFuncComment(file);
+            file_func_info[file] = extractFuncInfo(file);
         } catch (err) {
-            file_comment[file] = [];
+            file_func_info[file] = [];
             console.log(file);
         }
     }
 
-    for (item of file_comment[file]) {
+    for (item of file_func_info[file]) {
         if (item.start_line === start_line && item.end_line === end_line) {
             call_func_pair.func_info.comment = item.comment;
             call_func_pair.func_info.params = item.params;
@@ -35,10 +33,34 @@ for (var call_func_pair of call_func_info) {
     }
 }
 
-fs.writeFileSync(path.join(process.cwd(), call_func_comment), JSON.stringify(call_func_info), 'utf-8');
+var file_call_args = {};
+for (var call_func_pair of call_func_info) {
 
-// 获取文件函数定义对应的注释
-function extractFuncComment(file = 'E:/research/parameterMismatch/parametermismatch/dataset/atom/src/initialize-benchmark-window.js') {
+    var call_info = call_func_pair.call_info;
+    var file = call_info.file;
+    var name = call_info.name;
+    var line = call_info.line;
+    
+    if (!file_call_args[file]) {
+        try {
+            file_call_args[file] = extractCallArgs(file);
+        } catch (err) {
+            file_call_args[file] = [];
+            console.log(file);
+        }
+    }
+
+    for (item of file_call_args[file]) {
+        if (item.start_line === line && item.end_line === line) {
+            call_func_pair.call_info.args = item.args;
+        }
+    }
+}
+
+fs.writeFileSync(path.join(process.cwd(), call_func_info_file), JSON.stringify(call_func_info), 'utf-8');
+
+// 获取文件函数定义对应的注释以及参数
+function extractFuncInfo(file = 'E:/research/parameterMismatch/parametermismatch/dataset/atom/src/initialize-benchmark-window.js') {
 
     var func_comment_pair = [];
     var ast = esprima.parseScript(fs.readFileSync(file, 'utf-8'), {
@@ -207,6 +229,36 @@ function extractFuncComment(file = 'E:/research/parameterMismatch/parametermisma
     return func_comment_pair;
 }
 
+// 获取文件函数调用时的参数
+function extractCallArgs(file) {
+    var call_params = [];
+    var ast = esprima.parseScript(fs.readFileSync(file, 'utf-8'), {
+        loc: true,
+        tolerant: true,
+        attachComment: true
+    });
+
+    estraverse.traverse(ast, {
+        enter: function (node, parent) {
+            if (node.type === 'CallExpression') {
+                var func,
+                    args = [];
+
+                func = resolveFuncName(node.callee);
+                args = node.arguments.map(arg => resolveParam(arg));
+                call_params.push({
+                    'func': func,
+                    'args': args,
+                    'start_line': node.loc.start.line,
+                    'end_line': node.loc.end.line
+                });
+            }
+        }
+    });
+
+    return call_params;
+}
+
 function resolveFuncName(obj) {
     var name = [];
     if (obj.type === 'Identifier') {
@@ -222,6 +274,10 @@ function resolveFuncName(obj) {
 
 function resolveParam(obj) {
     var param;
+
+    if (obj.type === 'Literal') {
+        param = {'type': typeof(obj.value)};
+    }
     if (obj.type === 'RestElement') {
         param = obj.argument.name;
     }
@@ -230,6 +286,11 @@ function resolveParam(obj) {
         param = obj.name;
     }
 
+    if (obj.type === 'MemberExpression') {
+        param = resolveFuncName(obj);
+    }
+
+    // 函数定义时参数可能情况
     if (obj.type === 'AssignmentPattern') {
         if (obj.left.type === 'Identifier') {
             param = obj.left.name;
