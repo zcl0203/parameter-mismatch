@@ -1,8 +1,11 @@
 [{
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/main-process/auto-updater-win32.js",
-        "name": "AutoUpdater.downloadUpdate.(unnamed_function_1)",
+        "name": "parse",
         "line": 25,
+        "func_location": "AutoUpdater.downloadUpdate.(unnamed_function_1)",
+        "func_start_line": 18,
+        "func_end_line": 34,
         "args": ["json"]
     },
     "func_info": {
@@ -20,8 +23,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/theme-manager.js",
-        "name": "ThemeManager.constructor.(unnamed_function_1)",
+        "name": "onDidChangeActiveThemes",
         "line": 27,
+        "func_location": "ThemeManager.constructor.(unnamed_function_1)",
+        "func_start_line": 26,
+        "func_end_line": 28,
         "args": []
     },
     "func_info": {
@@ -39,8 +45,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/main-process/application-menu.js",
-        "name": "ApplicationMenu.constructor.(unnamed_function_1)",
+        "name": "showUpdateMenuItem",
         "line": 16,
+        "func_location": "ApplicationMenu.constructor.(unnamed_function_1)",
+        "func_start_line": 16,
+        "func_end_line": 16,
         "args": ["state"]
     },
     "func_info": {
@@ -58,8 +67,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/main-process/context-menu.js",
-        "name": "ContextMenu.createClickHandlers.(unnamed_function_1)",
+        "name": "createClickHandlers",
         "line": 29,
+        "func_location": "ContextMenu.createClickHandlers.(unnamed_function_1)",
+        "func_start_line": 16,
+        "func_end_line": 31,
         "args": ["item.submenu"]
     },
     "func_info": {
@@ -77,8 +89,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/workspace-element.js",
-        "name": "WorkspaceElement.observeScrollbarStyle.(unnamed_function_1)",
+        "name": "remove",
         "line": 40,
+        "func_location": "WorkspaceElement.observeScrollbarStyle.(unnamed_function_1)",
+        "func_start_line": 37,
+        "func_end_line": 48,
         "args": [{
             "type": "string"
         }]
@@ -98,8 +113,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/workspace-element.js",
-        "name": "WorkspaceElement.observeScrollbarStyle.(unnamed_function_1)",
+        "name": "remove",
         "line": 44,
+        "func_location": "WorkspaceElement.observeScrollbarStyle.(unnamed_function_1)",
+        "func_start_line": 37,
+        "func_end_line": 48,
         "args": [{
             "type": "string"
         }]
@@ -119,8 +137,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/main-process/atom-application.js",
-        "name": "AtomApplication.open.client.(unnamed_function_1)",
+        "name": "write",
         "line": 78,
+        "func_location": "AtomApplication.open.client.(unnamed_function_1)",
+        "func_start_line": 77,
+        "func_end_line": 82,
         "args": ["options"]
     },
     "func_info": {
@@ -141,8 +162,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/main-process/win-powershell.js",
-        "name": "(unnamed_function_1)",
-        "line": 37
+        "name": "spawnPowershell",
+        "line": 37,
+        "func_location": "(unnamed_function_1)",
+        "func_start_line": 36,
+        "func_end_line": 45
     },
     "func_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/main-process/win-powershell.js",
@@ -162,8 +186,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/get-window-load-settings.js",
-        "name": "(unnamed_function_1)",
+        "name": "parse",
         "line": 7,
+        "func_location": "(unnamed_function_1)",
+        "func_start_line": 5,
+        "func_end_line": 10,
         "args": []
     },
     "func_info": {
@@ -181,8 +208,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/main-process/application-menu.js",
-        "name": "ApplicationMenu.translateTemplate.(unnamed_function_14)",
+        "name": "acceleratorForCommand",
         "line": 202,
+        "func_location": "ApplicationMenu.translateTemplate.(unnamed_function_14)",
+        "func_start_line": 199,
+        "func_end_line": 209,
         "args": ["item.command", "keystrokesByCommand"]
     },
     "func_info": {
@@ -203,8 +233,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/main-process/application-menu.js",
-        "name": "ApplicationMenu.translateTemplate.(unnamed_function_14)",
+        "name": "translateTemplate",
         "line": 208,
+        "func_location": "ApplicationMenu.translateTemplate.(unnamed_function_14)",
+        "func_start_line": 199,
+        "func_end_line": 209,
         "args": ["item.submenu", "keystrokesByCommand"]
     },
     "func_info": {
@@ -225,8 +258,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-editor-component.js",
-        "name": "TextEditorComponent.populateTextDecorationsToRender.(unnamed_function_15)",
+        "name": "compare",
         "line": 1211,
+        "func_location": "TextEditorComponent.populateTextDecorationsToRender.(unnamed_function_15)",
+        "func_start_line": 1211,
+        "func_end_line": 1211,
         "args": ["b.position"]
     },
     "func_info": {
@@ -244,8 +280,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-editor-component.js",
-        "name": "TextEditorComponent.populateTextDecorationsToRender.(unnamed_function_16)",
+        "name": "compare",
         "line": 1250,
+        "func_location": "TextEditorComponent.populateTextDecorationsToRender.(unnamed_function_16)",
+        "func_start_line": 1250,
+        "func_end_line": 1250,
         "args": ["b"]
     },
     "func_info": {
@@ -263,8 +302,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-editor-component.js",
-        "name": "TextEditorComponent.populateTextDecorationsToRender.(unnamed_function_17)",
+        "name": "compare",
         "line": 1255,
+        "func_location": "TextEditorComponent.populateTextDecorationsToRender.(unnamed_function_17)",
+        "func_start_line": 1255,
+        "func_end_line": 1255,
         "args": ["a"]
     },
     "func_info": {
@@ -282,8 +324,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/main-process/win-powershell.js",
-        "name": "(unnamed_function_1).(unnamed_function_2)",
+        "name": "replace",
         "line": 42,
+        "func_location": "(unnamed_function_1).(unnamed_function_2)",
+        "func_start_line": 37,
+        "func_end_line": 44,
         "args": [{
             "type": "object"
         }, {
@@ -305,8 +350,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/menu-helpers.js",
-        "name": "acceleratorForKeystroke.(unnamed_function_2)",
-        "line": 116
+        "name": "replace",
+        "line": 116,
+        "func_location": "acceleratorForKeystroke.(unnamed_function_2)",
+        "func_start_line": 114,
+        "func_end_line": 120
     },
     "func_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/project.js",
@@ -323,8 +371,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/menu-helpers.js",
-        "name": "acceleratorForKeystroke.(unnamed_function_2)",
-        "line": 117
+        "name": "replace",
+        "line": 117,
+        "func_location": "acceleratorForKeystroke.(unnamed_function_2)",
+        "func_start_line": 114,
+        "func_end_line": 120
     },
     "func_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/project.js",
@@ -341,8 +392,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/menu-helpers.js",
-        "name": "acceleratorForKeystroke.(unnamed_function_2)",
-        "line": 118
+        "name": "replace",
+        "line": 118,
+        "func_location": "acceleratorForKeystroke.(unnamed_function_2)",
+        "func_start_line": 114,
+        "func_end_line": 120
     },
     "func_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/project.js",
@@ -359,8 +413,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/menu-helpers.js",
-        "name": "acceleratorForKeystroke.(unnamed_function_2)",
-        "line": 119
+        "name": "replace",
+        "line": 119,
+        "func_location": "acceleratorForKeystroke.(unnamed_function_2)",
+        "func_start_line": 114,
+        "func_end_line": 120
     },
     "func_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/project.js",
@@ -377,8 +434,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-editor-element.js",
-        "name": "TextEditorElement.createdCallback.(unnamed_function_2)",
+        "name": "didBlur",
         "line": 37,
+        "func_location": "TextEditorElement.createdCallback.(unnamed_function_2)",
+        "func_start_line": 37,
+        "func_end_line": 37,
         "args": []
     },
     "func_info": {
@@ -396,8 +456,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/selectors.js",
-        "name": "matcherForSelector.(unnamed_function_2)",
+        "name": "parse",
         "line": 27,
+        "func_location": "matcherForSelector.(unnamed_function_2)",
+        "func_start_line": 27,
+        "func_end_line": 28,
         "args": ["scope"]
     },
     "func_info": {
@@ -415,8 +478,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-editor-registry.js",
-        "name": "TextEditorRegistry.add.(unnamed_function_2)",
+        "name": "remove",
         "line": 98,
+        "func_location": "TextEditorRegistry.add.(unnamed_function_2)",
+        "func_start_line": 98,
+        "func_end_line": 98,
         "args": ["editor"]
     },
     "func_info": {
@@ -434,8 +500,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/initialize-benchmark-window.js",
-        "name": "(unnamed_function_2)",
+        "name": "getView",
         "line": 55,
+        "func_location": "(unnamed_function_2)",
+        "func_start_line": 55,
+        "func_end_line": 57,
         "args": ["item"]
     },
     "func_info": {
@@ -453,8 +522,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-editor-component.js",
-        "name": "didDrag.(unnamed_function_26)",
+        "name": "selectToScreenPosition",
         "line": 1817,
+        "func_location": "didDrag.(unnamed_function_26)",
+        "func_start_line": 1814,
+        "func_end_line": 1819,
         "args": ["screenPosition", null]
     },
     "func_info": {
@@ -475,8 +547,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-editor-component.js",
-        "name": "didDrag.(unnamed_function_28)",
+        "name": "setScreenRange",
         "line": 1872,
+        "func_location": "didDrag.(unnamed_function_28)",
+        "func_start_line": 1868,
+        "func_end_line": 1878,
         "args": ["initialScreenRange"]
     },
     "func_info": {
@@ -497,8 +572,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/selection.js",
-        "name": "Selection.setBufferRange.(unnamed_function_3)",
+        "name": "setBufferRange",
         "line": 99,
+        "func_location": "Selection.setBufferRange.(unnamed_function_3)",
+        "func_start_line": 96,
+        "func_end_line": 103,
         "args": ["bufferRange", "options"]
     },
     "func_info": {
@@ -519,8 +597,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/config.js",
-        "name": "Config.unset.(unnamed_function_3)",
+        "name": "unset",
         "line": 732,
+        "func_location": "Config.unset.(unnamed_function_3)",
+        "func_start_line": 732,
+        "func_end_line": 732,
         "args": ["keyPath", "options"]
     },
     "func_info": {
@@ -541,8 +622,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/workspace-element.js",
-        "name": "WorkspaceElement.initialize.(unnamed_function_3)",
-        "line": 97
+        "name": "onDidChangeHovered",
+        "line": 97,
+        "func_location": "WorkspaceElement.initialize.(unnamed_function_3)",
+        "func_start_line": 97,
+        "func_end_line": 101
     },
     "func_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/dock.js",
@@ -559,8 +643,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/storage-folder.js",
-        "name": "StorageFolder.load.(unnamed_function_3).(unnamed_function_4)",
+        "name": "parse",
         "line": 33,
+        "func_location": "StorageFolder.load.(unnamed_function_3).(unnamed_function_4)",
+        "func_start_line": 25,
+        "func_end_line": 38,
         "args": ["stateString"]
     },
     "func_info": {
@@ -578,8 +665,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/selection.js",
-        "name": "Selection.selectToScreenPosition.(unnamed_function_4)",
+        "name": "setScreenRange",
         "line": 217,
+        "func_location": "Selection.selectToScreenPosition.(unnamed_function_4)",
+        "func_start_line": 214,
+        "func_end_line": 230,
         "args": [null, null]
     },
     "func_info": {
@@ -600,8 +690,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/selection.js",
-        "name": "Selection.selectToScreenPosition.(unnamed_function_4)",
+        "name": "setScreenRange",
         "line": 219,
+        "func_location": "Selection.selectToScreenPosition.(unnamed_function_4)",
+        "func_start_line": 214,
+        "func_end_line": 230,
         "args": [null, null]
     },
     "func_info": {
@@ -622,8 +715,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/selection.js",
-        "name": "Selection.selectToScreenPosition.(unnamed_function_4)",
+        "name": "setScreenPosition",
         "line": 222,
+        "func_location": "Selection.selectToScreenPosition.(unnamed_function_4)",
+        "func_start_line": 214,
+        "func_end_line": 230,
         "args": ["position", "options"]
     },
     "func_info": {
@@ -644,8 +740,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/selection.js",
-        "name": "Selection.selectToScreenPosition.(unnamed_function_4)",
+        "name": "expandOverLine",
         "line": 226,
+        "func_location": "Selection.selectToScreenPosition.(unnamed_function_4)",
+        "func_start_line": 214,
+        "func_end_line": 230,
         "args": ["options"]
     },
     "func_info": {
@@ -663,8 +762,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/selection.js",
-        "name": "Selection.selectToScreenPosition.(unnamed_function_4)",
+        "name": "expandOverWord",
         "line": 228,
+        "func_location": "Selection.selectToScreenPosition.(unnamed_function_4)",
+        "func_start_line": 214,
+        "func_end_line": 230,
         "args": ["options"]
     },
     "func_info": {
@@ -682,8 +784,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-editor-component.js",
-        "name": "LinesTileComponent.updateBlockDecorations.(unnamed_function_47)",
+        "name": "remove",
         "line": 3858,
+        "func_location": "LinesTileComponent.updateBlockDecorations.(unnamed_function_47)",
+        "func_start_line": 3849,
+        "func_end_line": 3860,
         "args": []
     },
     "func_info": {
@@ -701,8 +806,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.subscribeToBuffer.getBufferPathStatus.(unnamed_function_5)",
+        "name": "getPathStatus",
         "line": 498,
+        "func_location": "GitRepository.subscribeToBuffer.getBufferPathStatus.(unnamed_function_5)",
+        "func_start_line": 496,
+        "func_end_line": 499,
         "args": ["bufferPath"]
     },
     "func_info": {
@@ -720,8 +828,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/selection.js",
-        "name": "Selection.selectToBufferPosition.(unnamed_function_5)",
+        "name": "setBufferPosition",
         "line": 238,
+        "func_location": "Selection.selectToBufferPosition.(unnamed_function_5)",
+        "func_start_line": 238,
+        "func_end_line": 238,
         "args": ["position"]
     },
     "func_info": {
@@ -742,8 +853,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-editor-registry.js",
-        "name": "TextEditorRegistry.maintainConfig.(unnamed_function_5)",
+        "name": "remove",
         "line": 174,
+        "func_location": "TextEditorRegistry.maintainConfig.(unnamed_function_5)",
+        "func_start_line": 170,
+        "func_end_line": 176,
         "args": ["languageChangeSubscription"]
     },
     "func_info": {
@@ -761,8 +875,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-editor-registry.js",
-        "name": "TextEditorRegistry.maintainConfig.(unnamed_function_5)",
+        "name": "remove",
         "line": 175,
+        "func_location": "TextEditorRegistry.maintainConfig.(unnamed_function_5)",
+        "func_start_line": 170,
+        "func_end_line": 176,
         "args": ["tokenizeSubscription"]
     },
     "func_info": {
@@ -780,8 +897,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/workspace-element.js",
-        "name": "WorkspaceElement.updateHoveredDock.nextHoveredDock.(unnamed_function_5)",
+        "name": "pointWithinHoverArea",
         "line": 200,
+        "func_location": "WorkspaceElement.updateHoveredDock.nextHoveredDock.(unnamed_function_5)",
+        "func_start_line": 200,
+        "func_end_line": 200,
         "args": ["mousePosition"]
     },
     "func_info": {
@@ -802,8 +922,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-editor-component.js",
-        "name": "HighlightComponent.performFlash.(unnamed_function_55)",
+        "name": "remove",
         "line": 4187,
+        "func_location": "HighlightComponent.performFlash.(unnamed_function_55)",
+        "func_start_line": 4186,
+        "func_end_line": 4188,
         "args": ["flashClass"]
     },
     "func_info": {
@@ -821,8 +944,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.subscribeToBuffer.(unnamed_function_6)",
+        "name": "remove",
         "line": 508,
+        "func_location": "GitRepository.subscribeToBuffer.(unnamed_function_6)",
+        "func_start_line": 506,
+        "func_end_line": 509,
         "args": ["bufferSubscriptions"]
     },
     "func_info": {
@@ -840,8 +966,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/selection.js",
-        "name": "Selection.selectRight.(unnamed_function_6)",
+        "name": "moveRight",
         "line": 245,
+        "func_location": "Selection.selectRight.(unnamed_function_6)",
+        "func_start_line": 245,
+        "func_end_line": 245,
         "args": ["columnCount"]
     },
     "func_info": {
@@ -862,8 +991,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/selection.js",
-        "name": "Selection.selectLeft.(unnamed_function_7)",
+        "name": "moveLeft",
         "line": 252,
+        "func_location": "Selection.selectLeft.(unnamed_function_7)",
+        "func_start_line": 252,
+        "func_end_line": 252,
         "args": ["columnCount"]
     },
     "func_info": {
@@ -884,8 +1016,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/config.js",
-        "name": "Config.setSchema.(unnamed_function_7)",
+        "name": "setScopedDefaultsFromSchema",
         "line": 918,
+        "func_location": "Config.setSchema.(unnamed_function_7)",
+        "func_start_line": 916,
+        "func_end_line": 920,
         "args": ["keyPath", "schema"]
     },
     "func_info": {
@@ -906,8 +1041,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/config.js",
-        "name": "Config.setSchema.(unnamed_function_7)",
+        "name": "resetSettingsForSchemaChange",
         "line": 919,
+        "func_location": "Config.setSchema.(unnamed_function_7)",
+        "func_start_line": 916,
+        "func_end_line": 920,
         "args": []
     },
     "func_info": {
@@ -925,8 +1063,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/workspace.js",
-        "name": "Workspace.subscribeToAddedItems.(unnamed_function_8)",
+        "name": "maintainConfig",
         "line": 500,
+        "func_location": "Workspace.subscribeToAddedItems.(unnamed_function_8)",
+        "func_start_line": 496,
+        "func_end_line": 517,
         "args": ["item"]
     },
     "func_info": {
@@ -944,8 +1085,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/workspace.js",
-        "name": "Workspace.subscribeToAddedItems.(unnamed_function_8)",
+        "name": "observeGrammar",
         "line": 513,
+        "func_location": "Workspace.subscribeToAddedItems.(unnamed_function_8)",
+        "func_start_line": 496,
+        "func_end_line": 517,
         "args": [null]
     },
     "func_info": {
@@ -963,8 +1107,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/selection.js",
-        "name": "Selection.selectUp.(unnamed_function_8)",
+        "name": "moveUp",
         "line": 259,
+        "func_location": "Selection.selectUp.(unnamed_function_8)",
+        "func_start_line": 259,
+        "func_end_line": 259,
         "args": ["rowCount"]
     },
     "func_info": {
@@ -985,8 +1132,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-editor-component.js",
-        "name": "TextEditorComponent.measureBlockDecorations.(unnamed_function_8)",
+        "name": "remove",
         "line": 356,
+        "func_location": "TextEditorComponent.measureBlockDecorations.(unnamed_function_8)",
+        "func_start_line": 356,
+        "func_end_line": 356,
         "args": []
     },
     "func_info": {
@@ -1004,8 +1154,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/selection.js",
-        "name": "Selection.selectDown.(unnamed_function_9)",
+        "name": "moveDown",
         "line": 266,
+        "func_location": "Selection.selectDown.(unnamed_function_9)",
+        "func_start_line": 266,
+        "func_end_line": 266,
         "args": ["rowCount"]
     },
     "func_info": {
@@ -1026,8 +1179,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/config.js",
-        "name": "Config._resetSettings",
-        "line": 955
+        "name": "transact",
+        "line": 955,
+        "func_location": "Config._resetSettings",
+        "func_start_line": 940,
+        "func_end_line": 967
     },
     "func_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/config.js",
@@ -1044,8 +1200,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/menu-helpers.js",
-        "name": "acceleratorForKeystroke",
-        "line": 112
+        "name": "replace",
+        "line": 112,
+        "func_location": "acceleratorForKeystroke",
+        "func_start_line": 104,
+        "func_end_line": 124
     },
     "func_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/project.js",
@@ -1062,8 +1221,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/pane-element.js",
-        "name": "PaneElement.activeItemChanged",
+        "name": "getView",
         "line": 138,
+        "func_location": "PaneElement.activeItemChanged",
+        "func_start_line": 128,
+        "func_end_line": 162,
         "args": ["item"]
     },
     "func_info": {
@@ -1081,8 +1243,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/pane-element.js",
-        "name": "PaneElement.activeStatusChanged",
+        "name": "remove",
         "line": 124,
+        "func_location": "PaneElement.activeStatusChanged",
+        "func_start_line": 120,
+        "func_end_line": 126,
         "args": [{
             "type": "string"
         }]
@@ -1102,8 +1267,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/native-watcher-registry.js",
-        "name": "RegistryTree.add",
+        "name": "absolute",
         "line": 40,
+        "func_location": "RegistryTree.add",
+        "func_start_line": 38,
+        "func_end_line": 54,
         "args": [null]
     },
     "func_info": {
@@ -1121,8 +1289,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/native-watcher-registry.js",
-        "name": "RegistryTree.add",
+        "name": "remove",
         "line": 49,
+        "func_location": "RegistryTree.add",
+        "func_start_line": 38,
+        "func_end_line": 54,
         "args": ["pathSegments", ".createNative"]
     },
     "func_info": {
@@ -1140,8 +1311,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/tooltip-manager.js",
-        "name": "TooltipManager.add",
+        "name": "add",
         "line": 118,
+        "func_location": "TooltipManager.add",
+        "func_start_line": 114,
+        "func_end_line": 177,
         "args": ["target.i", "options"]
     },
     "func_info": {
@@ -1162,8 +1336,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/gutter-container.js",
-        "name": "GutterContainer.addGutterDecoration",
+        "name": "decorateMarker",
         "line": 106,
+        "func_location": "GutterContainer.addGutterDecoration",
+        "func_start_line": 99,
+        "func_end_line": 107,
         "args": ["marker", "options"]
     },
     "func_info": {
@@ -1184,8 +1361,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/main-process/application-menu.js",
-        "name": "ApplicationMenu.addWindow",
+        "name": "enableWindowSpecificItems",
         "line": 59,
+        "func_location": "ApplicationMenu.addWindow",
+        "func_start_line": 43,
+        "func_end_line": 60,
         "args": [{
             "type": "boolean"
         }]
@@ -1205,8 +1385,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/selection.js",
-        "name": "Selection.backspace",
+        "name": "ensureWritable",
         "line": 521,
+        "func_location": "Selection.backspace",
+        "func_start_line": 520,
+        "func_end_line": 524,
         "args": [{
             "type": "string"
         }, "options"]
@@ -1229,8 +1412,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/selection.js",
-        "name": "Selection.backspace",
+        "name": "selectLeft",
         "line": 522,
+        "func_location": "Selection.backspace",
+        "func_start_line": 520,
+        "func_end_line": 524,
         "args": []
     },
     "func_info": {
@@ -1248,8 +1434,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.checkoutHead",
+        "name": "getRepo",
         "line": 473,
+        "func_location": "GitRepository.checkoutHead",
+        "func_start_line": 472,
+        "func_end_line": 477,
         "args": ["path"]
     },
     "func_info": {
@@ -1267,8 +1456,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.checkoutHead",
+        "name": "checkoutHead",
         "line": 474,
+        "func_location": "GitRepository.checkoutHead",
+        "func_start_line": 472,
+        "func_end_line": 477,
         "args": ["path"]
     },
     "func_info": {
@@ -1286,8 +1478,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.checkoutHead",
+        "name": "relativize",
         "line": 474,
+        "func_location": "GitRepository.checkoutHead",
+        "func_start_line": 472,
+        "func_end_line": 477,
         "args": ["path"]
     },
     "func_info": {
@@ -1305,8 +1500,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.checkoutHead",
+        "name": "getPathStatus",
         "line": 475,
+        "func_location": "GitRepository.checkoutHead",
+        "func_start_line": 472,
+        "func_end_line": 477,
         "args": ["path"]
     },
     "func_info": {
@@ -1324,8 +1522,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.checkoutHeadForEditor",
+        "name": "checkoutHead",
         "line": 518,
+        "func_location": "GitRepository.checkoutHeadForEditor",
+        "func_start_line": 514,
+        "func_end_line": 521,
         "args": ["bufferPath"]
     },
     "func_info": {
@@ -1343,8 +1544,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.checkoutReference",
+        "name": "getRepo",
         "line": 487,
+        "func_location": "GitRepository.checkoutReference",
+        "func_start_line": 486,
+        "func_end_line": 488,
         "args": []
     },
     "func_info": {
@@ -1362,8 +1566,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.checkoutReference",
+        "name": "checkoutReference",
         "line": 487,
+        "func_location": "GitRepository.checkoutReference",
+        "func_start_line": 486,
+        "func_end_line": 488,
         "args": []
     },
     "func_info": {
@@ -1384,8 +1591,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/config.js",
-        "name": "color.coerce",
+        "name": "parse",
         "line": 1415,
+        "func_location": "color.coerce",
+        "func_start_line": 1414,
+        "func_end_line": 1420,
         "args": ["value"]
     },
     "func_info": {
@@ -1403,8 +1613,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-mate-language-mode.js",
-        "name": "TextMateLanguageMode.commentStringsForPosition",
+        "name": "getAll",
         "line": 187,
+        "func_location": "TextMateLanguageMode.commentStringsForPosition",
+        "func_start_line": 185,
+        "func_end_line": 197,
         "args": [{
             "type": "string"
         }, null]
@@ -1427,8 +1640,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-mate-language-mode.js",
-        "name": "TextMateLanguageMode.commentStringsForPosition",
+        "name": "getAll",
         "line": 188,
+        "func_location": "TextMateLanguageMode.commentStringsForPosition",
+        "func_start_line": 185,
+        "func_end_line": 197,
         "args": [{
             "type": "string"
         }, null]
@@ -1451,8 +1667,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/cursor.js",
-        "name": "Cursor.compare",
+        "name": "compare",
         "line": 655,
+        "func_location": "Cursor.compare",
+        "func_start_line": 654,
+        "func_end_line": 656,
         "args": []
     },
     "func_info": {
@@ -1470,8 +1689,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/babel.js",
-        "name": "exports.compile",
+        "name": "replace",
         "line": 54,
+        "func_location": "exports.compile",
+        "func_start_line": 44,
+        "func_end_line": 62,
         "args": ["filePath"]
     },
     "func_info": {
@@ -1489,8 +1711,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/coffee-script.js",
-        "name": "exports.compile",
+        "name": "replace",
         "line": 33,
+        "func_location": "exports.compile",
+        "func_start_line": 21,
+        "func_end_line": 45,
         "args": ["filePath"]
     },
     "func_info": {
@@ -1508,8 +1733,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/coffee-script.js",
-        "name": "exports.compile",
+        "name": "replace",
         "line": 44,
+        "func_location": "exports.compile",
+        "func_start_line": 21,
+        "func_end_line": 45,
         "args": [{
             "type": "object"
         }, {
@@ -1531,8 +1759,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/typescript.js",
-        "name": "exports.compile",
+        "name": "replace",
         "line": 41,
+        "func_location": "exports.compile",
+        "func_start_line": 35,
+        "func_end_line": 46,
         "args": ["filePath"]
     },
     "func_info": {
@@ -1550,8 +1781,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/history-manager.js",
-        "name": "HistoryManager.constructor",
+        "name": "onDidChangePaths",
         "line": 15,
+        "func_location": "HistoryManager.constructor",
+        "func_start_line": 9,
+        "func_end_line": 16,
         "args": ["projectPaths"]
     },
     "func_info": {
@@ -1569,8 +1803,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/decoration.js",
-        "name": "Decoration.constructor",
+        "name": "setProperties",
         "line": 79,
+        "func_location": "Decoration.constructor",
+        "func_start_line": 74,
+        "func_end_line": 82,
         "args": ["properties"]
     },
     "func_info": {
@@ -1588,8 +1825,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.constructor",
+        "name": "onDidAddBuffer",
         "line": 106,
+        "func_location": "GitRepository.constructor",
+        "func_start_line": 74,
+        "func_end_line": 108,
         "args": ["buffer"]
     },
     "func_info": {
@@ -1607,8 +1847,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/selection.js",
-        "name": "Selection.constructor",
+        "name": "decorateMarker",
         "line": 20,
+        "func_location": "Selection.constructor",
+        "func_start_line": 11,
+        "func_end_line": 23,
         "args": [".marker", null]
     },
     "func_info": {
@@ -1629,8 +1872,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/main-process/context-menu.js",
-        "name": "ContextMenu.constructor",
+        "name": "createClickHandlers",
         "line": 7,
+        "func_location": "ContextMenu.constructor",
+        "func_start_line": 5,
+        "func_end_line": 10,
         "args": ["template"]
     },
     "func_info": {
@@ -1648,8 +1894,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-editor-component.js",
-        "name": "TextEditorComponent.constructor",
+        "name": "didKeydown",
         "line": 79,
+        "func_location": "TextEditorComponent.constructor",
+        "func_start_line": 55,
+        "func_end_line": 182,
         "args": [null]
     },
     "func_info": {
@@ -1667,8 +1916,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/title-bar.js",
-        "name": "TitleBar.constructor",
+        "name": "onDidChangeActiveThemes",
         "line": 18,
+        "func_location": "TitleBar.constructor",
+        "func_start_line": 3,
+        "func_end_line": 22,
         "args": []
     },
     "func_info": {
@@ -1686,8 +1938,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/main-process/auto-update-manager.js",
-        "name": "AutoUpdateManager.constructor",
+        "name": "onUpdateError",
         "line": 19,
+        "func_location": "AutoUpdateManager.constructor",
+        "func_start_line": 16,
+        "func_end_line": 25,
         "args": [null]
     },
     "func_info": {
@@ -1708,8 +1963,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/gutter.js",
-        "name": "Gutter.decorateMarker",
+        "name": "addGutterDecoration",
         "line": 106,
+        "func_location": "Gutter.decorateMarker",
+        "func_start_line": 105,
+        "func_end_line": 107,
         "args": [null, "marker", "options"]
     },
     "func_info": {
@@ -1733,8 +1991,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/selection.js",
-        "name": "Selection.deleteToBeginningOfLine",
+        "name": "ensureWritable",
         "line": 567,
+        "func_location": "Selection.deleteToBeginningOfLine",
+        "func_start_line": 566,
+        "func_end_line": 574,
         "args": [{
             "type": "string"
         }, "options"]
@@ -1757,8 +2018,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/selection.js",
-        "name": "Selection.deleteToBeginningOfLine",
+        "name": "selectLeft",
         "line": 569,
+        "func_location": "Selection.deleteToBeginningOfLine",
+        "func_start_line": 566,
+        "func_end_line": 574,
         "args": []
     },
     "func_info": {
@@ -1776,8 +2040,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/selection.js",
-        "name": "Selection.deleteToBeginningOfWord",
+        "name": "ensureWritable",
         "line": 556,
+        "func_location": "Selection.deleteToBeginningOfWord",
+        "func_start_line": 555,
+        "func_end_line": 559,
         "args": [{
             "type": "string"
         }, "options"]
@@ -1800,8 +2067,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/selection.js",
-        "name": "Selection.deleteToNextWordBoundary",
+        "name": "ensureWritable",
         "line": 545,
+        "func_location": "Selection.deleteToNextWordBoundary",
+        "func_start_line": 544,
+        "func_end_line": 548,
         "args": [{
             "type": "string"
         }, "options"]
@@ -1824,8 +2094,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/selection.js",
-        "name": "Selection.deleteToPreviousWordBoundary",
+        "name": "ensureWritable",
         "line": 533,
+        "func_location": "Selection.deleteToPreviousWordBoundary",
+        "func_start_line": 532,
+        "func_end_line": 536,
         "args": [{
             "type": "string"
         }, "options"]
@@ -1848,8 +2121,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/tooltip.js",
-        "name": "Tooltip.prototype.destroy",
+        "name": "remove",
         "line": 502,
+        "func_location": "Tooltip.prototype.destroy",
+        "func_start_line": 500,
+        "func_end_line": 504,
         "args": []
     },
     "func_info": {
@@ -1867,8 +2143,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/gutter.js",
-        "name": "Gutter.destroy",
+        "name": "removeGutter",
         "line": 33,
+        "func_location": "Gutter.destroy",
+        "func_start_line": 29,
+        "func_end_line": 37,
         "args": [null]
     },
     "func_info": {
@@ -1886,8 +2165,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-editor-component.js",
-        "name": "LineNumberComponent.destroy",
+        "name": "remove",
         "line": 3407,
+        "func_location": "LineNumberComponent.destroy",
+        "func_start_line": 3406,
+        "func_end_line": 3409,
         "args": []
     },
     "func_info": {
@@ -1905,8 +2187,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-editor-component.js",
-        "name": "LineComponent.destroy",
+        "name": "remove",
         "line": 3971,
+        "func_location": "LineComponent.destroy",
+        "func_start_line": 3964,
+        "func_end_line": 3973,
         "args": []
     },
     "func_info": {
@@ -1924,8 +2209,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/panel.js",
-        "name": "Panel.destroy",
+        "name": "remove",
         "line": 32,
+        "func_location": "Panel.destroy",
+        "func_start_line": 28,
+        "func_end_line": 35,
         "args": []
     },
     "func_info": {
@@ -1943,8 +2231,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-editor-component.js",
-        "name": "TextEditorComponent.didCompositionStart",
+        "name": "selectLeft",
         "line": 1732,
+        "func_location": "TextEditorComponent.didCompositionStart",
+        "func_start_line": 1716,
+        "func_end_line": 1734,
         "args": []
     },
     "func_info": {
@@ -1962,8 +2253,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-editor-component.js",
-        "name": "TextEditorComponent.didCompositionUpdate",
+        "name": "insertText",
         "line": 1737,
+        "func_location": "TextEditorComponent.didCompositionUpdate",
+        "func_start_line": 1736,
+        "func_end_line": 1738,
         "args": ["event.data", null]
     },
     "func_info": {
@@ -1984,8 +2278,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-editor-component.js",
-        "name": "TextEditorComponent.didHide",
+        "name": "setVisible",
         "line": 1470,
+        "func_location": "TextEditorComponent.didHide",
+        "func_start_line": 1467,
+        "func_end_line": 1472,
         "args": [{
             "type": "boolean"
         }]
@@ -2005,8 +2302,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-editor-component.js",
-        "name": "TextEditorComponent.didMouseDownOnLineNumberGutter",
+        "name": "setBufferRange",
         "line": 1851,
+        "func_location": "TextEditorComponent.didMouseDownOnLineNumberGutter",
+        "func_start_line": 1828,
+        "func_end_line": 1884,
         "args": ["clickedLineBufferRange"]
     },
     "func_info": {
@@ -2027,8 +2327,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-editor-component.js",
-        "name": "TextEditorComponent.didShow",
+        "name": "setVisible",
         "line": 1460,
+        "func_location": "TextEditorComponent.didShow",
+        "func_start_line": 1456,
+        "func_end_line": 1465,
         "args": [{
             "type": "boolean"
         }]
@@ -2048,8 +2351,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-editor-component.js",
-        "name": "TextEditorComponent.didTextInput",
+        "name": "selectLeft",
         "line": 1649,
+        "func_location": "TextEditorComponent.didTextInput",
+        "func_start_line": 1617,
+        "func_end_line": 1654,
         "args": []
     },
     "func_info": {
@@ -2067,8 +2373,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-editor-component.js",
-        "name": "TextEditorComponent.didTextInput",
+        "name": "insertText",
         "line": 1652,
+        "func_location": "TextEditorComponent.didTextInput",
+        "func_start_line": 1617,
+        "func_end_line": 1654,
         "args": ["event.data", null]
     },
     "func_info": {
@@ -2089,8 +2398,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/main-process/application-menu.js",
-        "name": "ApplicationMenu.enableWindowSpecificItems",
+        "name": "flattenMenuItems",
         "line": 97,
+        "func_location": "ApplicationMenu.enableWindowSpecificItems",
+        "func_start_line": 96,
+        "func_end_line": 100,
         "args": [".menu"]
     },
     "func_info": {
@@ -2108,8 +2420,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/initialize-benchmark-window.js",
-        "name": "console.error",
+        "name": "write",
         "line": 88,
+        "func_location": "console.error",
+        "func_start_line": 86,
+        "func_end_line": 89,
         "args": [null]
     },
     "func_info": {
@@ -2130,8 +2445,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/selection.js",
-        "name": "Selection.expandOverLine",
+        "name": "getCurrentLineBufferRange",
         "line": 404,
+        "func_location": "Selection.expandOverLine",
+        "func_start_line": 403,
+        "func_end_line": 408,
         "args": [null]
     },
     "func_info": {
@@ -2149,8 +2467,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/selection.js",
-        "name": "Selection.expandOverLine",
+        "name": "setBufferRange",
         "line": 405,
+        "func_location": "Selection.expandOverLine",
+        "func_start_line": 403,
+        "func_end_line": 408,
         "args": ["range", null]
     },
     "func_info": {
@@ -2171,8 +2492,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/selection.js",
-        "name": "Selection.expandOverWord",
+        "name": "setBufferRange",
         "line": 377,
+        "func_location": "Selection.expandOverWord",
+        "func_start_line": 376,
+        "func_end_line": 380,
         "args": []
     },
     "func_info": {
@@ -2193,8 +2517,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/selection.js",
-        "name": "Selection.expandOverWord",
+        "name": "getCurrentWordBufferRange",
         "line": 377,
+        "func_location": "Selection.expandOverWord",
+        "func_start_line": 376,
+        "func_end_line": 380,
         "args": []
     },
     "func_info": {
@@ -2212,8 +2539,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/main-process/application-menu.js",
-        "name": "ApplicationMenu.flattenMenuItems",
+        "name": "flattenMenuItems",
         "line": 73,
+        "func_location": "ApplicationMenu.flattenMenuItems",
+        "func_start_line": 67,
+        "func_end_line": 76,
         "args": ["item.submenu"]
     },
     "func_info": {
@@ -2231,8 +2561,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/main-process/application-menu.js",
-        "name": "ApplicationMenu.flattenMenuTemplate",
+        "name": "flattenMenuTemplate",
         "line": 87,
+        "func_location": "ApplicationMenu.flattenMenuTemplate",
+        "func_start_line": 83,
+        "func_end_line": 90,
         "args": ["item.submenu"]
     },
     "func_info": {
@@ -2250,8 +2583,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/scope-descriptor.js",
-        "name": "ScopeDescriptor.fromObject",
-        "line": 26
+        "name": "constructor",
+        "line": 26,
+        "func_location": "ScopeDescriptor.fromObject",
+        "func_start_line": 22,
+        "func_end_line": 28
     },
     "func_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/scope-descriptor.js",
@@ -2268,8 +2604,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.getAheadBehindCount",
+        "name": "getRepo",
         "line": 255,
+        "func_location": "GitRepository.getAheadBehindCount",
+        "func_start_line": 254,
+        "func_end_line": 256,
         "args": ["path"]
     },
     "func_info": {
@@ -2287,8 +2626,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.getAheadBehindCount",
+        "name": "getAheadBehindCount",
         "line": 255,
+        "func_location": "GitRepository.getAheadBehindCount",
+        "func_start_line": 254,
+        "func_end_line": 256,
         "args": ["path"]
     },
     "func_info": {
@@ -2309,8 +2651,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/config.js",
-        "name": "Config.getAll",
-        "line": 620
+        "name": "getAll",
+        "line": 620,
+        "func_location": "Config.getAll",
+        "func_start_line": 613,
+        "func_end_line": 643
     },
     "func_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/config.js",
@@ -2330,8 +2675,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/config.js",
-        "name": "Config.getAll",
-        "line": 627
+        "name": "getAll",
+        "line": 627,
+        "func_location": "Config.getAll",
+        "func_start_line": 613,
+        "func_end_line": 643
     },
     "func_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/config.js",
@@ -2351,8 +2699,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/cursor.js",
-        "name": "Cursor.getBeginningOfNextWordBufferPosition",
+        "name": "isInsideWord",
         "line": 589,
+        "func_location": "Cursor.getBeginningOfNextWordBufferPosition",
+        "func_start_line": 587,
+        "func_end_line": 599,
         "args": ["options"]
     },
     "func_info": {
@@ -2370,8 +2721,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/cursor.js",
-        "name": "Cursor.getBeginningOfNextWordBufferPosition",
+        "name": "getEndOfCurrentWordBufferPosition",
         "line": 589,
+        "func_location": "Cursor.getBeginningOfNextWordBufferPosition",
+        "func_start_line": 587,
+        "func_end_line": 599,
         "args": ["options"]
     },
     "func_info": {
@@ -2389,8 +2743,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.getCachedPathStatus",
+        "name": "relativize",
         "line": 398,
+        "func_location": "GitRepository.getCachedPathStatus",
+        "func_start_line": 397,
+        "func_end_line": 399,
         "args": ["path"]
     },
     "func_info": {
@@ -2408,8 +2765,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.getCachedUpstreamAheadBehindCount",
+        "name": "getRepo",
         "line": 268,
+        "func_location": "GitRepository.getCachedUpstreamAheadBehindCount",
+        "func_start_line": 267,
+        "func_end_line": 269,
         "args": ["path"]
     },
     "func_info": {
@@ -2427,8 +2787,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/main-process/start.js",
-        "name": "getConfig",
+        "name": "resetUserSettings",
         "line": 118,
+        "func_location": "getConfig",
+        "func_start_line": 106,
+        "func_end_line": 122,
         "args": ["configFileData"]
     },
     "func_info": {
@@ -2449,8 +2812,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.getConfigValue",
+        "name": "getRepo",
         "line": 277,
+        "func_location": "GitRepository.getConfigValue",
+        "func_start_line": 276,
+        "func_end_line": 278,
         "args": ["path"]
     },
     "func_info": {
@@ -2468,8 +2834,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.getConfigValue",
+        "name": "getConfigValue",
         "line": 277,
+        "func_location": "GitRepository.getConfigValue",
+        "func_start_line": 276,
+        "func_end_line": 278,
         "args": ["path"]
     },
     "func_info": {
@@ -2490,8 +2859,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/cursor.js",
-        "name": "Cursor.getCurrentWordPrefix",
+        "name": "getBeginningOfCurrentWordBufferPosition",
         "line": 638,
+        "func_location": "Cursor.getCurrentWordPrefix",
+        "func_start_line": 637,
+        "func_end_line": 639,
         "args": []
     },
     "func_info": {
@@ -2509,8 +2881,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.getDiffStats",
+        "name": "getRepo",
         "line": 432,
+        "func_location": "GitRepository.getDiffStats",
+        "func_start_line": 431,
+        "func_end_line": 434,
         "args": ["path"]
     },
     "func_info": {
@@ -2528,8 +2903,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.getDiffStats",
+        "name": "getDiffStats",
         "line": 433,
+        "func_location": "GitRepository.getDiffStats",
+        "func_start_line": 431,
+        "func_end_line": 434,
         "args": ["path"]
     },
     "func_info": {
@@ -2547,8 +2925,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.getDiffStats",
+        "name": "relativize",
         "line": 433,
+        "func_location": "GitRepository.getDiffStats",
+        "func_start_line": 431,
+        "func_end_line": 434,
         "args": ["path"]
     },
     "func_info": {
@@ -2566,8 +2947,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/panel.js",
-        "name": "Panel.getElement",
+        "name": "getView",
         "line": 42,
+        "func_location": "Panel.getElement",
+        "func_start_line": 37,
+        "func_end_line": 45,
         "args": [".item"]
     },
     "func_info": {
@@ -2585,8 +2969,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.getLineDiffs",
+        "name": "getRepo",
         "line": 451,
+        "func_location": "GitRepository.getLineDiffs",
+        "func_start_line": 447,
+        "func_end_line": 453,
         "args": ["path"]
     },
     "func_info": {
@@ -2604,8 +2991,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.getLineDiffs",
+        "name": "getLineDiffs",
         "line": 452,
+        "func_location": "GitRepository.getLineDiffs",
+        "func_start_line": 447,
+        "func_end_line": 453,
         "args": ["path"]
     },
     "func_info": {
@@ -2626,8 +3016,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.getLineDiffs",
+        "name": "relativize",
         "line": 452,
+        "func_location": "GitRepository.getLineDiffs",
+        "func_start_line": 447,
+        "func_end_line": 453,
         "args": ["path"]
     },
     "func_info": {
@@ -2645,8 +3038,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.getOriginURL",
+        "name": "getConfigValue",
         "line": 285,
+        "func_location": "GitRepository.getOriginURL",
+        "func_start_line": 284,
+        "func_end_line": 286,
         "args": [{
             "type": "string"
         }, "path"]
@@ -2669,8 +3065,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.getPath",
+        "name": "getRepo",
         "line": 188,
+        "func_location": "GitRepository.getPath",
+        "func_start_line": 186,
+        "func_end_line": 191,
         "args": []
     },
     "func_info": {
@@ -2688,8 +3087,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.getPathStatus",
+        "name": "getRepo",
         "line": 375,
+        "func_location": "GitRepository.getPathStatus",
+        "func_start_line": 374,
+        "func_end_line": 390,
         "args": ["path"]
     },
     "func_info": {
@@ -2707,8 +3109,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.getPathStatus",
+        "name": "relativize",
         "line": 376,
+        "func_location": "GitRepository.getPathStatus",
+        "func_start_line": 374,
+        "func_end_line": 390,
         "args": ["path"]
     },
     "func_info": {
@@ -2726,8 +3131,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.getPathStatus",
+        "name": "relativize",
         "line": 378,
+        "func_location": "GitRepository.getPathStatus",
+        "func_start_line": 374,
+        "func_end_line": 390,
         "args": ["path"]
     },
     "func_info": {
@@ -2745,8 +3153,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.getReferences",
+        "name": "getRepo",
         "line": 309,
+        "func_location": "GitRepository.getReferences",
+        "func_start_line": 308,
+        "func_end_line": 310,
         "args": ["path"]
     },
     "func_info": {
@@ -2764,8 +3175,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.getReferences",
+        "name": "getReferences",
         "line": 309,
+        "func_location": "GitRepository.getReferences",
+        "func_start_line": 308,
+        "func_end_line": 310,
         "args": ["path"]
     },
     "func_info": {
@@ -2783,8 +3197,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.getReferenceTarget",
+        "name": "getRepo",
         "line": 318,
+        "func_location": "GitRepository.getReferenceTarget",
+        "func_start_line": 317,
+        "func_end_line": 319,
         "args": ["path"]
     },
     "func_info": {
@@ -2802,8 +3219,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.getReferenceTarget",
+        "name": "getReferenceTarget",
         "line": 318,
+        "func_location": "GitRepository.getReferenceTarget",
+        "func_start_line": 317,
+        "func_end_line": 319,
         "args": ["path"]
     },
     "func_info": {
@@ -2824,8 +3244,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.getShortHead",
+        "name": "getRepo",
         "line": 228,
+        "func_location": "GitRepository.getShortHead",
+        "func_start_line": 227,
+        "func_end_line": 229,
         "args": ["path"]
     },
     "func_info": {
@@ -2843,8 +3266,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.getShortHead",
+        "name": "getShortHead",
         "line": 228,
+        "func_location": "GitRepository.getShortHead",
+        "func_start_line": 227,
+        "func_end_line": 229,
         "args": ["path"]
     },
     "func_info": {
@@ -2862,8 +3288,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.getUpstreamBranch",
+        "name": "getRepo",
         "line": 296,
+        "func_location": "GitRepository.getUpstreamBranch",
+        "func_start_line": 295,
+        "func_end_line": 297,
         "args": ["path"]
     },
     "func_info": {
@@ -2881,8 +3310,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.getUpstreamBranch",
+        "name": "getUpstreamBranch",
         "line": 296,
+        "func_location": "GitRepository.getUpstreamBranch",
+        "func_start_line": 295,
+        "func_end_line": 297,
         "args": ["path"]
     },
     "func_info": {
@@ -2900,8 +3332,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.getWorkingDirectory",
+        "name": "getRepo",
         "line": 195,
+        "func_location": "GitRepository.getWorkingDirectory",
+        "func_start_line": 194,
+        "func_end_line": 196,
         "args": []
     },
     "func_info": {
@@ -2919,8 +3354,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/dock.js",
-        "name": "Dock.handleDrag",
+        "name": "pointWithinHoverArea",
         "line": 312,
+        "func_location": "Dock.handleDrag",
+        "func_start_line": 311,
+        "func_end_line": 315,
         "args": [null, {
             "type": "boolean"
         }]
@@ -2943,8 +3381,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/buffered-process.js",
-        "name": "BufferedProcess.handleEvents",
-        "line": 269
+        "name": "bufferStream",
+        "line": 269,
+        "func_location": "BufferedProcess.handleEvents",
+        "func_start_line": 252,
+        "func_end_line": 295
     },
     "func_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/buffered-process.js",
@@ -2967,8 +3408,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/buffered-process.js",
-        "name": "BufferedProcess.handleEvents",
-        "line": 277
+        "name": "bufferStream",
+        "line": 277,
+        "func_location": "BufferedProcess.handleEvents",
+        "func_start_line": 252,
+        "func_end_line": 295
     },
     "func_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/buffered-process.js",
@@ -2991,8 +3435,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/window-event-handler.js",
-        "name": "WindowEventHandler.handleLeaveFullScreen",
+        "name": "remove",
         "line": 203,
+        "func_location": "WindowEventHandler.handleLeaveFullScreen",
+        "func_start_line": 202,
+        "func_end_line": 204,
         "args": [{
             "type": "string"
         }]
@@ -3012,8 +3459,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/uri-handler-registry.js",
-        "name": "URIHandlerRegistry.handleURI",
+        "name": "parse",
         "line": 93,
+        "func_location": "URIHandlerRegistry.handleURI",
+        "func_start_line": 92,
+        "func_end_line": 113,
         "args": ["uri", {
             "type": "boolean"
         }]
@@ -3033,8 +3483,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/window-event-handler.js",
-        "name": "WindowEventHandler.handleWindowFocus",
+        "name": "remove",
         "line": 186,
+        "func_location": "WindowEventHandler.handleWindowFocus",
+        "func_start_line": 185,
+        "func_end_line": 187,
         "args": [{
             "type": "string"
         }]
@@ -3054,8 +3507,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.hasBranch",
+        "name": "getReferenceTarget",
         "line": 214,
+        "func_location": "GitRepository.hasBranch",
+        "func_start_line": 213,
+        "func_end_line": 215,
         "args": [null]
     },
     "func_info": {
@@ -3076,8 +3532,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/tooltip.js",
-        "name": "Tooltip.prototype.hide",
+        "name": "remove",
         "line": 371,
+        "func_location": "Tooltip.prototype.hide",
+        "func_start_line": 360,
+        "func_end_line": 391,
         "args": [{
             "type": "string"
         }]
@@ -3097,8 +3556,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/tooltip.js",
-        "name": "Tooltip.prototype.hide",
+        "name": "remove",
         "line": 374,
+        "func_location": "Tooltip.prototype.hide",
+        "func_start_line": 360,
+        "func_end_line": 391,
         "args": []
     },
     "func_info": {
@@ -3116,8 +3578,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/panel-container-element.js",
-        "name": "PanelContainerElement.initialize",
+        "name": "onDidAddPanel",
         "line": 21,
+        "func_location": "PanelContainerElement.initialize",
+        "func_start_line": 17,
+        "func_end_line": 31,
         "args": [null]
     },
     "func_info": {
@@ -3135,8 +3600,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/atom-environment.js",
-        "name": "AtomEnvironment.initialize",
+        "name": "resetUserSettings",
         "line": 224,
+        "func_location": "AtomEnvironment.initialize",
+        "func_start_line": 201,
+        "func_end_line": 274,
         "args": ["userSettings"]
     },
     "func_info": {
@@ -3157,8 +3625,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/atom-environment.js",
-        "name": "AtomEnvironment.initialize",
+        "name": "replace",
         "line": 227,
+        "func_location": "AtomEnvironment.initialize",
+        "func_start_line": 201,
+        "func_end_line": 274,
         "args": ["projectSpecification"]
     },
     "func_info": {
@@ -3176,8 +3647,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/atom-environment.js",
-        "name": "AtomEnvironment.initialize",
+        "name": "onDidAddStyleElement",
         "line": 267,
+        "func_location": "AtomEnvironment.initialize",
+        "func_start_line": 201,
+        "func_end_line": 274,
         "args": ["didChangeStyles"]
     },
     "func_info": {
@@ -3195,8 +3669,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/atom-environment.js",
-        "name": "AtomEnvironment.initialize",
+        "name": "onDidUpdateStyleElement",
         "line": 268,
+        "func_location": "AtomEnvironment.initialize",
+        "func_start_line": 201,
+        "func_end_line": 274,
         "args": ["didChangeStyles"]
     },
     "func_info": {
@@ -3214,8 +3691,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/atom-environment.js",
-        "name": "AtomEnvironment.initialize",
+        "name": "onDidRemoveStyleElement",
         "line": 269,
+        "func_location": "AtomEnvironment.initialize",
+        "func_start_line": 201,
+        "func_end_line": 274,
         "args": ["didChangeStyles"]
     },
     "func_info": {
@@ -3233,8 +3713,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/protocol-handler-installer.js",
-        "name": "ProtocolHandlerInstaller.initialize",
+        "name": "promptToBecomeProtocolClient",
         "line": 33,
+        "func_location": "ProtocolHandlerInstaller.initialize",
+        "func_start_line": 24,
+        "func_end_line": 52,
         "args": ["config", "notifications"]
     },
     "func_info": {
@@ -3255,8 +3738,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/selection.js",
-        "name": "Selection.insertText",
+        "name": "ensureWritable",
         "line": 452,
+        "func_location": "Selection.insertText",
+        "func_start_line": 451,
+        "func_end_line": 513,
         "args": [{
             "type": "string"
         }, "options"]
@@ -3279,8 +3765,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/selection.js",
-        "name": "Selection.insertText",
+        "name": "clear",
         "line": 457,
+        "func_location": "Selection.insertText",
+        "func_start_line": 451,
+        "func_end_line": 513,
         "args": ["options"]
     },
     "func_info": {
@@ -3298,8 +3787,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/selection.js",
-        "name": "Selection.insertText",
+        "name": "setBufferRange",
         "line": 494,
+        "func_location": "Selection.insertText",
+        "func_start_line": 451,
+        "func_end_line": 513,
         "args": ["newBufferRange", null]
     },
     "func_info": {
@@ -3320,8 +3812,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/selection.js",
-        "name": "Selection.insertText",
+        "name": "setBufferPosition",
         "line": 496,
+        "func_location": "Selection.insertText",
+        "func_start_line": 451,
+        "func_end_line": 513,
         "args": ["newBufferRange.end"]
     },
     "func_info": {
@@ -3342,8 +3837,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/selection.js",
-        "name": "Selection.intersectsBufferRange",
+        "name": "intersectsWith",
         "line": 167,
+        "func_location": "Selection.intersectsBufferRange",
+        "func_start_line": 166,
+        "func_end_line": 168,
         "args": []
     },
     "func_info": {
@@ -3364,8 +3862,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/selection.js",
-        "name": "Selection.intersectsWith",
+        "name": "intersectsWith",
         "line": 184,
+        "func_location": "Selection.intersectsWith",
+        "func_start_line": 183,
+        "func_end_line": 185,
         "args": []
     },
     "func_info": {
@@ -3386,8 +3887,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/cursor.js",
-        "name": "Cursor.isAtEndOfLine",
+        "name": "getCurrentLineBufferRange",
         "line": 128,
+        "func_location": "Cursor.isAtEndOfLine",
+        "func_start_line": 127,
+        "func_end_line": 129,
         "args": []
     },
     "func_info": {
@@ -3405,8 +3909,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/color.js",
-        "name": "Color.isEqual",
+        "name": "parse",
         "line": 101,
+        "func_location": "Color.isEqual",
+        "func_start_line": 95,
+        "func_end_line": 109,
         "args": ["color"]
     },
     "func_info": {
@@ -3424,8 +3931,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.isPathIgnored",
+        "name": "getRepo",
         "line": 349,
+        "func_location": "GitRepository.isPathIgnored",
+        "func_start_line": 348,
+        "func_end_line": 350,
         "args": ["path"]
     },
     "func_info": {
@@ -3443,8 +3953,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.isPathIgnored",
+        "name": "relativize",
         "line": 349,
+        "func_location": "GitRepository.isPathIgnored",
+        "func_start_line": 348,
+        "func_end_line": 350,
         "args": ["path"]
     },
     "func_info": {
@@ -3462,8 +3975,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.isPathModified",
+        "name": "isStatusModified",
         "line": 331,
+        "func_location": "GitRepository.isPathModified",
+        "func_start_line": 330,
+        "func_end_line": 332,
         "args": ["path"]
     },
     "func_info": {
@@ -3481,8 +3997,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.isPathModified",
+        "name": "getPathStatus",
         "line": 331,
+        "func_location": "GitRepository.isPathModified",
+        "func_start_line": 330,
+        "func_end_line": 332,
         "args": ["path"]
     },
     "func_info": {
@@ -3500,8 +4019,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.isPathNew",
+        "name": "isStatusNew",
         "line": 340,
+        "func_location": "GitRepository.isPathNew",
+        "func_start_line": 339,
+        "func_end_line": 341,
         "args": ["path"]
     },
     "func_info": {
@@ -3519,8 +4041,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.isPathNew",
+        "name": "getPathStatus",
         "line": 340,
+        "func_location": "GitRepository.isPathNew",
+        "func_start_line": 339,
+        "func_end_line": 341,
         "args": ["path"]
     },
     "func_info": {
@@ -3538,8 +4063,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.isProjectAtRoot",
+        "name": "relativize",
         "line": 202,
+        "func_location": "GitRepository.isProjectAtRoot",
+        "func_start_line": 200,
+        "func_end_line": 205,
         "args": []
     },
     "func_info": {
@@ -3557,8 +4085,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.isStatusModified",
+        "name": "getRepo",
         "line": 406,
+        "func_location": "GitRepository.isStatusModified",
+        "func_start_line": 406,
+        "func_end_line": 406,
         "args": []
     },
     "func_info": {
@@ -3576,8 +4107,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.isStatusModified",
+        "name": "isStatusModified",
         "line": 406,
+        "func_location": "GitRepository.isStatusModified",
+        "func_start_line": 406,
+        "func_end_line": 406,
         "args": []
     },
     "func_info": {
@@ -3595,8 +4129,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.isStatusNew",
+        "name": "getRepo",
         "line": 414,
+        "func_location": "GitRepository.isStatusNew",
+        "func_start_line": 413,
+        "func_end_line": 415,
         "args": []
     },
     "func_info": {
@@ -3614,8 +4151,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.isStatusNew",
+        "name": "isStatusNew",
         "line": 414,
+        "func_location": "GitRepository.isStatusNew",
+        "func_start_line": 413,
+        "func_end_line": 415,
         "args": []
     },
     "func_info": {
@@ -3633,8 +4173,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.isSubmodule",
+        "name": "getRepo",
         "line": 239,
+        "func_location": "GitRepository.isSubmodule",
+        "func_start_line": 236,
+        "func_end_line": 246,
         "args": ["filePath"]
     },
     "func_info": {
@@ -3652,8 +4195,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.isSubmodule",
+        "name": "isSubmodule",
         "line": 240,
+        "func_location": "GitRepository.isSubmodule",
+        "func_start_line": 236,
+        "func_end_line": 246,
         "args": ["filePath"]
     },
     "func_info": {
@@ -3671,8 +4217,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.isSubmodule",
+        "name": "relativize",
         "line": 240,
+        "func_location": "GitRepository.isSubmodule",
+        "func_start_line": 236,
+        "func_end_line": 246,
         "args": ["filePath"]
     },
     "func_info": {
@@ -3690,8 +4239,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.isSubmodule",
+        "name": "getRepo",
         "line": 244,
+        "func_location": "GitRepository.isSubmodule",
+        "func_start_line": 236,
+        "func_end_line": 246,
         "args": ["filePath", {
             "type": "string"
         }]
@@ -3711,8 +4263,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.isSubmodule",
+        "name": "relativize",
         "line": 244,
+        "func_location": "GitRepository.isSubmodule",
+        "func_start_line": 236,
+        "func_end_line": 246,
         "args": ["filePath", {
             "type": "string"
         }]
@@ -3732,8 +4287,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/decoration.js",
-        "name": "Decoration.isType",
+        "name": "isType",
         "line": 143,
+        "func_location": "Decoration.isType",
+        "func_start_line": 142,
+        "func_end_line": 144,
         "args": [".properties", "type"]
     },
     "func_info": {
@@ -3754,8 +4312,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/file-system-blob-store.js",
-        "name": "FileSystemBlobStore.load",
+        "name": "parse",
         "line": 38,
+        "func_location": "FileSystemBlobStore.load",
+        "func_start_line": 28,
+        "func_end_line": 42,
         "args": [".blobMapFilename"]
     },
     "func_info": {
@@ -3773,8 +4334,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/module-cache.js",
-        "name": "loadDependencies",
+        "name": "parse",
         "line": 64,
+        "func_location": "loadDependencies",
+        "func_start_line": 52,
+        "func_end_line": 84,
         "args": ["childMetadataPath"]
     },
     "func_info": {
@@ -3792,8 +4356,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/module-cache.js",
-        "name": "loadFolderCompatibility",
+        "name": "parse",
         "line": 92,
+        "func_location": "loadFolderCompatibility",
+        "func_start_line": 86,
+        "func_end_line": 126,
         "args": ["metadataPath"]
     },
     "func_info": {
@@ -3811,8 +4378,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/theme-manager.js",
-        "name": "ThemeManager.loadLessStylesheet",
+        "name": "addError",
         "line": 295,
+        "func_location": "ThemeManager.loadLessStylesheet",
+        "func_start_line": 249,
+        "func_end_line": 298,
         "args": ["message", null]
     },
     "func_info": {
@@ -3833,8 +4403,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/theme-manager.js",
-        "name": "ThemeManager.loadUserStylesheet",
+        "name": "addError",
         "line": 207,
+        "func_location": "ThemeManager.loadUserStylesheet",
+        "func_start_line": 185,
+        "func_end_line": 218,
         "args": ["message", null]
     },
     "func_info": {
@@ -3855,8 +4428,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/initialize-benchmark-window.js",
-        "name": "console.log",
+        "name": "write",
         "line": 80,
+        "func_location": "console.log",
+        "func_start_line": 78,
+        "func_end_line": 81,
         "args": [null]
     },
     "func_info": {
@@ -3877,8 +4453,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/config.js",
-        "name": "Config.makeValueConformToSchema",
+        "name": "getSchema",
         "line": 1173,
+        "func_location": "Config.makeValueConformToSchema",
+        "func_start_line": 1164,
+        "func_end_line": 1178,
         "args": ["keyPath"]
     },
     "func_info": {
@@ -3896,8 +4475,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/selectors.js",
-        "name": "matcherForSelector",
+        "name": "parse",
         "line": 24,
+        "func_location": "matcherForSelector",
+        "func_start_line": 23,
+        "func_end_line": 29,
         "args": ["selector"]
     },
     "func_info": {
@@ -3915,8 +4497,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-editor-component.js",
-        "name": "TextEditorComponent.measureBlockDecorations",
+        "name": "remove",
         "line": 358,
+        "func_location": "TextEditorComponent.measureBlockDecorations",
+        "func_start_line": 291,
+        "func_end_line": 362,
         "args": []
     },
     "func_info": {
@@ -3934,8 +4519,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/menu-helpers.js",
-        "name": "merge",
+        "name": "addItemToMenu",
         "line": 20,
+        "func_location": "merge",
+        "func_start_line": 14,
+        "func_end_line": 32,
         "args": ["item", "menu"]
     },
     "func_info": {
@@ -3956,8 +4544,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/cursor.js",
-        "name": "Cursor.moveDown",
+        "name": "setScreenPosition",
         "line": 271,
+        "func_location": "Cursor.moveDown",
+        "func_start_line": 261,
+        "func_end_line": 273,
         "args": [null, null]
     },
     "func_info": {
@@ -3978,8 +4569,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/cursor.js",
-        "name": "Cursor.moveLeft",
+        "name": "setScreenPosition",
         "line": 284,
+        "func_location": "Cursor.moveLeft",
+        "func_start_line": 281,
+        "func_end_line": 297,
         "args": ["range.start"]
     },
     "func_info": {
@@ -4000,8 +4594,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/cursor.js",
-        "name": "Cursor.moveLeft",
+        "name": "setScreenPosition",
         "line": 295,
+        "func_location": "Cursor.moveLeft",
+        "func_start_line": 281,
+        "func_end_line": 297,
         "args": [null, null]
     },
     "func_info": {
@@ -4022,8 +4619,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/cursor.js",
-        "name": "Cursor.moveRight",
+        "name": "setScreenPosition",
         "line": 308,
+        "func_location": "Cursor.moveRight",
+        "func_start_line": 305,
+        "func_end_line": 327,
         "args": ["range.end"]
     },
     "func_info": {
@@ -4044,8 +4644,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/cursor.js",
-        "name": "Cursor.moveRight",
+        "name": "setScreenPosition",
         "line": 325,
+        "func_location": "Cursor.moveRight",
+        "func_start_line": 305,
+        "func_end_line": 327,
         "args": [null, null]
     },
     "func_info": {
@@ -4066,8 +4669,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/cursor.js",
-        "name": "Cursor.moveToBeginningOfLine",
+        "name": "setBufferPosition",
         "line": 348,
+        "func_location": "Cursor.moveToBeginningOfLine",
+        "func_start_line": 347,
+        "func_end_line": 349,
         "args": []
     },
     "func_info": {
@@ -4088,8 +4694,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/cursor.js",
-        "name": "Cursor.moveToBeginningOfNextParagraph",
+        "name": "setBufferPosition",
         "line": 444,
+        "func_location": "Cursor.moveToBeginningOfNextParagraph",
+        "func_start_line": 442,
+        "func_end_line": 445,
         "args": ["position"]
     },
     "func_info": {
@@ -4110,8 +4719,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/cursor.js",
-        "name": "Cursor.moveToBeginningOfNextWord",
+        "name": "getBeginningOfNextWordBufferPosition",
         "line": 398,
+        "func_location": "Cursor.moveToBeginningOfNextWord",
+        "func_start_line": 397,
+        "func_end_line": 400,
         "args": []
     },
     "func_info": {
@@ -4129,8 +4741,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/cursor.js",
-        "name": "Cursor.moveToBeginningOfNextWord",
+        "name": "setBufferPosition",
         "line": 399,
+        "func_location": "Cursor.moveToBeginningOfNextWord",
+        "func_start_line": 397,
+        "func_end_line": 400,
         "args": ["position"]
     },
     "func_info": {
@@ -4151,8 +4766,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/cursor.js",
-        "name": "Cursor.moveToBeginningOfPreviousParagraph",
+        "name": "setBufferPosition",
         "line": 450,
+        "func_location": "Cursor.moveToBeginningOfPreviousParagraph",
+        "func_start_line": 448,
+        "func_end_line": 451,
         "args": ["position"]
     },
     "func_info": {
@@ -4173,8 +4791,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/cursor.js",
-        "name": "Cursor.moveToBeginningOfScreenLine",
+        "name": "setScreenPosition",
         "line": 343,
+        "func_location": "Cursor.moveToBeginningOfScreenLine",
+        "func_start_line": 342,
+        "func_end_line": 344,
         "args": []
     },
     "func_info": {
@@ -4195,8 +4816,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/cursor.js",
-        "name": "Cursor.moveToBeginningOfWord",
+        "name": "setBufferPosition",
         "line": 387,
+        "func_location": "Cursor.moveToBeginningOfWord",
+        "func_start_line": 386,
+        "func_end_line": 388,
         "args": []
     },
     "func_info": {
@@ -4217,8 +4841,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/cursor.js",
-        "name": "Cursor.moveToBeginningOfWord",
+        "name": "getBeginningOfCurrentWordBufferPosition",
         "line": 387,
+        "func_location": "Cursor.moveToBeginningOfWord",
+        "func_start_line": 386,
+        "func_end_line": 388,
         "args": []
     },
     "func_info": {
@@ -4236,8 +4863,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/cursor.js",
-        "name": "Cursor.moveToBottom",
+        "name": "setBufferPosition",
         "line": 337,
+        "func_location": "Cursor.moveToBottom",
+        "func_start_line": 335,
+        "func_end_line": 339,
         "args": []
     },
     "func_info": {
@@ -4258,8 +4888,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/cursor.js",
-        "name": "Cursor.moveToEndOfLine",
+        "name": "setBufferPosition",
         "line": 382,
+        "func_location": "Cursor.moveToEndOfLine",
+        "func_start_line": 381,
+        "func_end_line": 383,
         "args": []
     },
     "func_info": {
@@ -4280,8 +4913,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/cursor.js",
-        "name": "Cursor.moveToEndOfScreenLine",
+        "name": "setScreenPosition",
         "line": 377,
+        "func_location": "Cursor.moveToEndOfScreenLine",
+        "func_start_line": 376,
+        "func_end_line": 378,
         "args": []
     },
     "func_info": {
@@ -4302,8 +4938,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/cursor.js",
-        "name": "Cursor.moveToEndOfWord",
+        "name": "getEndOfCurrentWordBufferPosition",
         "line": 392,
+        "func_location": "Cursor.moveToEndOfWord",
+        "func_start_line": 391,
+        "func_end_line": 394,
         "args": []
     },
     "func_info": {
@@ -4321,8 +4960,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/cursor.js",
-        "name": "Cursor.moveToEndOfWord",
+        "name": "setBufferPosition",
         "line": 393,
+        "func_location": "Cursor.moveToEndOfWord",
+        "func_start_line": 391,
+        "func_end_line": 394,
         "args": ["position"]
     },
     "func_info": {
@@ -4343,8 +4985,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/cursor.js",
-        "name": "Cursor.moveToFirstCharacterOfLine",
+        "name": "setBufferPosition",
         "line": 372,
+        "func_location": "Cursor.moveToFirstCharacterOfLine",
+        "func_start_line": 353,
+        "func_end_line": 373,
         "args": [null]
     },
     "func_info": {
@@ -4365,8 +5010,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/cursor.js",
-        "name": "Cursor.moveToNextSubwordBoundary",
+        "name": "getNextWordBoundaryBufferPosition",
         "line": 424,
+        "func_location": "Cursor.moveToNextSubwordBoundary",
+        "func_start_line": 422,
+        "func_end_line": 426,
         "args": ["options"]
     },
     "func_info": {
@@ -4384,8 +5032,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/cursor.js",
-        "name": "Cursor.moveToNextSubwordBoundary",
+        "name": "setBufferPosition",
         "line": 425,
+        "func_location": "Cursor.moveToNextSubwordBoundary",
+        "func_start_line": 422,
+        "func_end_line": 426,
         "args": ["position"]
     },
     "func_info": {
@@ -4406,8 +5057,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/cursor.js",
-        "name": "Cursor.moveToNextWordBoundary",
+        "name": "getNextWordBoundaryBufferPosition",
         "line": 410,
+        "func_location": "Cursor.moveToNextWordBoundary",
+        "func_start_line": 409,
+        "func_end_line": 412,
         "args": []
     },
     "func_info": {
@@ -4425,8 +5079,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/cursor.js",
-        "name": "Cursor.moveToNextWordBoundary",
+        "name": "setBufferPosition",
         "line": 411,
+        "func_location": "Cursor.moveToNextWordBoundary",
+        "func_start_line": 409,
+        "func_end_line": 412,
         "args": ["position"]
     },
     "func_info": {
@@ -4447,8 +5104,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/cursor.js",
-        "name": "Cursor.moveToPreviousSubwordBoundary",
+        "name": "getPreviousWordBoundaryBufferPosition",
         "line": 417,
+        "func_location": "Cursor.moveToPreviousSubwordBoundary",
+        "func_start_line": 415,
+        "func_end_line": 419,
         "args": ["options"]
     },
     "func_info": {
@@ -4466,8 +5126,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/cursor.js",
-        "name": "Cursor.moveToPreviousSubwordBoundary",
+        "name": "setBufferPosition",
         "line": 418,
+        "func_location": "Cursor.moveToPreviousSubwordBoundary",
+        "func_start_line": 415,
+        "func_end_line": 419,
         "args": ["position"]
     },
     "func_info": {
@@ -4488,8 +5151,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/cursor.js",
-        "name": "Cursor.moveToPreviousWordBoundary",
+        "name": "getPreviousWordBoundaryBufferPosition",
         "line": 404,
+        "func_location": "Cursor.moveToPreviousWordBoundary",
+        "func_start_line": 403,
+        "func_end_line": 406,
         "args": []
     },
     "func_info": {
@@ -4507,8 +5173,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/cursor.js",
-        "name": "Cursor.moveToPreviousWordBoundary",
+        "name": "setBufferPosition",
         "line": 405,
+        "func_location": "Cursor.moveToPreviousWordBoundary",
+        "func_start_line": 403,
+        "func_end_line": 406,
         "args": ["position"]
     },
     "func_info": {
@@ -4529,8 +5198,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/cursor.js",
-        "name": "Cursor.moveToTop",
+        "name": "setBufferPosition",
         "line": 331,
+        "func_location": "Cursor.moveToTop",
+        "func_start_line": 330,
+        "func_end_line": 332,
         "args": [null]
     },
     "func_info": {
@@ -4551,8 +5223,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/cursor.js",
-        "name": "Cursor.moveUp",
+        "name": "setScreenPosition",
         "line": 251,
+        "func_location": "Cursor.moveUp",
+        "func_start_line": 241,
+        "func_end_line": 253,
         "args": [null, null]
     },
     "func_info": {
@@ -4573,8 +5248,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/main-process/start.js",
-        "name": "normalizeDriveLetterName",
+        "name": "replace",
         "line": 126,
+        "func_location": "normalizeDriveLetterName",
+        "func_start_line": 124,
+        "func_end_line": 130,
         "args": []
     },
     "func_info": {
@@ -4592,8 +5270,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/menu-helpers.js",
-        "name": "normalizeLabel",
+        "name": "replace",
         "line": 72,
+        "func_location": "normalizeLabel",
+        "func_start_line": 68,
+        "func_end_line": 73,
         "args": [{
             "type": "object"
         }, {
@@ -4615,8 +5296,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/project.js",
-        "name": "Project.observeBuffers",
+        "name": "onDidAddBuffer",
         "line": 192,
+        "func_location": "Project.observeBuffers",
+        "func_start_line": 190,
+        "func_end_line": 193,
         "args": ["callback"]
     },
     "func_info": {
@@ -4634,8 +5318,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-editor.js",
-        "name": "TextEditor.observeCursors",
+        "name": "onDidAddCursor",
         "line": 836,
+        "func_location": "TextEditor.observeCursors",
+        "func_start_line": 834,
+        "func_end_line": 837,
         "args": ["callback"]
     },
     "func_info": {
@@ -4653,8 +5340,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-editor.js",
-        "name": "TextEditor.observeGrammar",
+        "name": "onDidChangeGrammar",
         "line": 749,
+        "func_location": "TextEditor.observeGrammar",
+        "func_start_line": 747,
+        "func_end_line": 750,
         "args": ["callback"]
     },
     "func_info": {
@@ -4672,8 +5362,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/config.js",
-        "name": "Config.observeKeyPath",
+        "name": "get",
         "line": 1042,
+        "func_location": "Config.observeKeyPath",
+        "func_start_line": 1041,
+        "func_end_line": 1044,
         "args": ["keyPath"]
     },
     "func_info": {
@@ -4691,8 +5384,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/config.js",
-        "name": "Config.observeScopedKeyPath",
+        "name": "get",
         "line": 1265,
+        "func_location": "Config.observeScopedKeyPath",
+        "func_start_line": 1264,
+        "func_end_line": 1267,
         "args": ["keyPath", null]
     },
     "func_info": {
@@ -4710,8 +5406,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-editor.js",
-        "name": "TextEditor.observeSelections",
+        "name": "onDidAddSelection",
         "line": 868,
+        "func_location": "TextEditor.observeSelections",
+        "func_start_line": 866,
+        "func_end_line": 869,
         "args": ["callback"]
     },
     "func_info": {
@@ -4729,8 +5428,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/style-manager.js",
-        "name": "StyleManager.observeStyleElements",
+        "name": "onDidAddStyleElement",
         "line": 54,
+        "func_location": "StyleManager.observeStyleElements",
+        "func_start_line": 49,
+        "func_end_line": 55,
         "args": ["callback"]
     },
     "func_info": {
@@ -4748,8 +5450,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/workspace-center.js",
-        "name": "WorkspaceCenter.observeTextEditors",
+        "name": "onDidAddTextEditor",
         "line": 60,
+        "func_location": "WorkspaceCenter.observeTextEditors",
+        "func_start_line": 58,
+        "func_end_line": 61,
         "args": ["textEditor"]
     },
     "func_info": {
@@ -4767,8 +5472,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/dock.js",
-        "name": "Dock.observeVisible",
+        "name": "onDidChangeVisible",
         "line": 456,
+        "func_location": "Dock.observeVisible",
+        "func_start_line": 454,
+        "func_end_line": 457,
         "args": ["callback"]
     },
     "func_info": {
@@ -4786,8 +5494,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/workspace-center.js",
-        "name": "WorkspaceCenter.onDidAddTextEditor",
-        "line": 242
+        "name": "onDidAddPaneItem",
+        "line": 242,
+        "func_location": "WorkspaceCenter.onDidAddTextEditor",
+        "func_start_line": 241,
+        "func_end_line": 247
     },
     "func_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/workspace-center.js",
@@ -4804,8 +5515,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-editor.js",
-        "name": "TextEditor.onDidConflict",
+        "name": "onDidConflict",
         "line": 781,
+        "func_location": "TextEditor.onDidConflict",
+        "func_start_line": 780,
+        "func_end_line": 782,
         "args": []
     },
     "func_info": {
@@ -4823,8 +5537,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-editor.js",
-        "name": "TextEditor.onDidSave",
+        "name": "onDidSave",
         "line": 815,
+        "func_location": "TextEditor.onDidSave",
+        "func_start_line": 814,
+        "func_end_line": 816,
         "args": []
     },
     "func_info": {
@@ -4842,8 +5559,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-editor.js",
-        "name": "TextEditor.onDidStopChanging",
+        "name": "onDidStopChanging",
         "line": 686,
+        "func_location": "TextEditor.onDidStopChanging",
+        "func_start_line": 685,
+        "func_end_line": 687,
         "args": []
     },
     "func_info": {
@@ -4861,8 +5581,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/main-process/atom-application.js",
-        "name": "AtomApplication.open",
-        "line": 57
+        "name": "replace",
+        "line": 57,
+        "func_location": "AtomApplication.open",
+        "func_start_line": 34,
+        "func_end_line": 85
     },
     "func_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/project.js",
@@ -4879,8 +5602,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/main-process/atom-application.js",
-        "name": "AtomApplication.open",
-        "line": 58
+        "name": "replace",
+        "line": 58,
+        "func_location": "AtomApplication.open",
+        "func_start_line": 34,
+        "func_end_line": 85
     },
     "func_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/project.js",
@@ -4897,8 +5623,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/core-uri-handlers.js",
-        "name": "openFile",
+        "name": "getLineColNumber",
         "line": 12,
+        "func_location": "openFile",
+        "func_start_line": 8,
+        "func_end_line": 16,
         "args": ["line"]
     },
     "func_info": {
@@ -4916,8 +5645,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/core-uri-handlers.js",
-        "name": "openFile",
+        "name": "getLineColNumber",
         "line": 13,
+        "func_location": "openFile",
+        "func_start_line": 8,
+        "func_end_line": 16,
         "args": ["column"]
     },
     "func_info": {
@@ -4935,8 +5667,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/selectors.js",
-        "name": "parse",
+        "name": "replace",
         "line": 12,
+        "func_location": "parse",
+        "func_start_line": 10,
+        "func_end_line": 14,
         "args": [{
             "type": "object"
         }, {
@@ -4958,8 +5693,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/main-process/parse-command-line.js",
-        "name": "parseCommandLine",
+        "name": "write",
         "line": 78,
+        "func_location": "parseCommandLine",
+        "func_start_line": 7,
+        "func_end_line": 127,
         "args": []
     },
     "func_info": {
@@ -4980,8 +5718,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/main-process/parse-command-line.js",
-        "name": "parseCommandLine",
-        "line": 83
+        "name": "write",
+        "line": 83,
+        "func_location": "parseCommandLine",
+        "func_start_line": 7,
+        "func_end_line": 127
     },
     "func_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/clipboard.js",
@@ -5001,8 +5742,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-editor-component.js",
-        "name": "HighlightComponent.performFlash",
+        "name": "remove",
         "line": 4182,
+        "func_location": "HighlightComponent.performFlash",
+        "func_start_line": 4172,
+        "func_end_line": 4190,
         "args": ["flashClass"]
     },
     "func_info": {
@@ -5020,8 +5764,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/window.js",
-        "name": "window.profile",
-        "line": 24
+        "name": "measure",
+        "line": 24,
+        "func_location": "window.profile",
+        "func_start_line": 23,
+        "func_end_line": 30
     },
     "func_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/window.js",
@@ -5041,8 +5788,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/protocol-handler-installer.js",
-        "name": "ProtocolHandlerInstaller.promptToBecomeProtocolClient",
-        "line": 72
+        "name": "addInfo",
+        "line": 72,
+        "func_location": "ProtocolHandlerInstaller.promptToBecomeProtocolClient",
+        "func_start_line": 54,
+        "func_end_line": 100
     },
     "func_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/notification-manager.js",
@@ -5062,8 +5812,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/config.js",
-        "name": "Config.pushAtKeyPath",
+        "name": "set",
         "line": 875,
+        "func_location": "Config.pushAtKeyPath",
+        "func_start_line": 871,
+        "func_end_line": 877,
         "args": ["keyPath", "arrayValue"]
     },
     "func_info": {
@@ -5081,8 +5834,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/clipboard.js",
-        "name": "Clipboard.readWithMetadata",
+        "name": "md5",
         "line": 63,
+        "func_location": "Clipboard.readWithMetadata",
+        "func_start_line": 61,
+        "func_end_line": 68,
         "args": ["text"]
     },
     "func_info": {
@@ -5100,8 +5856,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/tooltip.js",
-        "name": "Tooltip.prototype.recalculatePosition",
+        "name": "replace",
         "line": 524,
+        "func_location": "Tooltip.prototype.recalculatePosition",
+        "func_start_line": 515,
+        "func_end_line": 548,
         "args": ["autoToken", {
             "type": "string"
         }]
@@ -5121,8 +5880,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/tooltip.js",
-        "name": "Tooltip.prototype.recalculatePosition",
+        "name": "remove",
         "line": 542,
+        "func_location": "Tooltip.prototype.recalculatePosition",
+        "func_start_line": 515,
+        "func_end_line": 548,
         "args": ["orgPlacement"]
     },
     "func_info": {
@@ -5140,8 +5902,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.refreshIndex",
+        "name": "getRepo",
         "line": 535,
+        "func_location": "GitRepository.refreshIndex",
+        "func_start_line": 534,
+        "func_end_line": 536,
         "args": []
     },
     "func_info": {
@@ -5159,8 +5924,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.relativize",
+        "name": "getRepo",
         "line": 209,
+        "func_location": "GitRepository.relativize",
+        "func_start_line": 208,
+        "func_end_line": 210,
         "args": []
     },
     "func_info": {
@@ -5178,8 +5946,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.relativize",
+        "name": "relativize",
         "line": 209,
+        "func_location": "GitRepository.relativize",
+        "func_start_line": 208,
+        "func_end_line": 210,
         "args": []
     },
     "func_info": {
@@ -5197,8 +5968,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/theme-manager.js",
-        "name": "ThemeManager.reloadBaseStylesheets",
+        "name": "requireStylesheet",
         "line": 225,
+        "func_location": "ThemeManager.reloadBaseStylesheets",
+        "func_start_line": 224,
+        "func_end_line": 226,
         "args": [{
             "type": "string"
         }, null, {
@@ -5226,8 +6000,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/config.js",
-        "name": "Config.removeAtKeyPath",
+        "name": "remove",
         "line": 890,
+        "func_location": "Config.removeAtKeyPath",
+        "func_start_line": 887,
+        "func_end_line": 893,
         "args": ["arrayValue", "value"]
     },
     "func_info": {
@@ -5245,8 +6022,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/config.js",
-        "name": "Config.removeAtKeyPath",
+        "name": "set",
         "line": 891,
+        "func_location": "Config.removeAtKeyPath",
+        "func_start_line": 887,
+        "func_end_line": 893,
         "args": ["keyPath", "arrayValue"]
     },
     "func_info": {
@@ -5264,8 +6044,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/dock.js",
-        "name": "Dock.render",
+        "name": "isItemAllowed",
         "line": 240,
+        "func_location": "Dock.render",
+        "func_start_line": 179,
+        "func_end_line": 244,
         "args": [".state.draggingItem", ".location"]
     },
     "func_info": {
@@ -5286,8 +6069,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-editor-component.js",
-        "name": "TextEditorComponent.render",
+        "name": "replace",
         "line": 492,
+        "func_location": "TextEditorComponent.render",
+        "func_start_line": 451,
+        "func_end_line": 521,
         "args": [{
             "type": "object"
         }, {
@@ -5309,8 +6095,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/config.js",
-        "name": "Config.resetScopedSettings",
+        "name": "priorityForSource",
         "line": 1217,
+        "func_location": "Config.resetScopedSettings",
+        "func_start_line": 1215,
+        "func_end_line": 1229,
         "args": ["source"]
     },
     "func_info": {
@@ -5328,8 +6117,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/config.js",
-        "name": "Config.resetSettingsForSchemaChange",
-        "line": 1184
+        "name": "transact",
+        "line": 1184,
+        "func_location": "Config.resetSettingsForSchemaChange",
+        "func_start_line": 1182,
+        "func_end_line": 1194
     },
     "func_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/config.js",
@@ -5346,8 +6138,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/compile-cache.js",
-        "name": "retrieveSourceMap",
+        "name": "parse",
         "line": 180,
+        "func_location": "retrieveSourceMap",
+        "func_start_line": 137,
+        "func_end_line": 190,
         "args": [null]
     },
     "func_info": {
@@ -5365,8 +6160,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/pane-container-element.js",
-        "name": "PaneContainerElement.rootChanged",
+        "name": "remove",
         "line": 22,
+        "func_location": "PaneContainerElement.rootChanged",
+        "func_start_line": 19,
+        "func_end_line": 31,
         "args": []
     },
     "func_info": {
@@ -5384,8 +6182,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/pane-container-element.js",
-        "name": "PaneContainerElement.rootChanged",
+        "name": "getView",
         "line": 25,
+        "func_location": "PaneContainerElement.rootChanged",
+        "func_start_line": 19,
+        "func_end_line": 31,
         "args": ["root"]
     },
     "func_info": {
@@ -5403,8 +6204,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/selection.js",
-        "name": "Selection.selectAll",
+        "name": "setBufferRange",
         "line": 283,
+        "func_location": "Selection.selectAll",
+        "func_start_line": 282,
+        "func_end_line": 284,
         "args": []
     },
     "func_info": {
@@ -5425,8 +6229,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/selection.js",
-        "name": "Selection.selectLine",
+        "name": "setBufferRange",
         "line": 387,
+        "func_location": "Selection.selectLine",
+        "func_start_line": 385,
+        "func_end_line": 397,
         "args": ["row", null]
     },
     "func_info": {
@@ -5447,8 +6254,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/selection.js",
-        "name": "Selection.selectLine",
+        "name": "setBufferRange",
         "line": 391,
+        "func_location": "Selection.selectLine",
+        "func_start_line": 385,
+        "func_end_line": 397,
         "args": ["endRange"]
     },
     "func_info": {
@@ -5469,8 +6279,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/selectors.js",
-        "name": "selectorMatchesAnyScope",
+        "name": "matcherForSelector",
         "line": 37,
+        "func_location": "selectorMatchesAnyScope",
+        "func_start_line": 36,
+        "func_end_line": 38,
         "args": ["selector"]
     },
     "func_info": {
@@ -5488,8 +6301,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/selection.js",
-        "name": "Selection.selectWord",
+        "name": "setBufferRange",
         "line": 369,
+        "func_location": "Selection.selectWord",
+        "func_start_line": 363,
+        "func_end_line": 372,
         "args": ["options"]
     },
     "func_info": {
@@ -5510,8 +6326,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/selection.js",
-        "name": "Selection.selectWord",
+        "name": "getCurrentWordBufferRange",
         "line": 369,
+        "func_location": "Selection.selectWord",
+        "func_start_line": 363,
+        "func_end_line": 372,
         "args": ["options"]
     },
     "func_info": {
@@ -5529,8 +6348,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/main-process/application-menu.js",
-        "name": "ApplicationMenu.setActiveTemplate",
+        "name": "showUpdateMenuItem",
         "line": 39,
+        "func_location": "ApplicationMenu.setActiveTemplate",
+        "func_start_line": 32,
+        "func_end_line": 40,
         "args": []
     },
     "func_info": {
@@ -5548,8 +6370,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/tooltip.js",
-        "name": "Tooltip.prototype.setContent",
+        "name": "getView",
         "line": 347,
+        "func_location": "Tooltip.prototype.setContent",
+        "func_start_line": 338,
+        "func_end_line": 358,
         "args": [".options.item"]
     },
     "func_info": {
@@ -5567,8 +6392,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/tooltip.js",
-        "name": "Tooltip.prototype.setContent",
+        "name": "remove",
         "line": 357,
+        "func_location": "Tooltip.prototype.setContent",
+        "func_start_line": 338,
+        "func_end_line": 358,
         "args": [{
             "type": "string"
         }, {
@@ -5598,8 +6426,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/config.js",
-        "name": "Config.setDefaults",
-        "line": 1073
+        "name": "transact",
+        "line": 1073,
+        "func_location": "Config.setDefaults",
+        "func_start_line": 1070,
+        "func_end_line": 1090
     },
     "func_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/config.js",
@@ -5616,8 +6447,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/decoration.js",
-        "name": "Decoration.setProperties",
+        "name": "translateDecorationParamsOldToNew",
         "line": 167,
+        "func_location": "Decoration.setProperties",
+        "func_start_line": 164,
+        "func_end_line": 173,
         "args": ["newProperties"]
     },
     "func_info": {
@@ -5635,8 +6469,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/config.js",
-        "name": "Config.setRawScopedValue",
+        "name": "priorityForSource",
         "line": 1240,
+        "func_location": "Config.setRawScopedValue",
+        "func_start_line": 1231,
+        "func_end_line": 1242,
         "args": ["source"]
     },
     "func_info": {
@@ -5654,8 +6491,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/config.js",
-        "name": "Config.setSchema",
-        "line": 916
+        "name": "transact",
+        "line": 916,
+        "func_location": "Config.setSchema",
+        "func_start_line": 895,
+        "func_end_line": 921
     },
     "func_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/config.js",
@@ -5672,8 +6512,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/config.js",
-        "name": "Config.setScopedDefaultsFromSchema",
+        "name": "setScopedDefaultsFromSchema",
         "line": 1148,
+        "func_location": "Config.setScopedDefaultsFromSchema",
+        "func_start_line": 1131,
+        "func_end_line": 1151,
         "args": [null]
     },
     "func_info": {
@@ -5694,8 +6537,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/selection.js",
-        "name": "Selection.setScreenRange",
+        "name": "setBufferRange",
         "line": 75,
+        "func_location": "Selection.setScreenRange",
+        "func_start_line": 74,
+        "func_end_line": 76,
         "args": ["screenRange"]
     },
     "func_info": {
@@ -5716,8 +6562,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/tooltip.js",
-        "name": "Tooltip.prototype.show",
+        "name": "replace",
         "line": 244,
+        "func_location": "Tooltip.prototype.show",
+        "func_start_line": 218,
+        "func_end_line": 281,
         "args": ["autoToken", {
             "type": "string"
         }]
@@ -5737,8 +6586,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/tooltip.js",
-        "name": "Tooltip.prototype.show",
+        "name": "remove",
         "line": 246,
+        "func_location": "Tooltip.prototype.show",
+        "func_start_line": 218,
+        "func_end_line": 281,
         "args": []
     },
     "func_info": {
@@ -5756,8 +6608,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/tooltip.js",
-        "name": "Tooltip.prototype.show",
+        "name": "remove",
         "line": 268,
+        "func_location": "Tooltip.prototype.show",
+        "func_start_line": 218,
+        "func_end_line": 281,
         "args": ["orgPlacement"]
     },
     "func_info": {
@@ -5775,8 +6630,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/main-process/application-menu.js",
-        "name": "ApplicationMenu.showUpdateMenuItem",
+        "name": "flattenMenuItems",
         "line": 110,
+        "func_location": "ApplicationMenu.showUpdateMenuItem",
+        "func_start_line": 109,
+        "func_end_line": 140,
         "args": [".menu"]
     },
     "func_info": {
@@ -5794,8 +6652,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/cursor.js",
-        "name": "Cursor.skipLeadingWhitespace",
+        "name": "getCurrentLineBufferRange",
         "line": 432,
+        "func_location": "Cursor.skipLeadingWhitespace",
+        "func_start_line": 430,
+        "func_end_line": 439,
         "args": []
     },
     "func_info": {
@@ -5813,8 +6674,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/cursor.js",
-        "name": "Cursor.skipLeadingWhitespace",
+        "name": "setBufferPosition",
         "line": 438,
+        "func_location": "Cursor.skipLeadingWhitespace",
+        "func_start_line": 430,
+        "func_end_line": 439,
         "args": ["endOfLeadingWhitespace"]
     },
     "func_info": {
@@ -5835,8 +6699,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/buffered-process.js",
-        "name": "BufferedProcess.start",
+        "name": "spawnWithEscapedWindowsArgs",
         "line": 71,
+        "func_location": "BufferedProcess.start",
+        "func_start_line": 65,
+        "func_end_line": 76,
         "args": [".command", ".args", ".options"]
     },
     "func_info": {
@@ -5860,8 +6727,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/theme-manager.js",
-        "name": "ThemeManager.stylesheetElementForId",
+        "name": "replace",
         "line": 229,
+        "func_location": "ThemeManager.stylesheetElementForId",
+        "func_start_line": 228,
+        "func_end_line": 231,
         "args": [{
             "type": "object"
         }, {
@@ -5883,8 +6753,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/git-repository.js",
-        "name": "GitRepository.subscribeToBuffer",
+        "name": "onDidSave",
         "line": 503,
+        "func_location": "GitRepository.subscribeToBuffer",
+        "func_start_line": 495,
+        "func_end_line": 511,
         "args": ["getBufferPathStatus"]
     },
     "func_info": {
@@ -5902,8 +6775,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-editor.js",
-        "name": "TextEditor.subscribeToBuffer",
-        "line": 588
+        "name": "onDidChangeEncoding",
+        "line": 588,
+        "func_location": "TextEditor.subscribeToBuffer",
+        "func_start_line": 581,
+        "func_end_line": 595
     },
     "func_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-editor.js",
@@ -5920,8 +6796,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/workspace.js",
-        "name": "Workspace.subscribeToEvents",
+        "name": "onDidChangePaths",
         "line": 321,
+        "func_location": "Workspace.subscribeToEvents",
+        "func_start_line": 320,
+        "func_end_line": 326,
         "args": [".updateWindowTitle"]
     },
     "func_info": {
@@ -5939,8 +6818,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/main-process/application-menu.js",
-        "name": "ApplicationMenu.substituteVersion",
+        "name": "flattenMenuTemplate",
         "line": 104,
+        "func_location": "ApplicationMenu.substituteVersion",
+        "func_start_line": 103,
+        "func_end_line": 106,
         "args": ["template"]
     },
     "func_info": {
@@ -5958,8 +6840,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/style-manager.js",
-        "name": "transformDeprecatedShadowDOMSelectors",
+        "name": "parse",
         "line": 267,
+        "func_location": "transformDeprecatedShadowDOMSelectors",
+        "func_start_line": 263,
+        "func_end_line": 331,
         "args": ["css"]
     },
     "func_info": {
@@ -5977,8 +6862,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/config.js",
-        "name": "Config.unset",
+        "name": "set",
         "line": 746,
+        "func_location": "Config.unset",
+        "func_start_line": 730,
+        "func_end_line": 766,
         "args": ["source"]
     },
     "func_info": {
@@ -5996,8 +6884,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/config.js",
-        "name": "Config.unset",
+        "name": "priorityForSource",
         "line": 746,
+        "func_location": "Config.unset",
+        "func_start_line": 730,
+        "func_end_line": 766,
         "args": ["source"]
     },
     "func_info": {
@@ -6015,8 +6906,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/config.js",
-        "name": "Config.unset",
+        "name": "unset",
         "line": 760,
+        "func_location": "Config.unset",
+        "func_start_line": 730,
+        "func_end_line": 766,
         "args": ["keyPath", null]
     },
     "func_info": {
@@ -6037,8 +6931,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/config.js",
-        "name": "Config.unset",
+        "name": "set",
         "line": 763,
+        "func_location": "Config.unset",
+        "func_start_line": 730,
+        "func_end_line": 766,
         "args": [".defaultSettings", "keyPath"]
     },
     "func_info": {
@@ -6056,8 +6953,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/config.js",
-        "name": "Config.unshiftAtKeyPath",
+        "name": "set",
         "line": 883,
+        "func_location": "Config.unshiftAtKeyPath",
+        "func_start_line": 879,
+        "func_end_line": 885,
         "args": ["keyPath", "arrayValue"]
     },
     "func_info": {
@@ -6075,8 +6975,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/pane-axis.js",
-        "name": "PaneAxis.unsubscribeFromChild",
+        "name": "remove",
         "line": 188,
+        "func_location": "PaneAxis.unsubscribeFromChild",
+        "func_start_line": 186,
+        "func_end_line": 190,
         "args": ["subscription"]
     },
     "func_info": {
@@ -6094,8 +6997,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/main-process/application-menu.js",
-        "name": "ApplicationMenu.update",
+        "name": "translateTemplate",
         "line": 26,
+        "func_location": "ApplicationMenu.update",
+        "func_start_line": 25,
+        "func_end_line": 30,
         "args": ["template", "keystrokesByCommand"]
     },
     "func_info": {
@@ -6116,8 +7022,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/main-process/application-menu.js",
-        "name": "ApplicationMenu.update",
+        "name": "substituteVersion",
         "line": 27,
+        "func_location": "ApplicationMenu.update",
+        "func_start_line": 25,
+        "func_end_line": 30,
         "args": ["template"]
     },
     "func_info": {
@@ -6135,8 +7044,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-editor-component.js",
-        "name": "OverlayComponent.update",
+        "name": "remove",
         "line": 4318,
+        "func_location": "OverlayComponent.update",
+        "func_start_line": 4312,
+        "func_end_line": 4323,
         "args": ["oldProps.className"]
     },
     "func_info": {
@@ -6154,8 +7066,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-editor-component.js",
-        "name": "LineNumberComponent.update",
+        "name": "remove",
         "line": 3435,
+        "func_location": "LineNumberComponent.update",
+        "func_start_line": 3411,
+        "func_end_line": 3445,
         "args": []
     },
     "func_info": {
@@ -6173,8 +7088,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-editor-component.js",
-        "name": "LineComponent.update",
+        "name": "remove",
         "line": 3959,
+        "func_location": "LineComponent.update",
+        "func_start_line": 3946,
+        "func_end_line": 3962,
         "args": []
     },
     "func_info": {
@@ -6192,8 +7110,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-editor-component.js",
-        "name": "CustomGutterDecorationComponent.update",
+        "name": "remove",
         "line": 3530,
+        "func_location": "CustomGutterDecorationComponent.update",
+        "func_start_line": 3519,
+        "func_end_line": 3536,
         "args": []
     },
     "func_info": {
@@ -6211,8 +7132,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-editor-component.js",
-        "name": "TextEditorComponent.updateClassList",
+        "name": "remove",
         "line": 847,
+        "func_location": "TextEditorComponent.updateClassList",
+        "func_start_line": 829,
+        "func_end_line": 857,
         "args": ["className"]
     },
     "func_info": {
@@ -6230,8 +7154,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/workspace-element.js",
-        "name": "WorkspaceElement.updateHoveredDock",
+        "name": "pointWithinHoverArea",
         "line": 196,
+        "func_location": "WorkspaceElement.updateHoveredDock",
+        "func_start_line": 194,
+        "func_end_line": 202,
         "args": ["mousePosition", {
             "type": "boolean"
         }]
@@ -6254,8 +7181,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-editor-component.js",
-        "name": "TextEditorComponent.updateModelSoftWrapColumn",
+        "name": "setEditorWidthInChars",
         "line": 2128,
+        "func_location": "TextEditorComponent.updateModelSoftWrapColumn",
+        "func_start_line": 2121,
+        "func_end_line": 2145,
         "args": ["newEditorWidthInChars"]
     },
     "func_info": {
@@ -6273,8 +7203,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-editor-component.js",
-        "name": "TextEditorComponent.updateModelSoftWrapColumn",
+        "name": "populateVisibleRowRange",
         "line": 2139,
+        "func_location": "TextEditorComponent.updateModelSoftWrapColumn",
+        "func_start_line": 2121,
+        "func_end_line": 2145,
         "args": ["renderedStartRow"]
     },
     "func_info": {
@@ -6292,8 +7225,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-editor-component.js",
-        "name": "TextEditorComponent.updateModelSoftWrapColumn",
+        "name": "setEditorWidthInChars",
         "line": 2140,
+        "func_location": "TextEditorComponent.updateModelSoftWrapColumn",
+        "func_start_line": 2121,
+        "func_end_line": 2145,
         "args": []
     },
     "func_info": {
@@ -6311,8 +7247,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/text-editor-component.js",
-        "name": "TextEditorComponent.updateSyncBeforeMeasuringContent",
+        "name": "populateVisibleRowRange",
         "line": 374,
+        "func_location": "TextEditorComponent.updateSyncBeforeMeasuringContent",
+        "func_start_line": 364,
+        "func_end_line": 387,
         "args": []
     },
     "func_info": {
@@ -6330,8 +7269,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/style-manager.js",
-        "name": "StyleManager.upgradeDeprecatedSelectorsForStyleSheet",
+        "name": "parse",
         "line": 198,
+        "func_location": "StyleManager.upgradeDeprecatedSelectorsForStyleSheet",
+        "func_start_line": 189,
+        "func_end_line": 207,
         "args": ["cacheFilePath"]
     },
     "func_info": {
@@ -6349,8 +7291,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/initialize-benchmark-window.js",
-        "name": "console.warn",
+        "name": "write",
         "line": 84,
+        "func_location": "console.warn",
+        "func_start_line": 82,
+        "func_end_line": 85,
         "args": [null]
     },
     "func_info": {
@@ -6371,8 +7316,11 @@
 }, {
     "call_info": {
         "file": "E:/research/parameterMismatch/parametermismatch/dataset/atom/src/clipboard.js",
-        "name": "Clipboard.write",
+        "name": "md5",
         "line": 43,
+        "func_location": "Clipboard.write",
+        "func_start_line": 42,
+        "func_end_line": 46,
         "args": ["text"]
     },
     "func_info": {

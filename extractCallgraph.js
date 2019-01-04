@@ -17,13 +17,15 @@ for (var func of funcInfo) {
     }
     funcInfoMapTotal[func.id] = func;
 }
-for (call of callInfo) {
+
+for (var call of callInfo) {
     if (funcInfoMapTotal[call.id]) {
         call.func_location = funcInfoMapTotal[call.id].name;
         call.func_start_line = funcInfoMapTotal[call.id].start_line;
         call.func_end_line = funcInfoMapTotal[call.id].end_line;
     }
 }
+
 var call_func_pair = [];
 for (call of callInfo) {
     var pair = {}
@@ -31,7 +33,7 @@ for (call of callInfo) {
     if (func) {
         pair.call_info = {};
         pair.call_info.file = call.file;
-        pair.call_info.name = call.name;
+        pair.call_info.name = call.call_func_name;
         pair.call_info.line = call.line;
 
         pair.call_info.func_location = call.func_location;
