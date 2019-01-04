@@ -9,13 +9,21 @@ var funcInfo = JSON.parse(fs.readFileSync(funcInfoFile));
 var callInfo = JSON.parse(fs.readFileSync(callInfoFile));
 
 var funcInfoMap = {};
+var funcInfoMapTotal = {};
 
 for (var func of funcInfo) {
     if (func.name.indexOf('unnamed_function') === -1) {
         funcInfoMap[func.id] = func;
     }
+    funcInfoMapTotal[func.id] = func;
 }
-
+for (call of callInfo) {
+    if (funcInfoMapTotal[call.id]) {
+        call.func_location = funcInfoMapTotal[call.id].name;
+        call.func_start_line = funcInfoMapTotal[call.id].start_line;
+        call.func_end_line = funcInfoMapTotal[call.id].end_line;
+    }
+}
 var call_func_pair = [];
 for (call of callInfo) {
     var pair = {}
@@ -25,6 +33,11 @@ for (call of callInfo) {
         pair.call_info.file = call.file;
         pair.call_info.name = call.name;
         pair.call_info.line = call.line;
+
+        pair.call_info.func_location = call.func_location;
+        pair.call_info.func_start_line = call.func_start_line;
+        pair.call_info.func_end_line = call.func_end_line;
+
 
         pair.func_info = {};
         pair.func_info.file = func.file;
@@ -37,6 +50,3 @@ for (call of callInfo) {
 }
 console.log(call_func_pair.length);
 fs.writeFileSync(path.join(process.cwd(), callFunFile), JSON.stringify(call_func_pair), 'utf-8');
-
-
-
