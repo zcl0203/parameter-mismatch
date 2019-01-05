@@ -51,7 +51,7 @@ for (var call_func_pair of call_func_info) {
     }
 
     for (item of file_call_args[file]) {
-        if (item.start_line === line && item.end_line === line) {
+        if (item.start_line === line && item.end_line === line && item.func === name) {
             call_func_pair.call_info.args = item.args;
         }
     }
@@ -244,7 +244,7 @@ function extractCallArgs(file) {
                 var func,
                     args = [];
 
-                func = resolveFuncName(node.callee);
+                func = resolveFuncName(node.callee).split('.').pop();
                 args = node.arguments.map(arg => resolveParam(arg));
                 call_params.push({
                     'func': func,
