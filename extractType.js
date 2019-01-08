@@ -4,7 +4,7 @@ var path = require('path');
 var call_func_file = 'call_func_info.json';
 var call_func_info = JSON.parse(fs.readFileSync(path.join(process.cwd(), call_func_file)), 'utf-8');
 var call_func_type_file = 'call_func_type.json';
-var type = ['string', 'number', 'boolean', 'object', 'array', 'function', 'optional'];
+var type = ['string', 'number', 'boolean', 'object', 'null', 'undefined', 'array', 'function', 'optional'];
 var returnWords = ['return', 'returns'];
 var call_func_type_info = [];
 
