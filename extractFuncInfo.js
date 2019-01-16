@@ -33,27 +33,31 @@ for (var call_func_pair of call_func_info) {
     }
 }
 
-var file_call_args = {};
+// 对每一个调用函数提取对应的信息，包括函数参数，所在函数的代码片段以及注释信息
 for (var call_func_pair of call_func_info) {
 
     var call_info = call_func_pair.call_info;
     var file = call_info.file;
     var name = call_info.name;
     var line = call_info.line;
-    
-    if (!file_call_args[file]) {
-        try {
-            file_call_args[file] = extractCallArgs(file);
-        } catch (err) {
-            file_call_args[file] = [];
-            console.log(file);
-        }
+    var func_start_line = call_info.func_start_line;
+    var func_end_line = call_info.func_end_line;
+
+    var res;
+    try {
+        res = extractCallInfo(file, name, line, func_start_line, func_end_line);
+    } catch (err) {
+        console.log(file);
     }
 
-    for (item of file_call_args[file]) {
-        if (item.start_line === line && item.end_line === line && item.func === name) {
-            call_func_pair.call_info.args = item.args;
+    if (res) {
+        if (res.comment) {
+            console.log(res.comment);
         }
+
+        call_info.args = res.args;
+        call_info.comment = res.comment;
+        call_info.code = res.code;
     }
 }
 
@@ -229,34 +233,49 @@ function extractFuncInfo(file = 'E:/research/parameterMismatch/parametermismatch
     return func_comment_pair;
 }
 
-// 获取文件函数调用时的参数
-function extractCallArgs(file) {
-    var call_params = [];
+// 获取文件函数调用时的参数以及该函数调用所在的函数以及该函数的注释
+function extractCallInfo(file, name, line, func_start_line, func_end_line) {
+
     var ast = esprima.parseScript(fs.readFileSync(file, 'utf-8'), {
         loc: true,
         tolerant: true,
         attachComment: true
     });
 
-    estraverse.traverse(ast, {
-        enter: function (node, parent) {
-            if (node.type === 'CallExpression') {
-                var func,
-                    args = [];
+    var callInfo = {};
 
-                func = resolveFuncName(node.callee).split('.').pop();
-                args = node.arguments.map(arg => resolveParam(arg));
-                call_params.push({
-                    'func': func,
-                    'args': args,
-                    'start_line': node.loc.start.line,
-                    'end_line': node.loc.end.line
+    estraverse.traverse(ast, {
+        enter: function (node, paranet) {
+            if (node.loc.start.line === func_start_line && node.loc.end.line === func_end_line) {
+                var comment, code;
+                if (node.leadingComments) {
+                    comment = node.leadingComments.map(comment => comment.value);
+                }
+                code = node;
+
+                estraverse.traverse(node, {
+                    enter: function (node, parent) {
+                        if (node.type === 'CallExpression') {
+                            var func,
+                                args = [];
+
+                            func = resolveFuncName(node.callee).split('.').pop();
+                            args = node.arguments.map(arg => resolveParam(arg));
+                            if (node.loc.start.line === line && node.loc.end.line === line) {
+                                callInfo.args = args;
+                                callInfo.comment = comment;
+                                callInfo.code = code;
+                                this.break();
+                            }
+                        }
+                    }
                 });
+                this.break();
             }
         }
     });
 
-    return call_params;
+    return callInfo;
 }
 
 function resolveFuncName(obj) {
@@ -276,7 +295,9 @@ function resolveParam(obj) {
     var param;
 
     if (obj.type === 'Literal') {
-        param = {'type': typeof(obj.value)};
+        param = {
+            'type': typeof (obj.value)
+        };
     }
     if (obj.type === 'RestElement') {
         param = obj.argument.name;
