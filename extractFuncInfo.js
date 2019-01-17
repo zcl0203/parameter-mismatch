@@ -51,9 +51,6 @@ for (var call_func_pair of call_func_info) {
     }
 
     if (res) {
-        if (res.comment) {
-            console.log(res.comment);
-        }
 
         call_info.args = res.args;
         call_info.comment = res.comment;
@@ -251,7 +248,7 @@ function extractCallInfo(file, name, line, func_start_line, func_end_line) {
                 if (node.leadingComments) {
                     comment = node.leadingComments.map(comment => comment.value);
                 }
-                code = node;
+                code = fs.readFileSync(file, 'utf-8').split('\n').slice(func_start_line-1, func_end_line).join('\n');
 
                 estraverse.traverse(node, {
                     enter: function (node, parent) {
