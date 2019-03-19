@@ -1,0 +1,967 @@
+,cleaned_name,comment,datapoint_type,filename,line_number,name,params,return_param_comment,type
+0,export,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/karma.conf.js,19,exports,,,
+1,configure,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/karma.conf.js,33,configure,,,
+2,add sauce test,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/karma.conf.js,165,addSauceTests,,,
+3,test name,name test use coverage reporting,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/package-scripts.js,12,testName,,,string
+4,mocha params,parameter mocha cli execute desired test,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/package-scripts.js,12,mochaParams,,,string
+5,test,generate command run mocha test without test coverage desire current runmode,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/package-scripts.js,12,test,test name mocha params,command string execute np,string
+6,remove listener,remove uncaught exception listener. revert original onerror handler previously define,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/browser-entry.js,41,removeListener,,,
+7,onerror,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/browser-entry.js,46,onerror,,,
+8,on,implement uncaught exception listener,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/browser-entry.js,59,on,,,
+9,onerror,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/browser-entry.js,61,onerror,,,
+10,timeslice,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/browser-entry.js,77,timeslice,,,
+11,immediately,high performance override runner immediately,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/browser-entry.js,93,immediately,,,
+12,throw error,function allow assertion library throw error directly mocha. useful run test browser window onerror receive message attribute error,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/browser-entry.js,105,throwError,,,
+13,ui,override ui ensure ui function initialized. normally would happen mocha prototype load file,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/browser-entry.js,117,ui,,,
+14,setup,setup mocha give setting option,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/browser-entry.js,127,setup,,,
+15,run,run mocha return runner,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/browser-entry.js,143,run,,,
+16,export,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/.wallaby.js,3,exports,,,
+17,setup,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/.wallaby.js,34,setup,,,
+18,exec file,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/.wallaby.js,45,execFile,,,
+19,mixin mocha assertion,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/assertions.js,3,mixinMochaAssertions,,,
+20,identify,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/assertions.js,8,identify,,,
+21,identify,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/assertions.js,20,identify,,,
+22,identify,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/assertions.js,32,identify,,,
+23,circle error,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/json.spec.js,69,CircleError,,,
+24,draw,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,27,draw,,,
+25,generate color,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,30,generateColors,,,
+26,draw,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,45,draw,,,
+27,generate color,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,48,generateColors,,,
+28,slow,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,62,slow,,,
+29,draw,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,67,draw,,,
+30,generate color,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,70,generateColors,,,
+31,draw,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,88,draw,,,
+32,generate color,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,91,generateColors,,,
+33,draw,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,106,draw,,,
+34,generate color,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,107,generateColors,,,
+35,epilogue,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,108,epilogue,,,
+36,draw,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,123,draw,,,
+37,generate color,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,124,generateColors,,,
+38,epilogue,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,125,epilogue,,,
+39,show,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,140,show,,,
+40,draw,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,146,draw,,,
+41,generate color,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,147,generateColors,,,
+42,epilogue,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,148,epilogue,,,
+43,write,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,167,write,,,
+44,on,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,178,on,,,
+45,once,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,178,once,,,
+46,append rainbow,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,183,appendRainbow,,,
+47,rainbowify,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,184,rainbowify,,,
+48,draw scoreboard,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,185,drawScoreboard,,,
+49,draw rainbow,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,186,drawRainbow,,,
+50,face,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,190,face,,,
+51,cursor up,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,191,cursorUp,,,
+52,on,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,213,on,,,
+53,once,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,213,once,,,
+54,append rainbow,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,218,appendRainbow,,,
+55,rainbowify,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,219,rainbowify,,,
+56,draw scoreboard,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,220,drawScoreboard,,,
+57,draw rainbow,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,221,drawRainbow,,,
+58,face,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,225,face,,,
+59,cursor up,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,226,cursorUp,,,
+60,write,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,255,write,,,
+61,on,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,265,on,,,
+62,once,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,265,once,,,
+63,write,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,281,write,,,
+64,on,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,291,on,,,
+65,once,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,291,once,,,
+66,on,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,314,on,,,
+67,once,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,314,once,,,
+68,on,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,335,on,,,
+69,once,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,335,once,,,
+70,on,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,356,on,,,
+71,once,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,356,once,,,
+72,rainbowify,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,362,rainbowify,,,
+73,on,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,373,on,,,
+74,once,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,373,once,,,
+75,rainbowify,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,387,rainbowify,,,
+76,on,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,400,on,,,
+77,once,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,400,once,,,
+78,rainbowify,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,406,rainbowify,,,
+79,write,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,428,write,,,
+80,color,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,435,color,,,
+81,on,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,449,on,,,
+82,once,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,449,once,,,
+83,cursor up,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,451,cursorUp,,,
+84,on,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,474,on,,,
+85,once,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,474,once,,,
+86,cursor up,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,476,cursorUp,,,
+87,write,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,495,write,,,
+88,on,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,513,on,,,
+89,once,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,513,once,,,
+90,cursor up,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,515,cursorUp,,,
+91,on,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,533,on,,,
+92,once,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,533,once,,,
+93,cursor up,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,535,cursorUp,,,
+94,on,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,548,on,,,
+95,once,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,548,once,,,
+96,on,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,554,on,,,
+97,once,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,554,once,,,
+98,on,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,560,on,,,
+99,once,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,560,once,,,
+100,on,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,566,on,,,
+101,once,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/nyan.spec.js,566,once,,,
+102,on,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,31,on,,,
+103,once,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,31,once,,,
+104,sync,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,58,sync,,,
+105,dirname,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,61,dirname,,,
+106,create write stream,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,64,createWriteStream,,,
+107,slow,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,87,slow,,,
+108,slow,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,91,slow,,,
+109,slow,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,95,slow,,,
+110,once,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,97,once,,,
+111,write,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,115,write,,,
+112,test,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,116,test,,,
+113,on,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,131,on,,,
+114,once,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,131,once,,,
+115,callback,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,132,callback,,,
+116,end,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,137,end,,,
+117,on,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,150,on,,,
+118,once,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,150,once,,,
+119,callback,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,151,callback,,,
+120,on,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,164,on,,,
+121,once,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,164,once,,,
+122,write,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,166,write,,,
+123,write,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,178,write,,,
+124,on,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,182,on,,,
+125,once,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,182,once,,,
+126,log,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,195,log,,,
+127,on,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,199,on,,,
+128,once,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,199,once,,,
+129,on,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,212,on,,,
+130,once,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,212,once,,,
+131,full title,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,217,fullTitle,,,
+132,write,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,231,write,,,
+133,on,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,256,on,,,
+134,once,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,256,once,,,
+135,be pending,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,259,isPending,,,
+136,full title,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,264,fullTitle,,,
+137,write,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,272,write,,,
+138,on,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,291,on,,,
+139,once,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,291,once,,,
+140,be pending,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,294,isPending,,,
+141,full title,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,299,fullTitle,,,
+142,write,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,307,write,,,
+143,generate test,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,332,generateTest,,,
+144,be pending,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,336,isPending,,,
+145,slow,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,339,slow,,,
+146,full title,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,343,fullTitle,,,
+147,write,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,356,write,,,
+148,once,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,388,once,,,
+149,write,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/xunit.spec.js,395,write,,,
+150,hide,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/landing.spec.js,44,hide,,,
+151,hide,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/landing.spec.js,55,hide,,,
+152,show,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/landing.spec.js,96,show,,,
+153,epilogue,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/landing.spec.js,104,epilogue,,,
+154,epilogue,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/spec.spec.js,33,epilogue,,,
+155,epilogue,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/spec.spec.js,44,epilogue,,,
+156,slow,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/spec.spec.js,56,slow,,,
+157,epilogue,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/spec.spec.js,61,epilogue,,,
+158,slow,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/spec.spec.js,80,slow,,,
+159,epilogue,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/spec.spec.js,85,epilogue,,,
+160,epilogue,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/spec.spec.js,99,epilogue,,,
+161,color,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/dot.spec.js,24,color,,,
+162,epilogue,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/dot.spec.js,39,epilogue,,,
+163,epilogue,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/dot.spec.js,51,epilogue,,,
+164,epilogue,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/dot.spec.js,59,epilogue,,,
+165,slow,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/dot.spec.js,68,slow,,,
+166,epilogue,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/dot.spec.js,79,epilogue,,,
+167,epilogue,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/dot.spec.js,90,epilogue,,,
+168,epilogue,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/dot.spec.js,100,epilogue,,,
+169,epilogue,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/dot.spec.js,110,epilogue,,,
+170,epilogue,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/dot.spec.js,130,epilogue,,,
+171,epilogue,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/dot.spec.js,138,epilogue,,,
+172,epilogue,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/dot.spec.js,148,epilogue,,,
+173,write,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/progress.spec.js,19,write,,,
+174,hide,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/progress.spec.js,33,hide,,,
+175,cr,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/progress.spec.js,51,CR,,,
+176,cr,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/progress.spec.js,74,CR,,,
+177,show,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/progress.spec.js,118,show,,,
+178,epilogue,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/progress.spec.js,125,epilogue,,,
+179,full title,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/list.spec.js,18,fullTitle,,,
+180,slow,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/list.spec.js,22,slow,,,
+181,epilogue,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/list.spec.js,38,epilogue,,,
+182,epilogue,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/list.spec.js,49,epilogue,,,
+183,cr,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/list.spec.js,58,CR,,,
+184,epilogue,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/list.spec.js,62,epilogue,,,
+185,cr,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/list.spec.js,73,CR,,,
+186,epilogue,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/list.spec.js,75,epilogue,,,
+187,cr,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/list.spec.js,97,CR,,,
+188,epilogue,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/list.spec.js,101,epilogue,,,
+189,cr,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/list.spec.js,110,CR,,,
+190,epilogue,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/list.spec.js,112,epilogue,,,
+191,once,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/list.spec.js,129,once,,,
+192,epilogue,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/list.spec.js,143,epilogue,,,
+193,epilogue,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/list.spec.js,156,epilogue,,,
+194,list,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/base.spec.js,18,list,,,
+195,generate diff,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/base.spec.js,25,generateDiff,,,
+196,write,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/base.spec.js,36,write,,,
+197,inspect,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/base.spec.js,373,inspect,,,
+198,full title,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/markdown.spec.js,25,fullTitle,,,
+199,full title,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/markdown.spec.js,31,fullTitle,,,
+200,full title,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/markdown.spec.js,69,fullTitle,,,
+201,full title,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/markdown.spec.js,79,fullTitle,,,
+202,current retry,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/markdown.spec.js,83,currentRetry,,,
+203,slow,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/markdown.spec.js,86,slow,,,
+204,epilogue,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/min.spec.js,21,epilogue,,,
+205,epilogue,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/min.spec.js,34,epilogue,,,
+206,full title,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/tap.spec.js,18,fullTitle,,,
+207,slow,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/tap.spec.js,21,slow,,,
+208,grep total,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/tap.spec.js,42,grepTotal,,,
+209,grep total,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/tap.spec.js,69,grepTotal,,,
+210,grep total,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/tap.spec.js,83,grepTotal,,,
+211,on,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/tap.spec.js,108,on,,,
+212,grep total,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/tap.spec.js,116,grepTotal,,,
+213,grep total,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/tap.spec.js,143,grepTotal,,,
+214,on,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/tap.spec.js,171,on,,,
+215,grep total,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/tap.spec.js,179,grepTotal,,,
+216,once,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/tap.spec.js,203,once,,,
+217,grep total,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/tap.spec.js,211,grepTotal,,,
+218,grep total,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/tap.spec.js,229,grepTotal,,,
+219,grep total,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/tap.spec.js,262,grepTotal,,,
+220,grep total,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/tap.spec.js,292,grepTotal,,,
+221,grep total,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/tap.spec.js,306,grepTotal,,,
+222,on,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/tap.spec.js,331,on,,,
+223,grep total,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/tap.spec.js,339,grepTotal,,,
+224,grep total,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/tap.spec.js,369,grepTotal,,,
+225,on,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/tap.spec.js,400,on,,,
+226,grep total,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/tap.spec.js,408,grepTotal,,,
+227,once,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/tap.spec.js,436,once,,,
+228,grep total,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/tap.spec.js,444,grepTotal,,,
+229,grep total,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/tap.spec.js,462,grepTotal,,,
+230,create mock runner,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/helpers.js,13,createMockRunner,,,
+231,create runner function,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/helpers.js,30,createRunnerFunction,,,
+232,make test,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/helpers.js,125,makeTest,,,
+233,title path,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/helpers.js,128,titlePath,,,
+234,create element,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/helpers.js,134,createElements,,,
+235,make expect test,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/helpers.js,142,makeExpectedTest,,,
+236,full title,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/helpers.js,151,fullTitle,,,
+237,current retry,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/helpers.js,155,currentRetry,,,
+238,slow,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/helpers.js,158,slow,,,
+239,ctor,reporter class constructor,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/helpers.js,168,ctor,,,function
+240,create run reporter function,creates closure reference reporter class constructor,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/helpers.js,168,createRunReporterFunction,ctor,,createrunreporterfunction~runreporter
+241,stub self,reporter like stub instance,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/helpers.js,178,stubSelf,,,object
+242,runner,mock instance,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/helpers.js,178,runner,,,runner
+243,option,reporter configuration setting,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/helpers.js,178,options,,,object
+244,tee,whether echo output screen,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/helpers.js,178,tee,,,boolean
+245,run reporter,run reporter use stream reassignment capture output,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/helpers.js,178,runReporter,stub self runner option tee,line output write stdout,array.<string>
+246,write,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/helpers.js,183,write,,,
+247,slow,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/doc.spec.js,94,slow,,,
+248,slow,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/reporters/doc.spec.js,134,slow,,,
+249,proxy load option,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/node-unit/cli/options.spec.js,11,proxyLoadOptions,,,
+250,before,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/interfaces/exports.spec.js,6,before,,,
+251,after,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/interfaces/exports.spec.js,10,after,,,
+252,before each,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/interfaces/exports.spec.js,25,beforeEach,,,
+253,after each,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/interfaces/exports.spec.js,29,afterEach,,,
+254,"""should return - when the value be not present""",,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/interfaces/exports.spec.js,33,"""should return -1 when the value is not present""",,,
+255,"""should return the correct index when the value be present""",,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/interfaces/exports.spec.js,39,"""should return the correct index when the value is present""",,,
+256,'.foo',,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/compiler-fixtures/foo.fixture.js,5,'.foo',,,
+257,should exit,expect result true mocha force kill process,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/options.spec.js,590,shouldExit,,,boolean
+258,behavior,enable disable,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/options.spec.js,590,behavior,,,string
+259,run exit,return test execute mocha subprocess either exit exit default behavior,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/options.spec.js,590,runExit,should exit behavior,,function
+260,run mocha test,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/options.spec.js,692,runMochaTest,,,
+261,not,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/reporters.spec.js,104,not,,,
+262,version predicate,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/reporters.spec.js,109,versionPredicate,,,
+263,plan predicate,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/reporters.spec.js,112,planPredicate,,,
+264,test line predicate,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/reporters.spec.js,115,testLinePredicate,,,
+265,diagnostic predicate,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/reporters.spec.js,118,diagnosticPredicate,,,
+266,bail out predicate,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/reporters.spec.js,121,bailOutPredicate,,,
+267,anything else predicate,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/reporters.spec.js,124,anythingElsePredicate,,,
+268,run fixture and validate output,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/reporters.spec.js,135,runFixtureAndValidateOutput,,,
+269,occurences,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/regression.spec.js,11,occurences,,,
+270,run,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/hook-err.spec.js,152,run,,,
+271,only console output,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/hook-err.spec.js,170,onlyConsoleOutput,,,
+272,only error title,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/hook-err.spec.js,180,onlyErrorTitle,,,
+273,dir lookup,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/file-utils.spec.js,75,dirLookup,,,
+274,make temp dir,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/file-utils.spec.js,112,makeTempDir,,,
+275,remove temp dir,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/file-utils.spec.js,116,removeTempDir,,,
+276,output,return string,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/diffs.spec.js,15,output,,,string
+277,get diffs,return array diffs correspond exception thrown spec give plaintext output c mocha run,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/diffs.spec.js,15,getDiffs,output,,
+278,get expect output,return content test integration fixtures diffs output post process consumption test,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/diffs.spec.js,54,getExpectedOutput,,array diff line,array.<string>
+279,escape reg exp,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/show-plugins.spec.js,9,escapeRegExp,,,
+280,fixture path,path fixture j file,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/helpers.js,32,fixturePath,,,string
+281,args,extra args mocha executable,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/helpers.js,32,args,,,array.<string>
+282,fn,callback,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/helpers.js,32,fn,,,function
+283,opts,option spawn,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/helpers.js,32,opts,,,object
+284,run mocha,invokes mocha binary give fixture color output disabled. accept array additional command line args pass. callback invoke summary run addition output. summary include number pass pending fail test well exit code. useful test different reporters. default stderr ignored. pas stdio pipe opts want it. example response pending pass fail code output .,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/helpers.js,32,runMocha,fixture path args fn opts,,
+285,fixture path,path dirname,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/helpers.js,63,fixturePath,,,string
+286,args,array args,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/helpers.js,63,args,,,array.<string>
+287,fn,callback,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/helpers.js,63,fn,,,function
+288,opts,opts spawn,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/helpers.js,63,opts,,,object
+289,run mocha json,invokes mocha binary give fixture use json reporter return parsed output well exit code. default stderr ignored. pas stdio pipe opts want,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/helpers.js,63,runMochaJSON,fixture path args fn opts,parse object,*
+290,fixture path,path dirname,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/helpers.js,103,fixturePath,,,string
+291,args,array args,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/helpers.js,103,args,,,array.<string>
+292,fn,callback,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/helpers.js,103,fn,,,function
+293,opts,opts spawn,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/helpers.js,103,opts,,,object
+294,run mocha json raw,invokes mocha binary give fixture use json reporter return raw string output well exit code. default stderr ignored. pas stdio pipe opts want,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/helpers.js,103,runMochaJSONRaw,fixture path args fn opts,raw output,string
+295,result,raw stdout mocha run use json reporter,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/helpers.js,161,result,,,string
+296,to json run result,coerce output return spawn mocha listener use json reporter json run result recognize custom unexpected assertion,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/helpers.js,161,toJSONRunResult,result,,
+297,invoke mocha,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/helpers.js,168,invokeMocha,,,
+298,invoke sub mocha,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/helpers.js,174,invokeSubMocha,,,
+299,spawn mocha with listener,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/helpers.js,180,_spawnMochaWithListeners,,,
+300,listener,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/helpers.js,190,listener,,,
+301,resolve fixture path,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/helpers.js,210,resolveFixturePath,,,
+302,get summary,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/helpers.js,214,getSummary,,,
+303,exec mocha with,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/glob.spec.js,176,execMochaWith,,,
+304,simplereporter,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/fixtures/simple-reporter.js,6,simplereporter,,,
+305,sleep,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/fixtures/timeout.fixture.js,15,sleep,,,
+306,memory leak,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/fixtures/regression/issue-1991.fixture.js,5,MemoryLeak,,,
+307,'simple-ui',,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/fixtures/regression/1794/simple-ui.js,10,'simple-ui',,,
+308,test,describe specification test case give title callback fn act thunk,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/integration/fixtures/regression/1794/simple-ui.js,20,test,,,
+309,fail,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/unit/runnable.spec.js,302,fail,,,
+310,fail,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/unit/runnable.spec.js,434,fail,,,
+311,then,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/unit/runnable.spec.js,511,then,,,
+312,then,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/unit/runnable.spec.js,530,then,,,
+313,then,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/unit/runnable.spec.js,552,then,,,
+314,then,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/unit/runnable.spec.js,574,then,,,
+315,then,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/unit/runnable.spec.js,595,then,,,
+316,be pending,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/unit/runnable.spec.js,694,isPending,,,
+317,reporter,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/unit/mocha.spec.js,8,reporter,,,
+318,be growl capable,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/unit/mocha.spec.js,135,isGrowlCapable,,,
+319,be growl capable,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/unit/mocha.spec.js,145,isGrowlCapable,,,
+320,xml http request,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/unit/runner.spec.js,144,XMLHttpRequest,,,
+321,fail,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/unit/runner.spec.js,425,fail,,,
+322,test grep,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/unit/grep.spec.js,27,testGrep,,,
+323,support function name,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/unit/suite.spec.js,7,supportsFunctionNames,,,
+324,fn,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/unit/suite.spec.js,140,fn,,,
+325,fn,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/unit/suite.spec.js,150,fn,,,
+326,name fn,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/unit/suite.spec.js,164,namedFn,,,
+327,fn,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/unit/suite.spec.js,180,fn,,,
+328,fn,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/unit/suite.spec.js,189,fn,,,
+329,name fn,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/unit/suite.spec.js,203,namedFn,,,
+330,fn,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/unit/suite.spec.js,221,fn,,,
+331,fn,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/unit/suite.spec.js,231,fn,,,
+332,name fn,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/unit/suite.spec.js,245,namedFn,,,
+333,fn,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/unit/suite.spec.js,272,fn,,,
+334,fn,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/unit/suite.spec.js,282,fn,,,
+335,name fn,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/unit/suite.spec.js,296,namedFn,,,
+336,fn,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/unit/suite.spec.js,440,fn,,,
+337,fn,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/unit/suite.spec.js,454,fn,,,
+338,fn,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/unit/suite.spec.js,470,fn,,,
+339,func,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/unit/utils.spec.js,214,func,,,
+340,travis,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/unit/utils.spec.js,306,travis,,,
+341,fn,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/unit/utils.spec.js,378,fn,,,
+342,foo,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/unit/utils.spec.js,403,foo,,,
+343,foo,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/unit/utils.spec.js,408,foo,,,
+344,fn,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/unit/utils.spec.js,415,fn,,,
+345,to string,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/unit/utils.spec.js,521,toString,,,
+346,then,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/unit/utils.spec.js,580,then,,,
+347,be pending,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/test/unit/test.spec.js,73,isPending,,,
+348,export,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/scripts/package-json-cullify.js,12,exports,,,
+349,get header for relation,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/scripts/netlify-headers.js,14,getHeaderForRelation,,,
+350,create stream,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/scripts/dedefine.js,10,createStream,,,
+351,export,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/scripts/dedefine.js,17,exports,,,
+352,wrap,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/scripts/dedefine.js,18,wrap,,,
+353,usage,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/scripts/markdown-magic.config.js,16,usage,,,
+354,toc,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/scripts/markdown-magic.config.js,35,toc,,,
+355,filter,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/scripts/markdown-magic.config.js,44,filter,,,
+356,init,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/docs/example/async-dump.js,11,init,,,
+357,before,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/docs/example/async-dump.js,14,before,,,
+358,after,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/docs/example/async-dump.js,17,after,,,
+359,destroy,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/docs/example/async-dump.js,20,destroy,,,
+360,export,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/docs/example/async-dump.js,25,exports,,,
+361,onload handler,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/docs/js/avatars.js,10,onloadHandler,,,
+362,c,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/docs/js/html5shiv.min.js,4,c,,,
+363,d,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/docs/js/html5shiv.min.js,4,d,,,
+364,e,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/docs/js/html5shiv.min.js,4,e,,,
+365,f,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/docs/js/html5shiv.min.js,4,f,,,
+366,g,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/docs/js/html5shiv.min.js,4,g,,,
+367,h,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/docs/js/html5shiv.min.js,4,h,,,
+368,i,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/docs/js/html5shiv.min.js,4,i,,,
+369,create element,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/docs/js/html5shiv.min.js,4,createElement,,,
+370,j,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/docs/js/html5shiv.min.js,4,j,,,
+371,anchor j,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/docs/js/anchor.js,29,AnchorJS,,,
+372,opts,option object,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/docs/js/anchor.js,37,opts,,,object
+373,apply remain default option,assigns option internal option object provide default,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/docs/js/anchor.js,37,_applyRemainingDefaultOptions,opts,,
+374,be touch device,check see device support touch. use criterion pull modernizr http github com modernizr modernizr blob da eb fc f fe e c feature detect touchevents j l,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/docs/js/anchor.js,53,isTouchDevice,,true current device support touch,boolean
+375,selector,cs selector target element wish add anchor link to. also accept array node list contain relavant element,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/docs/js/anchor.js,63,selector,,,string|array|nodelist
+376,add,add anchor link page element,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/docs/js/anchor.js,63,add,selector,anchor j object,this
+377,selector,cs selector string target element anchor link node list array contain dom element,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/docs/js/anchor.js,189,selector,,,string|array|nodelist
+378,remove,remove anchorjs link element targed selector,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/docs/js/anchor.js,189,remove,selector,anchor j object,this
+379,remove all,remove anchorjs links. mostly use test,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/docs/js/anchor.js,212,removeAll,,,
+380,text,text. usually pull webpage element link,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/docs/js/anchor.js,225,text,,,string
+381,urlify,urlify refine text make good id. remove apostrophe replace nonsafe character hyphen remove extra hyphen truncate trim hyphen make lowercase,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/docs/js/anchor.js,225,urlify,text,hyphen delimit text use ur l,string
+382,el,dom node,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/docs/js/anchor.js,255,el,,,htmlelemnt
+383,have anchor j link,determines element already anchor j link it. us technique http stackoverflow com,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/docs/js/anchor.js,255,hasAnchorJSLink,el,true false,boolean
+384,input,cs selector string target element anchor link node list array contain dom element,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/docs/js/anchor.js,269,input,,,string|array|nodelist
+385,get element,turn selector node list array element array element use array method . also throw error inputs. use handle input add remove,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/docs/js/anchor.js,269,_getElements,input,array contain element want,array
+386,add baseline style,add baseline style add baseline style page use anchor j link irregardless configuration,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/docs/js/anchor.js,287,_addBaselineStyles,,,
+387,clone,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/test.js,34,clone,,,
+388,re,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,110,re,,,regexp
+389,invert,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,110,invert,,,boolean
+390,runner#grep,run test full title match . update runner total number test match,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,110,Runner#grep,re invert,runner instance,runner
+391,suite,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,127,suite,,,suite
+392,runner#grep total,return number test match grep search give suite,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,127,Runner#grepTotal,suite,,number
+393,global prop,return list global property,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,150,globalProps,,,array
+394,arr,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,172,arr,,,array
+395,runner#globals,allow give arr globals,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,172,Runner#globals,arr,runner instance,runner
+396,check globals,check global variable leak,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,186,checkGlobals,,,
+397,test,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,224,test,,,test
+398,err,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,224,err,,,error
+399,fail,fail give test,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,224,fail,test err,,
+400,hook,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,267,hook,,,hook
+401,err,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,267,err,,,error
+402,fail hook,fail give hook err . hook failure work following pattern bail run corresponding hook exit fail hook skip test suite subsuites jump correspond hook fail hook skip remain test suite jump correspond hook run fail hook alter execution order fail hook skip remain test suite subsuites execute hook,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,267,failHook,hook err,,
+403,name,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,285,name,,,string
+404,fn,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,285,fn,,,function
+405,hook,run hook name callback invoke fn,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,285,hook,name fn,,
+406,next,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,290,next,,,
+407,name,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,353,name,,,string
+408,suite,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,353,suites,,,array
+409,fn,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,353,fn,,,function
+410,hook,run hook name give array suite order callback fn err err suite,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,353,hooks,name suite fn,,
+411,next,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,357,next,,,
+412,name,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,386,name,,,string
+413,fn,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,386,fn,,,function
+414,hook up,run hook top level,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,386,hookUp,name fn,,
+415,name,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,398,name,,,string
+416,fn,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,398,fn,,,function
+417,hook down,run hook bottom,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,398,hookDown,name fn,,
+418,parent,return array parent suite close furthest,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,410,parents,,,array
+419,fn,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,426,fn,,,function
+420,run test,run current test callback fn err,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,426,runTest,fn,,
+421,suite,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,461,suite,,,suite
+422,fn,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,461,fn,,,function
+423,run test,run test give suite invoke callback fn complete,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,461,runTests,suite fn,,
+424,hook err,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,466,hookErr,,,
+425,next,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,492,next,,,
+426,always false,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,610,alwaysFalse,,,
+427,suite,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,621,suite,,,suite
+428,fn,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,621,fn,,,function
+429,run suite,run give suite invoke callback fn complete,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,621,runSuite,suite fn,,
+430,next,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,635,next,,,
+431,do,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,669,done,,,
+432,err,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,706,err,,,error
+433,uncaught,handle uncaught exception,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,706,uncaught,err,,
+434,suite,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,793,suite,,,suite
+435,clean suite reference,clean reference deferred function test suite. must delete otherwise memory leak happen function may reference variable closure thus variable never garbage collect long deferred function exist,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,793,cleanSuiteReferences,suite,,
+436,clean arr reference,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,794,cleanArrReferences,,,
+437,fn,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,830,fn,,,function
+438,runner#run,run root suite invoke fn failure completion,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,830,Runner#run,fn,runner instance,runner
+439,uncaught,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,836,uncaught,,,
+440,start,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,840,start,,,
+441,runner#abort,cleanly abort execution,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,892,Runner#abort,,runner instance,runner
+442,suite,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,906,suite,,,array
+443,filter only,filter suite base logic,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,906,filterOnly,suite,,boolean
+444,suite,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,939,suite,,,array
+445,have only,determines whether suite test suite descendant,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,939,hasOnly,suite,,boolean
+446,ok,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,955,ok,,,array
+447,globals,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,955,globals,,,array
+448,filter leak,filter leak give globals flag ok,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,955,filterLeaks,ok globals,,array
+449,err,object check,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,998,err,,,object
+450,err message,error message,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,998,err.message,,,string
+451,be error,check argument instance error object duck type equivalent,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,998,isError,err err message,,boolean
+452,thrown,non extensible type throw code,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,1010,thrown,,,*
+453,thrown error,convert thrown non extensible type proper error,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,1010,thrown2Error,thrown,,error
+454,extra globals,array globals dependent environment,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runner.js,1022,extraGlobals,,,array
+455,runner,runner instance,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/stats-collector.js,33,runner,,,runner
+456,create stats collector,provide stats test duration number test pass fail etc. listen event emit runner,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/stats-collector.js,33,createStatsCollector,runner,,
+457,context,initialize new context,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/context.js,16,Context,,,
+458,runnable,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/context.js,25,runnable,,,runnable
+459,runnable,set get context runnable runnable,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/context.js,25,runnable,runnable,context,context
+460,m,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/context.js,40,ms,,,number
+461,timeout,set get test timeout,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/context.js,40,timeout,m,self,context
+462,enable,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/context.js,55,enabled,,,boolean
+463,enable timeouts,set test timeout enable,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/context.js,55,enableTimeouts,enable,self,context
+464,m,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/context.js,70,ms,,,number
+465,slow,set get test slowness threshold,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/context.js,70,slow,m,self,context
+466,skip,mark test skipped,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/context.js,84,skip,,,
+467,n,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/context.js,95,n,,,number
+468,retries,set get number allowed retries failed test,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/context.js,95,retries,n,self,context
+469,err,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/hook.js,38,err,,,error
+470,error,get set test err,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/hook.js,38,error,err,,error
+471,message,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/pending.js,10,message,,,string
+472,pending,initialize new pending error give message,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/pending.js,10,Pending,message,,
+473,html,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,33,html,,,string
+474,escape,escape special character give string html,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,33,escape,html,,string
+475,obj,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,44,obj,,,object
+476,be string,test give obj type string,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,44,isString,obj,,boolean
+477,file,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,56,files,,,array
+478,fn,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,56,fn,,,function
+479,watch,watch give file change invoke fn file modification,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,56,watch,file fn,,
+480,path,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,75,path,,,string
+481,ignore,ignore file,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,75,ignored,path,,boolean
+482,dir,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,88,dir,,,string
+483,ext,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,88,ext,,,array.<string>
+484,ret,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,88,ret,,,array
+485,file,lookup file give dir,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,88,files,dir ext ret,,array
+486,str,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,115,str,,,string
+487,slug,compute slug give str,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,115,slug,str,,string
+488,str,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,128,str,,,string
+489,clean,strip function definition str indent pre whitespace,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,128,clean,str,,string
+490,q,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,157,qs,,,string
+491,parse query,parse give q,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,157,parseQuery,q,,object
+492,j,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,180,js,,,string
+493,highlight,highlight give string j,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,180,highlight,j,,string
+494,name,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,204,name,,,string
+495,highlight tag,highlight content tag name,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,204,highlightTags,name,,
+496,value,value inspect,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,225,value,,,*
+497,type hint,type value,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,225,typeHint,,,string
+498,empty representation,value could property none function call return string representation empty value. function w property return function array w length return object w property return else return result value string,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,225,emptyRepresentation,value type hint,,string
+499,type,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,259,type,,,
+500,value,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,288,value,,,*
+501,stringify,stringify value . different behavior depend type value value undefined null return undefined null respectively. value object function array return result value string wrap double quotes. value empty object function array return result function link empty representation . value property call link export canonicalize return result json stringify,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,288,stringify,value,,string
+502,object,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,335,object,,,object
+503,space,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,335,spaces,,,number
+504,depth,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,335,depth,,,number
+505,json stringify,like json stringify sense,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,335,jsonStringify,object space depth,,*
+506,repeat,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,350,repeat,,,
+507,stringify,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,354,_stringify,,,
+508,value,thing inspect. may may property,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,431,value,,,*
+509,stack,stack see value,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,431,stack,,,array
+510,type hint,type hint,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,431,typeHint,,,string
+511,canonicalize,return new thing key sorted order. recursive. thing . already see return string circular undefined return string undefined null return value null primitive return value primitive array object function return value thing string method non empty array object function return result call function again. empty array object function return result call empty representation,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,431,canonicalize,value stack type hint,,object|array|function|string|undefined
+512,with stack,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,437,withStack,,,
+513,filepath,base path start search,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,509,filepath,,,string
+514,extension,file extension look,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,509,extensions,,,array.<string>
+515,recursive,whether recurse subdirectory,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,509,recursive,,,boolean
+516,exports.lookup file,lookup file name give path,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,509,exports.lookupFiles,filepath extension recursive,array path,array.<string>
+517,undefined error,generate undefined error message warn user,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,569,undefinedError,,,error
+518,err,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,582,err,,,error
+519,get error,generate undefined error err define,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,582,getError,err,,error
+520,msg,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,591,msg,,,string
+521,deprecate,show deprecation warning. distinct message displayed,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,591,deprecate,msg,,
+522,stack trace filter,invoke function get filter function get error stack input return prettify output. e strip mocha internal node function stack trace,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,623,stackTraceFilter,,,function
+523,be mocha internal,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,638,isMochaInternal,,,
+524,be node internal,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,647,isNodeInternal,,,
+525,value,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,689,value,,,*
+526,be promise,crude effective,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,689,isPromise,value,whether value promise,boolean
+527,value,value clamp,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,704,value,,,number
+528,range,two element array specify min max range,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,704,range,,,array.<numer>
+529,clamp,clamp numeric value inclusive range,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,704,clamp,value range,clamp value,number
+530,noop,noop,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/utils.js,712,noop,,,
+531,be capable,gloss distinction unsupported platform one lack prerequisite software installation,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/growl.js,26,isCapable,,whether growl notification support expect,boolean
+532,runner,runner instance,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/growl.js,37,runner,,,runner
+533,notify,implement desktop notification pseudo reporter,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/growl.js,37,notify,runner,,
+534,send notification,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/growl.js,38,sendNotification,,,
+535,runner,runner instance,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/growl.js,50,runner,,,runner
+536,display,display notification,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/growl.js,50,display,runner,,
+537,on completion,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/growl.js,96,onCompletion,,,
+538,logo,return mocha logo image path,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/growl.js,111,logo,,pathname mocha logo,string
+539,binary,name binary file search,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/growl.js,127,binaries,,,array.<string>
+540,which,take list command name search path executable file would run command actually invoke,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/growl.js,127,which,binary,absolute path first binary found empty string none,string
+541,get support binary,somewhat brittle dependency growl package implementation rarely change,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/growl.js,154,getSupportBinaries,,name growl support binary,array.<string>
+542,m,timeout threshold value,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runnable.js,67,ms,,,number|string
+543,timeout,string argument use shorthand e g. converted. value clamp range code code code sup sup code . clamp value match either range endpoint timeouts disable,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runnable.js,67,timeout,m,,runnable
+544,m,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runnable.js,99,ms,,,number|string
+545,slow,set get slow,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runnable.js,99,slow,m,runnable instance,runnable|number
+546,enable,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runnable.js,118,enabled,,,boolean
+547,enable timeouts,set get whether timeout enable,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runnable.js,118,enableTimeouts,enable,enable runnable instance,runnable|boolean
+548,runnable#skip,halt mark pending,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runnable.js,133,Runnable#skip,,,
+549,be pending,check runnable parent suite mark pending,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runnable.js,142,isPending,,,
+550,be fail,return true runnable fail,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runnable.js,151,isFailed,,,boolean
+551,be pass,return true runnable pass,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runnable.js,160,isPassed,,,boolean
+552,retries,set get number retries,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runnable.js,169,retries,,,
+553,current retry,set get current retry,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runnable.js,181,currentRetry,,,
+554,runnable#full title,return full title generate recursively concatenate parent full title,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runnable.js,196,Runnable#fullTitle,,,string
+555,runnable#title path,return title path generate concatenate parent title path title,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runnable.js,207,Runnable#titlePath,,,string
+556,clear timeout,clear timeout,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runnable.js,216,clearTimeout,,,
+557,inspect,inspect runnable void private property,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runnable.js,226,inspect,,,string
+558,reset timeout,reset timeout,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runnable.js,250,resetTimeout,,,
+559,globals,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runnable.js,273,globals,,,array.<string>
+560,globals,set get list whitelisted globals test run,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runnable.js,273,globals,globals,,
+561,fn,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runnable.js,286,fn,,,function
+562,run,run test invoke fn err,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runnable.js,286,run,fn,,
+563,multiple,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runnable.js,299,multiple,,,
+564,do,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runnable.js,314,done,,,
+565,skip,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runnable.js,341,skip,,,
+566,call fn,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runnable.js,382,callFn,,,
+567,call fn async,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runnable.js,410,callFnAsync,,,
+568,m,timeout millisecond,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runnable.js,443,ms,,,number
+569,timeout error,instantiate timeout error,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/runnable.js,443,_timeoutError,m,timeout error,error
+570,mocha,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,87,Mocha,,,
+571,bail,whether bail first error,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,156,bail,,,boolean
+572,bail,enables disables bail first failure,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,156,bail,bail,,mocha
+573,file,pathname file load,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,177,file,,,string
+574,add file,useful generic setup code must include within test suite,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,177,addFile,file,,mocha
+575,reporter,reporter name constructor,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,198,reporter,,,string|function
+576,reporter option,option use configure reporter,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,198,reporterOptions,,,object
+577,reporter,set reporter reporter default spec,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,198,reporter,reporter reporter option,,mocha
+578,name,interface name,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,261,name,,,string
+579,ui,set test ui name default bdd,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,261,ui,name,,mocha
+580,fn,callback invoke upon completion,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,305,fn,,,function
+581,load file,implementation relies node require execute test interface function subject cache,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,305,loadFiles,fn,,
+582,str,value convert regexp,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,330,str,,,string
+583,fgrep,set grep filter escape reg exp special character,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,330,fgrep,str,,mocha
+584,re,regular expression use select test,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,371,re,,,regexp|string
+585,grep,regexp like string convert regexp. regexp test full title test e. name test precede title ancestral suite . use em exact match em fix pattern test name yield matches. br strong previous filter value overwrite call strong,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,371,grep,re,,mocha
+586,invert,inverts grep match,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,394,invert,,,mocha
+587,ignore leak,whether ignore global leak,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,412,ignoreLeaks,,,boolean
+588,ignore leak,enables disables ignore global leak,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,412,ignoreLeaks,ignore leak,,mocha
+589,check leak,enables check global variable leak run test,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,426,checkLeaks,,,mocha
+590,full trace,display full stack trace upon test failure,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,438,fullTrace,,,mocha
+591,growl,enables desktop notification support prerequisite software instal,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,452,growl,,,mocha
+592,globals,accepted global variable name,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,501,globals,,,array.<string>|string
+593,globals,specifies whitelist variable name expect global scope,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,501,globals,globals,,mocha
+594,color,whether enable color output,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,514,colors,,,boolean
+595,use color,enables disables tty color output screen orient reporter,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,514,useColors,color,,mocha
+596,inline diffs,whether use inline diffs,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,530,inlineDiffs,,,boolean
+597,use inline diffs,determines reporter use inline diffs rather test failure output,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,530,useInlineDiffs,inline diffs,,mocha
+598,hide diff,whether hide diffs,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,543,hideDiff,,,boolean
+599,hide diff,determines reporter include diffs test failure output,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,543,hideDiff,hide diff,,mocha
+600,msec,timeout threshold value,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,573,msecs,,,number|string
+601,timeout,string argument use shorthand converted. value timeouts disable,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,573,timeout,msec,,mocha
+602,retry,number time retry failed test,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,591,retry,,,number
+603,retries,set number time retry failed test,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,591,retries,retry,,mocha
+604,msec,slowness threshold value,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,613,msecs,,,number
+605,slow,set slowness threshold value,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,613,slow,msec,,mocha
+606,enable timeouts,whether enable timeouts,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,628,enableTimeouts,,,boolean
+607,enable timeouts,enables disables timeouts,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,628,enableTimeouts,enable timeouts,,mocha
+608,async only,force test either accept callback return promise,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,642,asyncOnly,,,mocha
+609,no highlighting,disables syntax highlight browser,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,654,noHighlighting,,,mocha
+610,allow uncaught,enables uncaught error propagate browser,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,666,allowUncaught,,,mocha
+611,delay,use perform asynch operation suite run,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,683,delay,,,mocha
+612,forbid only,cause test mark fail suite,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,695,forbidOnly,,,mocha
+613,forbid pending,cause pending test test mark skip fail suite,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,707,forbidPending,,,mocha
+614,fn,callback invoke test execution complete,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,748,fn,,,donecb
+615,run,run test multiple time run test file already require cache make sure clear cache first,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,748,run,fn,runner instance,runner
+616,do,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/mocha.js,778,done,,,
+617,parent,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/suite.js,33,parent,,,suite
+618,title,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/suite.js,33,title,,,string
+619,exports.create,create new suite give title parent suite . suite title already present suite return provide nice reporter flexible meta test,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/suite.js,33,exports.create,parent title,,suite
+620,context,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/suite.js,59,Context,,,
+621,clone,return clone suite,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/suite.js,91,clone,,,suite
+622,m,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/suite.js,110,ms,,,number|string
+623,timeout,set get timeout short hand,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/suite.js,110,timeout,m,chain,suite|number
+624,n,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/suite.js,132,n,,,number|string
+625,retries,set get number time retry failed test,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/suite.js,132,retries,n,chain,suite|number
+626,enable,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/suite.js,148,enabled,,,boolean
+627,enable timeouts,set get timeout enable,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/suite.js,148,enableTimeouts,enable,self enable,suite|boolean
+628,m,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/suite.js,164,ms,,,number|string
+629,slow,set get slow short hand,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/suite.js,164,slow,m,chain,suite|number
+630,bail,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/suite.js,183,bail,,,boolean
+631,bail,set get whether bail first error,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/suite.js,183,bail,bail,chain,suite|number
+632,be pending,check suite parent suite mark pending,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/suite.js,197,isPending,,,
+633,title,title hook,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/suite.js,208,title,,,string
+634,fn,hook callback,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/suite.js,208,fn,,,function
+635,create hook,generic hook creator,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/suite.js,208,_createHook,title fn,new hook,hook
+636,title,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/suite.js,228,title,,,string
+637,fn,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/suite.js,228,fn,,,function
+638,before all,run fn test run test,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/suite.js,228,beforeAll,title fn,chain,suite
+639,title,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/suite.js,252,title,,,string
+640,fn,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/suite.js,252,fn,,,function
+641,after all,run fn test run test,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/suite.js,252,afterAll,title fn,chain,suite
+642,title,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/suite.js,276,title,,,string
+643,fn,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/suite.js,276,fn,,,function
+644,before each,run fn test test case,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/suite.js,276,beforeEach,title fn,chain,suite
+645,title,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/suite.js,300,title,,,string
+646,fn,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/suite.js,300,fn,,,function
+647,after each,run fn test test case,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/suite.js,300,afterEach,title fn,chain,suite
+648,suite,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/suite.js,323,suite,,,suite
+649,add suite,add test suite,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/suite.js,323,addSuite,suite,chain,suite
+650,test,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/suite.js,342,test,,,test
+651,add test,add test suite,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/suite.js,342,addTest,test,chain,suite
+652,suite#full title,return full title generate recursively concatenate parent full title,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/suite.js,362,Suite#fullTitle,,,string
+653,suite#title path,return title path generate recursively concatenate parent title path,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/suite.js,374,Suite#titlePath,,,string
+654,suite#total,return total number test,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/suite.js,392,Suite#total,,,number
+655,fn,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/suite.js,408,fn,,,function
+656,each test,iterates suite recursively find tests. applies function format fn test,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/suite.js,408,eachTest,fn,,suite
+657,run,run root suite happen run delayed mode,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/suite.js,419,run,,,
+658,append to stack,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/html.js,220,appendToStack,,,
+659,update stats,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/html.js,227,updateStats,,,
+660,s,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/html.js,248,s,,,string
+661,make url,make url preserving querystring search parameter,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/html.js,248,makeUrl,s,new url,string
+662,suite,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/html.js,269,suite,,,object
+663,suite url,provide suite url,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/html.js,269,suiteURL,suite,,
+664,test,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/html.js,278,test,,,object
+665,test url,provide test url,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/html.js,278,testURL,test,,
+666,el,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/html.js,288,el,,,htmllielement
+667,content,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/html.js,288,contents,,,string
+668,add code toggle,add code toggle functionality provided test list element,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/html.js,288,addCodeToggle,el content,,
+669,msg,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/html.js,305,msg,,,string
+670,error,display error msg,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/html.js,305,error,msg,,
+671,html,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/html.js,314,html,,,string
+672,fragment,return dom fragment html,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/html.js,314,fragment,html,,
+673,classname,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/html.js,338,classname,,,text
+674,hide suite without,check suite element classname hide,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/html.js,338,hideSuitesWithout,classname,,
+675,unhide,unhide hidden suite,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/html.js,351,unhide,,,
+676,el,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/html.js,364,el,,,htmlelement
+677,content,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/html.js,364,contents,,,string
+678,text,set element text content,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/html.js,364,text,el content,,
+679,on,listen event callback fn,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/html.js,375,on,,,
+680,failure,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/xunit.js,115,failures,,,
+681,fn,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/xunit.js,115,fn,,,function
+682,do,override close stream file,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/xunit.js,115,done,failure fn,,
+683,line,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/xunit.js,130,line,,,string
+684,write,write give line,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/xunit.js,130,write,line,,
+685,test,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/xunit.js,145,test,,,test
+686,test,output tag give test.,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/xunit.js,145,test,test,,
+687,name,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/xunit.js,189,name,,,
+688,attrs,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/xunit.js,189,attrs,,,
+689,close,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/xunit.js,189,close,,,
+690,content,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/xunit.js,189,content,,,
+691,tag,html tag helper,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/xunit.js,189,tag,name attrs close content,,string
+692,runway,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/landing.js,58,runway,,,
+693,indent,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/spec.js,35,indent,,,
+694,nyan cat,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/nyan.js,28,NyanCat,,,
+695,draw,draw nyan cat,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/nyan.js,80,draw,,,
+696,draw scoreboard,draw scoreboard show number pass failure pending test,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/nyan.js,95,drawScoreboard,,,
+697,draw,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/nyan.js,98,draw,,,
+698,append rainbow,append rainbow,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/nyan.js,118,appendRainbow,,,
+699,draw rainbow,draw rainbow,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/nyan.js,137,drawRainbow,,,
+700,draw nyan cat,draw nyan cat,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/nyan.js,154,drawNyanCat,,,
+701,face,draw nyan cat face,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/nyan.js,190,face,,,string
+702,n,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/nyan.js,209,n,,,number
+703,cursor up,move cursor n,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/nyan.js,209,cursorUp,n,,
+704,n,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/nyan.js,220,n,,,number
+705,cursor down,move cursor n,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/nyan.js,220,cursorDown,n,,
+706,generate color,generate rainbow color,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/nyan.js,230,generateColors,,,array
+707,str,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/nyan.js,252,str,,,string
+708,rainbowify,apply rainbow give str,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/nyan.js,252,rainbowify,str,,string
+709,string,message write stdout,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/nyan.js,266,string,,,string
+710,write,stdout helper,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/nyan.js,266,write,string,,
+711,test,test instance,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/tap.js,84,test,,,test
+712,title,return tap safe title test,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/tap.js,84,title,test,title hash character remove,string
+713,format,printf like format string,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/tap.js,95,format,,,string
+714,var args,format string argument,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/tap.js,95,varArgs,,,*
+715,println,writes newline terminate formatted string reporter output stream,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/tap.js,95,println,format var args,,
+716,tap version,version tap specification produce,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/tap.js,109,tapVersion,,,string
+717,create producer,return tap version appropriate tap producer instance possible,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/tap.js,109,createProducer,tap version,specification appropriate instance,tapproducer
+718,write version,write tap version reporter output stream,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/tap.js,142,writeVersion,,,
+719,ntests,number test plan run,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/tap.js,150,ntests,,,number
+720,write plan,write plan reporter output stream,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/tap.js,150,writePlan,ntests,,
+721,n,index test pass,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/tap.js,161,n,,,number
+722,test,instance contain test information,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/tap.js,161,test,,,test
+723,write pas,writes test pass reporter output stream,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/tap.js,161,writePass,n test,,
+724,n,index test skip,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/tap.js,172,n,,,number
+725,test,instance contain test information,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/tap.js,172,test,,,test
+726,write pending,writes test skip reporter output stream,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/tap.js,172,writePending,n test,,
+727,n,index test fail,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/tap.js,184,n,,,number
+728,test,instance contain test information,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/tap.js,184,test,,,test
+729,err,reason test fail,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/tap.js,184,err,,,error
+730,write fail,writes test fail reporter output stream,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/tap.js,184,writeFail,n test err,,
+731,stats,object contain run statistic,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/tap.js,194,stats,,,object
+732,write epilogue,write summary epilogue reporter output stream,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/tap.js,194,writeEpilogue,stats,,
+733,write fail,writes test fail reporter output stream error formatting,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/tap.js,219,writeFail,,,
+734,write version,write tap version reporter output stream,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/tap.js,252,writeVersion,,,
+735,write fail,writes test fail reporter output stream error formatting,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/tap.js,260,writeFail,,,
+736,indent,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/tap.js,277,indent,,,
+737,indent,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/doc.js,32,indent,,,
+738,event,mocha event output,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/json-stream.js,63,event,,,jsonstream~mochaevent
+739,write event,writes mocha event reporter output stream,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/json-stream.js,63,writeEvent,event,,
+740,test,instance use data source,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/json-stream.js,75,test,,,test
+741,clean,return object literal representation test free cyclic property etc,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/json-stream.js,75,clean,test,object containing par test instance data,object
+742,json reporter,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/json.js,26,JSONReporter,,,
+743,test,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/json.js,74,test,,,object
+744,clean,return plain object representation test free cyclic property etc,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/json.js,74,clean,test,,object
+745,obj,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/json.js,96,obj,,,object
+746,clean cycle,replaces circular reference inside obj object object,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/json.js,96,cleanCycles,obj,,object
+747,err,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/json.js,120,err,,,error
+748,error json,transform error object json object,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/json.js,120,errorJSON,err,,object
+749,color,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/base.js,97,color,,,
+750,hide,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/base.js,123,hide,,,
+751,show,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/base.js,127,show,,,
+752,delete line,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/base.js,131,deleteLine,,,
+753,beginning of line,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/base.js,135,beginningOfLine,,,
+754,cr,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/base.js,139,CR,,,
+755,show diff,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/base.js,149,showDiff,,,
+756,stringify diff objs,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/base.js,158,stringifyDiffObjs,,,
+757,generate diff,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/base.js,175,generateDiff,,,
+758,failure,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/base.js,190,failures,,,array
+759,exports.list,output give failure list,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/base.js,190,exports.list,failure,,
+760,base#epilogue,output common epilogue use many bundled reporter,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/base.js,303,Base#epilogue,,,
+761,str,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/base.js,345,str,,,string
+762,len,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/base.js,345,len,,,string
+763,pad,pad give str len,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/base.js,345,pad,str len,,string
+764,actual,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/base.js,358,actual,,,string
+765,expect,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/base.js,358,expected,,,string
+766,inline diff,return inline diff string coloured ansi output,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/base.js,358,inlineDiff,actual expect,diff,string
+767,actual,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/base.js,395,actual,,,string
+768,expect,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/base.js,395,expected,,,string
+769,unified diff,return unified diff two string coloured ansi output,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/base.js,395,unifiedDiff,actual expect,diff,string
+770,clean up,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/base.js,397,cleanUp,,,
+771,not blank,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/base.js,412,notBlank,,,
+772,actual,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/base.js,438,actual,,,string
+773,expect,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/base.js,438,expected,,,string
+774,error diff,return character diff err,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/base.js,438,errorDiff,actual expect,diff,string
+775,name,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/base.js,461,name,,,string
+776,str,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/base.js,461,str,,,string
+777,color line,color line str use color name,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/base.js,461,colorLines,name str,,string
+778,a,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/base.js,483,a,,,object
+779,b,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/base.js,483,b,,,object
+780,same type,check b type,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/base.js,483,sameType,a b,,boolean
+781,title,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/markdown.js,39,title,,,
+782,map toc,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/markdown.js,43,mapTOC,,,
+783,stringify toc,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/markdown.js,55,stringifyTOC,,,
+784,generate toc,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/reporters/markdown.js,73,generateTOC,,,
+785,yaml,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/config.js,35,yaml,,,
+786,j,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/config.js,37,js,,,
+787,json,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/config.js,38,json,,,
+788,filepath,config file path load,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/config.js,51,filepath,,,string
+789,load config,load par base file extension config file. json file may comment,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/config.js,51,loadConfig,filepath,parse config object,object
+790,cwd,current work directory,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/config.js,73,cwd,,,string
+791,find config,find find config file start cwd,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/config.js,73,findConfig,cwd,filepath config find,string|null
+792,builder,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run.js,42,builder,,,
+793,coerce,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run.js,132,coerce,,,
+794,coerce,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run.js,188,coerce,,,
+795,handler,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run.js,279,handler,,,
+796,argv,array argument parse default lovely process argv slice,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/cli.js,28,argv,,,array.<string>
+797,main,accepts array argument modifies link https nodejs org api module html module module path node js search path easy loading consumer module set linkcode http nodejs org api error html error error stacktracelimit error stack trace limit infinity,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/cli.js,28,main,argv,,
+798,builder,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/init.js,18,builder,,,
+799,handler,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/init.js,24,handler,,,
+800,obj,object ostensibly enumerable key,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/one-and-dones.js,21,obj,,,object
+801,show key,dump sorted list enumerable low case key object stdout,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/one-and-dones.js,21,showKeys,obj,,
+802,interface,dump list build interface,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/one-and-dones.js,51,interfaces,,,
+803,reporter,dump list build reporter,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/one-and-dones.js,58,reporters,,,
+804,flag,flag test,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/node-flags.js,34,flag,,,string
+805,be node flag,mocha historical support various node v flag might appear process allow node environment flag . include preserve symlinks harmony gc global trace e stag use strict v v option,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/node-flags.js,34,isNodeFlag,flag,,boolean
+806,flag,flag test,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/node-flags.js,48,flag,,,string
+807,implies no timeouts,return true flag debug like flag. require timeouts suppress pause debugger breakpoints cause test failure,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/node-flags.js,48,impliesNoTimeouts,flag,,boolean
+808,arg,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/options.js,53,arg,,,
+809,args,argument parse,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/options.js,76,args,,,string|array.<string>
+810,config object,config object yargs parser,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/options.js,76,configObjects,,,object
+811,parse,wrapper around yargs parser apply setting,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/options.js,76,parse,args config object,,
+812,content,content read run control file,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/options.js,103,content,,,string
+813,parse mocha opts,replaces comment empty string replaces escape space e g. xxx yyy html space split whitespace create array substring filter empty string element array replaces html space space,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/options.js,103,parseMochaOpts,content,cmdline option associate argument,array.<string>
+814,module:lib/cli/options,prepends option run control file command line argument,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/options.js,119,module:lib/cli/options,,,
+815,args,argument object,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/options.js,153,args,,,object
+816,args opts,filepath mocha opts default whatever mocharc opts false skip,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/options.js,153,args.opts,,,string|boolean
+817,load mocha opts,give filepath args opts attempt load parse mocha opts file,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/options.js,153,loadMochaOpts,args args opts,read object contain parse argument,external:yargsparser.arguments|void
+818,args,argument object,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/options.js,194,args,,,object
+819,args config,path config file false skip,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/options.js,194,args.config,,,string|boolean
+820,load rc,give path config file args config attempt load parse config file,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/options.js,194,loadRc,args args config,parse config nothing args config false,external:yargsparser.arguments|void
+821,args,argument object,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/options.js,211,args,,,object
+822,args config,path package json false skip,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/options.js,211,args.config,,,string|boolean
+823,load pkg rc,give path package json args package attempt load config mocha prop,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/options.js,211,loadPkgRc,args args config,parse config nothing args package false,external:yargsparser.arguments|void
+824,argv,argument parse,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/options.js,255,argv,,,string|array.<string>
+825,load option,priority list . command line args . rc file mocharc j mocharc ya ml mocharc json . mocha prop package json . mocha opts . default configuration lib mocharc json link module lib cli one one args one option present argv array external config file read,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/options.js,255,loadOptions,argv,parse args everything,external:yargsparser.arguments
+826,code,exit code typically failure,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,27,code,,,number
+827,exit mocha later,exit mocha test code test finish execution default,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,27,exitMochaLater,code,,
+828,code,exit code typically failure,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,40,code,,,number
+829,exit mocha,exit mocha mocha finish execution regardless test code test,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,40,exitMocha,code,,
+830,do,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,51,done,,,
+831,hide cursor,hide cursor,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,73,hideCursor,,,
+832,show cursor,show cursor,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,82,showCursor,,,
+833,stop,stop cursor business,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,90,stop,,,
+834,str,value coerce,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,101,str,,,string|array.<string>
+835,list,coerce comma delimit string array thereof flattened array string,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,101,list,str,array string,array.<string>
+836,require,module require,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,109,requires,,,array.<string>
+837,handle require,require module require require require,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,109,handleRequires,require,,
+838,opts,option,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,132,opts,,,object
+839,opts extension,file extension use,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,132,opts.extension,,,array.<string>
+840,opts spec,file dirs globs run,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,132,opts.spec,,,array.<string>
+841,opts exclude,file dirs globs exclude,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,132,opts.exclude,,,array.<string>
+842,opts recursive,find file recursively,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,132,opts.recursive,,,boolean
+843,opts sort,sort test file,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,132,opts.sort,,,boolean
+844,handle file,smash together array test file correct order,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,132,handleFiles,opts opts extension opts spec opts exclude opts recursive opts sort,list file test,array.<string>
+845,mocha,mocha instance,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,196,mocha,,,mocha
+846,opts,option,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,196,opts,,,options
+847,opts file,list test file,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,196,opts.files,,,array.<string>
+848,opts exit,whether force exit test complete,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,196,opts.exit,,,boolean
+849,single run,give mocha file tell run,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,196,singleRun,mocha opts opts file opts exit,,runner
+850,mocha,mocha instance,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,211,mocha,,,mocha
+851,opts,option,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,211,opts,,,object
+852,opts extension,list extension watch,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,211,opts.extension,,,array.<string>
+853,opts grep,grep test title,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,211,opts.grep,,,string|regexp
+854,opts ui,user interface,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,211,opts.ui,,,string
+855,file,array test file,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,211,files,,,array.<string>
+856,watch run,run mocha watch mode,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,211,watchRun,mocha opts opts extension opts grep opts ui file,,
+857,load and run,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,228,loadAndRun,,,
+858,purge,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,243,purge,,,
+859,rerun,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,251,rerun,,,
+860,mocha,mocha instance,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,285,mocha,,,mocha
+861,opts,option,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,285,opts,,,object
+862,opts watch,enable watch mode,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,285,opts.watch,,,boolean
+863,opts extension,list extension watch,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,285,opts.extension,,,array.<string>
+864,opts grep,grep test title,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,285,opts.grep,,,string|regexp
+865,opts ui,user interface,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,285,opts.ui,,,string
+866,opts exit,force exit mocha test,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,285,opts.exit,,,boolean
+867,file,array test file,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,285,files,,,array.<string>
+868,run mocha,actually run test,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,285,runMocha,mocha opts opts watch opts extension opts grep opts ui opts exit file,,
+869,opts,option object,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,307,opts,,,object
+870,key,resolvable module name path,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,307,key,,,string
+871,map,object perhaps key key,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,307,map,,,object
+872,validate plugin,use reporter ui . ensure one assert actually exist,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,307,validatePlugin,opts key map,,
+873,unknown error,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/cli/run-helpers.js,312,unknownError,,,
+874,suite,root suite,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/qunit.js,30,suite,,,suite
+875,export,q unit style interface suite array test length function var arr ok arr length test index function var arr ok arr index ok arr index ok arr index suite string test length function ok foo length,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/qunit.js,30,exports,suite,,
+876,suite,describe suite give title,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/qunit.js,45,suite,,,
+877,only,exclusive suite,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/qunit.js,60,only,,,
+878,test,describe specification test case give title callback fn act thunk,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/qunit.js,77,test,,,
+879,only,exclusive test case,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/qunit.js,88,only,,,
+880,suite,root suite,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/tdd.js,30,suite,,,suite
+881,export,tdd style interface suite array function suite index function suite setup function test return present function test return index present function suite teardown function,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/tdd.js,30,exports,suite,,
+882,suite,describe suite give title callback fn contain nest suite test,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/tdd.js,46,suite,,,
+883,skip,pending suite,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/tdd.js,57,skip,,,
+884,only,exclusive test case,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/tdd.js,68,only,,,
+885,test,describe specification test case give title callback fn act thunk,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/tdd.js,80,test,,,
+886,only,exclusive test case,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/tdd.js,95,only,,,
+887,suite,root suite,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/bdd.js,22,suite,,,suite
+888,export,bdd style interface describe array function describe index function return present function . return index present function .,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/bdd.js,22,exports,suite,,
+889,context,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/bdd.js,39,context,,,
+890,context.describe.skip,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/bdd.js,51,context.describe.skip,,,
+891,only,exclusive suite,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/bdd.js,66,only,,,
+892,specify,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/bdd.js,80,specify,,,
+893,only,exclusive test case,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/bdd.js,95,only,,,
+894,context.it.skip,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/bdd.js,103,context.it.skip,,,
+895,retries,number attempt retry,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/bdd.js,110,retries,,,
+896,suite,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/common.js,14,suites,,,array.<suite>
+897,context,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/common.js,14,context,,,context
+898,mocha,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/common.js,14,mocha,,,mocha
+899,export,function common one interface,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/common.js,14,exports,suite context mocha,object containing common function,object
+900,suite,suite check,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/common.js,22,suite,,,suite
+901,should be test,check suite test,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/common.js,22,shouldBeTested,suite,,boolean
+902,suite,root suite,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/common.js,39,suite,,,suite
+903,run with suite,present flag delay pass mocha. trigger root suite execution,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/common.js,39,runWithSuite,suite,function run root suite,function
+904,name,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/common.js,51,name,,,string
+905,fn,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/common.js,51,fn,,,function
+906,before,execute run test,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/common.js,51,before,name fn,,
+907,name,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/common.js,61,name,,,string
+908,fn,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/common.js,61,fn,,,function
+909,after,execute run test,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/common.js,61,after,name fn,,
+910,name,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/common.js,71,name,,,string
+911,fn,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/common.js,71,fn,,,function
+912,before each,execute test case,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/common.js,71,beforeEach,name fn,,
+913,name,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/common.js,81,name,,,string
+914,fn,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/common.js,81,fn,,,function
+915,after each,execute test case,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/common.js,81,afterEach,name fn,,
+916,opts,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/common.js,93,opts,,,object
+917,only,create exclusive suite convenience function see docstring create,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/common.js,93,only,opts,,suite
+918,opts,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/common.js,105,opts,,,object
+919,skip,create suite skip convenience function see docstring create,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/common.js,105,skip,opts,,suite
+920,opts,option,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/common.js,121,opts,,,object
+921,opts title,title suite,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/common.js,121,opts.title,,,string
+922,opts fn,suite function always applicable,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/common.js,121,opts.fn,,,function
+923,opts pending,suite pending,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/common.js,121,opts.pending,,,boolean
+924,opts file,filepath suite resides,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/common.js,121,opts.file,,,string
+925,opts be only,suite exclusive,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/common.js,121,opts.isOnly,,,boolean
+926,create,create suite,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/common.js,121,create,opts opts title opts fn opts pending opts file opts be only,,suite
+927,mocha,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/common.js,172,mocha,,,object
+928,test,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/common.js,172,test,,,function
+929,only,exclusive test case,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/common.js,172,only,mocha test,,*
+930,title,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/common.js,182,title,,,string
+931,skip,pending test case,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/common.js,182,skip,title,,
+932,n,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/common.js,191,n,,,number
+933,retries,number retry attempt,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/common.js,191,retries,n,,
+934,suite,root suite,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/exports.js,22,suite,,,suite
+935,export,export style node j module interface export array index return value present function return correct index value present function,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/exports.js,22,exports,suite,,
+936,visit,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/interfaces/exports.js,27,visit,,,
+937,isatty,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/browser/tty.js,3,isatty,,,
+938,get window size,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/browser/tty.js,7,getWindowSize,,,
+939,progress,initialize new progress indicator,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/browser/progress.js,12,Progress,,,
+940,size,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/browser/progress.js,26,size,,,number
+941,size,set progress size size,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/browser/progress.js,26,size,size,progress instance,progress
+942,text,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/browser/progress.js,38,text,,,string
+943,text,set text text,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/browser/progress.js,38,text,text,progress instance,progress
+944,size,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/browser/progress.js,50,size,,,number
+945,font size,set font size size,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/browser/progress.js,50,fontSize,size,progress instance,progress
+946,family,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/browser/progress.js,61,family,,,string
+947,font,set font family,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/browser/progress.js,61,font,family,progress instance,progress
+948,n,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/browser/progress.js,72,n,,,number
+949,update,update percentage n,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/browser/progress.js,72,update,n,progress instance,progress
+950,ctx,,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/browser/progress.js,83,ctx,,,canvasrenderingcontext2d
+951,draw,draw ctx,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/browser/progress.js,83,draw,ctx,progress instance,progress
+952,be capable,check browser notification support exists,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/browser/growl.js,24,isCapable,,whether browser notification support exists,boolean
+953,runner,runner instance,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/browser/growl.js,40,runner,,,runner
+954,notify,implement browser notification pseudo reporter,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/browser/growl.js,40,notify,runner,,
+955,send notification,attempt notification,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/browser/growl.js,46,sendNotification,,,
+956,be permit,check browser notification permit user,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/browser/growl.js,69,isPermitted,,promise determine browser notification permissible fulfil,promise.<boolean>
+957,grant,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/browser/growl.js,71,granted,,,
+958,deny,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/browser/growl.js,74,denied,,,
+959,default,,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/browser/growl.js,77,default,,,
+960,value,determines notification permissible,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/browser/growl.js,105,value,,,boolean|undefined
+961,can notify,notification shall strong strong proceed unless value true. value equal one ul li code true code permit li li code false code permit li li code undefined code promise race li ul,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/browser/growl.js,105,canNotify,value,notification proceed,promise.<undefined>
+962,runner,runner instance,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/browser/growl.js,120,runner,,,runner
+963,display,display notification,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/browser/growl.js,120,display,runner,,
+964,err,notification happen,1,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/browser/growl.js,165,err,,,error
+965,not permit,notification tangential purpose log error,0,/home/zcl/Desktop/parametermismatch/dataset/mocha/lib/browser/growl.js,165,notPermitted,err,,

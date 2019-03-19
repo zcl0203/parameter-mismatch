@@ -1,0 +1,1296 @@
+,cleaned_name,comment,datapoint_type,filename,line_number,name,params,return_param_comment,type
+0,sequelize,sequelize constructor,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,12,Sequelize,,,object
+1,export,shim sequelize method test log passing,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,12,exports,sequelize,,
+2,obj,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,46,obj,,,object
+3,obj name,name object error reporting,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,46,objName,,,string
+4,shim all,shim shimmable method obj,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,46,shimAll,obj obj name,,
+5,method,function examine,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,80,method,,,function
+6,name,attribute name method parent object,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,80,name,,,string
+7,examine,give function check whether suitable shimming modify option return information return object form index argument function option conform function conform argument function accepts flexible option index base e. st argument method shimmed return undefined work method shimmed base . method name begin low case letter skip class internals . one function argument call option . overiden hint function body testhint option none skip shimming function testhint option nd function argument option parameter first arg testhint args conform start testhint args conform end part function body deal conform flexible argument,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,80,examine,method name,,object
+8,obj,object parent method,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,129,obj,,,object
+9,name,name method object shim,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,129,name,,,string
+10,index,index argument option base,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,129,index,,,number
+11,conform,function conform function argument,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,129,conform,,,function
+12,debug name,full name method error reporting,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,129,debugName,,,string
+13,shim,shim method check option log . method inject option log call within tests. throw call within sequelize pass correct option log,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,129,shim,obj name index conform debug name,,
+14,obj,object parent method,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,192,obj,,,object
+15,name,name method object shim,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,192,name,,,string
+16,wrapper,wrapper function,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,192,wrapper,,,function
+17,shim method,shim method give wrapper function,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,192,shimMethod,obj name wrapper,,
+18,option,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,212,options,,,object
+19,add logger,add log function option . exist log attribute shim,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,212,addLogger,option,option log attribute add,object
+20,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,218,logging,,,
+21,option,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,240,options,,,object
+22,remove logger,revert option log original value,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,240,removeLogger,option,option log attribute revert original value,object
+23,option,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,254,options,,,object
+24,test logger,check option log injected logging function,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,254,testLogger,option,,
+25,call from test,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,267,calledFromTests,,,
+26,obj,object iterate,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,284,obj,,,object
+27,fn,function call property,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,284,fn,,,function
+28,for own,loop property object include non enumerable property call fn property argments value key object . getters skipped. like except also include non enumarable property skip getters,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,284,forOwn,obj fn,obj input,object
+29,fn,function,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,299,fn,,,function
+30,get function code,get code function add function start code fn define object method shortcut alters illegal function name import delete code parse acorn,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,299,getFunctionCode,fn,code function,string
+31,tree,abstract syntax tree function code,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,312,tree,,,object
+32,get function argument,return argument function array ast,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,312,getFunctionArguments,tree,array name method argument,array
+33,method,function inspect,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,329,method,,,function
+34,args,array name method argument,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,329,args,,,array
+35,hint,hint object contain code hint parse code,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,329,hints,,,object
+36,tree,abstract syntax tree function code,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,329,tree,,,object
+37,get argument conform fn,extract conform argument section function body turn function. function call signature original function conform standard order return argument array. return undefined conform arguments hint,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,329,getArgumentsConformFn,method args hint tree,function conform method argument return array,function
+38,option,option object,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,349,options,,,object
+39,clone option,clone option object,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,349,cloneOptions,option,clone option,object
+40,option,option object,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,362,options,,,object
+41,original,original option object,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,362,original,,,object
+42,check option,check option object alter throw alter,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,362,checkOptions,option original,,
+43,option,option object,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,375,options,,,object
+44,original,original option object,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,375,original,,,object
+45,option equal,compare two option object return deep equal other. object plain object e g. model compare reference. everything else deep compare value,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/supportShim.js,375,optionsEqual,option original,true option original false,boolean
+46,init test,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/support.js,40,initTests,,,
+47,prepare transaction test,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/support.js,58,prepareTransactionTest,,,
+48,create sequelize instance,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/support.js,89,createSequelizeInstance,,,
+49,get connection option,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/support.js,115,getConnectionOptions,,,
+50,get sequelize instance,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/support.js,123,getSequelizeInstance,,,
+51,clear database,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/support.js,129,clearDatabase,,,
+52,drop test schema,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/support.js,146,dropTestSchemas,,,
+53,get support dialect,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/support.js,166,getSupportedDialects,,,
+54,check match for dialect,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/support.js,171,checkMatchForDialects,,,
+55,get abstract query generator,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/support.js,179,getAbstractQueryGenerator,,,
+56,quote identifier,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/support.js,181,quoteIdentifier,,,
+57,get test dialect,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/support.js,194,getTestDialect,,,
+58,get test dialect teaser,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/support.js,208,getTestDialectTeaser,,,
+59,get test url,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/support.js,218,getTestUrl,,,
+60,expectsql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/support.js,237,expectsql,,,
+61,rand,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/config/config.js,22,rand,,,
+62,qq,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/sequelize.test.js,18,qq,,,
+63,get connection uri,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/sequelize.test.js,70,getConnectionUri,,,
+64,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/sequelize.test.js,460,logging,,,
+65,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/sequelize.test.js,491,logging,,,
+66,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/sequelize.test.js,499,logging,,,
+67,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/sequelize.test.js,508,logging,,,
+68,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/sequelize.test.js,592,logging,,,
+69,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/sequelize.test.js,603,logging,,,
+70,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/sequelize.test.js,617,logging,,,
+71,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/sequelize.test.js,637,logging,,,
+72,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/sequelize.test.js,738,logging,,,
+73,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/sequelize.test.js,747,logging,,,
+74,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/sequelize.test.js,1107,logging,,,
+75,count,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/sequelize.test.js,1279,count,,,
+76,count,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/sequelize.test.js,1306,count,,,
+77,get,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/instance.test.js,1232,get,,,
+78,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/instance.test.js,1888,logging,,,
+79,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/instance.test.js,1917,logging,,,
+80,test success,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/data-types.test.js,60,testSuccess,,,
+81,test failure,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/data-types.test.js,106,testFailure,,,
+82,assert same connection,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/pool.test.js,10,assertSameConnection,,,
+83,assert new connection,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/pool.test.js,30,assertNewConnection,,,
+84,unwrap and attach mssql unique id,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/pool.test.js,51,unwrapAndAttachMSSQLUniqueId,,,
+85,trans test,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/transaction.test.js,118,transTest,,,
+86,new transaction func,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/transaction.test.js,440,newTransactionFunc,,,
+87,new transaction func,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/transaction.test.js,460,newTransactionFunc,,,
+88,sort by id,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/include.test.js,12,sortById,,,
+89,create user and item,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/include.test.js,760,createUsersAndItems,,,
+90,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/cls.test.js,124,logging,,,
+91,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/json.test.js,42,logging,,,
+92,filter mssql default,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/query-interface.test.js,64,filterMSSQLDefault,,,
+93,custom fn,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/instance.validations.test.js,387,customFn,,,
+94,custom fn,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/instance.validations.test.js,414,customFn,,,
+95,xnor,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/instance.validations.test.js,468,xnor,,,
+96,set,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/instance.validations.test.js,690,set,,,
+97,be long enough,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/instance.validations.test.js,695,isLongEnough,,,
+98,field,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model.test.js,101,field,,,
+99,get,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model.test.js,510,get,,,
+100,set,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model.test.js,513,set,,,
+101,price,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model.test.js,533,price,,,
+102,price,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model.test.js,538,price,,,
+103,price in cent,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model.test.js,542,priceInCents,,,
+104,set,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model.test.js,556,set,,,
+105,get,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model.test.js,560,get,,,
+106,price,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model.test.js,564,price1,,,
+107,price,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model.test.js,567,price2,,,
+108,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model.test.js,866,logging,,,
+109,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model.test.js,893,logging,,,
+110,set,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model.test.js,1014,set,,,
+111,set,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model.test.js,1050,set,,,
+112,run,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model.test.js,1638,run,,,
+113,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model.test.js,1871,logging,,,
+114,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model.test.js,1959,logging,,,
+115,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model.test.js,2080,logging,,,
+116,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model.test.js,2170,logging,,,
+117,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model.test.js,2239,logging,,,
+118,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model.test.js,2246,logging,,,
+119,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model.test.js,2269,logging,,,
+120,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model.test.js,2282,logging,,,
+121,run,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model.test.js,2314,run,,,
+122,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model.test.js,2345,logging,,,
+123,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model.test.js,2366,logging,,,
+124,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model.test.js,2382,logging,,,
+125,test async,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model.test.js,2708,testAsync,,,
+126,get,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model.test.js,2844,get,,,
+127,set,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model.test.js,2848,set,,,
+128,expect read call,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/replication.test.js,47,expectReadCalls,,,
+129,expect write call,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/replication.test.js,52,expectWriteCalls,,,
+130,clone,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/utils.test.js,72,clone,,,
+131,clone,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/utils.test.js,82,clone,,,
+132,set,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/instance/update.test.js,45,set,,,
+133,email secret,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/instance/values.test.js,86,email_secret,,,
+134,get,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/instance/values.test.js,238,get,,,
+135,price,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/instance/values.test.js,257,price,,,
+136,get,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/instance/values.test.js,273,get,,,
+137,with tax,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/instance/values.test.js,279,withTaxes,,,
+138,get,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/instance/values.test.js,297,get,,,
+139,set,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/instance/values.test.js,301,set,,,
+140,rating,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/instance/values.test.js,377,rating,,,
+141,height,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/instance/values.test.js,392,height,,,
+142,test,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model/create.test.js,398,test,,,
+143,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model/create.test.js,806,logging,,,
+144,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model/create.test.js,829,logging,,,
+145,pad,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model/create.test.js,911,pad,,,
+146,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model/create.test.js,937,logging,,,
+147,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model/create.test.js,959,logging,,,
+148,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model/create.test.js,1146,logging,,,
+149,set,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model/attributes.test.js,35,set,,,
+150,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model/json.test.js,42,logging,,,
+151,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model/bulk-create.test.js,151,logging,,,
+152,custom validator,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model/bulk-create.test.js,699,customValidator,,,
+153,get,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model/findAll.test.js,1427,get,,,
+154,assert,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model/increment.test.js,55,assert,,,
+155,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model/findOne.test.js,111,logging,,,
+156,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model/findOne.test.js,188,logging,,,
+157,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model/findOne.test.js,255,logging,,,
+158,init,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model/findOne.test.js,307,init,,,
+159,set,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model/attributes/types.test.js,19,set,,,
+160,get,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model/attributes/types.test.js,23,get,,,
+161,get,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model/attributes/types.test.js,29,get,,,
+162,sql assert,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model/attributes/types.test.js,46,sqlAssert,,,
+163,after create,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model/create/include.test.js,17,afterCreate,,,
+164,before create,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model/create/include.test.js,27,beforeCreate,,,
+165,after create,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model/create/include.test.js,134,afterCreate,,,
+166,after create,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model/create/include.test.js,146,afterCreate,,,
+167,after create,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model/create/include.test.js,282,afterCreate,,,
+168,after create,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model/create/include.test.js,296,afterCreate,,,
+169,with include function,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model/scope/count.test.js,54,withIncludeFunction,,,
+170,with include function and string association,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model/scope/count.test.js,64,withIncludeFunctionAndStringAssociation,,,
+171,include active project,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/model/scope/associations.test.js,36,includeActiveProjects,,,
+172,before validate,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/hooks/hooks.test.js,115,beforeValidate,,,
+173,after validate,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/hooks/hooks.test.js,120,afterValidate,,,
+174,before create,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/hooks/hooks.test.js,145,beforeCreate,,,
+175,after create,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/hooks/hooks.test.js,150,afterCreate,,,
+176,before destroy,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/hooks/hooks.test.js,175,beforeDestroy,,,
+177,after destroy,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/hooks/hooks.test.js,180,afterDestroy,,,
+178,before update,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/hooks/hooks.test.js,207,beforeUpdate,,,
+179,after update,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/hooks/hooks.test.js,212,afterUpdate,,,
+180,get,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/hooks/destroy.test.js,87,get,,,
+181,before destroy,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/hooks/destroy.test.js,94,beforeDestroy,,,
+182,build,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/include/limit.test.js,17,build,,,
+183,sort by id,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/include/findAll.test.js,12,sortById,,,
+184,fixture a,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/include/findAll.test.js,19,fixtureA,,,
+185,sort by id,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/include/schema.test.js,13,sortById,,,
+186,fixture a,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/include/schema.test.js,24,fixtureA,,,
+187,check timezone parsing,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/dialects/postgres/connection-manager.test.js,11,checkTimezoneParsing,,,
+188,reload dynamic oi d,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/dialects/postgres/connection-manager.test.js,45,reloadDynamicOIDs,,,
+189,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/dialects/postgres/dao.test.js,52,logging,,,
+190,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/dialects/postgres/dao.test.js,199,logging,,,
+191,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/dialects/postgres/dao.test.js,224,logging,,,
+192,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/dialects/postgres/dao.test.js,249,logging,,,
+193,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/dialects/postgres/dao.test.js,604,logging,,,
+194,validate error,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/dialects/mysql/errors.test.js,13,validateError,,,
+195,validate error,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/dialects/mariadb/errors.test.js,12,validateError,,,
+196,run,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/sequelize/deferrable.test.js,17,run,,,
+197,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/associations/self.test.js,118,logging,,,
+198,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/associations/self.test.js,128,logging,,,
+199,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/associations/self.test.js,138,logging,,,
+200,get item,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/associations/scope.test.js,28,getItem,,,
+201,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/associations/scope.test.js,252,logging,,,
+202,default,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/assets/es6project.js,2,default,,,
+203,export,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/integration/assets/project.js,3,exports,,,
+204,close,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/transaction.test.js,18,close,,,
+205,be not true,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/instance-validator.test.js,17,isNotTrue,,,
+206,verbose,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/dialect-module-configuration.test.js,14,verbose,,,
+207,a,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/utils.test.js,232,a,,,
+208,b,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/utils.test.js,236,b,,,
+209,c,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/utils.test.js,240,c,,,
+210,throw error,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/errors.test.js,14,throwError,,,
+211,throw error,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/errors.test.js,38,throwError,,,
+212,set,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/instance/set.test.js,95,set,,,
+213,set,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/instance/previous.test.js,16,set,,,
+214,get,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/instance/previous.test.js,19,get,,,
+215,where,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/model/update.test.js,52,Where,,,
+216,apply fail test,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/model/validation.test.js,183,applyFailTest,,,
+217,apply pass test,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/model/validation.test.js,207,applyPassTest,,,
+218,custom fn,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/model/validation.test.js,466,customFn,,,
+219,custom fn,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/model/validation.test.js,478,customFn,,,
+220,custom fn,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/model/validation.test.js,553,customFn,,,
+221,set,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/model/upsert.test.js,20,set,,,
+222,get,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/model/upsert.test.js,23,get,,,
+223,where,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/model/destroy.test.js,43,Where,,,
+224,complex function,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/model/scope.test.js,16,complexFunction,,,
+225,no args,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/model/scope.test.js,56,noArgs,,,
+226,actual value,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/model/scope.test.js,66,actualValue,,,
+227,once,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/dialects/mssql/connection-manager.test.js,42,once,,,
+228,remove listener,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/dialects/mssql/connection-manager.test.js,49,removeListener,,,
+229,on,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/dialects/mssql/connection-manager.test.js,50,on,,,
+230,once,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/dialects/mssql/connection-manager.test.js,61,once,,,
+231,remove listener,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/dialects/mssql/connection-manager.test.js,68,removeListener,,,
+232,on,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/dialects/mssql/connection-manager.test.js,69,on,,,
+233,begin transaction,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/dialects/mssql/query.test.js,12,beginTransaction,,,
+234,validate resource,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/dialects/mssql/resource-lock.test.js,16,validateResource,,,
+235,validate resource,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/dialects/mssql/resource-lock.test.js,47,validateResource,,,
+236,[undefined],,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/associations/belongs-to.test.js,39,[undefined],,,
+237,[undefined],,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/associations/has-many.test.js,112,[undefined],,,
+238,[undefined],,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/associations/has-one.test.js,50,[undefined],,,
+239,validate model,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/associations/belongs-to-many.test.js,56,validateModel,,,
+240,[undefined],,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/associations/belongs-to-many.test.js,86,[undefined],,,
+241,testsql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/sql/select.test.js,18,testsql,,,
+242,testsql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/sql/order.test.js,17,testsql,,,
+243,testsql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/sql/data-types.test.js,19,testsql,,,
+244,testsql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/sql/generateJoin.test.js,17,testsql,,,
+245,testsql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/sql/offset-limit.test.js,13,testsql,,,
+246,testsql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/sql/where.test.js,17,testsql,,,
+247,testsql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/sql/where.test.js,100,testsql,,,
+248,testsql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/test/unit/sql/where.test.js,1153,testsql,,,
+249,array to list,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/sql-string.js,7,arrayToList,,,
+250,escape,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/sql-string.js,22,escape,,,
+251,format,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/sql-string.js,95,format,,,
+252,format name parameter,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/sql-string.js,112,formatNamedParameters,,,
+253,to string,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/deferrable.js,6,toString,,,
+254,to string,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/deferrable.js,11,toString,,,
+255,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/deferrable.js,15,toSql,,,
+256,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/deferrable.js,21,toSql,,,
+257,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/deferrable.js,27,toSql,,,
+258,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/deferrable.js,33,toSql,,,
+259,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/deferrable.js,44,toSql,,,
+260,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/deferrable.js,55,toSql,,,
+261,database,database name create,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,40,database,,,string
+262,option,query option,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,40,options,,,object
+263,option charset,database default character set mysql,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,40,options.charset,,,string
+264,option collate,database default collation,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,40,options.collate,,,string
+265,option encode,database default character set postgre sql,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,40,options.encoding,,,string
+266,option ctype,database character classification postgre sql,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,40,options.ctype,,,string
+267,option template,name template create new database postgre sql,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,40,options.template,,,string
+268,create database,create database,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,40,createDatabase,database option option charset option collate option encode option ctype option template,,promise
+269,database,database name drop,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,54,database,,,string
+270,option,query option,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,54,options,,,object
+271,drop database,drop database,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,54,dropDatabase,database option,,promise
+272,schema,schema name create,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,68,schema,,,string
+273,option,query option,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,68,options,,,object
+274,create schema,create schema,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,68,createSchema,schema option,,promise
+275,schema,schema name drop,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,82,schema,,,string
+276,option,query option,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,82,options,,,object
+277,drop schema,drop schema,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,82,dropSchema,schema option,,promise
+278,option,query option,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,95,options,,,object
+279,drop all schema,drop schema,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,95,dropAllSchemas,option,,promise
+280,option,query option,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,111,options,,,object
+281,show all schema,show schema,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,111,showAllSchemas,option,,promise.<array>
+282,option,query option,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,133,options,,,object
+283,option type,query type,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,133,options.type,,,querytype
+284,database version,return database version,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,133,databaseVersion,option option type,,promise
+285,table name,name table create,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,193,tableName,,,string
+286,attribute,object represent list table attribute create,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,193,attributes,,,object
+287,option,create table query option,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,193,options,,,object
+288,model,model class,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,193,model,,,model
+289,create table,create table give set attribute js query interface create table name new table id type sequelize integer primary key true auto increment true create type sequelize date update type sequelize date attr sequelize string attr sequelize integer attr type sequelize boolean default value false allow null false foreign key usage attr type sequelize integer reference model another table name key id update cascade delete cascade engine myisam default inno db charset latin default null schema public default public postgre sql only. comment table comment table collate latin danish ci collation mysql,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,193,createTable,table name attribute option model,,promise
+290,table name,table name drop,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,247,tableName,,,string
+291,option,query option,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,247,options,,,object
+292,drop table,drop table database,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,247,dropTable,table name option,,promise
+293,option,query option,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,290,options,,,object
+294,option skip,list table skip,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,290,options.skip,,,array
+295,drop all table,drop table database,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,290,dropAllTables,option option skip,,promise
+296,drop all table,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,294,dropAllTables,,,
+297,enum name,enum name drop,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,343,enumName,,,string
+298,option,query option,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,343,options,,,object
+299,drop enum,drop specify enum database postgres,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,343,dropEnum,enum name option,,promise
+300,option,query option,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,364,options,,,object
+301,drop all enums,drop enums database postgres,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,364,dropAllEnums,option,,promise
+302,table name,table whose enum list,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,386,tableName,,,string
+303,option,query option,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,386,options,,,object
+304,pg list enums,list enums postgres,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,386,pgListEnums,table name option,,promise
+305,before,current name table,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,401,before,,,string
+306,after,new name table,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,401,after,,,string
+307,option,query option,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,401,options,,,object
+308,rename table,renames table,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,401,renameTable,before after option,,promise
+309,option,query option,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,417,options,,,object
+310,option raw,run query raw mode,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,417,options.raw,,,boolean
+311,option type,query type,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,417,options.type,,,querytype
+312,show all table,get table current database,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,417,showAllTables,option option raw option type,,promise.<array>
+313,table name,table name,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,452,tableName,,,string
+314,option,query option,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,452,options,,,object
+315,describe table,describe table structure method return array hash contain information attribute table. j name type varchar character vary pg allow null true default value null beta member type tinyint boolean pg allow null false default value false,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,452,describeTable,table name option,,promise.<object>
+316,table,table add column,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,500,table,,,string
+317,key,column name,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,500,key,,,string
+318,attribute,attribute definition,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,500,attribute,,,object
+319,option,query option,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,500,options,,,object
+320,add column,add new column table j query interface add column table column c sequelize string column b option support sql,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,500,addColumn,table key attribute option,,promise
+321,table name,table remove column,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,519,tableName,,,string
+322,attribute name,column name remove,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,519,attributeName,,,string
+323,option,query option,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,519,options,,,object
+324,remove column,remove column table,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,519,removeColumn,table name attribute name option,,promise
+325,table name,table name change,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,547,tableName,,,string
+326,attribute name,column name,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,547,attributeName,,,string
+327,data type or option,attribute definition new column,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,547,dataTypeOrOptions,,,object
+328,option,query option,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,547,options,,,object
+329,change column,change column definition,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,547,changeColumn,table name attribute name data type or option option,,promise
+330,table name,table name whose column rename,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,579,tableName,,,string
+331,attr name before,current column name,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,579,attrNameBefore,,,string
+332,attr name after,new column name,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,579,attrNameAfter,,,string
+333,option,query option,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,579,options,,,object
+334,rename column,rename column,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,579,renameColumn,table name attr name before attr name after option,,promise
+335,table name,table name add index object schema,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,631,tableName,,,string|object
+336,attribute,use option field instead list attribute add index,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,631,attributes,,,array
+337,option,index option,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,631,options,,,object
+338,option field,list attribute add index,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,631,options.fields,,,array
+339,option unique,create unique index,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,631,options.unique,,,boolean
+340,option use,useful gin index,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,631,options.using,,,string
+341,option type,type index available option unique fulltext spatial,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,631,options.type,,,string
+342,option name,name index. default table attr attr,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,631,options.name,,,string
+343,option where,condition index partial index,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,631,options.where,,,object
+344,raw tablename,table name backward compatibiity,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,631,rawTablename,,,string
+345,add index,add index column,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,631,addIndex,table name attribute option option field option unique option use option type option name option where raw tablename,,promise
+346,table name,table name,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,660,tableName,,,string
+347,option,query option,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,660,options,,,object
+348,show index,show index table,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,660,showIndex,table name option,,promise.<array>
+349,get foreign key for table,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,665,getForeignKeysForTables,,,
+350,table name,table name,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,706,tableName,,,string
+351,option,query option,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,706,options,,,object
+352,get foreign key reference for table,get foreign key reference detail table. detail contains constraint schema constraint name constraint catalog table catalog table schema table name column name reference table catalog reference table catalog reference table schema reference table name reference column name. remind constraint information win return sqlite,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,706,getForeignKeyReferencesForTable,table name option,,promise
+353,table name,table name drop index,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,742,tableName,,,string
+354,index name or attribute,index name,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,742,indexNameOrAttributes,,,string
+355,option,query option,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,742,options,,,object
+356,remove index,remove already exist index table,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,742,removeIndex,table name index name or attribute option,,promise
+357,table name,table name want add constraint,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,810,tableName,,,string
+358,attribute,array column name apply constraint,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,810,attributes,,,array
+359,option,object define constraint name type etc,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,810,options,,,object
+360,option type,type constraint. one value available constraint case insensitive,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,810,options.type,,,string
+361,option name,name constraint. specify sequelize automatically create name constraint base constraint type table column name,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,810,options.name,,,string
+362,option default value,value default constraint,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,810,options.defaultValue,,,string
+363,option where,clause expression check constraint,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,810,options.where,,,object
+364,option reference,object specify target table column name create foreign key constraint,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,810,options.references,,,object
+365,option reference table,target table name,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,810,options.references.table,,,string
+366,option reference field,target column name,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,810,options.references.field,,,string
+367,raw tablename,table name backward compatibility,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,810,rawTablename,,,string
+368,add constraint,add constraint table available constraint unique default mssql check sql ignore database engine foreign key primary key,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,810,addConstraint,table name attribute option option type option name option default value option where option reference option reference table option reference field raw tablename,,promise
+369,show constraint,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,836,showConstraint,,,
+370,table name,table name drop constraint,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,849,tableName,,,string
+371,constraint name,constraint name,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,849,constraintName,,,string
+372,option,query option,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,849,options,,,object
+373,remove constraint,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,849,removeConstraint,table name constraint name option,,promise
+374,insert,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,865,insert,,,
+375,table name,table upsert,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,891,tableName,,,string
+376,insert value,value insert mapped field name,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,891,insertValues,,,object
+377,update value,value update mapped field name,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,891,updateValues,,,object
+378,where,various condition,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,891,where,,,object
+379,model,model upsert,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,891,model,,,model
+380,option,query option,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,891,options,,,object
+381,upsert,upsert,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,891,upsert,table name insert value update value where model option,resolve array created primary key,"promise.<boolean, ?number>"
+382,table name,table name insert record,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,981,tableName,,,string
+383,record,list record insert,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,981,records,,,array
+384,option,various option please see model bulk create option,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,981,options,,,object
+385,attribute,various attribute map field name,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,981,attributes,,,object
+386,bulk insert,insert record table,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,981,bulkInsert,table name record option attribute,,promise
+387,update,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,991,update,,,
+388,table name,table name update,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1022,tableName,,,string
+389,value,value insert mapped field name,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1022,values,,,object
+390,identifier,hash condition id integer string condition,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1022,identifier,,,object
+391,option,various option please see model bulk create option,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1022,options,,,object
+392,attribute,attribute return object support sql dialect,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1022,attributes,,,object
+393,bulk update,update multiple record table,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1022,bulkUpdate,table name value identifier option attribute,,promise
+394,delete,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1034,delete,,,
+395,table name,table name delete record,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1084,tableName,,,string
+396,where,condition find record delete,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1084,where,,,object
+397,option,option,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1084,options,,,object
+398,option truncate,use truncate table command,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1084,options.truncate,,,boolean
+399,model,model,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1084,model,,,model
+400,bulk delete,delete record table,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1084,bulkDelete,table name where option option truncate model,,promise
+401,select,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1103,select,,,
+402,increment,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1114,increment,,,
+403,decrement,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1125,decrement,,,
+404,raw select,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1136,rawSelect,,,
+405,create trigger,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1180,createTrigger,,,
+406,drop trigger,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1189,dropTrigger,,,
+407,rename trigger,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1199,renameTrigger,,,
+408,function name,name sql function create,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1237,functionName,,,string
+409,params,list parameter declare sql function,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1237,params,,,array
+410,return type,sql type function return value,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1237,returnType,,,string
+411,language,name language function implement,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1237,language,,,string
+412,body,source code function,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1237,body,,,string
+413,option array,extra option creation,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1237,optionsArray,,,array
+414,option,query option,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1237,options,,,object
+415,create function,create sql function,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1237,createFunction,function name params return type language body option array option,,promise
+416,function name,name sql function drop,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1265,functionName,,,string
+417,params,list parameter declare sql function,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1265,params,,,array
+418,option,query option,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1265,options,,,object
+419,drop function,drop sql function,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1265,dropFunction,function name params option,,promise
+420,old function name,current name function,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1295,oldFunctionName,,,string
+421,params,list parameter declare sql function,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1295,params,,,array
+422,new function name,new name function,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1295,newFunctionName,,,string
+423,option,query option,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1295,options,,,object
+424,rename function,rename sql function,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1295,renameFunction,old function name params new function name option,,promise
+425,identifier,identifier quote,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1315,identifier,,,string
+426,force,force true identifier quote even quote identifier option false,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1315,force,,,boolean
+427,quote identifier,escape identifier e g. table attribute name,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1315,quoteIdentifier,identifier force,,
+428,quote table,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1319,quoteTable,,,
+429,identifier,array identifier quote,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1331,identifiers,,,array.<string>
+430,force,force true identifier quote even quote identifier option false,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1331,force,,,boolean
+431,quote identifier,quote array identifier,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1331,quoteIdentifiers,identifier force,,
+432,value,string escape,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1342,value,,,string
+433,escape,escape value e g. string number date,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1342,escape,value,,
+434,set isolation level,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1346,setIsolationLevel,,,
+435,start transaction,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1369,startTransaction,,,
+436,defer constraint,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1383,deferConstraints,,,
+437,commit transaction,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1397,commitTransaction,,,
+438,rollback transaction,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/query-interface.js,1419,rollbackTransaction,,,
+439,hook type,hook type see link hook type,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/hooks.js,61,hookType,,,string
+440,get proxied hook,get array current hook proxy combine,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/hooks.js,61,getProxiedHooks,hook type,,
+441,get hook,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/hooks.js,67,getHooks,,,
+442,hook,hook definition,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/hooks.js,81,hooks,,,object
+443,setup hook,process user supply hook definition,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/hooks.js,81,_setupHooks,hook,,
+444,run hook,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/hooks.js,89,runHooks,,,
+445,hook type,hook name see link hook type,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/hooks.js,142,hookType,,,string
+446,name,provide name hook function. use remove hook later order hook base sort priority system future,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/hooks.js,142,name,,,string|function
+447,fn,hook function,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/hooks.js,142,fn,,,function
+448,add hook,add hook model,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/hooks.js,142,addHook,hook type name fn,,
+449,hook type,see link hook type,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/hooks.js,169,hookType,,,string
+450,name,name hook function reference attach,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/hooks.js,169,name,,,string|function
+451,remove hook,remove hook model,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/hooks.js,169,removeHook,hook type name,,
+452,hook type,see link hook type,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/hooks.js,206,hookType,,,string
+453,have hook,check whether mode hook type,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/hooks.js,206,hasHooks,hook type,,
+454,apply to,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/hooks.js,213,applyTo,,,
+455,target[undefined],,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/hooks.js,217,target[undefined],,,
+456,use inflection,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,16,useInflection,,,
+457,camelize if,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,21,camelizeIf,,,
+458,underscored if,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,32,underscoredIf,,,
+459,be primitive,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,43,isPrimitive,,,
+460,merge default,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,50,mergeDefaults,,,
+461,merge,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,63,merge,,,
+462,splice str,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,86,spliceStr,,,
+463,camelize,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,91,camelize,,,
+464,underscore,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,96,underscore,,,
+465,singularize,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,101,singularize,,,
+466,pluralize,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,106,pluralize,,,
+467,format,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,111,format,,,
+468,format name parameter,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,118,formatNamedParameters,,,
+469,clone deep,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,124,cloneDeep,,,
+470,map finder option,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,146,mapFinderOptions,,,
+471,map option field name,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,159,mapOptionFieldNames,,,
+472,map where field name,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,180,mapWhereFieldNames,,,
+473,map value field name,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,215,mapValueFieldNames,,,
+474,be col string,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,233,isColString,,,
+475,can treat array a and,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,238,canTreatArrayAsAnd,,,
+476,combine table name,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,243,combineTableNames,,,
+477,to default value,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,248,toDefaultValue,,,
+478,value,default value,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,280,value,,,*
+479,default value schemable,determine default value provide exists describe db schema use default directive,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,280,defaultValueSchemable,value,yes,boolean
+480,remove null value from hash,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,293,removeNullValuesFromHash,,,
+481,stack,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,315,stack,,,
+482,prepare stack trace,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,317,prepareStackTrace,,,
+483,slice args,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,326,sliceArgs,,,
+484,now,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,339,now,,,
+485,add tick,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,354,addTicks,,,
+486,remove tick,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,360,removeTicks,,,
+487,value,object,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,395,"value,",,,
+488,flatten object deep,receive tree like object return plain object depth . input name john address street fake st. coordinate longitude . latitude . output name john address street fake st. address coordinate latitude . address coordinate longitude .,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,395,flattenObjectDeep,value,object flattened object,
+489,flatten object,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,399,flattenObject,,,
+490,clone,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,429,clone,,,
+491,obj,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,502,obj,,,object
+492,get operator,get operator,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,502,getOperators,obj,operator property obj,array.<symbol>
+493,obj,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,513,obj,,,object
+494,get complex key,get complex key,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,513,getComplexKeys,obj,key include operator,array.<(string|symbol)>
+495,obj,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,524,obj,,,object|array
+496,get complex size,get complex size,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,524,getComplexSize,obj,length object property include operator obj array return length,integer
+497,obj,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,536,obj,,,object
+498,be where empty,return true clause empty even symbol,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,536,isWhereEmpty,obj,,boolean
+499,table name,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,549,tableName,,,string
+500,column name,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,549,columnName,,,string
+501,generate enum name,return enum name join table column name,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,549,generateEnumName,table name column name,,string
+502,obj,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,560,obj,,,object
+503,camelize object key,return new object key camelized,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,560,camelizeObjectKeys,obj,,string
+504,object,destination object,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,582,object,,,object
+505,source,source object,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,582,sources,,,object
+506,default,assigns inherited enumerable string symbol key property source object destination object. http lodash com doc . . defaults note method mutate object,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,582,defaults,object source,return object,object
+507,class to invokable,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,609,classToInvokable,,,
+508,apply,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,611,apply,,,
+509,index,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,628,index,,,object
+510,index field,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,628,index.fields,,,array
+511,index name,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,628,index.name,,,string
+512,table name,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,628,tableName,,,string|object
+513,name index,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils.js,628,nameIndex,index index field index name table name,,object
+514,commit,commit transaction,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/transaction.js,56,commit,,,promise
+515,rollback,rollback abort transaction,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/transaction.js,85,rollback,,,promise
+516,prepare environment,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/transaction.js,108,prepareEnvironment,,,
+517,begin,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/transaction.js,146,begin,,,
+518,set deferrable,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/transaction.js,153,setDeferrable,,,
+519,set isolation level,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/transaction.js,162,setIsolationLevel,,,
+520,cleanup,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/transaction.js,169,cleanup,,,
+521,clear cl,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/transaction.js,175,_clearCls,,,
+522,after commit,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/transaction.js,192,afterCommit,,,
+523,validate,main entry point validation module invoke start dance,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/instance-validator.js,64,_validate,,,promise
+524,validate,invoke validation sequence run validation hook define validation model hook validation validation success validation model hook validation failure validation fail model hook,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/instance-validator.js,89,validate,,,promise
+525,validate and run hook,invoke validation sequence run hook validation model hook validation validation success validation model hook validation failure validation fail model hook,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/instance-validator.js,103,_validateAndRunHooks,,,promise
+526,builtin validators,run build validators,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/instance-validator.js,121,_builtinValidators,,promise reflect,promise.<array.<promise.promiseinspection>>
+527,custom validators,run custom validators,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/instance-validator.js,155,_customValidators,,promise reflect,promise.<array.<promise.promiseinspection>>
+528,value,anything,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/instance-validator.js,183,value,,,*
+529,field,field name,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/instance-validator.js,183,field,,,string
+530,builtin attr validate,validate single attribute define built validators,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/instance-validator.js,183,_builtinAttrValidate,value field,promise always resolve auto populates error error local object,promise
+531,validator,custom validator,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/instance-validator.js,233,validator,,,function
+532,validator type,custom validator type name,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/instance-validator.js,233,validatorType,,,string
+533,opt attr define,set true custom validator define attribute,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/instance-validator.js,233,optAttrDefined,,,boolean
+534,opt value,value attribute,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/instance-validator.js,233,optValue,,,*
+535,opt field,field attribute,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/instance-validator.js,233,optField,,,string
+536,invoke custom validator,prepare invoke custom validator,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/instance-validator.js,233,_invokeCustomValidator,validator validator type opt attr define opt value opt field,promise,promise
+537,value,anything,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/instance-validator.js,277,value,,,*
+538,test,test case,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/instance-validator.js,277,test,,,*
+539,validator type,one know sequelize validators,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/instance-validator.js,277,validatorType,,,string
+540,field,field validate,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/instance-validator.js,277,field,,,string
+541,invoke builtin validator,prepare invoke build validator,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/instance-validator.js,277,_invokeBuiltinValidator,value test validator type field,object specific key invoke validator,object
+542,test,test case,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/instance-validator.js,303,test,,,*
+543,validator type,one know sequelize validators,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/instance-validator.js,303,validatorType,,,string
+544,field,field validate,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/instance-validator.js,303,field,,,string
+545,extract validator args,extract argument validator,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/instance-validator.js,303,_extractValidatorArgs,test validator type field,,
+546,raw attribute,define schema,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/instance-validator.js,330,rawAttribute,,,object
+547,field,field name,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/instance-validator.js,330,field,,,string
+548,value,anything,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/instance-validator.js,330,value,,,*
+549,validate schema,validate single field schema definition isnull,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/instance-validator.js,330,_validateSchema,raw attribute field value,,
+550,field,attribute name,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/instance-validator.js,374,field,,,string
+551,value,data value,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/instance-validator.js,374,value,,,string|number
+552,promise inspection,object,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/instance-validator.js,374,promiseInspections,,,array.<promise.promiseinspection>
+553,handle reflect result,handle returned result promise reflect. error find populate error,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/instance-validator.js,374,_handleReflectedResult,field value promise inspection,,
+554,be builtin,determines error builtin validator,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/instance-validator.js,397,isBuiltin,,,boolean
+555,error key,name invalid attribute,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/instance-validator.js,397,errorKey,,,string
+556,raw error,original error,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/instance-validator.js,397,rawError,,,error|string
+557,value,data trigger error,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/instance-validator.js,397,value,,,string|number
+558,fn name,name validator,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/instance-validator.js,397,fnName,,,string
+559,fn args,argument validator function,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/instance-validator.js,397,fnArgs,,,array
+560,push error,sign error retain original,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/instance-validator.js,397,_pushError,be builtin error key raw error value fn name fn args,,
+561,add model,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/model-manager.js,12,addModel,,,
+562,remove model,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/model-manager.js,19,removeModel,,,
+563,get model,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/model-manager.js,25,getModel,,,
+564,iterator,method execute model,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/model-manager.js,47,iterator,,,function
+565,option,iterator option,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/model-manager.js,47,options,,,object
+566,for each model,iterate model order suitable e g. create tables. take foreign key constraint account dependency visit dependent,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/model-manager.js,47,forEachModel,iterator option,,
+567,path,path check error item,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/errors/index.js,75,path,,,string
+568,get,get validation error item path field specify,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/errors/index.js,75,get,path,validation error item specified path,array.<validationerroritem>
+569,use type a n,control whether returned value namespace parameter ignore validator type one validation error item origin,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/errors/index.js,357,useTypeAsNS,,,boolean
+570,n separator,separator string concatenate namespace must empty default . fullstop . use validate use type n true,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/errors/index.js,357,NSSeparator,,,string
+571,get validator key,return lowercase trim string key identify validator. note string empty instance neither valid validator key property valid validator name property,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/errors/index.js,357,getValidatorKey,use type a n n separator,,string
+572,path,path check error item,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/errors/index.js,75,path,,,string
+573,get,get validation error item path field specify,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/errors/index.js,75,get,path,validation error item specified path,array.<validationerroritem>
+574,constructor,child constructor,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils/inherits.js,14,constructor,,,function
+575,super constructor,super constructor,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils/inherits.js,14,superConstructor,,,function
+576,inherits,like util inherits also copy static properties. inherit child constructor property super constructor,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils/inherits.js,14,inherits,constructor super constructor,,
+577,extend,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils/validator-extras.js,8,extend,,,
+578,not empty,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils/validator-extras.js,13,notEmpty,,,
+579,len,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils/validator-extras.js,16,len,,,
+580,be url,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils/validator-extras.js,19,isUrl,,,
+581,be i pv,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils/validator-extras.js,22,isIPv6,,,
+582,be i pv,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils/validator-extras.js,25,isIPv4,,,
+583,not in,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils/validator-extras.js,28,notIn,,,
+584,regex,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils/validator-extras.js,31,regex,,,
+585,not regex,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils/validator-extras.js,38,notRegex,,,
+586,be decimal,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils/validator-extras.js,41,isDecimal,,,
+587,min,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils/validator-extras.js,44,min,,,
+588,max,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils/validator-extras.js,48,max,,,
+589,not,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils/validator-extras.js,52,not,,,
+590,contains,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils/validator-extras.js,55,contains,,,
+591,not contains,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils/validator-extras.js,58,notContains,,,
+592,be,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils/validator-extras.js,61,is,,,
+593,be immutable,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils/validator-extras.js,68,isImmutable,,,
+594,not null,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils/validator-extras.js,73,notNull,,,
+595,be date,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils/validator-extras.js,88,isDate,,,
+596,deprecate,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils/logger.js,26,deprecate,,,
+597,debug,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils/logger.js,30,debug,,,
+598,warn,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils/logger.js,34,warn,,,
+599,debug context,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils/logger.js,38,debugContext,,,
+600,get logger,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/utils/logger.js,52,getLogger,,,
+601,export,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/parserStore.js,5,exports,,,
+602,clear,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/parserStore.js,11,clear,,,
+603,refresh,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/parserStore.js,14,refresh,,,
+604,get,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/parserStore.js,19,get,,,
+605,export,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/data-types.js,6,exports,,,
+606,data type,base integer data type,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/data-types.js,14,dataType,,,
+607,remove unsupported integer option,remove unsupported sq lite option e. unsigned zerofill integer data type,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/data-types.js,14,removeUnsupportedIntegerOptions,data type,,
+608,jsontype,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/data-types.js,48,JSONTYPE,,,
+609,parse,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/data-types.js,54,parse,,,
+610,date,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/data-types.js,58,DATE,,,
+611,parse,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/data-types.js,64,parse,,,
+612,dateonly,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/data-types.js,72,DATEONLY,,,
+613,parse,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/data-types.js,78,parse,,,
+614,string,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/data-types.js,82,STRING,,,
+615,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/data-types.js,88,toSql,,,
+616,text,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/data-types.js,95,TEXT,,,
+617,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/data-types.js,101,toSql,,,
+618,citext,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/data-types.js,109,CITEXT,,,
+619,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/data-types.js,115,toSql,,,
+620,char,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/data-types.js,119,CHAR,,,
+621,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/data-types.js,125,toSql,,,
+622,number,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/data-types.js,132,NUMBER,,,
+623,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/data-types.js,138,toSql,,,
+624,tinyint,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/data-types.js,158,TINYINT,,,
+625,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/data-types.js,166,toSql,,,
+626,smallint,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/data-types.js,170,SMALLINT,,,
+627,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/data-types.js,178,toSql,,,
+628,mediumint,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/data-types.js,182,MEDIUMINT,,,
+629,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/data-types.js,190,toSql,,,
+630,integer,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/data-types.js,194,INTEGER,,,
+631,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/data-types.js,202,toSql,,,
+632,bigint,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/data-types.js,206,BIGINT,,,
+633,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/data-types.js,214,toSql,,,
+634,float,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/data-types.js,218,FLOAT,,,
+635,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/data-types.js,223,toSql,,,
+636,double,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/data-types.js,227,DOUBLE,,,
+637,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/data-types.js,232,toSql,,,
+638,real,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/data-types.js,236,REAL,,,
+639,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/data-types.js,241,toSql,,,
+640,parse,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/data-types.js,246,parse,,,
+641,enum,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/data-types.js,262,ENUM,,,
+642,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/data-types.js,272,toSql,,,
+643,extend,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/data-types.js,299,extend,,,
+644,on process exit,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/connection-manager.js,26,_onProcessExit,,,
+645,refresh type parser,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/connection-manager.js,36,_refreshTypeParser,,,
+646,clear type parser,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/connection-manager.js,40,_clearTypeParser,,,
+647,get connection,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/connection-manager.js,44,getConnection,,,
+648,release connection,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/connection-manager.js,79,releaseConnection,,,
+649,table name,name table,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-interface.js,29,tableName,,,string
+650,attribute name,name attribute want remove,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-interface.js,29,attributeName,,,string
+651,option,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-interface.js,29,options,,,object
+652,option log,function log sql query false explicitly log query,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-interface.js,29,options.logging,,,boolean|function
+653,remove column,wrapper fix sq lite inability remove column exist tables. create backup table drop table afterwards create new table name without obsolete column,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-interface.js,29,removeColumn,table name attribute name option option log,,
+654,table name,name table,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-interface.js,56,tableName,,,string
+655,attribute,object attribute name key option value object,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-interface.js,56,attributes,,,object
+656,option,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-interface.js,56,options,,,object
+657,option log,function log sql query false explicitly log query,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-interface.js,56,options.logging,,,boolean|function
+658,change column,wrapper fix sq lite inability change column exist tables. create backup table drop table afterwards create new table name modified version respective column,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-interface.js,56,changeColumn,table name attribute option option log,,
+659,table name,name table,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-interface.js,85,tableName,,,string
+660,attr name before,name attribute rename,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-interface.js,85,attrNameBefore,,,string
+661,attr name after,name attribute rename,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-interface.js,85,attrNameAfter,,,string
+662,option,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-interface.js,85,options,,,object
+663,option log,function log sql query false explicitly log query,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-interface.js,85,options.logging,,,boolean|function
+664,rename column,wrapper fix sq lite inability rename column exist tables. create backup table drop table afterwards create new table name renamed version respective column,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-interface.js,85,renameColumn,table name attr name before attr name after option option log,,
+665,remove constraint,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-interface.js,100,removeConstraint,,,
+666,add constraint,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-interface.js,141,addConstraint,,,
+667,table name,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-interface.js,173,tableName,,,string
+668,option,query option,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-interface.js,173,options,,,object
+669,get foreign key reference for table,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-interface.js,173,getForeignKeyReferencesForTable,table name option,,promise
+670,create schema,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-generator.js,11,createSchema,,,
+671,show schemas query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-generator.js,15,showSchemasQuery,,,
+672,version query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-generator.js,19,versionQuery,,,
+673,create table query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-generator.js,23,createTableQuery,,,
+674,boolean value,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-generator.js,75,booleanValue,,,
+675,stmt,statement validate,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-generator.js,86,stmt,,,string
+676,check valid json statement,check whether statmement json function simple path,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-generator.js,86,_checkValidJsonStatement,stmt,true give statement json function,boolean
+677,to json value,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-generator.js,139,_toJSONValue,,,
+678,handle sequelize method,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-generator.js,150,handleSequelizeMethod,,,
+679,add column query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-generator.js,188,addColumnQuery,,,
+680,show table query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-generator.js,199,showTablesQuery,,,
+681,upsert query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-generator.js,203,upsertQuery,,,
+682,update query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-generator.js,218,updateQuery,,,
+683,truncate table query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-generator.js,260,truncateTableQuery,,,
+684,delete query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-generator.js,264,deleteQuery,,,
+685,attribute to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-generator.js,280,attributesToSQL,,,
+686,show index query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-generator.js,344,showIndexesQuery,,,
+687,show constraint query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-generator.js,348,showConstraintsQuery,,,
+688,remove index query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-generator.js,358,removeIndexQuery,,,
+689,describe table query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-generator.js,368,describeTableQuery,,,
+690,describe create table query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-generator.js,377,describeCreateTableQuery,,,
+691,remove column query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-generator.js,381,removeColumnQuery,,,
+692,alter constraint query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-generator.js,408,_alterConstraintQuery,,,
+693,rename column query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-generator.js,431,renameColumnQuery,,,
+694,start transaction query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-generator.js,461,startTransactionQuery,,,
+695,set isolation level query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-generator.js,469,setIsolationLevelQuery,,,
+696,replace boolean default,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-generator.js,484,replaceBooleanDefaults,,,
+697,table name,name table,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-generator.js,495,tableName,,,string
+698,get foreign key query,generates sql query return foreign key table,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query-generator.js,495,getForeignKeysQuery,table name,generated sql query,string
+699,get insert id field,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query.js,30,getInsertIdField,,,
+700,format bind parameter,rewrite query parameter,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query.js,38,formatBindParameters,,,
+701,collect model,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query.js,58,_collectModels,,,
+702,handle query response,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query.js,80,_handleQueryResponse,,,
+703,run,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query.js,236,run,,,
+704,execute sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query.js,260,executeSql,,,
+705,after execute,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query.js,267,afterExecute,,,
+706,parse constraint from sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query.js,322,parseConstraintsFromSql,,,
+707,apply parser,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query.js,372,applyParsers,,,
+708,format error,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query.js,387,formatError,,,
+709,handle show index query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query.js,445,handleShowIndexesQuery,,,
+710,get database method,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/sqlite/query.js,466,getDatabaseMethod,,,
+711,export,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,7,exports,,,
+712,data type,base integer data type,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,15,dataType,,,
+713,remove unsupported integer option,remove unsupported postgres option e. length unsigned zerofill integer data type,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,15,removeUnsupportedIntegerOptions,data type,,
+714,dateonly,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,42,DATEONLY,,,
+715,parse,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,49,parse,,,
+716,stringify,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,60,_stringify,,,
+717,sanitize,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,71,_sanitize,,,
+718,decimal,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,90,DECIMAL,,,
+719,parse,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,97,parse,,,
+720,string,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,104,STRING,,,
+721,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,110,toSql,,,
+722,text,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,119,TEXT,,,
+723,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,125,toSql,,,
+724,citext,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,135,CITEXT,,,
+725,parse,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,141,parse,,,
+726,char,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,145,CHAR,,,
+727,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,151,toSql,,,
+728,boolean,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,160,BOOLEAN,,,
+729,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,166,toSql,,,
+730,sanitize,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,170,_sanitize,,,
+731,date,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,194,DATE,,,
+732,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,200,toSql,,,
+733,validate,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,204,validate,,,
+734,stringify,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,212,_stringify,,,
+735,sanitize,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,223,_sanitize,,,
+736,tinyint,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,242,TINYINT,,,
+737,smallint,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,253,SMALLINT,,,
+738,integer,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,264,INTEGER,,,
+739,parse,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,272,parse,,,
+740,bigint,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,279,BIGINT,,,
+741,real,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,290,REAL,,,
+742,double,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,301,DOUBLE,,,
+743,float,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,312,FLOAT,,,
+744,blob,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,338,BLOB,,,
+745,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,344,toSql,,,
+746,hexify,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,352,_hexify,,,
+747,geometry,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,359,GEOMETRY,,,
+748,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,365,toSql,,,
+749,parse,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,383,parse,,,
+750,stringify,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,388,_stringify,,,
+751,bind param,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,391,_bindParam,,,
+752,geography,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,395,GEOGRAPHY,,,
+753,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,401,toSql,,,
+754,parse,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,419,parse,,,
+755,stringify,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,424,_stringify,,,
+756,bind param,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,427,bindParam,,,
+757,hstore,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,433,HSTORE,,,
+758,parse,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,444,parse,,,
+759,value,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,453,_value,,,
+760,stringify,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,460,_stringify,,,
+761,bind param,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,463,_bindParam,,,
+762,range,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,469,RANGE,,,
+763,parse,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,476,parse,,,
+764,parser,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,476,parser,,,
+765,value,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,481,_value,,,
+766,stringify,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,509,_stringify,,,
+767,bind param,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,516,_bindParam,,,
+768,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,541,toSql,,,
+769,to cast type,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,544,toCastType,,,
+770,value,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,549,_value,,,
+771,stringify,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,564,_stringify,,,
+772,bind param,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,583,_bindParam,,,
+773,enum,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,587,ENUM,,,
+774,parse,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,593,parse,,,
+775,extend,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/data-types.js,626,extend,,,
+776,refresh type parser,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/connection-manager.js,27,_refreshTypeParser,,,
+777,array parser builder,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/connection-manager.js,28,arrayParserBuilder,,,
+778,range parser builder,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/connection-manager.js,31,rangeParserBuilder,,,
+779,parser,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/connection-manager.js,52,parser,,,
+780,clear type parser,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/connection-manager.js,76,_clearTypeParser,,,
+781,get type parser,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/connection-manager.js,80,getTypeParser,,,
+782,connect,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/connection-manager.js,86,connect,,,
+783,end handler,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/connection-manager.js,125,endHandler,,,
+784,disconnect,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/connection-manager.js,208,disconnect,,,
+785,validate,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/connection-manager.js,217,validate,,,
+786,refresh dynamic oi d,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/connection-manager.js,221,_refreshDynamicOIDs,,,
+787,clear dynamic oi d,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/connection-manager.js,284,_clearDynamicOIDs,,,
+788,stringify range bound,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/range.js,5,stringifyRangeBound,,,
+789,parse range bound,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/range.js,15,parseRangeBound,,,
+790,stringify,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/range.js,29,stringify,,,
+791,parse,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/range.js,58,parse,,,
+792,table name,name table create,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-interface.js,28,tableName,,,string
+793,attribute,object represent list normalized table attribute,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-interface.js,28,attributes,,,object
+794,attribute,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-interface.js,28,attributes,,,object
+795,model,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-interface.js,28,model,,,model
+796,ensure enums,ensure enum value,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-interface.js,28,ensureEnums,table name attribute attribute model,,promise
+797,set search path,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,11,setSearchPath,,,
+798,create database query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,15,createDatabaseQuery,,,
+799,drop database query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,32,dropDatabaseQuery,,,
+800,create schema,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,36,createSchema,,,
+801,drop schema,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,46,dropSchema,,,
+802,show schemas query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,50,showSchemasQuery,,,
+803,version query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,54,versionQuery,,,
+804,create table query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,58,createTableQuery,,,
+805,drop table query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,112,dropTableQuery,,,
+806,show table query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,117,showTablesQuery,,,
+807,describe table query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,121,describeTableQuery,,,
+808,stmt,statement validate,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,153,stmt,,,string
+809,check valid json statement,check whether statmement json function simple path,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,153,_checkValidJsonStatement,stmt,true give statement json function,boolean
+810,handle sequelize method,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,213,handleSequelizeMethod,,,
+811,add column query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,246,addColumnQuery,,,
+812,remove column query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,262,removeColumnQuery,,,
+813,change column query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,268,changeColumnQuery,,,
+814,query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,269,query,,,
+815,rename column query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,316,renameColumnQuery,,,
+816,fn,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,327,fn,,,
+817,exception fn,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,336,exceptionFn,,,
+818,upsert query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,344,upsertQuery,,,
+819,truncate table query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,363,truncateTableQuery,,,
+820,delete query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,371,deleteQuery,,,
+821,show index query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,397,showIndexesQuery,,,
+822,show constraint query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,415,showConstraintsQuery,,,
+823,remove index query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,432,removeIndexQuery,,,
+824,add limit and offset,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,442,addLimitAndOffset,,,
+825,attribute to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,456,attributeToSQL,,,
+826,defer constraint query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,551,deferConstraintsQuery,,,
+827,set constraint query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,555,setConstraintQuery,,,
+828,set deferred query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,565,setDeferredQuery,,,
+829,set immediate query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,569,setImmediateQuery,,,
+830,attribute to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,573,attributesToSQL,,,
+831,create trigger,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,584,createTrigger,,,
+832,drop trigger,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,595,dropTrigger,,,
+833,rename trigger,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,599,renameTrigger,,,
+834,create function,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,603,createFunction,,,
+835,drop function,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,612,dropFunction,,,
+836,rename function,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,619,renameFunction,,,
+837,database connection uri,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,624,databaseConnectionUri,,,
+838,pg escape and quote,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,636,pgEscapeAndQuote,,,
+839,expand function param list,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,640,expandFunctionParamList,,,
+840,expand option,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,664,expandOptions,,,
+841,decode trigger event type,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,669,decodeTriggerEventType,,,
+842,trigger event type be constraint,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,684,triggerEventTypeIsConstraint,,,
+843,expand trigger event spec,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,688,expandTriggerEventSpec,,,
+844,pg enum name,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,716,pgEnumName,,,
+845,pg list enums,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,730,pgListEnums,,,
+846,pg enum,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,744,pgEnum,,,
+847,pg enum add,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,761,pgEnumAdd,,,
+848,pg enum drop,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,779,pgEnumDrop,,,
+849,from array,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,784,fromArray,,,
+850,pad int,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,797,padInt,,,
+851,data type mapping,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,801,dataTypeMapping,,,
+852,table name,name table,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,833,tableName,,,string
+853,get foreign key query,generates sql query return foreign key table,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,833,getForeignKeysQuery,table name,generated sql query,string
+854,get foreign key reference query prefix,generate common sql prefix get foreign key reference query,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,842,_getForeignKeyReferencesQueryPrefix,,,string
+855,table name,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,870,tableName,,,string
+856,catalog name,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,870,catalogName,,,string
+857,schema name,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,870,schemaName,,,string
+858,get foreign key reference query,generates sql query return foreign key detail table. get foreign key query compatible get foreign key reference query add new function,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,870,getForeignKeyReferencesQuery,table name catalog name schema name,,
+859,get foreign key reference query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,877,getForeignKeyReferenceQuery,,,
+860,table name,name table,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,893,tableName,,,string
+861,foreign key,name foreign key constraint,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,893,foreignKey,,,string
+862,drop foreign key query,generates sql query remove foreign key table,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query-generator.js,893,dropForeignKeyQuery,table name foreign key,generated sql query,string
+863,stringify,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/hstore.js,5,stringify,,,
+864,parse,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/hstore.js,11,parse,,,
+865,format bind parameter,rewrite query parameter,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query.js,31,formatBindParameters,,,
+866,replacement func,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query.js,39,replacementFunc,,,
+867,run,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query.js,56,run,,,
+868,format error,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query.js,286,formatError,,,
+869,be foreign key query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query.js,380,isForeignKeysQuery,,,
+870,get insert id field,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/postgres/query.js,384,getInsertIdField,,,
+871,export,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/data-types.js,8,exports,,,
+872,decimal,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/data-types.js,39,DECIMAL,,,
+873,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/data-types.js,45,toSql,,,
+874,date,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/data-types.js,59,DATE,,,
+875,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/data-types.js,65,toSql,,,
+876,stringify,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/data-types.js,69,_stringify,,,
+877,parse,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/data-types.js,79,parse,,,
+878,dateonly,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/data-types.js,95,DATEONLY,,,
+879,parse,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/data-types.js,101,parse,,,
+880,uuid,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/data-types.js,105,UUID,,,
+881,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/data-types.js,111,toSql,,,
+882,geometry,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/data-types.js,118,GEOMETRY,,,
+883,parse,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/data-types.js,132,parse,,,
+884,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/data-types.js,147,toSql,,,
+885,enum,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/data-types.js,151,ENUM,,,
+886,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/data-types.js,161,toSql,,,
+887,jsontype,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/data-types.js,165,JSONTYPE,,,
+888,stringify,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/data-types.js,171,_stringify,,,
+889,extend,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/data-types.js,188,extend,,,
+890,refresh type parser,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/connection-manager.js,32,_refreshTypeParser,,,
+891,clear type parser,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/connection-manager.js,36,_clearTypeParser,,,
+892,typecast,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/connection-manager.js,40,_typecast,,,
+893,connect,connect sql database base config handle error connection set pool handler connection error also set proper timezone connection connect,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/connection-manager.js,55,connect,,promise connection,
+894,error handler,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/connection-manager.js,72,errorHandler,,,
+895,connect handler,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/connection-manager.js,79,connectHandler,,,
+896,disconnect,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/connection-manager.js,137,disconnect,,,
+897,validate,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/connection-manager.js,147,validate,,,
+898,table name,name table,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query-interface.js,23,tableName,,,string
+899,column name,name attribute want remove,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query-interface.js,23,columnName,,,string
+900,option,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query-interface.js,23,options,,,object
+901,remove column,wrapper fix sql inability cleanly remove column exist table foreign key constraint,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query-interface.js,23,removeColumn,table name column name option,,
+902,remove constraint,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query-interface.js,50,removeConstraint,,,
+903,create database query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query-generator.js,38,createDatabaseQuery,,,
+904,drop database query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query-generator.js,51,dropDatabaseQuery,,,
+905,create schema,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query-generator.js,55,createSchema,,,
+906,show schemas query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query-generator.js,59,showSchemasQuery,,,
+907,version query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query-generator.js,63,versionQuery,,,
+908,create table query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query-generator.js,67,createTableQuery,,,
+909,describe table query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query-generator.js,139,describeTableQuery,,,
+910,show table query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query-generator.js,151,showTablesQuery,,,
+911,add column query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query-generator.js,155,addColumnQuery,,,
+912,remove column query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query-generator.js,165,removeColumnQuery,,,
+913,change column query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query-generator.js,169,changeColumnQuery,,,
+914,rename column query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query-generator.js,196,renameColumnQuery,,,
+915,handle sequelize method,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query-generator.js,207,handleSequelizeMethod,,,
+916,to json value,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query-generator.js,269,_toJSONValue,,,
+917,upsert query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query-generator.js,281,upsertQuery,,,
+918,truncate table query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query-generator.js,292,truncateTableQuery,,,
+919,delete query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query-generator.js,296,deleteQuery,,,
+920,show index query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query-generator.js,313,showIndexesQuery,,,
+921,show constraint query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query-generator.js,317,showConstraintsQuery,,,
+922,remove index query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query-generator.js,343,removeIndexQuery,,,
+923,attribute to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query-generator.js,353,attributeToSQL,,,
+924,attribute to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query-generator.js,426,attributesToSQL,,,
+925,stmt,statement validate,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query-generator.js,445,stmt,,,string
+926,check valid json statement,check whether statmement json function simple path,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query-generator.js,445,_checkValidJsonStatement,stmt,true give statement json function,boolean
+927,table name,name table,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query-generator.js,507,tableName,,,string
+928,schema name,name schema,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query-generator.js,507,schemaName,,,string
+929,get foreign key query,generates sql query return foreign key table,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query-generator.js,507,getForeignKeysQuery,table name schema name,generated sql query,string
+930,table name,name table,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query-generator.js,520,tableName,,,string
+931,column name,name column,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query-generator.js,520,columnName,,,string
+932,get foreign key query,generates sql query return foreign key constraint give column,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query-generator.js,520,getForeignKeyQuery,table name column name,generated sql query,string
+933,table name,name table,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query-generator.js,541,tableName,,,string
+934,foreign key,name foreign key constraint,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query-generator.js,541,foreignKey,,,string
+935,drop foreign key query,generates sql query remove foreign key table,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query-generator.js,541,dropForeignKeyQuery,table name foreign key,generated sql query,string
+936,wrap single quote,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query-generator.js,548,wrapSingleQuote,,,
+937,format bind parameter,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query.js,29,formatBindParameters,,,
+938,replacement func,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query.js,31,replacementFunc,,,
+939,run,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query.js,42,run,,,
+940,handler,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query.js,59,handler,,,
+941,data,result query execution,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query.js,109,data,,,array
+942,format result,high level function handle result query execution. example query format result id main table attr snafu main table task id associate table task title task associate table,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query.js,109,formatResults,data,,
+943,log warning,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query.js,186,logWarnings,,,
+944,format error,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query.js,209,formatError,,,
+945,handle show index query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mysql/query.js,267,handleShowIndexesQuery,,,
+946,export,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/data-types.js,7,exports,,,
+947,data type,base integer data type,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/data-types.js,15,dataType,,,
+948,remove unsupported integer option,remove unsupported mssql option e. length unsigned zerofill integer data type,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/data-types.js,15,removeUnsupportedIntegerOptions,data type,,
+949,blob,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/data-types.js,53,BLOB,,,
+950,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/data-types.js,59,toSql,,,
+951,hexify,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/data-types.js,70,_hexify,,,
+952,string,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/data-types.js,74,STRING,,,
+953,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/data-types.js,80,toSql,,,
+954,stringify,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/data-types.js,88,_stringify,,,
+955,bind param,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/data-types.js,94,_bindParam,,,
+956,text,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/data-types.js,98,TEXT,,,
+957,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/data-types.js,104,toSql,,,
+958,boolean,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/data-types.js,117,BOOLEAN,,,
+959,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/data-types.js,123,toSql,,,
+960,uuid,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/data-types.js,127,UUID,,,
+961,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/data-types.js,133,toSql,,,
+962,now,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/data-types.js,137,NOW,,,
+963,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/data-types.js,143,toSql,,,
+964,date,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/data-types.js,147,DATE,,,
+965,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/data-types.js,153,toSql,,,
+966,dateonly,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/data-types.js,157,DATEONLY,,,
+967,parse,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/data-types.js,163,parse,,,
+968,integer,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/data-types.js,167,INTEGER,,,
+969,tinyint,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/data-types.js,175,TINYINT,,,
+970,smallint,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/data-types.js,183,SMALLINT,,,
+971,bigint,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/data-types.js,190,BIGINT,,,
+972,real,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/data-types.js,198,REAL,,,
+973,float,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/data-types.js,213,FLOAT,,,
+974,enum,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/data-types.js,237,ENUM,,,
+975,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/data-types.js,247,toSql,,,
+976,extend,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/data-types.js,272,extend,,,
+977,refresh type parser,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/connection-manager.js,21,_refreshTypeParser,,,
+978,clear type parser,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/connection-manager.js,25,_clearTypeParser,,,
+979,connect,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/connection-manager.js,29,connect,,,
+980,connect handler,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/connection-manager.js,59,connectHandler,,,
+981,end handler,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/connection-manager.js,69,endHandler,,,
+982,error handler,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/connection-manager.js,75,errorHandler,,,
+983,disconnect,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/connection-manager.js,131,disconnect,,,
+984,validate,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/connection-manager.js,151,validate,,,
+985,table name,name table,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-interface.js,22,tableName,,,string
+986,attribute name,name attribute want remove,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-interface.js,22,attributeName,,,string
+987,option,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-interface.js,22,options,,,object
+988,option log,function log sql query false explicitly log query,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-interface.js,22,options.logging,,,boolean|function
+989,remove column,wrapper fix mssql inability cleanly remove column exist table default constraint,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-interface.js,22,removeColumn,table name attribute name option option log,,
+990,unwrap,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/resource-lock.js,11,unwrap,,,
+991,lock,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/resource-lock.js,15,lock,,,
+992,throw method undefined,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,13,throwMethodUndefined,,,
+993,create database query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,18,createDatabaseQuery,,,
+994,drop database query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,34,dropDatabaseQuery,,,
+995,create schema,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,43,createSchema,,,
+996,drop schema,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,56,dropSchema,,,
+997,show schemas query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,91,showSchemasQuery,,,
+998,version query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,100,versionQuery,,,
+999,create table query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,109,createTableQuery,,,
+1000,query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,110,query,,,
+1001,describe table query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,180,describeTableQuery,,,
+1002,rename table query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,220,renameTableQuery,,,
+1003,show table query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,224,showTablesQuery,,,
+1004,drop table query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,228,dropTableQuery,,,
+1005,add column query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,233,addColumnQuery,,,
+1006,comment template,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,253,commentTemplate,,,
+1007,remove column query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,261,removeColumnQuery,,,
+1008,change column query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,265,changeColumnQuery,,,
+1009,rename column query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,291,renameColumnQuery,,,
+1010,bulk insert query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,296,bulkInsertQuery,,,
+1011,update query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,366,updateQuery,,,
+1012,upsert query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,375,upsertQuery,,,
+1013,get join snippet,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,446,getJoinSnippet,,,
+1014,truncate table query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,486,truncateTableQuery,,,
+1015,delete query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,490,deleteQuery,,,
+1016,show index query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,507,showIndexesQuery,,,
+1017,show constraint query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,511,showConstraintsQuery,,,
+1018,remove index query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,515,removeIndexQuery,,,
+1019,attribute to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,525,attributeToSQL,,,
+1020,attribute to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,606,attributesToSQL,,,
+1021,create trigger,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,639,createTrigger,,,
+1022,drop trigger,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,643,dropTrigger,,,
+1023,rename trigger,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,647,renameTrigger,,,
+1024,create function,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,651,createFunction,,,
+1025,drop function,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,655,dropFunction,,,
+1026,rename function,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,659,renameFunction,,,
+1027,get foreign key query prefix,generate common sql prefix foreign key query,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,667,_getForeignKeysQueryPrefix,,,string
+1028,table,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,695,table,,,stirng|object
+1029,catalog name,database name,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,695,catalogName,,,string
+1030,get foreign key query,generates sql query return foreign key detail table,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,695,getForeignKeysQuery,table catalog name,,string
+1031,get foreign key query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,706,getForeignKeyQuery,,,
+1032,get primary key constraint query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,719,getPrimaryKeyConstraintQuery,,,
+1033,drop foreign key query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,737,dropForeignKeyQuery,,,
+1034,get default constraint query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,741,getDefaultConstraintQuery,,,
+1035,drop constraint query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,749,dropConstraintQuery,,,
+1036,set isolation level query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,753,setIsolationLevelQuery,,,
+1037,generate transaction id,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,757,generateTransactionId,,,
+1038,start transaction query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,761,startTransactionQuery,,,
+1039,commit transaction query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,769,commitTransactionQuery,,,
+1040,rollback transaction query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,777,rollbackTransactionQuery,,,
+1041,select from table fragment,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,785,selectFromTableFragment,,,
+1042,add limit and offset,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,842,addLimitAndOffset,,,
+1043,boolean value,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,878,booleanValue,,,
+1044,wrap single quote,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query-generator.js,884,wrapSingleQuote,,,
+1045,get insert id field,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query.js,27,getInsertIdField,,,
+1046,get sql type from j type,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query.js,31,getSQLTypeFromJsType,,,
+1047,run,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query.js,49,_run,,,
+1048,run,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query.js,145,run,,,
+1049,format bind parameter,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query.js,149,formatBindParameters,,,
+1050,replacement func,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query.js,151,replacementFunc,,,
+1051,data,result query execution,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query.js,180,data,,,array
+1052,format result,high level function handle result query execution. example query format result id main table attr snafu main table task id associate table task title task associate table,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query.js,180,formatResults,data,,
+1053,handle show table query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query.js,265,handleShowTablesQuery,,,
+1054,handle show constraint query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query.js,274,handleShowConstraintsQuery,,,
+1055,format error,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query.js,285,formatError,,,
+1056,be show or describe query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query.js,351,isShowOrDescribeQuery,,,
+1057,be show index query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query.js,361,isShowIndexesQuery,,,
+1058,handle show index query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query.js,365,handleShowIndexesQuery,,,
+1059,handle insert query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mssql/query.js,400,handleInsertQuery,,,
+1060,refresh type parser,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/connection-manager.js,45,refreshTypeParser,,,
+1061,module name,name dialect module lookup,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/connection-manager.js,66,moduleName,,,string
+1062,load dialect module,try load dialect module various configure options. priority go like dialect module path dialect module require default,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/connection-manager.js,66,_loadDialectModule,module name,,object
+1063,on process exit,handler execute process exit connection manager shutdown,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/connection-manager.js,94,_onProcessExit,,,promise
+1064,close,drain pool close permanently,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/connection-manager.js,110,close,,,promise
+1065,get connection,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/connection-manager.js,112,getConnection,,,
+1066,init pool,initialize connection pool. default pool autostart set false connection create unless pool acquire call,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/connection-manager.js,123,initPools,,,
+1067,create,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/connection-manager.js,129,create,,,
+1068,destroy,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/connection-manager.js,130,destroy,,,
+1069,release,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/connection-manager.js,162,release,,,
+1070,acquire,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/connection-manager.js,169,acquire,,,
+1071,destroy,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/connection-manager.js,176,destroy,,,
+1072,destroy all now,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/connection-manager.js,180,destroyAllNow,,,
+1073,drain,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/connection-manager.js,186,drain,,,
+1074,create,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/connection-manager.js,194,create,,,
+1075,destroy,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/connection-manager.js,201,destroy,,,
+1076,create,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/connection-manager.js,211,create,,,
+1077,destroy,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/connection-manager.js,216,destroy,,,
+1078,option,pool option,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/connection-manager.js,239,options,,,object
+1079,option type,set replica use. available option read write,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/connection-manager.js,239,options.type,,,string
+1080,option use master,force master write replica get connection,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/connection-manager.js,239,options.useMaster,,,boolean
+1081,get connection,get connection pool. set database version already set. call pool acquire get connection,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/connection-manager.js,239,getConnection,option option type option use master,,promise.<connection>
+1082,log,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/connection-manager.js,252,logging,,,
+1083,connection,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/connection-manager.js,290,connection,,,connection
+1084,release connection,release pooled connection utilize connection request,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/connection-manager.js,290,releaseConnection,connection,,promise
+1085,config,connection config,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/connection-manager.js,304,config,,,*
+1086,connect,call dialect library get connection,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/connection-manager.js,304,_connect,config,,promise.<connection>
+1087,connection,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/connection-manager.js,317,connection,,,connection
+1088,disconnect,call dialect library disconnect connection,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/connection-manager.js,317,_disconnect,connection,,promise
+1089,connection,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/connection-manager.js,328,connection,,,connection
+1090,validate,determine connection still valid,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/connection-manager.js,328,_validate,connection,,boolean
+1091,extract table detail,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,43,extractTableDetails,,,
+1092,add schema,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,53,addSchema,,,
+1093,to string,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,62,toString,,,
+1094,drop schema,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,68,dropSchema,,,
+1095,describe table query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,72,describeTableQuery,,,
+1096,drop table query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,84,dropTableQuery,,,
+1097,rename table query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,88,renameTableQuery,,,
+1098,table,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,102,table,,,string
+1099,value hash,attribute value pair,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,102,valueHash,,,object
+1100,model attribute,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,102,modelAttributes,,,object
+1101,option,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,102,options,,,object
+1102,insert query,return insert command,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,102,insertQuery,table value hash model attribute option,,
+1103,table name,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,261,tableName,,,string
+1104,field value hash,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,261,fieldValueHashes,,,object
+1105,option,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,261,options,,,object
+1106,field map attribute,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,261,fieldMappedAttributes,,,object
+1107,bulk insert query,return insert command multiple value,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,261,bulkInsertQuery,table name field value hash option field map attribute,,
+1108,table name,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,325,tableName,,,string
+1109,attr value hash,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,325,attrValueHash,,,object
+1110,where,hash condition e g. name foo id integer,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,325,where,,,object
+1111,option,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,325,options,,,object
+1112,attribute,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,325,attributes,,,object
+1113,update query,return update query,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,325,updateQuery,table name attr value hash where option attribute,,
+1114,operator,string arithmetic operator e g.,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,433,operator,,,string
+1115,table name,name table,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,433,tableName,,,string
+1116,attr value hash,hash attribute value pair,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,433,attrValueHash,,,object
+1117,where,hash condition e g. name foo id integer,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,433,where,,,object
+1118,option,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,433,options,,,object
+1119,attribute,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,433,attributes,,,object
+1120,arithmetic query,return update query use arithmetic operator,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,433,arithmeticQuery,operator table name attr value hash where option attribute,,
+1121,add index query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,482,addIndexQuery,,,
+1122,add constraint query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,583,addConstraintQuery,,,
+1123,get constraint snippet,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,596,getConstraintSnippet,,,
+1124,remove constraint query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,667,removeConstraintQuery,,,
+1125,quote,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,700,quote,,,
+1126,dialect,dialect name,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,869,dialect,,,string
+1127,identifier,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,869,identifiers,,,string
+1128,option,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,869,options,,,object
+1129,option force,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,869,options.force,,,boolean
+1130,option quote identifier,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,869,options.quoteIdentifiers,,,boolean
+1131,quote identifier,split list identifier . quote part,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,869,quoteIdentifier,dialect identifier option option force option quote identifier,,string
+1132,quote identifier,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,876,quoteIdentifiers,,,
+1133,quote attribute,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,889,quoteAttribute,,,
+1134,param,table string object,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,904,param,,,string|object
+1135,alias,alias name,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,904,alias,,,string|boolean
+1136,quote table,quote table name optional alias schema attribution,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,904,quoteTable,param alias,,string
+1137,escape,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,941,escape,,,
+1138,bind param,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,968,bindParam,,,
+1139,format,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,979,format,,,
+1140,validate,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,1002,validate,,,
+1141,be identifier quote,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,1029,isIdentifierQuoted,,,
+1142,column,json column,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,1041,column,,,string
+1143,path,path extract optional,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,1041,path,,,string|array.<string>
+1144,json path extraction query,generates sql query extract json property give path,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,1041,jsonPathExtractionQuery,column path,generated sql query,string
+1145,select query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,1090,selectQuery,,,
+1146,escape attribute,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,1368,escapeAttributes,,,
+1147,generate include,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,1403,generateInclude,,,
+1148,generate join,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,1554,generateJoin,,,
+1149,generate through join,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,1633,generateThroughJoin,,,
+1150,generate sub query filter,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,1742,_generateSubQueryFilter,,,
+1151,get require closure,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,1842,_getRequiredClosure,,,
+1152,get query order,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,1854,getQueryOrders,,,
+1153,select from table fragment,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,1901,selectFromTableFragment,,,
+1154,option,object select query option,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,1919,options,,,object
+1155,option,model pass select query,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,1919,options,,,object
+1156,add limit and offset,return sql fragment add result constraint,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,1919,addLimitAndOffset,option option,generated sql query,string
+1157,handle sequelize method,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,1937,handleSequelizeMethod,,,
+1158,where query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,2009,whereQuery,,,
+1159,where item query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,2017,whereItemsQuery,,,
+1160,where item query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,2048,whereItemQuery,,,
+1161,find field,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,2152,_findField,,,
+1162,where group bind,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,2167,_whereGroupBind,,,
+1163,where bind,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,2193,_whereBind,,,
+1164,where json,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,2208,_whereJSON,,,
+1165,traverse json,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,2234,_traverseJSON,,,
+1166,to json value,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,2261,_toJSONValue,,,
+1167,cast key,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,2265,_castKey,,,
+1168,get json cast,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,2274,_getJsonCast,,,
+1169,join key value,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,2287,_joinKeyValue,,,
+1170,get safe key,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,2298,_getSafeKey,,,
+1171,prefix key,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,2321,_prefixKey,,,
+1172,where parse single value object,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,2333,_whereParseSingleValueObject,,,
+1173,get where condition,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,2429,getWhereConditions,,,
+1174,parse condition object,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,2500,parseConditionObject,,,
+1175,boolean value,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator.js,2511,booleanValue,,,
+1176,format bind parameter,rewrite query parameter example query format bind parameter select foo fooval query format bind parameter select foo foo foo fooval option skip unescape bool skip unescaping skip value replace bool replace unescape . check correct syntax value available,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query.js,25,formatBindParameters,,,
+1177,replacement func,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query.js,38,replacementFunc,,,
+1178,replacement func,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query.js,45,replacementFunc,,,
+1179,replacement func,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query.js,54,replacementFunc,,,
+1180,sql,sql query execute,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query.js,97,sql,,,string
+1181,run,execute passed sql query. examples query run select,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query.js,97,run,sql,,
+1182,check logging option,check logging option instance print deprecation warning,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query.js,107,checkLoggingOption,,,void
+1183,get insert id field,get attribute insert query contain insert id,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query.js,120,getInsertIdField,,field name,string
+1184,get unique constraint error message,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query.js,124,getUniqueConstraintErrorMessage,,,
+1185,be raw query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query.js,139,isRawQuery,,,
+1186,be version query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query.js,143,isVersionQuery,,,
+1187,be upsert query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query.js,147,isUpsertQuery,,,
+1188,be insert query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query.js,151,isInsertQuery,,,
+1189,handle insert query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query.js,170,handleInsertQuery,,,
+1190,be show table query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query.js,183,isShowTablesQuery,,,
+1191,handle show table query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query.js,187,handleShowTablesQuery,,,
+1192,be show index query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query.js,191,isShowIndexesQuery,,,
+1193,be show constraint query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query.js,195,isShowConstraintsQuery,,,
+1194,be describe query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query.js,199,isDescribeQuery,,,
+1195,be select query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query.js,203,isSelectQuery,,,
+1196,be bulk update query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query.js,207,isBulkUpdateQuery,,,
+1197,be bulk delete query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query.js,211,isBulkDeleteQuery,,,
+1198,be foreign key query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query.js,215,isForeignKeysQuery,,,
+1199,be update query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query.js,219,isUpdateQuery,,,
+1200,handle select query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query.js,223,handleSelectQuery,,,
+1201,be show or describe query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query.js,290,isShowOrDescribeQuery,,,
+1202,be call query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query.js,299,isCallQuery,,,
+1203,group join data,function take result query execution group associate data callee. example group join data data id association foo bar id data id association foo bar id data id association foo bar id result something like data id association foo bar id foo bar id foo bar id,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query.js,340,_groupJoinData,,,
+1204,build include map,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query.js,394,buildIncludeMap,,,
+1205,key prefix string,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query.js,407,keyPrefixString,,,
+1206,remove key prefix,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query.js,415,removeKeyPrefix,,,
+1207,key prefix,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query.js,424,keyPrefix,,,
+1208,last key prefix,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query.js,437,lastKeyPrefix,,,
+1209,get unique key attribute,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query.js,446,getUniqueKeyAttributes,,,
+1210,stringify,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query.js,455,stringify,,,
+1211,value,isolation level,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator/transaction.js,14,value,,,string
+1212,option,object option,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator/transaction.js,14,options,,,object
+1213,set isolation level query,return query set transaction isolation level,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator/transaction.js,14,setIsolationLevelQuery,value option,generated sql query,string
+1214,generate transaction id,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator/transaction.js,22,generateTransactionId,,,
+1215,transaction,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator/transaction.js,34,transaction,,,transaction
+1216,option,object option,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator/transaction.js,34,options,,,object
+1217,start transaction query,return query start transaction,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator/transaction.js,34,startTransactionQuery,transaction option,generated sql query,string
+1218,transaction,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator/transaction.js,51,transaction,,,transaction
+1219,option,object option,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator/transaction.js,51,options,,,object
+1220,defer constraint query,return query defer constraints. work postgres,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator/transaction.js,51,deferConstraintsQuery,transaction option,generated sql query,string
+1221,set constraint query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator/transaction.js,53,setConstraintQuery,,,
+1222,set deferred query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator/transaction.js,54,setDeferredQuery,,,
+1223,set immediate query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator/transaction.js,55,setImmediateQuery,,,
+1224,option,object option,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator/transaction.js,64,options,,,object
+1225,commit transaction query,return query commit transaction,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator/transaction.js,64,commitTransactionQuery,option,generated sql query,string
+1226,transaction,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator/transaction.js,80,transaction,,,transaction
+1227,option,object option,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator/transaction.js,80,options,,,object
+1228,rollback transaction query,return query rollbacks transaction,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator/transaction.js,80,rollbackTransactionQuery,transaction option,generated sql query,string
+1229,set operator alias,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator/operators.js,50,setOperatorsAliases,,,
+1230,replace alias,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator/operators.js,58,_replaceAliases,,,
+1231,dialect,dialect name,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator/helpers/quote.js,35,dialect,,,string
+1232,identifier,identifier quote,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator/helpers/quote.js,35,identifier,,,string
+1233,option,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator/helpers/quote.js,35,options,,,object
+1234,option force,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator/helpers/quote.js,35,options.force,,,boolean
+1235,option quote identifier,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator/helpers/quote.js,35,options.quoteIdentifiers,,,boolean
+1236,quote identifier,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator/helpers/quote.js,35,quoteIdentifier,dialect identifier option option force option quote identifier,,string
+1237,identifier,,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator/helpers/quote.js,84,identifier,,,string
+1238,be identifier quote,test give string already quote,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/abstract/query-generator/helpers/quote.js,84,isIdentifierQuoted,identifier,boolean,
+1239,export,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mariadb/data-types.js,7,exports,,,
+1240,decimal,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mariadb/data-types.js,38,DECIMAL,,,
+1241,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mariadb/data-types.js,47,toSql,,,
+1242,date,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mariadb/data-types.js,61,DATE,,,
+1243,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mariadb/data-types.js,70,toSql,,,
+1244,stringify,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mariadb/data-types.js,74,_stringify,,,
+1245,parse,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mariadb/data-types.js,79,parse,,,
+1246,dateonly,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mariadb/data-types.js,95,DATEONLY,,,
+1247,parse,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mariadb/data-types.js,104,parse,,,
+1248,uuid,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mariadb/data-types.js,108,UUID,,,
+1249,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mariadb/data-types.js,117,toSql,,,
+1250,geometry,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mariadb/data-types.js,121,GEOMETRY,,,
+1251,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mariadb/data-types.js,136,toSql,,,
+1252,enum,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mariadb/data-types.js,140,ENUM,,,
+1253,to sql,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mariadb/data-types.js,151,toSql,,,
+1254,jsontype,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mariadb/data-types.js,155,JSONTYPE,,,
+1255,stringify,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mariadb/data-types.js,164,_stringify,,,
+1256,extend,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mariadb/data-types.js,184,extend,,,
+1257,typecast,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mariadb/connection-manager.js,32,_typecast,,,
+1258,refresh type parser,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mariadb/connection-manager.js,39,_refreshTypeParser,,,
+1259,clear type parser,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mariadb/connection-manager.js,43,_clearTypeParser,,,
+1260,connect,connect maria db database base config handle error connection set pool handler connection error also set proper timezone connection connect,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mariadb/connection-manager.js,55,connect,,promise connection,
+1261,disconnect,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mariadb/connection-manager.js,126,disconnect,,,
+1262,validate,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mariadb/connection-manager.js,136,validate,,,
+1263,create schema,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mariadb/query-generator.js,10,createSchema,,,
+1264,drop schema,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mariadb/query-generator.js,22,dropSchema,,,
+1265,show schemas query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mariadb/query-generator.js,26,showSchemasQuery,,,
+1266,show table query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mariadb/query-generator.js,31,showTablesQuery,,,
+1267,handle sequelize method,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mariadb/query-generator.js,35,handleSequelizeMethod,,,
+1268,format bind parameter,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mariadb/query.js,34,formatBindParameters,,,
+1269,replacement func,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mariadb/query.js,36,replacementFunc,,,
+1270,run,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mariadb/query.js,48,run,,,
+1271,data,result query execution,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mariadb/query.js,132,data,,,array
+1272,format result,high level function handle result query execution. example query format result id main table attr snafu main table task id associate table task title task associate table,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mariadb/query.js,132,formatResults,data,,
+1273,handle json select query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mariadb/query.js,211,handleJsonSelectQuery,,,
+1274,log warning,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mariadb/query.js,232,logWarnings,,,
+1275,format error,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mariadb/query.js,260,formatError,,,
+1276,handle show table query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mariadb/query.js,322,handleShowTablesQuery,,,
+1277,handle show index query,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/dialects/mariadb/query.js,329,handleShowIndexesQuery,,,
+1278,be model,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/associations/mixin.js,9,isModel,,,
+1279,have many,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/associations/mixin.js,16,hasMany,,,
+1280,belongs to many,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/associations/mixin.js,47,belongsToMany,,,
+1281,get association,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/associations/mixin.js,77,getAssociations,,,
+1282,get association for alias,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/associations/mixin.js,81,getAssociationForAlias,,,
+1283,single link,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/associations/mixin.js,88,singleLinked,,,
+1284,input,may array single obj instance primary key,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/associations/base.js,120,input,,,array|string
+1285,to instance array,normalize input,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/associations/base.js,120,toInstanceArray,input,build object,array
+1286,inspect,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/associations/base.js,135,inspect,,,
+1287,check name collision,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/associations/helpers.js,3,checkNamingCollision,,,
+1288,add foreign key constraint,,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/associations/helpers.js,14,addForeignKeyConstraints,,,
+1289,association,instance,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/associations/helpers.js,55,association,,,object
+1290,obj,model prototype,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/associations/helpers.js,55,obj,,,object
+1291,method,method name inject,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/associations/helpers.js,55,methods,,,array
+1292,alias,map model association method name,1,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/associations/helpers.js,55,aliases,,,object
+1293,mixin method,mixin inject association method model prototype,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/associations/helpers.js,55,mixinMethods,association obj method alias,,
+1294,obj[undefined],,0,/home/zcl/Desktop/parametermismatch/dataset/sequelize/lib/associations/helpers.js,63,obj[undefined],,,

@@ -1,0 +1,1047 @@
+,cleaned_name,comment,datapoint_type,filename,line_number,name,params,return_param_comment,type
+0,export,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/karma.conf.js,8,exports,,,
+1,run,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/gulpfile.js,43,run,,,
+2,bower task,generate bower json manifest file push along release tags. spec http github com bower spec blob master json md,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/gulpfile.js,65,bowerTask,,,
+3,build task,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/gulpfile.js,87,buildTask,,,
+4,package task,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/gulpfile.js,91,packageTask,,,
+5,lint j task,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/gulpfile.js,106,lintJsTask,,,
+6,lint html task,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/gulpfile.js,130,lintHtmlTask,,,
+7,doc task,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/gulpfile.js,137,docsTask,,,
+8,unittest task,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/gulpfile.js,145,unittestTask,,,
+9,library size task,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/gulpfile.js,162,librarySizeTask,,,
+10,module size task,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/gulpfile.js,169,moduleSizesTask,,,
+11,srand,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/samples/utils.js,46,srand,,,
+12,rand,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/samples/utils.js,50,rand,,,
+13,number,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/samples/utils.js,58,numbers,,,
+14,label,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/samples/utils.js,82,labels,,,
+15,month,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/samples/utils.js,101,months,,,
+16,color,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/samples/utils.js,116,color,,,
+17,transparentize,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/samples/utils.js,120,transparentize,,,
+18,random scale factor,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/samples/utils.js,127,randomScalingFactor,,,
+19,before init,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/samples/charts/area/analyser.js,9,beforeInit,,,
+20,after update,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/samples/charts/area/analyser.js,13,afterUpdate,,,
+21,read file,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/fixture.js,7,readFile,,,
+22,onreadystatechange,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/fixture.js,9,onreadystatechange,,,
+23,load config,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/fixture.js,19,loadConfig,,,
+24,spec from fixture,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/fixture.js,41,specFromFixture,,,
+25,spec from fixture,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/fixture.js,60,specsFromFixtures,,,
+26,to percent,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/matchers.js,6,toPercent,,,
+27,create image data,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/matchers.js,10,createImageData,,,
+28,canvas from image data,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/matchers.js,16,canvasFromImageData,,,
+29,build pixel match preview,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/matchers.js,23,buildPixelMatchPreview,,,
+30,index of,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/matchers.js,47,indexOf,,,
+31,to be close to pixel,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/matchers.js,54,toBeCloseToPixel,,,
+32,compare,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/matchers.js,56,compare,,,
+33,to equal one of,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/matchers.js,72,toEqualOneOf,,,
+34,compare,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/matchers.js,74,compare,,,
+35,to be valid chart,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/matchers.js,89,toBeValidChart,,,
+36,compare,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/matchers.js,91,compare,,,
+37,to be chart of size,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/matchers.js,114,toBeChartOfSize,,,
+38,compare,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/matchers.js,116,compare,,,
+39,to equal image data,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/matchers.js,159,toEqualImageData,,,
+40,compare,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/matchers.js,161,compare,,,
+41,acquire chart,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/index.js,13,acquireChart,,,
+42,release chart,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/index.js,19,releaseChart,,,
+43,create mock context,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/index.js,24,createMockContext,,,
+44,context,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/context.js,2,Context,,,
+45,get,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/context.js,16,get,,,
+46,set,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/context.js,19,set,,,
+47,get,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/context.js,25,get,,,
+48,set,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/context.js,28,set,,,
+49,get,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/context.js,34,get,,,
+50,set,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/context.js,37,set,,,
+51,get,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/context.js,43,get,,,
+52,set,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/context.js,46,set,,,
+53,get,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/context.js,52,get,,,
+54,set,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/context.js,55,set,,,
+55,get,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/context.js,61,get,,,
+56,set,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/context.js,64,set,,,
+57,init method,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/context.js,72,_initMethods,,,
+58,arc,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/context.js,77,arc,,,
+59,arc to,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/context.js,78,arcTo,,,
+60,begin path,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/context.js,79,beginPath,,,
+61,bezier curve to,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/context.js,80,bezierCurveTo,,,
+62,clear rect,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/context.js,81,clearRect,,,
+63,clip,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/context.js,82,clip,,,
+64,close path,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/context.js,83,closePath,,,
+65,fill,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/context.js,84,fill,,,
+66,fill rect,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/context.js,85,fillRect,,,
+67,fill text,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/context.js,86,fillText,,,
+68,line to,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/context.js,87,lineTo,,,
+69,measure text,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/context.js,88,measureText,,,
+70,move to,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/context.js,92,moveTo,,,
+71,quadratic curve to,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/context.js,93,quadraticCurveTo,,,
+72,rect,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/context.js,94,rect,,,
+73,restore,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/context.js,95,restore,,,
+74,rotate,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/context.js,96,rotate,,,
+75,save,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/context.js,97,save,,,
+76,set line dash,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/context.js,98,setLineDash,,,
+77,stroke,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/context.js,99,stroke,,,
+78,stroke rect,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/context.js,100,strokeRect,,,
+79,set transform,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/context.js,101,setTransform,,,
+80,translate,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/context.js,102,translate,,,
+81,undefined],,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/context.js,106,undefined],,,
+82,record,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/context.js,113,record,,,
+83,get call,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/context.js,120,getCalls,,,
+84,reset call,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/context.js,124,resetCalls,,,
+85,create canvas,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/utils.js,1,createCanvas,,,
+86,read image data,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/utils.js,8,readImageData,,,
+87,onload,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/utils.js,11,onload,,,
+88,config,chart config,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/utils.js,32,config,,,object
+89,option,chart acquisition option,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/utils.js,32,options,,,object
+90,option canvas,canvas attribute,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/utils.js,32,options.canvas,,,object
+91,option wrapper,canvas wrapper attribute,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/utils.js,32,options.wrapper,,,object
+92,option persistent,true chart release spec,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/utils.js,32,options.persistent,,,boolean
+93,acquire chart,injects new canvas div wrapper create teh associate chart instance use give config. additional option allow tweak element generation,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/utils.js,32,acquireChart,config option option canvas option wrapper option persistent,,
+94,release chart,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/utils.js,78,releaseChart,,,
+95,inject cs,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/utils.js,87,injectCSS,,,
+96,wait for resize,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/utils.js,100,waitForResize,,,
+97,resize,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/utils.js,102,resize,,,
+98,trigger mouse event,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/utils.js,109,triggerMouseEvent,,,
+99,after draw,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/fixtures/helpers.canvas/rounded-rect.js,7,afterDraw,,,
+100,label,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/fixtures/core.tooltip/opacity.js,53,label,,,
+101,before datasets update,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/fixtures/core.tooltip/opacity.js,63,beforeDatasetsUpdate,,,
+102,after draw,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/fixtures/core.tooltip/opacity.js,74,afterDraw,,,
+103,border skip,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/fixtures/controller.bar/borderSkipped/scriptable.js,10,borderSkipped,,,
+104,border skip,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/fixtures/controller.bar/borderSkipped/scriptable.js,31,borderSkipped,,,
+105,background color,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/fixtures/controller.bar/backgroundColor/scriptable.js,10,backgroundColor,,,
+106,background color,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/fixtures/controller.bar/backgroundColor/scriptable.js,29,backgroundColor,,,
+107,border width,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/fixtures/controller.bar/borderWidth/scriptable.js,10,borderWidth,,,
+108,border width,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/fixtures/controller.bar/borderWidth/scriptable.js,28,borderWidth,,,
+109,border color,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/fixtures/controller.bar/borderColor/scriptable.js,10,borderColor,,,
+110,border color,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/fixtures/controller.bar/borderColor/scriptable.js,30,borderColor,,,
+111,background color,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/fixtures/element.point/rotation.js,30,backgroundColor,,,
+112,radius,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/fixtures/controller.bubble/radius-scriptable.js,14,radius,,,
+113,callback,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.ticks.tests.js,28,callback,,,
+114,callback,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.ticks.tests.js,36,callback,,,
+115,callback,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.ticks.tests.js,71,callback,,,
+116,callback,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.ticks.tests.js,81,callback,,,
+117,constructor,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.scaleService.tests.js,9,Constructor,,,
+118,decode fill value,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/plugin.filler.tests.js,2,decodedFillValues,,,
+119,fill,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/plugin.filler.tests.js,139,fill,,,
+120,callback,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.controller.tests.js,67,callback,,,
+121,create chart,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.controller.tests.js,136,createChart,,,
+122,undefined],,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.controller.tests.js,1043,undefined],,,
+123,before dataset draw,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.controller.tests.js,1083,beforeDatasetDraw,,,
+124,after dataset draw,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.controller.tests.js,1086,afterDatasetDraw,,,
+125,before title,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.tooltip.tests.js,371,beforeTitle,,,
+126,title,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.tooltip.tests.js,374,title,,,
+127,after title,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.tooltip.tests.js,377,afterTitle,,,
+128,before body,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.tooltip.tests.js,380,beforeBody,,,
+129,before label,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.tooltip.tests.js,383,beforeLabel,,,
+130,label,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.tooltip.tests.js,386,label,,,
+131,after label,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.tooltip.tests.js,389,afterLabel,,,
+132,after body,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.tooltip.tests.js,392,afterBody,,,
+133,before footer,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.tooltip.tests.js,395,beforeFooter,,,
+134,footer,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.tooltip.tests.js,398,footer,,,
+135,after footer,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.tooltip.tests.js,401,afterFooter,,,
+136,label text color,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.tooltip.tests.js,404,labelTextColor,,,
+137,item sort,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.tooltip.tests.js,523,itemSort,,,
+138,filter,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.tooltip.tests.js,604,filter,,,
+139,title,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.tooltip.tests.js,788,title,,,
+140,test,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.tooltip.tests.js,831,test,,,
+141,before title,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.tooltip.tests.js,976,beforeTitle,,,
+142,title,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.tooltip.tests.js,979,title,,,
+143,after title,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.tooltip.tests.js,982,afterTitle,,,
+144,before body,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.tooltip.tests.js,985,beforeBody,,,
+145,before label,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.tooltip.tests.js,988,beforeLabel,,,
+146,label,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.tooltip.tests.js,991,label,,,
+147,after label,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.tooltip.tests.js,994,afterLabel,,,
+148,after body,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.tooltip.tests.js,997,afterBody,,,
+149,before footer,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.tooltip.tests.js,1000,beforeFooter,,,
+150,footer,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.tooltip.tests.js,1003,footer,,,
+151,after footer,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.tooltip.tests.js,1006,afterFooter,,,
+152,label text color,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.tooltip.tests.js,1009,labelTextColor,,,
+153,callback,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/scale.linear.tests.js,768,callback,,,
+154,callback,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/scale.logarithmic.tests.js,463,callback,,,
+155,callback,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/scale.logarithmic.tests.js,495,callback,,,
+156,callback,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/scale.logarithmic.tests.js,527,callback,,,
+157,callback,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/scale.logarithmic.tests.js,561,callback,,,
+158,callback,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/scale.logarithmic.tests.js,594,callback,,,
+159,callback,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/scale.logarithmic.tests.js,648,callback,,,
+160,hook,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.plugin.tests.js,67,hook,,,
+161,hook,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.plugin.tests.js,82,hook,,,
+162,hook,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.plugin.tests.js,96,hook,,,
+163,hook,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.plugin.tests.js,112,hook,,,
+164,hook,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.plugin.tests.js,116,hook,,,
+165,hook,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.plugin.tests.js,120,hook,,,
+166,hook,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.plugin.tests.js,127,hook,,,
+167,hook,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.plugin.tests.js,131,hook,,,
+168,hook,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.plugin.tests.js,135,hook,,,
+169,hook,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.plugin.tests.js,148,hook,,,
+170,hook,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.plugin.tests.js,150,hook,,,
+171,hook,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.plugin.tests.js,154,hook,,,
+172,hook,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.plugin.tests.js,158,hook,,,
+173,hook,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.plugin.tests.js,162,hook,,,
+174,hook,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.plugin.tests.js,183,hook,,,
+175,hook,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.plugin.tests.js,185,hook,,,
+176,hook,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.plugin.tests.js,189,hook,,,
+177,hook,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.plugin.tests.js,193,hook,,,
+178,hook,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.plugin.tests.js,197,hook,,,
+179,hook,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.plugin.tests.js,220,hook,,,
+180,hook,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.plugin.tests.js,244,hook,,,
+181,hook,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.plugin.tests.js,245,hook,,,
+182,hook,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.plugin.tests.js,246,hook,,,
+183,hook,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.plugin.tests.js,278,hook,,,
+184,hook,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.plugin.tests.js,279,hook,,,
+185,hook,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.plugin.tests.js,280,hook,,,
+186,hook,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.plugin.tests.js,307,hook,,,
+187,hook,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.plugin.tests.js,332,hook,,,
+188,hook,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.plugin.tests.js,350,hook,,,
+189,onload,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/platform.dom.tests.js,72,onload,,,
+190,after event,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/platform.dom.tests.js,355,afterEvent,,,
+191,on complete,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/global.deprecations.tests.js,231,onComplete,,,
+192,on complete,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/global.deprecations.tests.js,254,onComplete,,,
+193,update,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/global.deprecations.tests.js,348,update,,,
+194,undefined],,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/global.deprecations.tests.js,354,undefined],,,
+195,test border skip,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/element.rectangle.tests.js,279,testBorderSkipped,,,
+196,callback,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/scale.radialLinear.tests.js,297,callback,,,
+197,callback,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/scale.radialLinear.tests.js,321,callback,,,
+198,callback,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/scale.radialLinear.tests.js,344,callback,,,
+199,callback,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/scale.radialLinear.tests.js,369,callback,,,
+200,callback,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/scale.radialLinear.tests.js,391,callback,,,
+201,callback,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/scale.radialLinear.tests.js,425,callback,,,
+202,rad to near degree,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/scale.radialLinear.tests.js,434,radToNearestDegree,,,
+203,filter,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/plugin.legend.tests.js,118,filter,,,
+204,make chart,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/plugin.legend.tests.js,155,makeChart,,,
+205,input,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/helpers.options.tests.js,171,input,,,
+206,input,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/helpers.options.tests.js,178,input,,,
+207,input,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/helpers.options.tests.js,184,input,,,
+208,input,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/helpers.options.tests.js,191,input,,,
+209,f,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/helpers.core.tests.js,280,f0,,,
+210,f,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/helpers.core.tests.js,294,f0,,,
+211,a,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/helpers.core.tests.js,432,A,,,
+212,p,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/helpers.core.tests.js,434,p1,,,
+213,get chart,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.scale.tests.js,21,getChart,,,
+214,last tick,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.scale.tests.js,37,lastTick,,,
+215,generate,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/helpers.easing.tests.js,41,generate,,,
+216,callback,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.helpers.tests.js,177,callback,,,
+217,be color instance,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.helpers.tests.js,816,isColorInstance,,,
+218,onload,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/core.helpers.tests.js,836,onload,,,
+219,create scale,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/scale.time.tests.js,3,createScale,,,
+220,get tick label,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/scale.time.tests.js,20,getTicksLabels,,,
+221,to be close to time,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/scale.time.tests.js,27,toBeCloseToTime,,,
+222,compare,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/scale.time.tests.js,29,compare,,,
+223,new date from ref,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/scale.time.tests.js,125,newDateFromRef,,,
+224,parser,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/test/specs/scale.time.tests.js,273,parser,,,
+225,chart[undefined],,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/chart.js,125,Chart[undefined],,,
+226,on click,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/plugins/plugin.legend.js,19,onClick,,,
+227,generate label,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/plugins/plugin.legend.js,47,generateLabels,,,
+228,legend callback,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/plugins/plugin.legend.js,70,legendCallback,,,
+229,labelopts,label option legend,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/plugins/plugin.legend.js,91,labelopts,,,object
+230,font size,label font size,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/plugins/plugin.legend.js,91,fontSize,,,number
+231,get box width,helper function get box width base use point style option,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/plugins/plugin.legend.js,91,getBoxWidth,labelopts font size,width color box area,number
+232,initialize,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/plugins/plugin.legend.js,102,initialize,,,
+233,update,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/plugins/plugin.legend.js,117,update,,,
+234,set dimension,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/plugins/plugin.legend.js,151,setDimensions,,,
+235,build label,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/plugins/plugin.legend.js,184,buildLabels,,,
+236,fit,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/plugins/plugin.legend.js,206,fit,,,
+237,be horizontal,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/plugins/plugin.legend.js,313,isHorizontal,,,
+238,draw,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/plugins/plugin.legend.js,318,draw,,,
+239,draw legend box,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/plugins/plugin.legend.js,348,drawLegendBox,,,
+240,fill text,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/plugins/plugin.legend.js,389,fillText,,,
+241,event,event handle,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/plugins/plugin.legend.js,468,event,,,ievent
+242,handle event,handle event,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/plugins/plugin.legend.js,468,handleEvent,event,true change occur,boolean
+243,create new legend and attach,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/plugins/plugin.legend.js,517,createNewLegendAndAttach,,,
+244,before init,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/plugins/plugin.legend.js,541,beforeInit,,,
+245,before update,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/plugins/plugin.legend.js,549,beforeUpdate,,,
+246,after event,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/plugins/plugin.legend.js,568,afterEvent,,,
+247,initialize,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/plugins/plugin.title.js,26,initialize,,,
+248,update,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/plugins/plugin.title.js,37,update,,,
+249,set dimension,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/plugins/plugin.title.js,72,setDimensions,,,
+250,fit,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/plugins/plugin.title.js,111,fit,,,
+251,be horizontal,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/plugins/plugin.title.js,135,isHorizontal,,,
+252,draw,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/plugins/plugin.title.js,141,draw,,,
+253,create new title block and attach,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/plugins/plugin.title.js,195,createNewTitleBlockAndAttach,,,
+254,before init,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/plugins/plugin.title.js,219,beforeInit,,,
+255,before update,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/plugins/plugin.title.js,227,beforeUpdate,,,
+256,dataset,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/plugins/plugin.filler.js,22,dataset,,,
+257,boundary,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/plugins/plugin.filler.js,35,boundary,,,
+258,decode fill,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/plugins/plugin.filler.js,50,decodeFill,,,
+259,compute boundary,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/plugins/plugin.filler.js,99,computeBoundary,,,
+260,resolve target,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/plugins/plugin.filler.js,143,resolveTarget,,,
+261,create mapper,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/plugins/plugin.filler.js,174,createMapper,,,
+262,be drawable,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/plugins/plugin.filler.js,189,isDrawable,,,
+263,draw area,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/plugins/plugin.filler.js,193,drawArea,,,
+264,do fill,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/plugins/plugin.filler.js,215,doFill,,,
+265,after datasets update,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/plugins/plugin.filler.js,263,afterDatasetsUpdate,,,
+266,before dataset draw,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/plugins/plugin.filler.js,299,beforeDatasetDraw,,,
+267,export,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.linear.js,8,exports,,,
+268,determine data limit,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.linear.js,19,determineDataLimits,,,
+269,id match,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.linear.js,29,IDMatches,,,
+270,get tick limit,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.linear.js,136,getTickLimit,,,
+271,handle directional change,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.linear.js,152,handleDirectionalChanges,,,
+272,get label for index,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.linear.js,158,getLabelForIndex,,,
+273,get pixel for value,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.linear.js,162,getPixelForValue,,,
+274,get value for pixel,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.linear.js,179,getValueForPixel,,,
+275,get pixel for tick,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.linear.js,186,getPixelForTick,,,
+276,sorter,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.time.js,63,sorter,,,
+277,array unique,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.time.js,67,arrayUnique,,,
+278,timestamps,timestamps sort low high,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.time.js,98,timestamps,,,array.<number>
+279,distribution,linear timestamps spread linearly along min max range basically table contain two item min max . series timestamps position distance other. case timestamps break time linearity register meaning best case timestamps linear table contain min max,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.time.js,98,distribution,,,string
+280,build lookup table,return array time pos object use interpolate specific time position po scale search entry requested value. po decimal start scale leave top extremity leave width top height . note would optimized directly store pre compute pixel scale dimension guarantee time need create lookup table. table always contain least two item min max,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.time.js,98,buildLookupTable,timestamps distribution,,
+281,lookup,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.time.js,134,lookup,,,
+282,interpolate,linearly interpolate give source value use table item skey value return associated tkey value. example interpolate table time po return position timestamp equal . value bound value index n n use interpolation,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.time.js,166,interpolate,,,
+283,momentify,convert give value moment object use give time option,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.time.js,184,momentify,,,
+284,parse,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.time.js,213,parse,,,
+285,determine step size,return number unit skip able display capacity number tick unit give min max range respect interval step constraint,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.time.js,235,determineStepSize,,,
+286,determine unit for auto tick,figure unit result appropriate number auto generate tick,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.time.js,259,determineUnitForAutoTicks,,,
+287,determine unit for format,figure unit format set tick,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.time.js,278,determineUnitForFormatting,,,
+288,determine major unit,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.time.js,293,determineMajorUnit,,,
+289,generate,generate maximum capacity timestamps min max round minor unit align major unit use give scale time option . important method return tick outside min max range responsibility call code clamp value need,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.time.js,307,generate,,,
+290,compute offset,return end start offset edge form start end . offset add offset option true,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.time.js,362,computeOffsets,,,
+291,tick from timestamps,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.time.js,389,ticksFromTimestamps,,,
+292,determine label format,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.time.js,406,determineLabelFormat,,,
+293,export,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.time.js,427,exports,,,
+294,initialize,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.time.js,492,initialize,,,
+295,update,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.time.js,502,update,,,
+296,get right value,allows data reference via attribute,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.time.js,517,getRightValue,,,
+297,determine data limit,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.time.js,524,determineDataLimits,,,
+298,build tick,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.time.js,599,buildTicks,,,
+299,get label for index,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.time.js,655,getLabelForIndex,,,
+300,tick format function,function format individual tick mark,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.time.js,679,tickFormatFunction,,,
+301,convert tick to label,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.time.js,697,convertTicksToLabels,,,
+302,get pixel for offset,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.time.js,711,getPixelForOffset,,,
+303,get pixel for value,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.time.js,722,getPixelForValue,,,
+304,get pixel for tick,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.time.js,739,getPixelForTick,,,
+305,get value for pixel,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.time.js,746,getValueForPixel,,,
+306,get label width,crude approximation label width might,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.time.js,760,getLabelWidth,,,
+307,get label capacity,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.time.js,775,getLabelCapacity,,,
+308,generation option,option use generate tick,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.logarithmic.js,14,generationOptions,,,
+309,data range,range data,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.logarithmic.js,14,dataRange,,,
+310,generate tick,generate set logarithmic tick,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.logarithmic.js,14,generateTicks,generation option data range,array tick value,array.<number>
+311,export,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.logarithmic.js,60,exports,,,
+312,determine data limit,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.logarithmic.js,72,determineDataLimits,,,
+313,id match,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.logarithmic.js,79,IDMatches,,,
+314,handle tick range option,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.logarithmic.js,176,handleTickRangeOptions,,,
+315,build tick,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.logarithmic.js,214,buildTicks,,,
+316,convert tick to label,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.logarithmic.js,243,convertTicksToLabels,,,
+317,get label for index,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.logarithmic.js,249,getLabelForIndex,,,
+318,get pixel for tick,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.logarithmic.js,252,getPixelForTick,,,
+319,value,minimum zero value,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.logarithmic.js,261,value,,,number
+320,get first tick value,return value first tick,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.logarithmic.js,261,_getFirstTickValue,value,first tick value,number
+321,get pixel for value,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.logarithmic.js,267,getPixelForValue,,,
+322,get value for pixel,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.logarithmic.js,309,getValueForPixel,,,
+323,generation option,option use generate tick,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.linearbase.js,12,generationOptions,,,
+324,data range,range data,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.linearbase.js,12,dataRange,,,
+325,generate tick,generate set linear tick,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.linearbase.js,12,generateTicks,generation option data range,array tick value,array.<number>
+326,export,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.linearbase.js,71,exports,,,
+327,get right value,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.linearbase.js,76,getRightValue,,,
+328,handle tick range option,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.linearbase.js,83,handleTickRangeOptions,,,
+329,build tick,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.linearbase.js,152,buildTicks,,,
+330,convert tick to label,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.linearbase.js,190,convertTicksToLabels,,,
+331,export,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.radialLinear.js,8,exports,,,
+332,callback,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.radialLinear.js,54,callback,,,
+333,get value count,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.radialLinear.js,60,getValueCount,,,
+334,get tick backdrop height,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.radialLinear.js,65,getTickBackdropHeight,,,
+335,measure label size,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.radialLinear.js,74,measureLabelSize,,,
+336,determine limit,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.radialLinear.js,88,determineLimits,,,
+337,fit with point label,helper function fit radial linear scale point label,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.radialLinear.js,110,fitWithPointLabels,,,
+338,get text align for angle,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.radialLinear.js,191,getTextAlignForAngle,,,
+339,fill text,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.radialLinear.js,201,fillText,,,
+340,adjust point position for label height,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.radialLinear.js,215,adjustPointPositionForLabelHeight,,,
+341,draw point label,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.radialLinear.js,223,drawPointLabels,,,
+342,draw radius line,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.radialLinear.js,277,drawRadiusLine,,,
+343,number or zero,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.radialLinear.js,316,numberOrZero,,,
+344,set dimension,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.radialLinear.js,321,setDimensions,,,
+345,determine data limit,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.radialLinear.js,332,determineDataLimits,,,
+346,get tick limit,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.radialLinear.js,360,getTickLimit,,,
+347,convert tick to label,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.radialLinear.js,366,convertTicksToLabels,,,
+348,get label for index,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.radialLinear.js,374,getLabelForIndex,,,
+349,fit,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.radialLinear.js,377,fit,,,
+350,set reduction,set radius reduction determine new radius center point,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.radialLinear.js,391,setReductions,,,
+351,set center point,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.radialLinear.js,408,setCenterPoint,,,
+352,get index angle,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.radialLinear.js,419,getIndexAngle,,,
+353,get distance from center for value,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.radialLinear.js,430,getDistanceFromCenterForValue,,,
+354,get point position,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.radialLinear.js,444,getPointPosition,,,
+355,get point position for value,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.radialLinear.js,452,getPointPositionForValue,,,
+356,get base position,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.radialLinear.js,456,getBasePosition,,,
+357,draw,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.radialLinear.js,468,draw,,,
+358,export,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.category.js,6,exports,,,
+359,get label,internal function get correct labels. data x label data label define use else fall back data label,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.category.js,19,getLabels,,,
+360,determine data limit,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.category.js,24,determineDataLimits,,,
+361,build tick,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.category.js,47,buildTicks,,,
+362,get label for index,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.category.js,54,getLabelForIndex,,,
+363,get pixel for value,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.category.js,66,getPixelForValue,,,
+364,get pixel for tick,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.category.js,104,getPixelForTick,,,
+365,get value for pixel,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.category.js,107,getValueForPixel,,,
+366,get base pixel,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/scales/scale.category.js,129,getBasePixel,,,
+367,initialize,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/platforms/platform.js,19,initialize,,,
+368,item,native item acquire context platform specific,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/platforms/platform.js,28,item,,,*
+369,option,chart option,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/platforms/platform.js,28,options,,,object
+370,acquire context,call chart construction time return context instance implement w c canvas context api standard link http www w org tr dcontext,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/platforms/platform.js,28,acquireContext,item option,context instance,canvasrenderingcontext2d
+371,context,context instance,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/platforms/platform.js,36,context,,,canvasrenderingcontext2d
+372,release context,call chart destruction time release resource associate context previously return acquire context method,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/platforms/platform.js,36,releaseContext,context,true method succeed else false,boolean
+373,chart,chart listen event,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/platforms/platform.js,45,chart,,,chart
+374,type,link event type listen,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/platforms/platform.js,45,type,,,string
+375,listener,receive notification object implement link event interface event specify type occurs,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/platforms/platform.js,45,listener,,,function
+376,add event listener,register specified listener give chart,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/platforms/platform.js,45,addEventListener,chart type listener,,
+377,chart,chart remove listener,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/platforms/platform.js,53,chart,,,chart
+378,type,link event type remove,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/platforms/platform.js,53,type,,,string
+379,listener,listener function remove event target,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/platforms/platform.js,53,listener,,,function
+380,remove event listener,remove specified listener previously register add event listener,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/platforms/platform.js,53,removeEventListener,chart type listener,,
+381,read use size,used size final value dimension property calculation performed. method use computed style element return undefined computed style express pixels. happen case element size relative parent last one yet display example display none parent node,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/platforms/platform.dom.js,41,readUsedSize,,size pixel undefined unknown,number
+382,init canvas,initialize canvas style render size without modify canvas display size since responsiveness handle controller resize method. config use determine aspect ratio apply case explicit height specify,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/platforms/platform.dom.js,52,initCanvas,,,
+383,get,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/platforms/platform.dom.js,112,get,,,
+384,add event listener,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/platforms/platform.dom.js,127,addEventListener,,,
+385,remove event listener,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/platforms/platform.dom.js,131,removeEventListener,,,
+386,create event,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/platforms/platform.dom.js,135,createEvent,,,
+387,from native event,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/platforms/platform.dom.js,145,fromNativeEvent,,,
+388,throttle,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/platforms/platform.dom.js,151,throttled,,,
+389,create div,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/platforms/platform.dom.js,169,createDiv,,,
+390,create resizer,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/platforms/platform.dom.js,177,createResizer,,,
+391,reset,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/platforms/platform.dom.js,214,_reset,,,
+392,on scroll,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/platforms/platform.dom.js,221,onScroll,,,
+393,watch for render,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/platforms/platform.dom.js,233,watchForRender,,,
+394,render proxy,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/platforms/platform.dom.js,235,renderProxy,,,
+395,unwatch for render,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/platforms/platform.dom.js,255,unwatchForRender,,,
+396,add resize listener,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/platforms/platform.dom.js,270,addResizeListener,,,
+397,remove resize listener,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/platforms/platform.dom.js,295,removeResizeListener,,,
+398,inject cs,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/platforms/platform.dom.js,307,injectCSS,,,
+399,initialize,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/platforms/platform.dom.js,328,initialize,,,
+400,acquire context,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/platforms/platform.dom.js,343,acquireContext,,,
+401,release context,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/platforms/platform.dom.js,376,releaseContext,,,
+402,add event listener,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/platforms/platform.dom.js,406,addEventListener,,,
+403,undefined],,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/platforms/platform.dom.js,416,undefined],,,
+404,remove event listener,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/platforms/platform.dom.js,423,removeEventListener,,,
+405,add event,provide backward compatibility use event target add event listener instead. event target add event listener compatibility chrome opera safari ff . ie,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/platforms/platform.dom.js,444,addEvent,,,
+406,remove event,provide backward compatibility use event target remove event listener instead. event target remove event listener compatibility chrome opera safari ff . ie,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/platforms/platform.dom.js,455,removeEvent,,,
+407,acquire context,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/platforms/platform.basic.js,7,acquireContext,,,
+408,noop,empty function use example optional callback,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,10,noop,,,
+409,uid,return unique id sequentially generate global variable,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,17,uid,,,number
+410,value,value test,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,30,value,,,*
+411,be null or undef,return true value neither null undefined else return false,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,30,isNullOrUndef,value,,boolean
+412,value,value test,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,40,value,,,*
+413,be array,return true value array include type array else return false,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,40,isArray,value,,boolean
+414,value,value test,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,57,value,,,*
+415,be object,return true value object exclude null else return false,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,57,isObject,value,,boolean
+416,value,value test,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,66,value,,,*
+417,be finite,return true value finite number else return false,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,66,isFinite,value,,boolean
+418,value,value return define,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,76,value,,,*
+419,default value,value return value undefined,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,76,defaultValue,,,*
+420,value or default,return value define else return default value,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,76,valueOrDefault,value default value,,*
+421,value,array lookup value index,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,87,value,,,array
+422,index,index value lookup value,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,87,index,,,number
+423,default value,value return value index undefined,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,87,defaultValue,,,*
+424,value at index or default,return value give index array define else return default value,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,87,valueAtIndexOrDefault,value index default value,,*
+425,fn,function call,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,99,fn,,,function
+426,args,argument fn call,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,99,args,,,array|undefined|null
+427,this arg,value provide call fn,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,99,thisArg,,,object
+428,callback,call fn give args scope define arg return value return fn . fn function method return undefined,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,99,callback,fn args this arg,,*
+429,loopable,object array iterate,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,114,loopable,,,object|array
+430,fn,function call item,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,114,fn,,,function
+431,this arg,value provide call fn,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,114,thisArg,,,object
+432,reverse,true iterates backward loopable,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,114,reverse,,,boolean
+433,each,note sb performance sake method use loopable type unknown none intensive code call often small loopable . else preferable use regular loop save extra function call,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,114,each,loopable fn this arg reverse,,
+434,a,array compare,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,143,a0,,,array
+435,a,array compare,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,143,a1,,,array
+436,array equal,return true array content else return false,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,143,arrayEquals,a a,,boolean
+437,source,value clone,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,172,source,,,*
+438,clone,return deep copy source without keep reference object array,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,172,clone,source,,*
+439,merger,default merger chart helper merge call without merger option. note sb method also use config merge scale merge fallback,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,198,_merger,,,
+440,merger if,merges source key target key target key undefined,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,213,_mergerIf,,,
+441,target,target object source merge,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,233,target,,,object
+442,source,object merge target,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,233,source,,,object|array(object)
+443,option,merging option,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,233,options,,,object
+444,option merger,merge method key target source option,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,233,options.merger,,,function
+445,merge,recursively deep copy source property target give option . important target clone update source property,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,233,merge,target source option option merger,target object,object
+446,target,target object source merge,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,267,target,,,object
+447,source,object merge target,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,267,source,,,object|array(object)
+448,merge if,recursively deep copy source property target define target. important target clone update source property,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,267,mergeIf,target source,target object,object
+449,target,target object object merge,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,278,target,,,object
+450,arg,object contain additional property merge target,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,278,arg1,,,object
+451,arg n,additional object contain property merge target,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,278,argN,,,object
+452,extend,applies content two object together first object,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,278,extend,target arg arg n,target object,object
+453,set fn,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,279,setFn,,,
+454,inherits,basic javascript inheritance base model create backbone j,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,291,inherits,,,
+455,surrogate,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,297,Surrogate,,,
+456,call callback,provide backward compatibility use chart helper callback instead,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,318,callCallback,,,
+457,index of,provide backward compatibility use array prototype index instead. array prototype index compatibility chrome opera safari ff . ie,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,327,indexOf,,,
+458,index of,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,335,indexOf,,,
+459,get value or default,provide backward compatibility use chart helper value default instead,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,339,getValueOrDefault,,,
+460,get value at index or default,provide backward compatibility use chart helper value index default instead,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.core.js,348,getValueAtIndexOrDefault,,,
+461,linear,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.easing.js,11,linear,,,
+462,ease in quad,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.easing.js,15,easeInQuad,,,
+463,ease out quad,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.easing.js,19,easeOutQuad,,,
+464,ease in out quad,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.easing.js,23,easeInOutQuad,,,
+465,ease in cubic,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.easing.js,30,easeInCubic,,,
+466,ease out cubic,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.easing.js,34,easeOutCubic,,,
+467,ease in out cubic,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.easing.js,38,easeInOutCubic,,,
+468,ease in quart,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.easing.js,45,easeInQuart,,,
+469,ease out quart,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.easing.js,49,easeOutQuart,,,
+470,ease in out quart,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.easing.js,53,easeInOutQuart,,,
+471,ease in quint,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.easing.js,60,easeInQuint,,,
+472,ease out quint,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.easing.js,64,easeOutQuint,,,
+473,ease in out quint,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.easing.js,68,easeInOutQuint,,,
+474,ease in sine,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.easing.js,75,easeInSine,,,
+475,ease out sine,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.easing.js,79,easeOutSine,,,
+476,ease in out sine,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.easing.js,83,easeInOutSine,,,
+477,ease in expo,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.easing.js,87,easeInExpo,,,
+478,ease out expo,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.easing.js,91,easeOutExpo,,,
+479,ease in out expo,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.easing.js,95,easeInOutExpo,,,
+480,ease in circ,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.easing.js,108,easeInCirc,,,
+481,ease out circ,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.easing.js,115,easeOutCirc,,,
+482,ease in out circ,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.easing.js,119,easeInOutCirc,,,
+483,ease in elastic,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.easing.js,126,easeInElastic,,,
+484,ease out elastic,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.easing.js,148,easeOutElastic,,,
+485,ease in out elastic,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.easing.js,170,easeInOutElastic,,,
+486,ease in back,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.easing.js,194,easeInBack,,,
+487,ease out back,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.easing.js,199,easeOutBack,,,
+488,ease in out back,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.easing.js,204,easeInOutBack,,,
+489,ease in bounce,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.easing.js,212,easeInBounce,,,
+490,ease out bounce,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.easing.js,216,easeOutBounce,,,
+491,ease in out bounce,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.easing.js,229,easeInOutBounce,,,
+492,ease effect,provide backward compatibility use chart helper ease effect instead,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.easing.js,243,easingEffects,,,
+493,font,font object,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.options.js,12,font,,,object
+494,to font string,convert give font object cs font string,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.options.js,12,toFontString,font,cs font string. see https developer mozilla org en u docs web cs font,stringg
+495,value,line height parse eg. . px . em,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.options.js,36,value,,,number|string
+496,size,font size pixel use resolve relative value,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.options.js,36,size,,,number
+497,to line height,convert give line height value pixel specific font size,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.options.js,36,toLineHeight,value size,effective line height pixel size . value invalid,number
+498,value,number set value trbl component else object use define property set undefined one,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.options.js,64,value,,,number|object
+499,to pad,convert give value padding object pre compute width height,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.options.js,64,toPadding,value,padding value top right bottom leave width height,object
+500,option,object contain font opttons parse,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.options.js,93,options,,,object
+501,parse font,par font option return font object,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.options.js,93,_parseFont,option,font object,object
+502,input,array value fall back last value,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.options.js,119,inputs,,,array.<array>
+503,context,define current value function value call context first argument result become new input,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.options.js,119,context,,,object
+504,index,define current value array value index become new input,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.options.js,119,index,,,number
+505,resolve,evaluate give input sequentially return first define value,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.options.js,119,resolve,input context index,,
+506,chart,chart clear canvas,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.canvas.js,20,chart,,,chart
+507,clear,clear entire canvas associate give chart,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.canvas.js,20,clear,chart,,
+508,ctx,canvas context,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.canvas.js,35,ctx,,,canvasrenderingcontext2d
+509,x,x axis coordinate rectangle start point,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.canvas.js,35,x,,,number
+510,y,axis coordinate rectangle start point,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.canvas.js,35,y,,,number
+511,width,rectangle width,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.canvas.js,35,width,,,number
+512,height,rectangle height,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.canvas.js,35,height,,,number
+513,radius,rounded amount pixel four corner,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.canvas.js,35,radius,,,number
+514,round rect,create path rectangle rounded corner position x give size width height radius corner,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.canvas.js,35,roundedRect,ctx x y width height radius,,
+515,draw point,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.canvas.js,66,drawPoint,,,
+516,clip area,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.canvas.js,175,clipArea,,,
+517,unclip area,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.canvas.js,182,unclipArea,,,
+518,line to,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.canvas.js,186,lineTo,,,
+519,draw round rectangle,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/helpers/helpers.canvas.js,237,drawRoundedRectangle,,,
+520,value,value display,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.ticks.js,15,value,,,
+521,value,formatter value label,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.ticks.js,15,values,value,label display,string|array
+522,value,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.ticks.js,21,values,,,
+523,tick value,value format,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.ticks.js,25,tickValue,,,number
+524,index,position tick value parameter tick array,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.ticks.js,25,index,,,number
+525,tick,list tick convert,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.ticks.js,25,ticks,,,array.<number>
+526,linear,formatter linear numeric tick,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.ticks.js,25,linear,tick value index tick,string representation tick value parameter,string
+527,linear,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.ticks.js,33,linear,,,
+528,logarithmic,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.ticks.js,65,logarithmic,,,
+529,get,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.animation.js,27,get,,,
+530,get,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.animation.js,39,get,,,
+531,set,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.animation.js,42,set,,,
+532,title,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,40,title,,,
+533,label,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,65,label,,,
+534,label color,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,74,labelColor,,,
+535,label text color,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,83,labelTextColor,,,
+536,element,element display tooltip,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,100,elements,,,array.<chartelement>
+537,average,average mode place tooltip average position element show,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,100,average,element,tooltip position,point
+538,average,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,106,average,,,
+539,element,tooltip element,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,132,elements,,,array.<chart.element>
+540,event position,position event canvas coordinate,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,132,eventPosition,,,point
+541,near,get tooltip position near item near event position,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,132,nearest,element event position,tooltip position,point
+542,near,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,139,nearest,,,
+543,push or concat,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,172,pushOrConcat,,,
+544,value,value split newline,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,191,value,,,string
+545,split newlines,return array string split newline,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,191,splitNewlines,value,value newline present return string split method,array
+546,create tooltip item,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,202,createTooltipItem,,,
+547,tooltip opts,tooltip option,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,222,tooltipOpts,,,object
+548,get base model,helper get reset model tooltip,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,222,getBaseModel,tooltip opts,,
+549,get tooltip size,get size tooltip,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,274,getTooltipSize,,,
+550,max line width,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,304,maxLineWidth,,,
+551,determine alignment,helper get alignment tooltip give size,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,342,determineAlignment,,,
+552,lf,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,362,lf,,,
+553,rf,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,365,rf,,,
+554,lf,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,369,lf,,,
+555,rf,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,372,rf,,,
+556,olf,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,377,olf,,,
+557,orf,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,380,orf,,,
+558,yf,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,383,yf,,,
+559,get background point,helper get location tooltip need place give initial position via vm size alignment,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,415,getBackgroundPoint,,,
+560,get before after body line,helper build body line,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,469,getBeforeAfterBodyLines,,,
+561,initialize,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,474,initialize,,,
+562,get title,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,481,getTitle,,,
+563,get before body,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,499,getBeforeBody,,,
+564,get body,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,504,getBody,,,
+565,get after body,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,526,getAfterBody,,,
+566,get footer,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,532,getFooter,,,
+567,update,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,548,update,,,
+568,draw caret,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,660,drawCaret,,,
+569,get caret position,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,669,getCaretPosition,,,
+570,draw title,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,729,drawTitle,,,
+571,draw body,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,754,drawBody,,,
+572,fill line of text,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,765,fillLineOfText,,,
+573,draw footer,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,815,drawFooter,,,
+574,draw background,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,834,drawBackground,,,
+575,draw,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,877,draw,,,
+576,event,event handle,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,930,event,,,ievent
+577,handle event,handle event,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.tooltip.js,930,handleEvent,event,true tooltip change,boolean
+578,filter by position,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.layouts.js,5,filterByPosition,,,
+579,sort by weight,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.layouts.js,11,sortByWeight,,,
+580,chart,chart use,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.layouts.js,57,chart,,,chart
+581,item,item add lay,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.layouts.js,57,item,,,ilayoutitem
+582,add box,register box chart. box simply reference object require layout. eg. scale legend title,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.layouts.js,57,addBox,chart item,,
+583,chart,chart remove box,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.layouts.js,75,chart,,,chart
+584,layout item,item remove layout,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.layouts.js,75,layoutItem,,,object
+585,remove box,remove layout item chart,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.layouts.js,75,removeBox,chart layout item,,
+586,chart,chart item live add,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.layouts.js,88,chart,,,chart
+587,item,item configure give option,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.layouts.js,88,item,,,object
+588,option,new item option,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.layouts.js,88,options,,,object
+589,configure,set update option give item,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.layouts.js,88,configure,chart item option,,
+590,chart,chart,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.layouts.js,109,chart,,,chart
+591,width,width fit,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.layouts.js,109,width,,,number
+592,height,height fit,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.layouts.js,109,height,,,number
+593,update,fit box give chart give size box measure run fitting algorithm,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.layouts.js,109,update,chart width height,,
+594,get minimum box size,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.layouts.js,187,getMinimumBoxSize,,,
+595,fit box,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.layouts.js,239,fitBox,,,
+596,final fit vertical box,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.layouts.js,285,finalFitVerticalBox,,,
+597,place box,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.layouts.js,370,placeBox,,,
+598,export,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,10,exports,,,
+599,config merge,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,14,configMerge,,,
+600,merger,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,16,merger,,,
+601,scale merge,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,33,scaleMerge,,,
+602,merger,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,35,merger,,,
+603,where,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,68,where,,,
+604,find next where,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,95,findNextWhere,,,
+605,find previous where,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,107,findPreviousWhere,,,
+606,be number,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,121,isNumber,,,
+607,almost equal,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,124,almostEquals,,,
+608,almost whole,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,127,almostWhole,,,
+609,max,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,131,max,,,
+610,min,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,139,min,,,
+611,to radian,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,171,toRadians,,,
+612,to degree,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,174,toDegrees,,,
+613,x,number,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,184,x,,,number
+614,decimal place,return number decimal place e. number digit decimal point value number,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,184,decimalPlaces,x,number decimal place,number
+615,get angle from point,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,198,getAngleFromPoint,,,
+616,distance between point,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,214,distanceBetweenPoints,,,
+617,alias pixel,provide backward compatibility available anymore,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,218,aliasPixel,,,
+618,alias pixel,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,224,aliasPixel,,,
+619,chart,chart instance,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,236,chart,,,chart
+620,pixel,pixel value,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,236,pixel,,,number
+621,width,width element,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,236,width,,,number
+622,align pixel,return align pixel value avoid anti aliasing blur,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,236,_alignPixel,chart pixel width,align pixel value,number
+623,spline curve,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,242,splineCurve,,,
+624,spline curve monotone,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,277,splineCurveMonotone,,,
+625,next item,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,368,nextItem,,,
+626,previous item,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,374,previousItem,,,
+627,nice num,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,381,niceNum,,,
+628,get relative position,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,425,getRelativePosition,,,
+629,parse max style,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,464,parseMaxStyle,,,
+630,be constrain value,return give value contain effective constraint,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,484,isConstrainedValue,,,
+631,get constraint dimension,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,493,getConstraintDimension,,,
+632,get constraint width,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,511,getConstraintWidth,,,
+633,get constraint height,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,515,getConstraintHeight,,,
+634,calculate padding,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,521,_calculatePadding,,,
+635,get parent node,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,529,_getParentNode,,,
+636,get maximum width,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,536,getMaximumWidth,,,
+637,get maximum height,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,550,getMaximumHeight,,,
+638,get style,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,564,getStyle,,,
+639,retina scale,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,569,retinaScale,,,
+640,font string,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,592,fontString,,,
+641,long text,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,595,longestText,,,
+642,measure text,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,633,measureText,,,
+643,number of label line,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,644,numberOfLabelLines,,,
+644,get hover color,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.helpers.js,670,getHoverColor,,,
+645,export,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,15,exports,,,
+646,init config,initialize give config global chart default value,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,27,initConfig,,,
+647,chart,chart update option,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,48,chart,,,chart
+648,update config,update config chart,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,48,updateConfig,chart,,
+649,position be horizontal,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,68,positionIsHorizontal,,,
+650,construct,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,76,construct,,,
+651,get,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,112,get,,,
+652,set,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,115,set,,,
+653,initialize,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,136,initialize,,,
+654,clear,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,162,clear,,,
+655,stop,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,167,stop,,,
+656,resize,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,173,resize,,,
+657,ensure scale have i ds,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,214,ensureScalesHaveIDs,,,
+658,build or update scale,build map scale id scale object future lookup,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,235,buildOrUpdateScales,,,
+659,build or update controller,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,317,buildOrUpdateControllers,,,
+660,reset element,reset element datasets,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,355,resetElements,,,
+661,reset,reset chart back state initial animation,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,365,reset,,,
+662,update,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,370,update,,,
+663,update layout,update chart layout unless plugin return false layout hook case plugins call layout,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,440,updateLayout,,,
+664,after scale update,provide backward compatibility use layout instead,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,449,afterScaleUpdate,,,
+665,update datasets,update datasets unless plugin return false datasets update hook case plugins call datasets update,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,465,updateDatasets,,,
+666,update dataset,update dataset index unless plugin return false dataset update hook case plugins call dataset update,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,484,updateDataset,,,
+667,render,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,501,render,,,
+668,on complete,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,520,onComplete,,,
+669,render,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,530,render,,,
+670,draw,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,553,draw,,,
+671,transition,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,590,transition,,,
+672,draw datasets,draw datasets unless plugin return false datasets draw hook case plugins call datasets draw,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,607,drawDatasets,,,
+673,draw dataset,draws dataset index unless plugin return false dataset draw hook case plugins call dataset draw,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,629,drawDataset,,,
+674,draw tooltip,draw tooltip unless plugin return false tooltip draw hook case plugins call tooltip draw,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,652,_drawTooltip,,,
+675,get element at event,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,671,getElementAtEvent,,,
+676,get element at event,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,675,getElementsAtEvent,,,
+677,get element at x axis,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,679,getElementsAtXAxis,,,
+678,get element at event for mode,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,683,getElementsAtEventForMode,,,
+679,get dataset at event,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,692,getDatasetAtEvent,,,
+680,get dataset meta,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,696,getDatasetMeta,,,
+681,get visible dataset count,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,719,getVisibleDatasetCount,,,
+682,be dataset visible,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,729,isDatasetVisible,,,
+683,generate legend,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,737,generateLegend,,,
+684,destroy dataset meta,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,744,destroyDatasetMeta,,,
+685,destroy,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,755,destroy,,,
+686,to base image,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,780,toBase64Image,,,
+687,init tool tip,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,784,initToolTip,,,
+688,bind event,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,797,bindEvents,,,
+689,listener,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,800,listener,,,
+690,listener,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,812,listener,,,
+691,unbind event,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,824,unbindEvents,,,
+692,update hover style,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,837,updateHoverStyle,,,
+693,event handler,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,852,eventHandler,,,
+694,event,event handle,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,905,event,,,ievent
+695,handle event,handle event,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.controller.js,905,handleEvent,event,true chart need render,boolean
+696,listen array event,hook array method add remove value push pop shift splice unshift notify listener array altered. listener call data callback e g. data push etc. argument,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.datasetController.js,12,listenArrayEvents,,,
+697,value,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.datasetController.js,33,value,,,
+698,unlisten array event,remove give array event listener cleanup extra attach property chartjs stub overridden method array listener,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.datasetController.js,53,unlistenArrayEvents,,,
+699,dataset controller,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.datasetController.js,77,DatasetController,,,
+700,initialize,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.datasetController.js,95,initialize,,,
+701,update index,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.datasetController.js,103,updateIndex,,,
+702,link scale,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.datasetController.js,107,linkScales,,,
+703,get dataset,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.datasetController.js,120,getDataset,,,
+704,get meta,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.datasetController.js,124,getMeta,,,
+705,get scale for id,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.datasetController.js,128,getScaleForId,,,
+706,reset,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.datasetController.js,132,reset,,,
+707,destroy,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.datasetController.js,139,destroy,,,
+708,create meta dataset,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.datasetController.js,145,createMetaDataset,,,
+709,create meta data,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.datasetController.js,154,createMetaData,,,
+710,add element,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.datasetController.js,164,addElements,,,
+711,add element and reset,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.datasetController.js,178,addElementAndReset,,,
+712,build or update element,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.datasetController.js,184,buildOrUpdateElements,,,
+713,transition,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.datasetController.js,209,transition,,,
+714,draw,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.datasetController.js,224,draw,,,
+715,remove hover style,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.datasetController.js,239,removeHoverStyle,,,
+716,set hover style,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.datasetController.js,244,setHoverStyle,,,
+717,resync element,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.datasetController.js,266,resyncElements,,,
+718,insert element,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.datasetController.js,283,insertElements,,,
+719,on data push,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.datasetController.js,292,onDataPush,,,
+720,on data pop,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.datasetController.js,299,onDataPop,,,
+721,on data shift,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.datasetController.js,306,onDataShift,,,
+722,on data splice,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.datasetController.js,313,onDataSplice,,,
+723,on data unshift,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.datasetController.js,321,onDataUnshift,,,
+724,export,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.js,39,exports,,,
+725,chart,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.js,42,Chart,,,
+726,interpolate,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.element.js,6,interpolate,,,
+727,element,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.element.js,55,Element,,,
+728,initialize,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.element.js,62,initialize,,,
+729,pivot,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.element.js,66,pivot,,,
+730,transition,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.element.js,75,transition,,,
+731,tooltip position,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.element.js,101,tooltipPosition,,,
+732,have value,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.element.js,108,hasValue,,,
+733,chart,chart instance,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,178,chart,,,chart.controller
+734,option,plugin option,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,178,options,,,object
+735,before init,call initialize chart,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,178,beforeInit,chart option,,
+736,chart,chart instance,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,184,chart,,,chart.controller
+737,option,plugin option,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,184,options,,,object
+738,after init,call chart initialize first update,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,184,afterInit,chart option,,
+739,chart,chart instance,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,190,chart,,,chart.controller
+740,option,plugin option,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,190,options,,,object
+741,before update,call update chart . plugin return false update cancel thus subsequent render another update trigger,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,190,beforeUpdate,chart option,false cancel chart update,boolean
+742,chart,chart instance,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,198,chart,,,chart.controller
+743,option,plugin option,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,198,options,,,object
+744,after update,call chart update rendering. note hook call chart update previously cancel,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,198,afterUpdate,chart option,,
+745,chart,chart instance,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,205,chart,,,chart.controller
+746,option,plugin option,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,205,options,,,object
+747,before datasets update,call update chart datasets. plugin return false datasets update cancel another update trigger,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,205,beforeDatasetsUpdate,chart option,false cancel datasets update,boolean
+748,chart,chart instance,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,214,chart,,,chart.controller
+749,option,plugin option,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,214,options,,,object
+750,after datasets update,call chart datasets updated. note hook call datasets update previously cancel,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,214,afterDatasetsUpdate,chart option,,
+751,chart,chart instance,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,222,chart,,,chart
+752,args,call argument,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,222,args,,,object
+753,args index,dataset index,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,222,args.index,,,number
+754,args meta,dataset metadata,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,222,args.meta,,,object
+755,option,plugin option,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,222,options,,,object
+756,before dataset update,call update chart dataset give args index . plugin return false datasets update cancel another update trigger,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,222,beforeDatasetUpdate,chart args args index args meta option,false cancel chart datasets draw,boolean
+757,chart,chart instance,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,233,chart,,,chart
+758,args,call argument,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,233,args,,,object
+759,args index,dataset index,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,233,args.index,,,number
+760,args meta,dataset metadata,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,233,args.meta,,,object
+761,option,plugin option,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,233,options,,,object
+762,after dataset update,call chart datasets give args index updated. note hook call datasets update previously cancel,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,233,afterDatasetUpdate,chart args args index args meta option,,
+763,chart,chart instance,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,243,chart,,,chart.controller
+764,option,plugin option,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,243,options,,,object
+765,before layout,call lay chart . plugin return false layout update cancel another update trigger,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,243,beforeLayout,chart option,false cancel chart layout,boolean
+766,chart,chart instance,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,251,chart,,,chart.controller
+767,option,plugin option,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,251,options,,,object
+768,after layout,call chart lay out. note hook call layout update previously cancel,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,251,afterLayout,chart option,,
+769,chart,chart instance,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,258,chart,,,chart.controller
+770,option,plugin option,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,258,options,,,object
+771,before render,call render chart . plugin return false rendering cancel another render trigger,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,258,beforeRender,chart option,false cancel chart render,boolean
+772,chart,chart instance,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,266,chart,,,chart.controller
+773,option,plugin option,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,266,options,,,object
+774,after render,call chart fully render animation complete . note hook call rendering previously cancel,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,266,afterRender,chart option,,
+775,chart,chart instance,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,273,chart,,,chart.controller
+776,ease value,current animation value . .,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,273,easingValue,,,number
+777,option,plugin option,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,273,options,,,object
+778,before draw,call draw chart every animation frame specify give easing value. plugin return false frame drawing cancel another render trigger,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,273,beforeDraw,chart ease value option,false cancel chart draw,boolean
+779,chart,chart instance,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,283,chart,,,chart.controller
+780,ease value,current animation value . .,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,283,easingValue,,,number
+781,option,plugin option,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,283,options,,,object
+782,after draw,call chart draw specific ease value. note hook call drawing previously cancel,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,283,afterDraw,chart ease value option,,
+783,chart,chart instance,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,291,chart,,,chart.controller
+784,ease value,current animation value . .,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,291,easingValue,,,number
+785,option,plugin option,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,291,options,,,object
+786,before datasets draw,call draw chart datasets. plugin return false datasets draw cancel another render trigger,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,291,beforeDatasetsDraw,chart ease value option,false cancel chart datasets draw,boolean
+787,chart,chart instance,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,300,chart,,,chart.controller
+788,ease value,current animation value . .,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,300,easingValue,,,number
+789,option,plugin option,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,300,options,,,object
+790,after datasets draw,call chart datasets drawn. note hook call datasets draw previously cancel,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,300,afterDatasetsDraw,chart ease value option,,
+791,chart,chart instance,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,308,chart,,,chart
+792,args,call argument,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,308,args,,,object
+793,args index,dataset index,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,308,args.index,,,number
+794,args meta,dataset metadata,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,308,args.meta,,,object
+795,args ease value,current animation value . .,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,308,args.easingValue,,,number
+796,option,plugin option,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,308,options,,,object
+797,before dataset draw,call draw chart dataset give args index datasets draw reverse order . plugin return false datasets draw cancel another render trigger,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,308,beforeDatasetDraw,chart args args index args meta args ease value option,false cancel chart datasets draw,boolean
+798,chart,chart instance,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,321,chart,,,chart
+799,args,call argument,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,321,args,,,object
+800,args index,dataset index,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,321,args.index,,,number
+801,args meta,dataset metadata,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,321,args.meta,,,object
+802,args ease value,current animation value . .,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,321,args.easingValue,,,number
+803,option,plugin option,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,321,options,,,object
+804,after dataset draw,call chart datasets give args index draw datasets draw reverse order . note hook call datasets draw previously cancel,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,321,afterDatasetDraw,chart args args index args meta args ease value option,,
+805,chart,chart instance,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,333,chart,,,chart
+806,args,call argument,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,333,args,,,object
+807,args tooltip,tooltip,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,333,args.tooltip,,,object
+808,args ease value,current animation value . .,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,333,args.easingValue,,,number
+809,option,plugin option,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,333,options,,,object
+810,before tooltip draw,call draw tooltip . plugin return false tooltip drawing cancel another render trigger,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,333,beforeTooltipDraw,chart args args tooltip args ease value option,false cancel chart tooltip draw,boolean
+811,chart,chart instance,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,344,chart,,,chart
+812,args,call argument,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,344,args,,,object
+813,args tooltip,tooltip,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,344,args.tooltip,,,object
+814,args ease value,current animation value . .,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,344,args.easingValue,,,number
+815,option,plugin option,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,344,options,,,object
+816,after tooltip draw,call draw tooltip . note hook call tooltip drawing previously cancel,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,344,afterTooltipDraw,chart args args tooltip args ease value option,,
+817,chart,chart instance,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,354,chart,,,chart.controller
+818,event,event object,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,354,event,,,ievent
+819,option,plugin option,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,354,options,,,object
+820,before event,call process specified event . plugin return false event discard,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,354,beforeEvent,chart event option,,
+821,chart,chart instance,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,362,chart,,,chart.controller
+822,event,event object,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,362,event,,,ievent
+823,option,plugin option,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,362,options,,,object
+824,after event,call event consumed. note hook call event previously discard,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,362,afterEvent,chart event option,,
+825,chart,chart instance,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,370,chart,,,chart.controller
+826,size,new canvas display size eq. canvas style width height,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,370,size,,,number
+827,option,plugin option,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,370,options,,,object
+828,resize,call chart resize,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,370,resize,chart size option,,
+829,chart,chart instance,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,377,chart,,,chart.controller
+830,option,plugin option,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,377,options,,,object
+831,destroy,call chart destroy,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,377,destroy,chart option,,
+832,plugins,plugin instance,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,34,plugins,,,array|object
+833,register,register give plugin already register,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,34,register,plugins,,
+834,plugins,plugin instance,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,49,plugins,,,array|object
+835,unregister,unregisters give plugin register,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,49,unregister,plugins,,
+836,clear,remove registered plugins,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,65,clear,,,
+837,count,return number registered plugins,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,75,count,,,number
+838,get all,return register plugin instance,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,84,getAll,,array plugin object,array
+839,chart,chart instance plugins call,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,97,chart,,,object
+840,hook,name plugin method call e g. update,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,97,hook,,,string
+841,args,extra argument apply hook call,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,97,args,,,array
+842,notify,call enable plugins chart specify hook give args. method immediately return soon plugin explicitly return false. returned value use instance interrupt current action,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,97,notify,chart hook args,false plugins return false else return true,boolean
+843,descriptor,return descriptor enabled plugins give chart,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,123,descriptors,,plugin option,array
+844,invalidate,invalidates cache give chart descriptor hold reference plugin option case reference change user update options. https github com chartjs chart j issue issuecomment,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.plugins.js,168,_invalidate,,,
+845,event,event get position,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,11,event,,,event|ievent
+846,chart,chart,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,11,chart,,,chart
+847,get relative position,helper function get relative position event,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,11,getRelativePosition,event chart,event position,point
+848,chart,chart,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,27,chart,,,chart
+849,handler,callback execute visible item,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,27,handler,,,function
+850,parse visible item,helper function traverse visible element chart,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,27,parseVisibleItems,chart handler,,
+851,item,element filter,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,52,items,,,array.<chartelement>
+852,position,point near,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,52,position,,,point
+853,get intersect item,helper function get item intersect event position,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,52,getIntersectItems,item position,near item,array.<chartelement>
+854,chart,chart look element,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,72,chart,,,chart
+855,position,point near,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,72,position,,,point
+856,intersect,true consider item intersect position,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,72,intersect,,,boolean
+857,distance metric,function provide distance point,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,72,distanceMetric,,,function
+858,get near item,helper function get item near event position consider visible item teh chart,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,72,getNearestItems,chart position intersect distance metric,near item,array.<chartelement>
+859,axis,axis mode. x xy,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,101,axis,,,string
+860,get distance metric for axis,get distance metric function two point base axis mode set,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,101,getDistanceMetricForAxis,axis,,
+861,index mode,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,112,indexMode,,,
+862,single,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,155,single,,,
+863,label,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,169,label,,,
+864,chart,chart return item,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,177,chart,,,chart
+865,e,event find thing,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,177,e,,,event
+866,option,option use interaction,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,177,options,,,iinteractionoptions
+867,index,return item index. option intersect parameter true return item intersect something option intersect mode false find near item return item index item,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,177,index,chart e option,array element point. none find empty array return,array.<chart.element>
+868,chart,chart return item,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,189,chart,,,chart
+869,e,event find thing,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,189,e,,,event
+870,option,option use interaction,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,189,options,,,iinteractionoptions
+871,dataset,return item dataset. option intersect parameter true return item intersect something option intersect false find near item return item dataset,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,189,dataset,chart e option,array element point. none find empty array return,array.<chart.element>
+872,dataset,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,198,dataset,,,
+873,x-axis,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,211,x-axis,,,
+874,"""x-axis""",,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,217,"""x-axis""",,,
+875,chart,chart return item,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,221,chart,,,chart
+876,e,event find thing,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,221,e,,,event
+877,intersect,point mode return element hit test base event position event,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,221,intersect,chart e,array element point. none find empty array return,array.<chart.element>
+878,point,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,229,point,,,
+879,chart,chart return item,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,234,chart,,,chart
+880,e,event find thing,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,234,e,,,event
+881,option,option use,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,234,options,,,iinteractionoptions
+882,intersect,near mode return element closest point,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,234,intersect,chart e option,array element point. none find empty array return,array.<chart.element>
+883,near,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,242,nearest,,,
+884,chart,chart return item,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,249,chart,,,chart
+885,e,event find thing,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,249,e,,,event
+886,option,option use,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,249,options,,,iinteractionoptions
+887,x,x mode return element hit test current x coordinate,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,249,x,chart e option,array element point. none find empty array return,array.<chart.element>
+888,x,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,257,x,,,
+889,chart,chart return item,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,280,chart,,,chart
+890,e,event find thing,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,280,e,,,event
+891,option,option use,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,280,options,,,iinteractionoptions
+892,y,mode return element hit test current coordinate,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,280,y,chart e option,array element point. none find empty array return,array.<chart.element>
+893,y,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.interaction.js,288,y,,,
+894,register scale type,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.scaleService.js,16,registerScaleType,,,
+895,get scale constructor,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.scaleService.js,20,getScaleConstructor,,,
+896,get scale default,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.scaleService.js,23,getScaleDefaults,,,
+897,update scale default,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.scaleService.js,27,updateScaleDefaults,,,
+898,add scale to layout,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.scaleService.js,33,addScalesToLayout,,,
+899,label from tick,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.scale.js,65,labelsFromTicks,,,
+900,get pixel for grid line,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.scale.js,76,getPixelForGridLine,,,
+901,compute text size,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.scale.js,93,computeTextSize,,,
+902,get padding,get padding need scale,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.scale.js,100,getPadding,,necessary padding,padding
+903,get padding,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.scale.js,106,getPadding,,,
+904,get tick,return scale tick object label major,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.scale.js,120,getTicks,,,
+905,merge tick option,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.scale.js,128,mergeTicksOptions,,,
+906,before update,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.scale.js,151,beforeUpdate,,,
+907,update,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.scale.js,155,update,,,
+908,after update,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.scale.js,241,afterUpdate,,,
+909,before set dimension,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.scale.js,247,beforeSetDimensions,,,
+910,set dimension,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.scale.js,250,setDimensions,,,
+911,after set dimension,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.scale.js,272,afterSetDimensions,,,
+912,before data limit,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.scale.js,277,beforeDataLimits,,,
+913,after data limit,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.scale.js,281,afterDataLimits,,,
+914,before build tick,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.scale.js,286,beforeBuildTicks,,,
+915,after build tick,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.scale.js,290,afterBuildTicks,,,
+916,before tick to label conversion,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.scale.js,294,beforeTickToLabelConversion,,,
+917,convert tick to label,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.scale.js,297,convertTicksToLabels,,,
+918,after tick to label conversion,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.scale.js,303,afterTickToLabelConversion,,,
+919,before calculate tick rotation,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.scale.js,309,beforeCalculateTickRotation,,,
+920,calculate tick rotation,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.scale.js,312,calculateTickRotation,,,
+921,after calculate tick rotation,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.scale.js,352,afterCalculateTickRotation,,,
+922,before fit,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.scale.js,358,beforeFit,,,
+923,fit,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.scale.js,361,fit,,,
+924,handle margin,handle margin padding interaction,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.scale.js,482,handleMargins,,,
+925,after fit,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.scale.js,492,afterFit,,,
+926,be horizontal,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.scale.js,497,isHorizontal,,,
+927,be full width,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.scale.js,500,isFullWidth,,,
+928,get right value,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.scale.js,505,getRightValue,,,
+929,get pixel for tick,return location tick give index coordinate upper leave corner canvas,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.scale.js,556,getPixelForTick,,,
+930,get pixel for decimal,utility get pixel location percentage scale coordinate upper leave corner canvas,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.scale.js,580,getPixelForDecimal,,,
+931,get base pixel,return pixel minimum chart value coordinate upper leave corner canvas,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.scale.js,597,getBasePixel,,,
+932,get base value,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.scale.js,601,getBaseValue,,,
+933,auto skip,return subset tick plot avoid overlap label,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.scale.js,616,_autoSkip,,,
+934,be visible,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.scale.js,684,_isVisible,,,
+935,draw,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.scale.js,709,draw,,,
+936,chart,chart animate,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.animations.js,28,chart,,,chart
+937,animation,animation animate,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.animations.js,28,animation,,,chart.animation
+938,duration,animation duration,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.animations.js,28,duration,,,number
+939,lazy,true chart mark animate enable responsive interaction,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.animations.js,28,lazy,,,boolean
+940,add animation,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.animations.js,28,addAnimation,chart animation duration lazy,,
+941,cancel animation,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.animations.js,53,cancelAnimation,,,
+942,request animation frame,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.animations.js,64,requestAnimationFrame,,,
+943,start digest,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.animations.js,80,startDigest,,,
+944,advance,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.animations.js,105,advance,,,
+945,set,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/core/core.defaults.js,9,_set,,,
+946,in label range,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/elements/element.arc.js,19,inLabelRange,,,
+947,in range,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/elements/element.arc.js,28,inRange,,,
+948,get center point,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/elements/element.arc.js,58,getCenterPoint,,,
+949,get area,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/elements/element.arc.js,68,getArea,,,
+950,tooltip position,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/elements/element.arc.js,73,tooltipPosition,,,
+951,draw,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/elements/element.arc.js,84,draw,,,
+952,x range,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/elements/element.point.js,25,xRange,,,
+953,y range,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/elements/element.point.js,30,yRange,,,
+954,in range,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/elements/element.point.js,36,inRange,,,
+955,get center point,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/elements/element.point.js,45,getCenterPoint,,,
+956,get area,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/elements/element.point.js,53,getArea,,,
+957,tooltip position,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/elements/element.point.js,57,tooltipPosition,,,
+958,draw,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/elements/element.point.js,66,draw,,,
+959,draw,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/elements/element.line.js,27,draw,,,
+960,be vertical,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/elements/element.rectangle.js,19,isVertical,,,
+961,bar,bar,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/elements/element.rectangle.js,29,bar,,,chart.element.rectangle
+962,get bar bound,helper function get bound bar regardless orientation,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/elements/element.rectangle.js,29,getBarBounds,bar,bound bar,bounds
+963,draw,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/elements/element.rectangle.js,58,draw,,,
+964,corner at,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/elements/element.rectangle.js,130,cornerAt,,,
+965,height,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/elements/element.rectangle.js,149,height,,,
+966,in range,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/elements/element.rectangle.js,154,inRange,,,
+967,in label range,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/elements/element.rectangle.js,165,inLabelRange,,,
+968,in x range,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/elements/element.rectangle.js,183,inXRange,,,
+969,in y range,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/elements/element.rectangle.js,188,inYRange,,,
+970,get center point,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/elements/element.rectangle.js,193,getCenterPoint,,,
+971,get area,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/elements/element.rectangle.js,207,getArea,,,
+972,tooltip position,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/elements/element.rectangle.js,212,tooltipPosition,,,
+973,title,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.bubble.js,28,title,,,
+974,label,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.bubble.js,32,label,,,
+975,update,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.bubble.js,50,update,,,
+976,update element,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.bubble.js,64,updateElement,,,
+977,set hover style,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.bubble.js,101,setHoverStyle,,,
+978,resolve element option,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.bubble.js,121,_resolveElementOptions,,,
+979,line enable,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.line.js,28,lineEnabled,,,
+980,update,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.line.js,38,update,,,
+981,get point background color,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.line.js,102,getPointBackgroundColor,,,
+982,get point border color,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.line.js,118,getPointBorderColor,,,
+983,get point border width,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.line.js,134,getPointBorderWidth,,,
+984,get point rotation,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.line.js,150,getPointRotation,,,
+985,update element,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.line.js,163,updateElement,,,
+986,calculate point y,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.line.js,211,calculatePointY,,,
+987,update bezier control point,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.line.js,244,updateBezierControlPoints,,,
+988,cap control point,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.line.js,258,capControlPoint,,,
+989,draw,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.line.js,292,draw,,,
+990,set hover style,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.line.js,323,setHoverStyle,,,
+991,compute min sample size,compute optimal sample size maintain bar equally size prevent overlap,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.bar.js,34,computeMinSampleSize,,,
+992,compute fit category trait,computes ideal category base absolute bar thickness undefined null use small interval see compute min sample size prevent bar overlapping. mode currently always generate bar equally size introduce scriptable options.,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.bar.js,58,computeFitCategoryTraits,,,
+993,compute flex category trait,computes optimal category globally arrange bar side side gap percentage option base previous follow categories. mode generate bar different width data evenly space,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.bar.js,88,computeFlexCategoryTraits,,,
+994,initialize,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.bar.js,121,initialize,,,
+995,update,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.bar.js,132,update,,,
+996,update element,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.bar.js,144,updateElement,,,
+997,update element geometry,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.bar.js,171,_updateElementGeometry,,,
+998,get value scale id,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.bar.js,192,getValueScaleId,,,
+999,get index scale id,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.bar.js,199,getIndexScaleId,,,
+1000,get value scale,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.bar.js,206,getValueScale,,,
+1001,get index scale,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.bar.js,213,getIndexScale,,,
+1002,last,dataset index,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.bar.js,223,last,,,number
+1003,get stack,return stack base group bar visibility,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.bar.js,223,_getStacks,last,stack list,array
+1004,get stack count,return effective number stack base group bar visibility,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.bar.js,249,getStackCount,,,
+1005,dataset index,dataset index,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.bar.js,260,datasetIndex,,,number
+1006,name,stack name find,1,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.bar.js,260,name,,,string
+1007,get stack index,return stack index give dataset base group bar visibility,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.bar.js,260,getStackIndex,dataset index name,stack index,number
+1008,get ruler,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.bar.js,274,getRuler,,,
+1009,calculate bar value pixel,note pixel value clamp scale area,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.bar.js,307,calculateBarValuePixels,,,
+1010,calculate bar index pixel,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.bar.js,362,calculateBarIndexPixels,,,
+1011,draw,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.bar.js,383,draw,,,
+1012,resolve element option,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.bar.js,406,_resolveElementOptions,,,
+1013,title,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.horizontalBar.js,39,title,,,
+1014,label,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.horizontalBar.js,54,label,,,
+1015,get value scale id,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.horizontalBar.js,68,getValueScaleId,,,
+1016,get index scale id,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.horizontalBar.js,75,getIndexScaleId,,,
+1017,title,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.scatter.js,28,title,,,
+1018,label,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.scatter.js,31,label,,,
+1019,legend callback,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.doughnut.js,18,legendCallback,,,
+1020,generate label,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.doughnut.js,41,generateLabels,,,
+1021,on click,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.doughnut.js,71,onClick,,,
+1022,title,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.doughnut.js,100,title,,,
+1023,label,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.doughnut.js,103,label,,,
+1024,get ring index,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.doughnut.js,129,getRingIndex,,,
+1025,update,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.doughnut.js,141,update,,,
+1026,update element,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.doughnut.js,196,updateElement,,,
+1027,calculate total,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.doughnut.js,250,calculateTotal,,,
+1028,calculate circumference,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.doughnut.js,270,calculateCircumference,,,
+1029,get max border width,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.doughnut.js,279,getMaxBorderWidth,,,
+1030,resolve element option,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.doughnut.js,320,_resolveElementOptions,,,
+1031,update,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.radar.js,27,update,,,
+1032,update element,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.radar.js,81,updateElement,,,
+1033,update bezier control point,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.radar.js,125,updateBezierControlPoints,,,
+1034,cap control point,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.radar.js,132,capControlPoint,,,
+1035,set hover style,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.radar.js,153,setHoverStyle,,,
+1036,legend callback,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.polarArea.js,32,legendCallback,,,
+1037,generate label,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.polarArea.js,55,generateLabels,,,
+1038,on click,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.polarArea.js,85,onClick,,,
+1039,title,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.polarArea.js,102,title,,,
+1040,label,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.polarArea.js,105,label,,,
+1041,update,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.polarArea.js,118,update,,,
+1042,update radius,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.polarArea.js,146,_updateRadius,,,
+1043,update element,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.polarArea.js,161,updateElement,,,
+1044,count visible element,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.polarArea.js,213,countVisibleElements,,,
+1045,compute angle,,0,/home/zcl/Desktop/parametermismatch/dataset/Chart.js/src/controllers/controller.polarArea.js,230,_computeAngle,,,

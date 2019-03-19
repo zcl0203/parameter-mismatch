@@ -1,0 +1,416 @@
+,cleaned_name,comment,datapoint_type,filename,line_number,name,params,return_param_comment,type
+0,generate config,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/webpack.config.js,4,generateConfig,,,
+1,create custom launcher,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/karma.conf.js,6,createCustomLauncher,,,
+2,export,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/karma.conf.js,15,exports,,,
+3,export,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/Gruntfile.js,1,exports,,,
+4,webpack require,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,17,__webpack_require__,,,
+5,default config,default config instance,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,78,defaultConfig,,,object
+6,create instance,create instance axios,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,78,createInstance,default config,new instance axios,axios
+7,create,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,98,create,,,
+8,all,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,108,all,,,
+9,val,value test,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,140,val,,,object
+10,be array,determine value array,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,140,isArray,val,true value array otherwise false,boolean
+11,val,value test,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,150,val,,,object
+12,be array buffer,determine value array buffer,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,150,isArrayBuffer,val,true value array buffer otherwise false,boolean
+13,val,value test,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,160,val,,,object
+14,be form data,determine value form data,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,160,isFormData,val,true value form data otherwise false,boolean
+15,val,value test,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,170,val,,,object
+16,be array buffer view,determine value view array buffer,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,170,isArrayBufferView,val,true value view array buffer otherwise false,boolean
+17,val,value test,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,186,val,,,object
+18,be string,determine value string,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,186,isString,val,true value string otherwise false,boolean
+19,val,value test,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,196,val,,,object
+20,be number,determine value number,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,196,isNumber,val,true value number otherwise false,boolean
+21,val,value test,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,206,val,,,object
+22,be undefined,determine value undefined,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,206,isUndefined,val,true value undefined otherwise false,boolean
+23,val,value test,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,216,val,,,object
+24,be object,determine value object,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,216,isObject,val,true value object otherwise false,boolean
+25,val,value test,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,226,val,,,object
+26,be date,determine value date,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,226,isDate,val,true value date otherwise false,boolean
+27,val,value test,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,236,val,,,object
+28,be file,determine value file,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,236,isFile,val,true value file otherwise false,boolean
+29,val,value test,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,246,val,,,object
+30,be blob,determine value blob,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,246,isBlob,val,true value blob otherwise false,boolean
+31,val,value test,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,256,val,,,object
+32,be function,determine value function,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,256,isFunction,val,true value function otherwise false,boolean
+33,val,value test,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,266,val,,,object
+34,be stream,determine value stream,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,266,isStream,val,true value stream otherwise false,boolean
+35,val,value test,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,276,val,,,object
+36,be url search params,determine value url search params object,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,276,isURLSearchParams,val,true value url search params object otherwise false,boolean
+37,str,string trim,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,286,str,,,string
+38,trim,trim excess whitespace beginning end string,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,286,trim,str,string freed excess whitespace,string
+39,be standard browser env,determine run standard browser environment allow axios run web worker react native. environment support xml http request fully standard globals. web worker typeof window undefined typeof document undefined react native navigator product react native nativescript navigator product native script n,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,305,isStandardBrowserEnv,,,
+40,obj,object iterate,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,329,obj,,,object|array
+41,fn,callback invoke item,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,329,fn,,,function
+42,for each,iterate array object invoke function item. obj array callback call pass value index complete array item. obj object callback call pass value key complete object property,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,329,forEach,obj fn,,
+43,obj,object merge,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,373,obj1,,,object
+44,merge,accepts varargs expect argument object immutably merge property object return result. multiple object contain key late object argument list take precedence. example j var result merge foo foo console log result foo output,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,373,merge,obj,result merge property,object
+45,assign value,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,375,assignValue,,,
+46,obj,object merge,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,397,obj1,,,object
+47,deep merge,function equal merge difference reference original object kept,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,397,deepMerge,obj,result merge property,object
+48,assign value,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,399,assignValue,,,
+49,a,object extend,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,423,a,,,object
+50,b,object copy property,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,423,b,,,object
+51,this arg,object bind function,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,423,thisArg,,,object
+52,extend,extends object mutably add property object b,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,423,extend,a b this arg,result value object,object
+53,export,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,465,exports,,,
+54,export,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,487,exports,,,
+55,instance config,default config instance,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,510,instanceConfig,,,object
+56,axios,create new instance axios,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,510,Axios,instance config,,
+57,config,config specific request merge default,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,523,config,,,object
+58,request,dispatch request,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,523,request,config,,
+59,get uri,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,555,getUri,,,
+60,[undefined],,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,563,[undefined],,,
+61,[undefined],,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,573,[undefined],,,
+62,encode,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,593,encode,,,
+63,url,base url e g. http www google com,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,611,url,,,string
+64,params,params append,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,611,params,,,object
+65,export,build url append params end,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,611,exports,url params,formatted url,string
+66,interceptor manager,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,665,InterceptorManager,,,
+67,fulfil,function handle promise,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,677,fulfilled,,,function
+68,reject,function handle reject promise,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,677,rejected,,,function
+69,use,add new interceptor stack,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,677,use,fulfil reject,id use remove interceptor later,number
+70,id,id return use,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,690,id,,,number
+71,eject,remove interceptor stack,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,690,eject,id,,
+72,fn,function call interceptor,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,704,fn,,,function
+73,for each,iterate registered interceptor method particularly useful skip interceptor may become null call eject,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,704,forEach,fn,,
+74,throw if cancellation request,throw cancel cancellation request,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,731,throwIfCancellationRequested,,,
+75,config,config use request,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,743,config,,,object
+76,export,dispatch request server use configured adapter,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,743,exports,config,promise fulfil,promise
+77,data,data transform,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,823,data,,,object|string
+78,header,header request response,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,823,headers,,,array
+79,fns,single function array function,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,823,fns,,,array|function
+80,export,transform data request response,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,823,exports,data header fns,result transform data,*
+81,export,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,839,exports,,,
+82,set content type if unset,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,857,setContentTypeIfUnset,,,
+83,get default adapter,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,863,getDefaultAdapter,,,
+84,validate status,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,926,validateStatus,,,
+85,export,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,956,exports,,,
+86,export,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,979,exports,,,
+87,onreadystatechange,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1003,onreadystatechange,,,
+88,onabort,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1035,onabort,,,
+89,onerror,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1047,onerror,,,
+90,ontimeout,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1057,ontimeout,,,
+91,resolve,function resolve promise,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1161,resolve,,,function
+92,reject,function reject promise,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1161,reject,,,function
+93,response,response,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1161,response,,,object
+94,export,resolve reject promise base response status,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1161,exports,resolve reject response,,
+95,message,error message,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1195,message,,,string
+96,config,config,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1195,config,,,object
+97,code,error code example econnaborted,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1195,code,,,string
+98,request,request,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1195,request,,,object
+99,response,response,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1195,response,,,object
+100,export,create error specified message config error code request response,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1195,exports,message config code request response,create error,error
+101,error,error update,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1217,error,,,error
+102,config,config,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1217,config,,,object
+103,code,error code example econnaborted,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1217,code,,,string
+104,request,request,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1217,request,,,object
+105,response,response,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1217,response,,,object
+106,export,update error specify config error code response,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1217,exports,error config code request response,error,error
+107,to json,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1224,toJSON,,,
+108,header,header need parse,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1276,headers,,,string
+109,export,parse header object date wed aug gmt content type application json connection keep alive transfer encode chunk,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1276,exports,header,header parse object,object
+110,url,url parse,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1329,url,,,string
+111,resolve url,parse url discover component,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1329,resolveURL,url,,object
+112,write,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1393,write,,,
+113,read,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1416,read,,,
+114,remove,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1421,remove,,,
+115,write,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1430,write,,,
+116,read,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1431,read,,,
+117,remove,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1432,remove,,,
+118,url,url test,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1450,url,,,string
+119,export,determines whether specified url absolute,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1450,exports,url,true specify url absolute otherwise false,boolean
+120,base url,base url,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1471,baseURL,,,string
+121,relative url,relative url,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1471,relativeURL,,,string
+122,export,create new url combine specify ur l,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1471,exports,base url relative url,combined url,string
+123,config,,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1494,config1,,,object
+124,config,,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1494,config2,,,object
+125,export,config specific merge function create new config object merge two configuration object together,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1494,exports,config config,new object result merge config config,object
+126,to string,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1551,toString,,,
+127,throw if request,throw cancel cancellation request,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1599,throwIfRequested,,,
+128,source,return object contain new cancel token function call cancel cancel token,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1609,source,,,
+129,callback,,1,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1649,callback,,,function
+130,export,syntactic sugar invoke function expand array arguments. common use case would use function prototype apply . j function f x z var args f apply null args spread example written. j spread function x z,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.js,1649,exports,callback,,function
+131,t,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,2,t,,,
+132,r,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,2,r,,,
+133,create,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,2,create,,,
+134,all,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,2,all,,,
+135,r,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,2,r,,,
+136,o,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,2,o,,,
+137,s,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,2,s,,,
+138,i,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,2,i,,,
+139,a,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,2,a,,,
+140,u,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,2,u,,,
+141,c,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,2,c,,,
+142,f,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,2,f,,,
+143,p,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,2,p,,,
+144,d,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,2,d,,,
+145,l,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,2,l,,,
+146,h,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,2,h,,,
+147,m,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,2,m,,,
+148,y,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,2,y,,,
+149,g,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,2,g,,,
+150,x,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,2,x,,,
+151,v,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,2,v,,,
+152,w,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,2,w,,,
+153,e,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,2,e,,,
+154,b,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,2,b,,,
+155,e,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,2,e,,,
+156,e,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,2,E,,,
+157,export,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,2,exports,,,
+158,export,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,exports,,,
+159,r,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,r,,,
+160,request,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,request,,,
+161,get uri,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,getUri,,,
+162,[undefined],,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,[undefined],,,
+163,[undefined],,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,[undefined],,,
+164,r,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,r,,,
+165,export,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,exports,,,
+166,r,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,r,,,
+167,use,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,use,,,
+168,eject,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,eject,,,
+169,for each,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,forEach,,,
+170,r,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,r,,,
+171,export,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,exports,,,
+172,export,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,exports,,,
+173,export,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,exports,,,
+174,r,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,r,,,
+175,o,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,o,,,
+176,validate status,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,validateStatus,,,
+177,export,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,exports,,,
+178,export,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,exports,,,
+179,onreadystatechange,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,onreadystatechange,,,
+180,onabort,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,onabort,,,
+181,onerror,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,onerror,,,
+182,ontimeout,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,ontimeout,,,
+183,export,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,exports,,,
+184,export,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,exports,,,
+185,export,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,exports,,,
+186,to json,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,toJSON,,,
+187,export,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,exports,,,
+188,e,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,e,,,
+189,write,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,write,,,
+190,read,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,read,,,
+191,remove,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,remove,,,
+192,write,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,write,,,
+193,read,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,read,,,
+194,remove,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,remove,,,
+195,export,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,exports,,,
+196,export,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,exports,,,
+197,export,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,exports,,,
+198,n,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,n,,,
+199,to string,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,toString,,,
+200,r,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,r,,,
+201,throw if request,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,throwIfRequested,,,
+202,source,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,source,,,
+203,export,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/dist/axios.min.js,8,exports,,,
+204,lib$es $promise$utils$$object or function,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,lib$es6$promise$utils$$objectOrFunction,,,
+205,lib$es $promise$utils$$is function,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,lib$es6$promise$utils$$isFunction,,,
+206,lib$es $promise$utils$$is maybe thenable,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,lib$es6$promise$utils$$isMaybeThenable,,,
+207,lib$es $promise$utils$$ be array,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,lib$es6$promise$utils$$_isArray,,,
+208,lib$es $promise$asap$$asap,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,lib$es6$promise$asap$$asap,,,
+209,lib$es $promise$asap$$set scheduler,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,lib$es6$promise$asap$$setScheduler,,,
+210,lib$es $promise$asap$$set asap,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,lib$es6$promise$asap$$setAsap,,,
+211,lib$es $promise$asap$$use next tick,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,lib$es6$promise$asap$$useNextTick,,,
+212,lib$es $promise$asap$$use vertx timer,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,lib$es6$promise$asap$$useVertxTimer,,,
+213,lib$es $promise$asap$$use mutation observer,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,lib$es6$promise$asap$$useMutationObserver,,,
+214,lib$es $promise$asap$$use message channel,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,lib$es6$promise$asap$$useMessageChannel,,,
+215,lib$es $promise$asap$$use set timeout,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,lib$es6$promise$asap$$useSetTimeout,,,
+216,lib$es $promise$asap$$flush,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,lib$es6$promise$asap$$flush,,,
+217,lib$es $promise$asap$$attempt vertx,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,lib$es6$promise$asap$$attemptVertx,,,
+218,lib$es $promise$$internal$$noop,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,lib$es6$promise$$internal$$noop,,,
+219,lib$es $promise$$internal$$self fulfillment,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,lib$es6$promise$$internal$$selfFulfillment,,,
+220,lib$es $promise$$internal$$cannot return own,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,lib$es6$promise$$internal$$cannotReturnOwn,,,
+221,lib$es $promise$$internal$$get then,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,lib$es6$promise$$internal$$getThen,,,
+222,lib$es $promise$$internal$$try then,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,lib$es6$promise$$internal$$tryThen,,,
+223,lib$es $promise$$internal$$handle foreign thenable,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,lib$es6$promise$$internal$$handleForeignThenable,,,
+224,lib$es $promise$$internal$$handle own thenable,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,lib$es6$promise$$internal$$handleOwnThenable,,,
+225,lib$es $promise$$internal$$handle maybe thenable,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,lib$es6$promise$$internal$$handleMaybeThenable,,,
+226,lib$es $promise$$internal$$resolve,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,lib$es6$promise$$internal$$resolve,,,
+227,lib$es $promise$$internal$$publish rejection,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,lib$es6$promise$$internal$$publishRejection,,,
+228,lib$es $promise$$internal$$fulfill,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,lib$es6$promise$$internal$$fulfill,,,
+229,lib$es $promise$$internal$$reject,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,lib$es6$promise$$internal$$reject,,,
+230,lib$es $promise$$internal$$subscribe,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,lib$es6$promise$$internal$$subscribe,,,
+231,lib$es $promise$$internal$$publish,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,lib$es6$promise$$internal$$publish,,,
+232,lib$es $promise$$internal$$error object,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,lib$es6$promise$$internal$$ErrorObject,,,
+233,lib$es $promise$$internal$$try catch,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,lib$es6$promise$$internal$$tryCatch,,,
+234,lib$es $promise$$internal$$invoke callback,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,lib$es6$promise$$internal$$invokeCallback,,,
+235,lib$es $promise$$internal$$initialize promise,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,lib$es6$promise$$internal$$initializePromise,,,
+236,lib$es $promise$enumerator$$enumerator,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,lib$es6$promise$enumerator$$Enumerator,,,
+237,validate input,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,_validateInput,,,
+238,validation error,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,_validationError,,,
+239,init,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,_init,,,
+240,enumerate,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,_enumerate,,,
+241,each entry,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,_eachEntry,,,
+242,settle at,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,_settledAt,,,
+243,will settle at,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,_willSettleAt,,,
+244,lib$es $promise$promise$all$$all,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,lib$es6$promise$promise$all$$all,,,
+245,lib$es $promise$promise$race$$race,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,lib$es6$promise$promise$race$$race,,,
+246,on fulfillment,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,onFulfillment,,,
+247,on rejection,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,onRejection,,,
+248,lib$es $promise$promise$resolve$$resolve,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,lib$es6$promise$promise$resolve$$resolve,,,
+249,lib$es $promise$promise$reject$$reject,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,lib$es6$promise$promise$reject$$reject,,,
+250,lib$es $promise$promise$$needs resolver,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,lib$es6$promise$promise$$needsResolver,,,
+251,lib$es $promise$promise$$needs new,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,lib$es6$promise$promise$$needsNew,,,
+252,lib$es $promise$promise$$promise,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,lib$es6$promise$promise$$Promise,,,
+253,then,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,then,,,
+254,catch,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,catch,,,
+255,lib$es $promise$polyfill$$polyfill,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/manual/promise.js,9,lib$es6$promise$polyfill$$polyfill,,,
+256,validate status,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/unit/adapters/http.js,106,validateStatus,,,
+257,test header value,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/specs/headers.spec.js,1,testHeaderValue,,,
+258,transform request,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/specs/transform.spec.js,50,transformRequest,,,
+259,transform request,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/specs/transform.spec.js,84,transformRequest,,,
+260,finish,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/specs/requests.spec.js,62,finish,,,
+261,finish,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/specs/requests.spec.js,86,finish,,,
+262,validate status,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/specs/requests.spec.js,112,validateStatus,,,
+263,validate status,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/specs/requests.spec.js,142,validateStatus,,,
+264,str ab,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/specs/requests.spec.js,301,str2ab,,,
+265,adapter,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/specs/adapter.spec.js,8,adapter,,,
+266,get foo,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/specs/utils/extend.spec.js,25,getFoo,,,
+267,to string,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/specs/utils/isX.spec.js,29,toString,,,
+268,validate status,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/specs/core/settle.spec.js,15,validateStatus,,,
+269,validate status,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/specs/core/settle.spec.js,40,validateStatus,,,
+270,validate status,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/test/specs/core/settle.spec.js,57,validateStatus,,,
+271,list dirs,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/examples/server.js,9,listDirs,,,
+272,get index template,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/examples/server.js,26,getIndexTemplate,,,
+273,send response,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/examples/server.js,51,sendResponse,,,
+274,send,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/examples/server.js,57,send200,,,
+275,send,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/examples/server.js,61,send404,,,
+276,pipe file to response,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/examples/server.js,65,pipeFileToResponse,,,
+277,export,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/examples/post/server.js,1,exports,,,
+278,export,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/examples/upload/server.js,1,exports,,,
+279,export,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/examples/get/server.js,28,exports,,,
+280,set content type if unset,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/defaults.js,10,setContentTypeIfUnset,,,
+281,get default adapter,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/defaults.js,16,getDefaultAdapter,,,
+282,validate status,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/defaults.js,79,validateStatus,,,
+283,default config,default config instance,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/axios.js,15,defaultConfig,,,object
+284,create instance,create instance axios,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/axios.js,15,createInstance,default config,new instance axios,axios
+285,create,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/axios.js,35,create,,,
+286,all,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/axios.js,45,all,,,
+287,val,value test,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,18,val,,,object
+288,be array,determine value array,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,18,isArray,val,true value array otherwise false,boolean
+289,val,value test,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,28,val,,,object
+290,be array buffer,determine value array buffer,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,28,isArrayBuffer,val,true value array buffer otherwise false,boolean
+291,val,value test,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,38,val,,,object
+292,be form data,determine value form data,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,38,isFormData,val,true value form data otherwise false,boolean
+293,val,value test,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,48,val,,,object
+294,be array buffer view,determine value view array buffer,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,48,isArrayBufferView,val,true value view array buffer otherwise false,boolean
+295,val,value test,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,64,val,,,object
+296,be string,determine value string,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,64,isString,val,true value string otherwise false,boolean
+297,val,value test,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,74,val,,,object
+298,be number,determine value number,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,74,isNumber,val,true value number otherwise false,boolean
+299,val,value test,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,84,val,,,object
+300,be undefined,determine value undefined,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,84,isUndefined,val,true value undefined otherwise false,boolean
+301,val,value test,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,94,val,,,object
+302,be object,determine value object,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,94,isObject,val,true value object otherwise false,boolean
+303,val,value test,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,104,val,,,object
+304,be date,determine value date,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,104,isDate,val,true value date otherwise false,boolean
+305,val,value test,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,114,val,,,object
+306,be file,determine value file,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,114,isFile,val,true value file otherwise false,boolean
+307,val,value test,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,124,val,,,object
+308,be blob,determine value blob,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,124,isBlob,val,true value blob otherwise false,boolean
+309,val,value test,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,134,val,,,object
+310,be function,determine value function,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,134,isFunction,val,true value function otherwise false,boolean
+311,val,value test,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,144,val,,,object
+312,be stream,determine value stream,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,144,isStream,val,true value stream otherwise false,boolean
+313,val,value test,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,154,val,,,object
+314,be url search params,determine value url search params object,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,154,isURLSearchParams,val,true value url search params object otherwise false,boolean
+315,str,string trim,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,164,str,,,string
+316,trim,trim excess whitespace beginning end string,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,164,trim,str,string freed excess whitespace,string
+317,be standard browser env,determine run standard browser environment allow axios run web worker react native. environment support xml http request fully standard globals. web worker typeof window undefined typeof document undefined react native navigator product react native nativescript navigator product native script n,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,183,isStandardBrowserEnv,,,
+318,obj,object iterate,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,207,obj,,,object|array
+319,fn,callback invoke item,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,207,fn,,,function
+320,for each,iterate array object invoke function item. obj array callback call pass value index complete array item. obj object callback call pass value key complete object property,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,207,forEach,obj fn,,
+321,obj,object merge,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,251,obj1,,,object
+322,merge,accepts varargs expect argument object immutably merge property object return result. multiple object contain key late object argument list take precedence. example j var result merge foo foo console log result foo output,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,251,merge,obj,result merge property,object
+323,assign value,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,253,assignValue,,,
+324,obj,object merge,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,275,obj1,,,object
+325,deep merge,function equal merge difference reference original object kept,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,275,deepMerge,obj,result merge property,object
+326,assign value,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,277,assignValue,,,
+327,a,object extend,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,301,a,,,object
+328,b,object copy property,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,301,b,,,object
+329,this arg,object bind function,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,301,thisArg,,,object
+330,extend,extends object mutably add property object b,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,301,extend,a b this arg,result value object,object
+331,export,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/adapters/http.js,19,exports,,,
+332,resolve,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/adapters/http.js,22,resolve,,,
+333,reject,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/adapters/http.js,26,reject,,,
+334,export,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/adapters/xhr.js,10,exports,,,
+335,onreadystatechange,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/adapters/xhr.js,34,onreadystatechange,,,
+336,onabort,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/adapters/xhr.js,66,onabort,,,
+337,onerror,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/adapters/xhr.js,78,onerror,,,
+338,ontimeout,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/adapters/xhr.js,88,ontimeout,,,
+339,callback,,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/helpers/spread.js,23,callback,,,function
+340,export,syntactic sugar invoke function expand array arguments. common use case would use function prototype apply . j function f x z var args f apply null args spread example written. j spread function x z,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/helpers/spread.js,23,exports,callback,,function
+341,export,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/helpers/normalizeHeaderName.js,5,exports,,,
+342,method,name deprecated method,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/helpers/deprecatedMethod.js,13,method,,,string
+343,instead,alternate method use applicable,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/helpers/deprecatedMethod.js,13,instead,,,string
+344,doc,documentation url get detail,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/helpers/deprecatedMethod.js,13,docs,,,string
+345,export,supply warning developer method use deprecate,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/helpers/deprecatedMethod.js,13,exports,method instead doc,,
+346,base url,base url,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/helpers/combineURLs.js,10,baseURL,,,string
+347,relative url,relative url,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/helpers/combineURLs.js,10,relativeURL,,,string
+348,export,create new url combine specify ur l,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/helpers/combineURLs.js,10,exports,base url relative url,combined url,string
+349,header,header need parse,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/helpers/parseHeaders.js,27,headers,,,string
+350,export,parse header object date wed aug gmt content type application json connection keep alive transfer encode chunk,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/helpers/parseHeaders.js,27,exports,header,header parse object,object
+351,write,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/helpers/cookies.js,11,write,,,
+352,read,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/helpers/cookies.js,34,read,,,
+353,remove,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/helpers/cookies.js,39,remove,,,
+354,write,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/helpers/cookies.js,48,write,,,
+355,read,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/helpers/cookies.js,49,read,,,
+356,remove,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/helpers/cookies.js,50,remove,,,
+357,encode,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/helpers/buildURL.js,5,encode,,,
+358,url,base url e g. http www google com,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/helpers/buildURL.js,23,url,,,string
+359,params,params append,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/helpers/buildURL.js,23,params,,,object
+360,export,build url append params end,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/helpers/buildURL.js,23,exports,url params,formatted url,string
+361,export,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/helpers/bind.js,3,exports,,,
+362,url,url test,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/helpers/isAbsoluteURL.js,9,url,,,string
+363,export,determines whether specified url absolute,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/helpers/isAbsoluteURL.js,9,exports,url,true specify url absolute otherwise false,boolean
+364,url,url parse,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/helpers/isURLSameOrigin.js,21,url,,,string
+365,resolve url,parse url discover component,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/helpers/isURLSameOrigin.js,21,resolveURL,url,,object
+366,error,error update,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/enhanceError.js,13,error,,,error
+367,config,config,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/enhanceError.js,13,config,,,object
+368,code,error code example econnaborted,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/enhanceError.js,13,code,,,string
+369,request,request,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/enhanceError.js,13,request,,,object
+370,response,response,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/enhanceError.js,13,response,,,object
+371,export,update error specify config error code response,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/enhanceError.js,13,exports,error config code request response,error,error
+372,to json,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/enhanceError.js,23,toJSON,,,
+373,throw if cancellation request,throw cancel cancellation request,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/dispatchRequest.js,13,throwIfCancellationRequested,,,
+374,config,config use request,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/dispatchRequest.js,25,config,,,object
+375,export,dispatch request server use configured adapter,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/dispatchRequest.js,25,exports,config,promise fulfil,promise
+376,interceptor manager,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/InterceptorManager.js,5,InterceptorManager,,,
+377,fulfil,function handle promise,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/InterceptorManager.js,17,fulfilled,,,function
+378,reject,function handle reject promise,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/InterceptorManager.js,17,rejected,,,function
+379,use,add new interceptor stack,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/InterceptorManager.js,17,use,fulfil reject,id use remove interceptor later,number
+380,id,id return use,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/InterceptorManager.js,30,id,,,number
+381,eject,remove interceptor stack,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/InterceptorManager.js,30,eject,id,,
+382,fn,function call interceptor,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/InterceptorManager.js,44,fn,,,function
+383,for each,iterate registered interceptor method particularly useful skip interceptor may become null call eject,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/InterceptorManager.js,44,forEach,fn,,
+384,instance config,default config instance,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/Axios.js,14,instanceConfig,,,object
+385,axios,create new instance axios,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/Axios.js,14,Axios,instance config,,
+386,config,config specific request merge default,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/Axios.js,27,config,,,object
+387,request,dispatch request,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/Axios.js,27,request,config,,
+388,get uri,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/Axios.js,59,getUri,,,
+389,[undefined],,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/Axios.js,67,[undefined],,,
+390,[undefined],,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/Axios.js,77,[undefined],,,
+391,resolve,function resolve promise,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/settle.js,12,resolve,,,function
+392,reject,function reject promise,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/settle.js,12,reject,,,function
+393,response,response,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/settle.js,12,response,,,object
+394,export,resolve reject promise base response status,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/settle.js,12,exports,resolve reject response,,
+395,config,,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/mergeConfig.js,13,config1,,,object
+396,config,,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/mergeConfig.js,13,config2,,,object
+397,export,config specific merge function create new config object merge two configuration object together,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/mergeConfig.js,13,exports,config config,new object result merge config config,object
+398,message,error message,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/createError.js,15,message,,,string
+399,config,config,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/createError.js,15,config,,,object
+400,code,error code example econnaborted,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/createError.js,15,code,,,string
+401,request,request,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/createError.js,15,request,,,object
+402,response,response,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/createError.js,15,response,,,object
+403,export,create error specified message config error code request response,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/createError.js,15,exports,message config code request response,create error,error
+404,data,data transform,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/transformData.js,13,data,,,object|string
+405,header,header request response,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/transformData.js,13,headers,,,array
+406,fns,single function array function,1,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/transformData.js,13,fns,,,array|function
+407,export,transform data request response,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/transformData.js,13,exports,data header fns,result transform data,*
+408,throw if request,throw cancel cancellation request,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/cancel/CancelToken.js,36,throwIfRequested,,,
+409,source,return object contain new cancel token function call cancel cancel token,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/cancel/CancelToken.js,46,source,,,
+410,to string,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/cancel/Cancel.js,13,toString,,,
+411,export,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/cancel/isCancel.js,3,exports,,,
+412,pipe file to response,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/sandbox/server.js,7,pipeFileToResponse,,,
+413,handle success,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/sandbox/client.js,9,handleSuccess,,,
+414,handle failure,,0,/home/zcl/Desktop/parametermismatch/dataset/axios/sandbox/client.js,10,handleFailure,,,

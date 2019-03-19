@@ -1,0 +1,575 @@
+prediction,top_5,datapoint_type,cleaned_name,cleaned_comment,return_param_comment,params,filename,line_number,original,name
+function,function%string%other%object%array.<*>,0,export,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/gruntfile.js,1,,exports
+function,function%string%other%object%array.<*>,0,export,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/wallaby.js,2,,exports
+string,string%object%other%boolean%void,0,bootstrap,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/wallaby.js,34,,bootstrap
+string,string%other%array%object%promise,0,load file,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/wallaby.js,42,,loadFile
+function,function%string%other%object%array.<*>,0,export,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/client/karma.conf.js,74,,exports
+boolean,boolean%undefined%other%void%object,0,emitter,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/client/mocks.js,1,,Emitter
+void,void%undefined%function%boolean%string,0,on,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/client/mocks.js,4,,on
+function,function%other%number%void%promise,0,emit,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/client/mocks.js,12,,emit
+other,other%webinspector.networkrequest%webinspector.heapsnapshotgridnode.childrenprovider%promise%server,0,mock socket,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/client/mocks.js,25,,MockSocket
+void,void%undefined%function%boolean%string,0,on,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/client/mocks.js,34,,on
+other,other%undefined%boolean%jquery.promise%ithenable,0,disconnect,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/client/mocks.js,42,,disconnect
+string,string%other%undefined%function%number,0,set transport name to,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/client/mocks.js,47,,_setTransportNameTo
+undefined,undefined%other%void%function%string,0,set transport to,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/client/karma.spec.js,13,,setTransportTo
+function,function%function|undefined%other%void%string|function,0,adapter start fn,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/client/karma.spec.js,74,,ADAPTER_START_FN
+other,other%string%object%array%webinspector.consolemessage,0,alert,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/client/karma.spec.js,255,,alert
+boolean,boolean%string%void%undefined%other,0,confirm,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/client/karma.spec.js,270,,confirm
+undefined,undefined%string%void%other%enchant.timeline,0,prompt,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/client/karma.spec.js,288,,prompt
+other,other%object%string%undefined%array,0,log,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/client/karma.spec.js,307,,log
+other,other%object%string%undefined%array,0,log,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/client/karma.spec.js,323,,log
+other,other%object%string%undefined%array,0,log,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/client/karma.spec.js,338,,log
+other,other%number%boolean%void%string,0,abc,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/client/stringify.spec.js,30,,abc
+number,number%mixed%other%object%void,0,def,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/client/stringify.spec.js,31,,def
+object,object%other%webinspector.remoteobject%t%array,0,my obj,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/client/stringify.spec.js,66,,MyObj
+other,other%void%element%undefined%function,0,proxy,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/e2e/support/proxy.js,4,,Proxy
+array,array%number%jquery%undefined%other,0,start,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/e2e/support/proxy.js,25,,start
+undefined,undefined%other%array|null%number%void,0,stop,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/e2e/support/proxy.js,33,,stop
+world,world%other%vertices%array%openseadragon.rect,0,world,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/e2e/support/world.js,9,,World
+function,function%other%string%object%void,0,resolve,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/e2e/support/world.js,20,,_resolve
+string,string%other%number%void%boolean,0,generate j,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/e2e/support/world.js,52,,generateJS
+other,other%number%void%undefined%string,0,http get,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/e2e/support/proxy/test.js,1,,httpGet
+string,string%other%object%array%array.<string>,0,framework,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/e2e/support/proxy/plugin.js,1,,framework
+other,other%number%void%undefined%string,0,http get,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/e2e/support/middleware/test.js,1,,httpGet
+other,other%function%void%promise%object,0,middleware,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/e2e/support/middleware/middleware.js,1,,middleware
+string,string%other%object%array%array.<string>,0,framework,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/e2e/support/middleware/middleware.js,11,,framework
+number,number%string%boolean%int%other,0,plus,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/e2e/support/modules/plus.js,2,,plus
+number,number%string%boolean%int%other,0,plus,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/e2e/support/modules/plus.js,2,,plus
+boolean,boolean%bool%other%boolean|undefined%void,0,be firefox before,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/e2e/support/tag/tag.js,2,,isFirefoxBefore59
+boolean,boolean%bool%other%string%documentfragment,0,contains js tag,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/e2e/support/tag/tag.js,6,,containsJsTag
+other,other%number%void%undefined%string,0,http get,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/e2e/support/headers/test.js,1,,httpGet
+socket,socket%other%promise%server%object,0,socket,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/e2e/support/reconnecting/test.js,4,,socket
+number,number%string%boolean%int%other,0,plus,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/e2e/support/reconnecting/plus.js,3,,plus
+number,number%string%boolean%int%other,0,plus,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/e2e/support/behind-proxy/plus.js,3,,plus
+number,number%string%boolean%int%other,0,plus,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/e2e/support/mocha/plus.js,3,,plus
+number,number%string%boolean%int%other,0,plus,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/e2e/support/basic/plus.js,3,,plus
+boolean,boolean%string%object%other%void,0,cleanse if need,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/e2e/step_definitions/core_steps.js,22,,cleanseIfNeeded
+array,array%other%ithenable%boolean%void,0,exec karma,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/e2e/step_definitions/core_steps.js,35,,execKarma
+other,other%undefined%jquery%function%element,0,start proxy,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/e2e/step_definitions/core_steps.js,38,,startProxy
+other,other%string%void%mocha%number,0,executor,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/e2e/step_definitions/core_steps.js,58,,executor
+function,function%void%undefined%boolean%other,0,do,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/e2e/step_definitions/core_steps.js,69,,done
+function,function%other%nodestylecallback%object%function|function,0,callback,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/e2e/step_definitions/core_steps.js,151,,callback
+other,other%promise%jquery.promise%array%$.promise,0,stub promise,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/launcher.spec.js,11,,stubPromise
+boolean,boolean%other%undefined%void%promise,0,fake browser,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/launcher.spec.js,23,,FakeBrowser
+other,other%string%object%void%image,0,script browser,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/launcher.spec.js,43,,ScriptBrowser
+string,string%other%number%array.<string>%boolean,0,generate id,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/launcher.spec.js,66,,generateId
+boolean,boolean%bool%other%boolean|undefined%void,0,be capture,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/launcher.spec.js,290,,isCaptured
+boolean,boolean%bool%other%boolean|undefined%void,0,be capture,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/launcher.spec.js,292,,isCaptured
+boolean,boolean%bool%other%boolean|undefined%void,0,be capture,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/launcher.spec.js,298,,isCaptured
+boolean,boolean%bool%other%boolean|undefined%void,0,be capture,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/launcher.spec.js,300,,isCaptured
+number,number%other%void%string%array,0,slice,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/runner.spec.js,41,,slice
+number,number%other%void%string%array,0,slice,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/runner.spec.js,50,,slice
+other,other%array%array.<string>%element%string,0,a method,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/emitter_wrapper.spec.js,12,,aMethod
+other,other%element%array%array.<string>%number,0,a listener,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/emitter_wrapper.spec.js,18,,aListener
+other,other%element%array%array.<string>%number,0,a listener,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/emitter_wrapper.spec.js,31,,aListener
+function,function%void%other%undefined%array,0,another listener,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/emitter_wrapper.spec.js,48,,anotherListener
+function,function%number%other%object%nodestylecallback,0,next tick callback,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/mocha-globals.js,52,,nextTickCallback
+boolean,boolean%void%number%other%undefined,0,schedule next tick,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/mocha-globals.js,58,,scheduleNextTick
+function,function%other%nodestylecallback%object%number,0,next callback,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/mocha-globals.js,64,,nextCallback
+boolean,boolean%void%number%other%undefined,0,schedule next tick,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/mocha-globals.js,69,,scheduleNextTick
+void,void%boolean%undefined%function%other,0,schedule next,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/mocha-globals.js,74,,scheduleNext
+string,string%regexp%array%other%array.<string>,0,pattern,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/file-list.spec.js,14,,patterns
+array.<!webinspector.heapsnapshotgridnode>,array.<!webinspector.heapsnapshotgridnode>%string%other%number%object,0,path from,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/file-list.spec.js,18,,pathsFrom
+array,array%string%object%other%array.<string>,0,find file,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/file-list.spec.js,22,,findFile
+string,string%other%object%void%array,0,glob,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/file-list.spec.js,77,,Glob
+string,string%other%object%void%array,0,glob,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/file-list.spec.js,209,,Glob
+string,string%other%object%void%array,0,glob,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/file-list.spec.js,248,,Glob
+void,void%boolean%other%ithenable%object,0,check result,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/file-list.spec.js,290,,checkResult
+function,function%other%nodestylecallback%object%function|function,0,callback,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/file-list.spec.js,299,,callback
+string,string%other%object%void%array,0,glob,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/file-list.spec.js,442,,Glob
+string,string%other%object%void%array,0,glob,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/file-list.spec.js,571,,Glob
+string,string%other%object%void%array,0,glob,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/file-list.spec.js,697,,Glob
+string,string%other%object%void%array,0,glob,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/file-list.spec.js,780,,Glob
+other,other%socket%promise%object%webinspector.heapsnapshotgridnode.childrenprovider,0,mk socket,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/browser.spec.js,15,,mkSocket
+other,other%ithenable%function%webinspector.remoteobject%request,0,create success result,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/browser.spec.js,316,,createSuccessResult
+other,other%ithenable%function%array%void,0,create fail result,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/browser.spec.js,320,,createFailedResult
+boolean,boolean%other%ithenable%void%element,0,create skip result,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/browser.spec.js,324,,createSkippedResult
+function,function%other%string%object%void,0,resolve,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/cli.spec.js,26,,resolve
+undefined,undefined%other%void%array%object,0,set cwd,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/cli.spec.js,31,,setCWD
+object,object%other%array%void%string,0,process args,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/cli.spec.js,36,,processArgs
+object,object%other%ithenable%function%boolean,0,require,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/cli.spec.js,52,,require
+function,function%other%object%string|function%string,0,get read file callback,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/preprocessor.spec.js,247,,getReadFileCallback
+number,number%string%other%void%undefined,0,fb,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/events.spec.js,24,,FB
+undefined,undefined%void%function%other%object,0,on prototype bar,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/events.spec.js,26,,onPrototypeBar
+undefined,undefined%void%function%boolean%other,0,on foo,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/events.spec.js,30,,onFoo
+undefined,undefined%void%function%other%boolean,0,on foo bar,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/events.spec.js,31,,onFooBar
+boolean,boolean%other%undefined%void%function,0,foo,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/events.spec.js,32,,foo
+undefined,undefined%void%function%boolean%other,0,on foo,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/events.spec.js,73,,onFoo
+undefined,undefined%void%function%other%boolean,0,on foo bar,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/events.spec.js,74,,onFooBar
+boolean,boolean%other%undefined%void%function,0,foo,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/events.spec.js,75,,foo
+number,number%jquery%other%object%undefined,0,bar,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/events.spec.js,76,,bar
+undefined,undefined%void%function%boolean%other,0,on foo,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/events.spec.js,113,,onFoo
+undefined,undefined%void%function%boolean%other,0,on foo,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/events.spec.js,123,,onFoo
+function,function%other%number%void%promise,0,emit,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/events.spec.js,172,,emit
+void,void%undefined%function%boolean%other,0,on run start,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/executor.spec.js,24,,onRunStart
+function,function%void%undefined%other%function|null,0,on socket execute,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/executor.spec.js,25,,onSocketsExecute
+boolean,boolean%bool%other%void%boolean|undefined,0,be all ready,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/executor.spec.js,36,,areAllReady
+boolean,boolean%bool%other%void%boolean|undefined,0,be all ready,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/executor.spec.js,44,,areAllReady
+boolean,boolean%bool%other%void%boolean|undefined,0,be all ready,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/executor.spec.js,51,,areAllReady
+boolean,boolean%other%string%jquery%void,0,replace,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/init.spec.js,14,,replace
+other,other%string%promise%array%void,0,answer,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/init.spec.js,49,,answers
+undefined,undefined%self%void%boolean%jquery,0,close,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/init.spec.js,88,,close
+string,string%other%number%boolean%object,0,write,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/init.spec.js,89,,write
+undefined,undefined%string%void%other%enchant.timeline,0,prompt,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/init.spec.js,90,,prompt
+treenode,treenode%number%boolean%other%void,0,delete line leave,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/init.spec.js,91,,_deleteLineLeft
+treenode,treenode%number%node%other%boolean,0,delete line right,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/init.spec.js,92,,_deleteLineRight
+other,other%void%string%runnable%object,0,question,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/init.spec.js,96,,question
+string,string%number%boolean%array%other,0,evaluate config code,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/init.spec.js,101,,evaluateConfigCode
+string,string%other%boolean%array%function,0,resolve win path,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/config.spec.js,13,,resolveWinPath
+boolean,boolean%string%other%function%object,0,normalize config with default,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/config.spec.js,15,,normalizeConfigWithDefaults
+string,string%regexp%date%other%array.<string>,0,pattern from,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/config.spec.js,28,,patternsFrom
+string,string%other%object%array%boolean,0,wrap cfg,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/config.spec.js,30,,wrapCfg
+number,number%other%string%void%boolean,0,"""/home/config .js""",,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/config.spec.js,44,,"""/home/config8.js"""
+other,other%void%mixed%string%number,0,"""/conf/invalid.js""",,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/config.spec.js,46,,"""/conf/invalid.js"""
+object,object%other%ithenable%function%boolean,0,require,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/config.spec.js,60,,require
+boolean,boolean%string%other%jquery%number,0,invalid,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/config.spec.js,367,,invalid
+boolean,boolean%string%other%jquery%number,0,invalid,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/config.spec.js,377,,invalid
+other,other%function%object%array%array.<object>,0,forward args factory,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/config.spec.js,428,,forwardArgsFactory
+other,other%string%object%array%void,0,serve file,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/web-server.spec.js,37,,servedFiles
+function,function%string%other%object%void,0,handler,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/web-server.spec.js,192,,handler
+boolean,boolean%undefined%void%string%other,0,configure,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/logger.spec.js,10,,configure
+void,void%boolean%jquery.promise%other%promise,0,schedule,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/server.spec.js,52,,schedule
+other,other%boolean%void%jquery.promise%function,0,then,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/server.spec.js,57,,then
+void,void%undefined%other%boolean%function,0,launch,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/server.spec.js,66,,launch
+boolean,boolean%void%undefined%other%element,0,mark capture,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/server.spec.js,67,,markCaptured
+boolean,boolean%bool%other%boolean|undefined%void,0,be all capture,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/server.spec.js,68,,areAllCaptured
+undefined,undefined%void%boolean%other%number,0,restart,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/server.spec.js,69,,restart
+void,void%undefined%boolean%other%function,0,kill,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/server.spec.js,70,,kill
+void,void%undefined%function%boolean%string,0,on,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/server.spec.js,75,,on
+function,function%other%number%void%promise,0,emit,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/server.spec.js,76,,emit
+void,void%boolean%undefined%angular.jqlite%other,0,remove listener,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/server.spec.js,77,,removeListener
+undefined,undefined%self%void%boolean%jquery,0,close,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/server.spec.js,81,,close
+undefined,undefined%self%void%boolean%jquery,0,close,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/server.spec.js,83,,close
+void,void%undefined%function%boolean%string,0,on,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/server.spec.js,87,,on
+function,function%other%number%void%promise,0,emit,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/server.spec.js,88,,emit
+undefined,undefined%void%google.maps.mapseventlistener%other%boolean,0,remove all listener,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/server.spec.js,89,,removeAllListeners
+string,string%number%other%object%array.<string>,0,address,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/server.spec.js,97,,address
+void,void%undefined%function%boolean%string,0,on,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/server.spec.js,101,,on
+undefined,undefined%void%google.maps.mapseventlistener%other%boolean,0,remove all listener,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/server.spec.js,115,,removeAllListeners
+boolean,boolean%bool%other%boolean|undefined%void,0,be all capture,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/server.spec.js,250,,areAllCaptured
+boolean,boolean%bool%other%boolean|undefined%void,0,be all capture,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/server.spec.js,254,,areAllCaptured
+boolean,boolean%bool%other%boolean|undefined%void,0,be all capture,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/server.spec.js,265,,areAllCaptured
+boolean,boolean%bool%other%boolean|undefined%void,0,be all capture,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/server.spec.js,269,,areAllCaptured
+other,other%undefined%void%function%string,0,mock process,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/server.spec.js,285,,mockProcess
+void,void%undefined%function%boolean%string,0,on,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/server.spec.js,300,,on
+function,function%other%number%void%promise,0,emit,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/server.spec.js,301,,emit
+string,string%other%object%error%array,0,format error,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/reporter.spec.js,55,,formatError
+number,number%object%array%other%string,0,original position for,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/reporter.spec.js,136,,originalPositionFor
+boolean,boolean%bool%other%void%string,0,be directory,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/watcher.spec.js,101,,isDirectory
+boolean,boolean%bool%other%void%object,0,be file,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/watcher.spec.js,102,,isFile
+boolean,boolean%bool%other%void%string,0,be directory,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/watcher.spec.js,106,,isDirectory
+boolean,boolean%bool%other%void%object,0,be file,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/watcher.spec.js,107,,isFile
+mixed,mixed%string%error%array.<*>%other,0,expect,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/helper.spec.js,10,,expecting
+number,number%other%justmath.vec2%array%boolean,0,d,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/helper.spec.js,169,,d
+other,other%webinspector.networkrequest%object%function%string,0,mock env,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/completion.spec.js,8,,mockEnv
+webinspector.heapsnapshotproviderproxy,webinspector.heapsnapshotproviderproxy%other%webinspector.heapsnapshotgridnode.childrenprovider%webinspector.networkrequest%request,0,create browser mock,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/reporters/progress.spec.js,39,,createBrowserMock
+function,function%string%other%object%array.<*>,0,export,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/mocks/timer.js,3,,exports
+undefined,undefined%self%void%boolean%jquery,0,close,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/init/state_machine.spec.js,8,,close
+string,string%other%number%boolean%object,0,write,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/init/state_machine.spec.js,9,,write
+undefined,undefined%string%void%other%enchant.timeline,0,prompt,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/init/state_machine.spec.js,10,,prompt
+treenode,treenode%number%boolean%other%void,0,delete line leave,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/init/state_machine.spec.js,11,,_deleteLineLeft
+treenode,treenode%number%node%other%boolean,0,delete line right,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/init/state_machine.spec.js,12,,_deleteLineRight
+other,other%void%string%runnable%object,0,question,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/init/state_machine.spec.js,16,,question
+other,other%boolean%void%promise%function,0,create answer,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/init/formatters.spec.js,12,,createAnswers
+function,function%other%void%object%angular.jqlite,0,create handler,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/middleware/runner.spec.js,26,,createHandler
+string,string%other%number%boolean%object,0,write,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/middleware/runner.spec.js,52,,write
+void,void%boolean%jquery.promise%other%promise,0,schedule,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/middleware/runner.spec.js,58,,schedule
+void,void%undefined%boolean%other%self,0,refresh,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/middleware/runner.spec.js,64,,refresh
+array,array%string%object%other%void,0,add file,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/middleware/runner.spec.js,65,,addFile
+string,string%array%other%void%object,0,remove file,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/middleware/runner.spec.js,66,,removeFile
+object,object%other%string%array%void,0,change file,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/middleware/runner.spec.js,67,,changeFile
+other,other%server%webinspector.heapsnapshotproviderproxy%webinspector.heapsnapshotgridnode.childrenprovider%webinspector.networkrequest,0,create server,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/middleware/source_files.spec.js,36,,createServer
+other,other%string%object%array%void,0,serve file,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/middleware/source_files.spec.js,63,,servedFiles
+other,other%undefined%webglcontext%webinspector.networkrequest%object,0,web,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/middleware/proxy.spec.js,18,,web
+number,number%other%int%lf.schema.column%object,0,w,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/middleware/proxy.spec.js,24,,ws
+other,other%undefined%webglcontext%webinspector.networkrequest%object,0,web,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/middleware/proxy.spec.js,35,,web
+number,number%other%int%lf.schema.column%object,0,w,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/middleware/proxy.spec.js,41,,ws
+other,other%undefined%webglcontext%webinspector.networkrequest%object,0,web,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/middleware/proxy.spec.js,52,,web
+number,number%other%int%lf.schema.column%object,0,w,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/middleware/proxy.spec.js,58,,ws
+other,other%undefined%webglcontext%webinspector.networkrequest%object,0,web,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/middleware/proxy.spec.js,69,,web
+number,number%other%int%lf.schema.column%object,0,w,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/middleware/proxy.spec.js,75,,ws
+other,other%void%undefined%boolean%function,0,proxy req,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/middleware/proxy.spec.js,343,,proxyReq
+other,other%boolean%undefined%void%object,0,proxy re,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/middleware/proxy.spec.js,344,,proxyRes
+other,other%number%object%string%array,0,get,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/middleware/karma.spec.js,46,,get
+array,array%boolean%object%other%array.<object>,0,include file,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/middleware/karma.spec.js,76,,includedFiles
+other,other%string%object%array%void,0,serve file,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/middleware/karma.spec.js,80,,servedFiles
+request,request%other%incomingmessage%webinspector.networkrequest%object,0,normalize http request,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/middleware/karma.spec.js,84,,normalizedHttpRequest
+boolean,boolean%function%other%void%string,0,call handler with,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/middleware/karma.spec.js,90,,callHandlerWith
+promise,promise%other%boolean%object%array,0,read file promise,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/middleware/karma.spec.js,281,,readFilePromise
+other,other%number%object%string%array,0,get,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/middleware/karma.spec.js,478,,get
+function,function%string%other%object%array.<*>,0,export,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/fixtures/format-error-root.js,2,,exports
+string,string%other%object%error%array,0,format error,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/fixtures/format-error-property.js,1,,formatError
+string,string%other%array%object%array.<string>,0,get path,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/launchers/process.spec.js,36,,getPath
+other,other%array%object%string%array.<object>,0,get command,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/launchers/process.spec.js,44,,_getCommand
+other,other%array%object%string%array.<object>,0,get command,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/launchers/process.spec.js,53,,_getCommand
+other,other%array%object%string%array.<object>,0,get command,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/launchers/process.spec.js,80,,_getCommand
+other,other%array%object%string%array.<object>,0,get command,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/launchers/process.spec.js,100,,_getCommand
+other,other%array%object%string%array.<object>,0,get command,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/launchers/process.spec.js,129,,_getCommand
+other,other%array%object%string%array.<object>,0,get command,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/launchers/process.spec.js,296,,_getCommand
+boolean,boolean%void%function%other%undefined,0,expect on kill listener be already finish and have be only call once,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/test/unit/launchers/base.spec.js,159,,expectOnKillListenerIsAlreadyFinishedAndHasBeenOnlyCalledOnce
+other,other%number%object%mixed%boolean,0,instance of,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/common/util.js,1,,instanceOf
+other,other%element%jquery%object%htmlelement,0,elm,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/common/util.js,5,,elm
+string,string%other%number%array.<string>%boolean,0,generate id,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/common/util.js,9,,generateId
+boolean,boolean%bool%other%boolean|undefined%lf.predicate,0,be undefined,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/common/util.js,13,,isUndefined
+boolean,boolean%bool%other%lf.predicate%object,0,be define,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/common/util.js,17,,isDefined
+object,object%other%string%boolean%ithenable,0,parse query params,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/common/util.js,21,,parseQueryParams
+boolean,boolean%bool%other%void%collection,0,be node,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/common/stringify.js,4,,isNode
+string,string%object%other%boolean%function,0,stringify,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/common/stringify.js,8,,stringify
+object,object%element|object%element%renderingcontext%other,0,context karma,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/context/karma.js,5,,ContextKarma
+other,other%object%string%undefined%array,0,log,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/context/karma.js,12,,log
+protocol.error,protocol.error%error%other%string%string|error,0,error,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/context/karma.js,26,,error
+number,number%boolean%undefined%void%other,0,unimplemented start,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/context/karma.js,33,,UNIMPLEMENTED_START
+other,other%void%function%boolean%undefined,0,load,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/context/karma.js,37,,loaded
+other,other%void%mixed%string%number,0,undefined],,,,/home/zcl/Desktop/parametermismatch/dataset/karma/context/karma.js,59,,undefined]
+void,void%other%object%undefined%string,0,setup context,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/context/karma.js,66,,setupContext
+other,other%object%string%jquery%undefined,0,onerror,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/context/karma.js,75,,onerror
+other,other%void%mixed%string%number,0,onbeforeunload,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/context/karma.js,79,,onbeforeunload
+other,other%string%object%array%array.<function()>,0,dump,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/context/karma.js,83,,dump
+other,other%string%object%array%webinspector.consolemessage,0,alert,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/context/karma.js,90,,alert
+boolean,boolean%string%void%undefined%other,0,confirm,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/context/karma.js,94,,confirm
+undefined,undefined%string%void%other%enchant.timeline,0,prompt,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/context/karma.js,99,,prompt
+other,other%object%string%number%array,0,get console,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/context/karma.js,105,,getConsole
+other,other%object%string%undefined%array,0,log,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/context/karma.js,107,,log
+object,object%other%array%string%array.<object>,0,info,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/context/karma.js,108,,info
+other,other%string%array%object%number,0,warn,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/context/karma.js,109,,warn
+protocol.error,protocol.error%error%other%string%string|error,0,error,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/context/karma.js,110,,error
+other,other%void%undefined%webinspector.profileheader%object,0,debug,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/context/karma.js,111,,debug
+other,other%function%string%boolean%array,0,patch console method,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/context/karma.js,118,,patchConsoleMethod
+other,other%void%mixed%string%number,0,undefined],,,,/home/zcl/Desktop/parametermismatch/dataset/karma/context/karma.js,123,,undefined]
+other,other%object%void%string%array,0,get direct call parent karma method,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/context/karma.js,140,,getDirectCallParentKarmaMethod
+object,object%other%string%array.<object>%ithenable,0,get post message call parent karma method,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/context/karma.js,152,,getPostMessageCallParentKarmaMethod
+number,number%string%other%array%int,0,status updater,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/client/updater.js,3,,StatusUpdater
+void,void%undefined%object%boolean%other,0,update browser info,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/client/updater.js,4,,updateBrowsersInfo
+void,void%undefined%other%boolean%object,0,update banner,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/client/updater.js,17,,updateBanner
+other,other%string%void%number%boolean,0,karma,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/client/karma.js,5,,Karma
+other,other%string%boolean%function%object,0,navigate context to,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/client/karma.js,55,,navigateContextTo
+other,other%string%void%object%function,0,load script,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/client/karma.js,67,,loadScript
+void,void%other%function%object%boolean,0,onload,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/client/karma.js,71,,onload
+other,other%void%mixed%string%number,0,onbeforeunload,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/client/karma.js,87,,onbeforeunload
+other,other%object%string%undefined%array,0,log,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/client/karma.js,94,,log
+void,void%other%undefined%object%boolean,0,clear context,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/client/karma.js,106,,clearContext
+other,other%webgluniformlocation%object%promise%string,0,get location,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/client/karma.js,112,,getLocation
+protocol.error,protocol.error%error%other%string%string|error,0,error,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/client/karma.js,132,,error
+arraylike,arraylike%other%webinspector.remoteobject%array%array.<!object>,0,result,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/client/karma.js,153,,result
+function,function%void%boolean%function|string%other,0,complete,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/client/karma.js,186,,complete
+object,object%other%array%string%array.<object>,0,info,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/client/karma.js,207,,info
+function,function%string%other%object%array.<*>,0,export,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/tasks/test.js,1,,exports
+other,other%void%function%boolean%undefined,0,spawn karma,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/tasks/test.js,15,,spawnKarma
+other,other%array%ithenable%boolean%void,0,exec,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/tasks/test.js,27,,exec
+function,function%string%other%object%array.<*>,0,export,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/tasks/init-dev-env.js,1,,exports
+boolean,boolean%number%other%string%object,0,compare,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/config.js,45,,compare
+other,other%webinspector.remoteobject%object%element%string,0,create pattern object,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/config.js,56,,createPatternObject
+string,string%object%other%string|regexp%string|object,0,normalize url,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/config.js,71,,normalizeUrl
+string,string%object%other%string|object%array,0,normalize url root,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/config.js,83,,normalizeUrlRoot
+string,string%array%other%object%regexp,0,normalize proxy path,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/config.js,93,,normalizeProxyPath
+object,object%other%string%json%function,0,normalize config,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/config.js,103,,normalizeConfig
+string,string%other%function%array.<!webinspector.heapsnapshotgridnode>%array,0,base path resolve,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/config.js,104,,basePathResolve
+other,other%string%webinspector.heapsnapshotgridnode.childrenprovider%object%regexp,0,create pattern mapper,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/config.js,114,,createPatternMapper
+undefined,undefined%other%void%object%array,0,set,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/config.js,331,,set
+other,other%object%document%function%string,0,parse config,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/config.js,347,,parseConfig
+string,string%other%object%array%string|object,0,config module,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/config.js,377,,configModule
+string,string%number%other%boolean%object,0,browser full name to short,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/helper.js,10,,browserFullNameToShort
+boolean,boolean%bool%other%lf.predicate%object,0,be define,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/helper.js,16,,isDefined
+string,string%other%webinspector.heapsnapshotgridnode.childrenprovider%object%webinspector.heapsnapshotproviderproxy,0,parser,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/helper.js,20,,parser
+other,other%string%number%function%void,0,g parser,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/helper.js,44,,gsParser
+object,object%webinspector.remoteobject%other%boolean%array.<element>,0,compare weight object,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/helper.js,52,,compareWeightObject
+number,number%string%boolean%other%array,0,mm pattern weight,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/helper.js,59,,mmPatternWeight
+number,number%boolean%string%other%array,0,mm compare pattern weight,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/helper.js,73,,mmComparePatternWeights
+boolean,boolean%bool%void%other%string,0,be url absolute,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/helper.js,89,,isUrlAbsolute
+boolean,boolean%string%number%other%function,0,camel to snake,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/helper.js,93,,camelToSnake
+boolean,boolean%jquery%other%number%bool,0,uc first,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/helper.js,99,,ucFirst
+boolean,boolean%string%array%number%other,0,dash to camel,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/helper.js,103,,dashToCamel
+array,array%other%string%boolean%array.<object>,0,array remove,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/helper.js,108,,arrayRemove
+boolean,boolean%function%void%other%undefined,0,merge,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/helper.js,119,,merge
+number,number%string%integer%other%number|undefined,0,format time interval,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/helper.js,125,,formatTimeInterval
+string,string%array%other%boolean%string|function,0,replace win path,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/helper.js,137,,replaceWinPath
+other,other%object%boolean%string%webinspector.remoteobject,0,mkdir if not exists,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/helper.js,143,,mkdirIfNotExists
+other,other%promise%jquery%void%undefined,0,defer,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/helper.js,158,,defer
+boolean,boolean%void%other%undefined%function,0,save original args,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/helper.js,173,,saveOriginalArgs
+void,void%boolean%other%array%string,0,restore original args,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/helper.js,179,,restoreOriginalArgs
+object,object%other%array%void%string,0,process args,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/cli.js,12,,processArgs
+object,object%other%document%string%object|undefined,0,parse client args,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/cli.js,136,,parseClientArgs
+array,array%string%array|string%boolean%array.<object>,0,args before double dash,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/cli.js,148,,argsBeforeDoubleDash
+string,string%other%array.<string>%array%object,0,describe share,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/cli.js,154,,describeShared
+undefined,undefined%void%other%boolean%object,0,describe init,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/cli.js,169,,describeInit
+number,number%undefined%other%boolean%int,0,describe start,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/cli.js,181,,describeStart
+other,other%function%string%array%object,0,describe run,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/cli.js,207,,describeRun
+undefined,undefined%void%array%other%number,0,describe stop,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/cli.js,223,,describeStop
+other,other%string%object%array%array.<string>,0,describe completion,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/cli.js,234,,describeCompletion
+void,void%boolean%other%undefined%string,0,process,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/cli.js,243,,process
+other,other%boolean%ithenable%undefined%function,0,run,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/cli.js,286,,run
+string,string%number%boolean%other%object,0,parse exit code,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/runner.js,11,,parseExitCode
+other,other%boolean%ithenable%undefined%function,0,run,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/runner.js,34,,run
+array,array%number%jquery%undefined%other,0,start,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/index.js,12,,start
+undefined,undefined%other%array|null%number%void,0,stop,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/stopper.js,6,,stop
+other,other%object%string%void%boolean,0,install package,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/init.js,32,,installPackage
+string,string%other%regexp%boolean%string|function,0,validate pattern,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/init.js,62,,validatePattern
+other,other%boolean%object%void%undefined,0,validate browser,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/init.js,68,,validateBrowser
+boolean,boolean%other%string%void%undefined,0,validate framework,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/init.js,73,,validateFramework
+boolean,boolean%string%ithenable%other%number,0,validate require j,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/init.js,77,,validateRequireJs
+string,string%other%object%function%string|function,0,condition,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/init.js,121,,condition
+string,string%other%object%function%string|function,0,condition,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/init.js,130,,condition
+string,string%other%array%object%array.<string>,0,get base path,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/init.js,139,,getBasePath
+boolean,boolean%void%other%undefined%string,0,process answer,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/init.js,161,,processAnswers
+void,void%undefined%boolean%other%object,0,init,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/init.js,197,,init
+function,function%other%void%object%function|undefined,0,create custom handler,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/web-server.js,19,,createCustomHandler
+other,other%object%promise%string%webinspector.networkrequest,0,create file promise,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/web-server.js,30,,createFilesPromise
+other,other%webinspector.networkrequest%stream%object%webinspector.heapsnapshotproviderproxy,0,create read file promise,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/web-server.js,43,,createReadFilePromise
+other,other%webinspector.heapsnapshotproviderproxy%string%object%webinspector.heapsnapshotgridnode.childrenprovider,0,create serve static file,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/web-server.js,61,,createServeStaticFile
+other,other%string%void%webinspector.heapsnapshotproviderproxy%object,0,create serve file,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/web-server.js,66,,createServeFile
+webinspector.heapsnapshotgridnode.childrenprovider,webinspector.heapsnapshotgridnode.childrenprovider%webinspector.heapsnapshotproviderproxy%other%webinspector.networkrequest%request,0,create web server,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/web-server.js,71,,createWebServer
+string,string%array%other%boolean%array.<string>,0,oposite word,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/completion.js,37,,opositeWord
+void,void%boolean%ithenable%other%string,0,send completion,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/completion.js,45,,sendCompletion
+other,other%array%string%void%ithenable,0,send completion file,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/completion.js,54,,sendCompletionFiles
+function,function%void%boolean%function|string%other,0,complete,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/completion.js,66,,complete
+other,other%boolean%string%object%array,0,completion,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/completion.js,84,,completion
+other,other%object%string%event%jquery.event,0,buffer event,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/events.js,6,,bufferEvents
+function,function%other%object%void%function|undefined,0,generic listener,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/events.js,10,,genericListener
+undefined,undefined%void%boolean%other%array|null,0,bind,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/events.js,35,,bind
+boolean,boolean%function%void%other%object,0,emit async,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/events.js,46,,emitAsync
+string,string%other%object%boolean%string|buffer,0,to string,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/file.js,29,,toString
+string,string%other%boolean%array%object,0,by path,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/file-list.js,16,,byPath
+function,function%other%number%void%promise,0,emit,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/file-list.js,35,,emit
+boolean,boolean%function%void%number%other,0,emit modify,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/file-list.js,40,,_emitModified
+string,string%other%boolean%array.<string>%array,0,find exclude,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/file-list.js,45,,_findExcluded
+boolean,boolean%array%other%string%object,0,find include,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/file-list.js,49,,_findIncluded
+array,array%string%object%other%array.<string>,0,find file,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/file-list.js,53,,_findFile
+boolean,boolean%function%void%string%other,0,exists,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/file-list.js,58,,_exists
+string,string%array.<object>%other%object%array,0,get file by pattern,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/file-list.js,62,,_getFilesByPattern
+void,void%undefined%boolean%other%self,0,refresh,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/file-list.js,66,,_refresh
+void,void%undefined%boolean%other%self,0,refresh,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/file-list.js,168,,refresh
+void,void%undefined%boolean%other%promise,0,reload,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/file-list.js,173,,reload
+array,array%string%object%other%void,0,add file,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/file-list.js,180,,addFile
+object,object%other%string%array%void,0,change file,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/file-list.js,216,,changeFile
+string,string%array%other%void%object,0,remove file,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/file-list.js,242,,removeFile
+other,other%function%object%jquery%array,0,factory,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/file-list.js,260,,factory
+function,function%other%void%function|null%webinspector.heapsnapshotgridnode.childrenprovider,0,create next processor,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/preprocessor.js,11,,createNextProcessor
+other,other%webinspector.heapsnapshotgridnode.childrenprovider%webinspector.heapsnapshotproviderproxy%function%jquery,0,create preprocessor,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/preprocessor.js,36,,createPreprocessor
+boolean,boolean%void%other%function%object,0,instantiate preprocessor,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/preprocessor.js,42,,instantiatePreprocessor
+function,function%other%string%string|function%function|undefined,0,read file callback,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/preprocessor.js,74,,readFileCallback
+other,other%function%error%string%webinspector.heapsnapshotgridnode.childrenprovider,0,create error formatter,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/reporter.js,12,,createErrorFormatter
+google.maps.map,google.maps.map%other%string%object%arraybuffer,0,get source map consumer,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/reporter.js,33,,getSourceMapConsumer
+other,other%webinspector.heapsnapshotgridnode.childrenprovider%webinspector.heapsnapshotproviderproxy%function%void,0,create reporter,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/reporter.js,84,,createReporters
+boolean,boolean%other%undefined%self%void,0,add,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/browser_collection.js,12,,add
+boolean,boolean%self%other%jquery%angular.jqlite,0,remove,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/browser_collection.js,17,,remove
+other,other%string%object%number%array,0,get by id,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/browser_collection.js,25,,getById
+boolean,boolean%other%array%object%number,0,get non ready,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/browser_collection.js,29,,getNonReady
+boolean,boolean%bool%other%void%boolean|undefined,0,be all ready,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/browser_collection.js,33,,areAllReady
+string,string%other%object%boolean%array,0,serialize,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/browser_collection.js,37,,serialize
+number,number%integer%string%int%other,0,calculate exit code,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/browser_collection.js,41,,calculateExitCode
+other,other%array%object%array.<object>%arraylike,0,get result,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/browser_collection.js,55,,getResults
+void,void%ithenable%undefined%boolean%other,0,clear result,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/browser_collection.js,68,,clearResults
+other,other%element%angular.jqlite%webinspector.consolemessage%boolean,0,clone,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/browser_collection.js,74,,clone
+google.maps.map,google.maps.map%other%object%string%function,0,map,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/browser_collection.js,79,,map
+function,function%void%undefined%other%boolean,0,for each,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/browser_collection.js,83,,forEach
+other,other%function%object%jquery%array,0,factory,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/browser_collection.js,92,,factory
+other,other%webinspector.heapsnapshotgridnode.childrenprovider%function%webinspector.heapsnapshotproviderproxy%string,0,base browser decorator factory,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/launcher.js,14,,baseBrowserDecoratorFactory
+other,other%pusher%void%string%undefined,0,launcher,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/launcher.js,29,,Launcher
+other,other%string%object%array.<object>%number,0,get browser by id,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/launcher.js,33,,getBrowserById
+void,void%boolean%function%other%ithenable,0,launch single,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/launcher.js,35,,launchSingle
+void,void%undefined%other%boolean%function,0,launch,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/launcher.js,93,,launch
+void,void%undefined%boolean%other%function,0,kill,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/launcher.js,133,,kill
+undefined,undefined%void%boolean%other%number,0,restart,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/launcher.js,145,,restart
+void,void%undefined%boolean%other%ithenable,0,kill all,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/launcher.js,154,,killAll
+boolean,boolean%bool%other%boolean|undefined%void,0,be all capture,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/launcher.js,168,,areAllCaptured
+boolean,boolean%void%undefined%other%element,0,mark capture,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/launcher.js,170,,markCaptured
+string,string%other%number%array.<string>%boolean,0,generate id,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/launcher.js,182,,generateId
+function,function%other%string%object%void,0,resolve,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/plugin.js,11,,resolve
+object,object%other%array%function%string,0,require plugin,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/plugin.js,14,,requirePlugin
+string,string%other%object%boolean%string|buffer,0,to string,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/url.js,13,,toString
+string,string%regexp%other%documentfragment%function,0,base dir from pattern,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/watcher.js,12,,baseDirFromPattern
+other,other%string%array%void%object,0,watch pattern,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/watcher.js,19,,watchPatterns
+boolean,boolean%void%function%object%wgxpath.nodeset,0,check any path match,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/watcher.js,36,,checkAnyPathMatch
+boolean,boolean%void%string%object%other,0,create ignore,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/watcher.js,40,,createIgnore
+other,other%string%object%array%date,0,get watch pattern,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/watcher.js,50,,getWatchedPatterns
+void,void%other%undefined%boolean%function,0,watch,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/watcher.js,56,,watch
+void,void%undefined%object%boolean%string,0,setup,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/logger.js,24,,setup
+void,void%other%string%undefined%object,0,setup from config,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/logger.js,72,,setupFromConfig
+other,other%boolean%void%nodelist%webinspector.consolemessage,0,create,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/logger.js,93,,create
+boolean,boolean%other%void%function%string,0,rebind log j test,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/logger.js,113,,_rebindLog4js4testing
+number,number%element%array%other%array.<number>,0,total time end,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/browser_result.js,13,,totalTimeEnd
+boolean,boolean%other%undefined%self%void,0,add,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/browser_result.js,17,,add
+other,other%webinspector.heapsnapshotproviderproxy%webinspector.heapsnapshotgridnode.childrenprovider%webinspector.networkrequest%function,0,create socket io server,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/server.js,42,,createSocketIoServer
+undefined,undefined%number%void%other%integer,0,set timeout,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/server.js,95,,setTimeout
+function,function%void%other%boolean%undefined,0,die on error,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/server.js,111,,dieOnError
+array,array%number%jquery%undefined%other,0,start,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/server.js,117,,start
+other,other%number%object%string%array,0,get,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/server.js,134,,get
+void,void%other%promise%boolean%array,0,refresh file,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/server.js,138,,refreshFiles
+void,void%other%promise%boolean%array,0,refresh file,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/server.js,142,,refreshFile
+array,array%number%jquery%undefined%other,0,start,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/server.js,146,,_start
+function,function%void%undefined%boolean%other,0,after preprocess,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/server.js,167,,afterPreprocess
+boolean,boolean%void%other%function%undefined,0,emit run complete if all browser do,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/server.js,270,,emitRunCompleteIfAllBrowsersDone
+other,other%undefined%void%ithenable%object,0,disconnect browser,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/server.js,335,,disconnectBrowsers
+undefined,undefined%void%google.maps.mapseventlistener%other%boolean,0,remove all listener,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/server.js,347,,removeAllListeners
+undefined,undefined%boolean%void%other%self,0,detach,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/server.js,386,,_detach
+undefined,undefined%other%array|null%number%void,0,stop,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/server.js,406,,stop
+array,array%number%jquery%undefined%other,0,start,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/server.js,410,,start
+void,void%boolean%function%google.maps.mapseventlistener%undefined,0,add listener,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/emitter_wrapper.js,9,,addListener
+void,void%undefined%function%boolean%string,0,on,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/emitter_wrapper.js,16,,on
+undefined,undefined%void%google.maps.mapseventlistener%other%boolean,0,remove all listener,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/emitter_wrapper.js,20,,removeAllListeners
+void,void%undefined%boolean%other%object,0,init,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/browser.js,35,,init
+undefined,undefined%void%other%object%reactorstate,0,set state,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/browser.js,43,,setState
+function,function%void%undefined%other%function|string,0,on karma error,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/browser.js,48,,onKarmaError
+void,void%undefined%other%object%string,0,on info,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/browser.js,56,,onInfo
+undefined,undefined%void%function%boolean%other,0,on start,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/browser.js,70,,onStart
+function,function%void%undefined%other%boolean,0,on complete,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/browser.js,81,,onComplete
+function,function%undefined%void%boolean%other,0,on disconnect,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/browser.js,97,,onDisconnect
+undefined,undefined%number%boolean%other%void,0,reconnect,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/browser.js,122,,reconnect
+void,void%function%undefined%other%ithenable,0,on result,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/browser.js,154,,onResult
+other,other%void%boolean%ithenable%function,0,execute,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/browser.js,165,,execute
+string,string%other%array.<string>%object%function,0,get active socket id,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/browser.js,171,,getActiveSocketsIds
+other,other%undefined%boolean%jquery.promise%ithenable,0,disconnect,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/browser.js,175,,disconnect
+void,void%undefined%boolean%function%number,0,refresh no activity timeout,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/browser.js,183,,refreshNoActivityTimeout
+void,void%undefined%boolean%number%ithenable,0,clear no activity timeout,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/browser.js,196,,clearNoActivityTimeout
+undefined,undefined%other%void%boolean%function,0,bind socket event,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/browser.js,203,,bindSocketEvents
+boolean,boolean%bool%other%boolean|undefined%void,0,be connect,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/browser.js,213,,isConnected
+boolean,boolean%bool%other%object%string,0,be not connect,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/browser.js,217,,isNotConnected
+string,string%other%object%boolean%array,0,serialize,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/browser.js,221,,serialize
+string,string%other%object%boolean%string|buffer,0,to string,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/browser.js,229,,toString
+object,object%json%string%other%google.maps.map,0,to json,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/browser.js,233,,toJSON
+object,object%other%string%backbone.collection%array,1,collection,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/browser.js,247,,collection
+number,number%boolean%integer%undefined%other,1,disconnect delay,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/browser.js,247,,disconnectDelay
+boolean,boolean%number%array%integer%string,1,no activity timeout,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/browser.js,247,,noActivityTimeout
+other,other%jquery%function%array%ithenable,0,factory,,,collection disconnect delay no activity timeout,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/browser.js,247,,factory
+string,string%other%array%object%array.<string>,0,get path,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/temp_dir.js,11,,getPath
+other,other%boolean%void%nodelist%webinspector.consolemessage,0,create,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/temp_dir.js,15,,create
+boolean,boolean%self%other%jquery%angular.jqlite,0,remove,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/temp_dir.js,27,,remove
+void,void%boolean%jquery.promise%other%promise,0,schedule,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/executor.js,19,,schedule
+function,function%void%undefined%other%boolean,0,on run complete,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/executor.js,40,,onRunComplete
+function,function%void%undefined%other%number,0,on browser complete,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/executor.js,46,,onBrowserComplete
+other,other%function%object%jquery%array,0,factory,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/executor.js,59,,factory
+string,string%other%cc.color%array%number,0,dot color reporter,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/reporters/dots_color.js,4,,DotsColorReporter
+string,string%other%object%array%array.<string>,0,dot reporter,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/reporters/dots.js,3,,DotsReporter
+void,void%undefined%function%boolean%other,0,on run start,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/reporters/dots.js,8,,onRunStart
+undefined,undefined%void%function%boolean%other,0,on browser start,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/reporters/dots.js,13,,onBrowserStart
+string,string%boolean%other%object%string|function,0,write common msg,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/reporters/dots.js,17,,writeCommonMsg
+other,other%object%function%ithenable%array,0,spec success,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/reporters/dots.js,26,,specSuccess
+function,function%void%undefined%other%number,0,on browser complete,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/reporters/dots.js,31,,onBrowserComplete
+function,function%void%undefined%other%boolean,0,on run complete,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/reporters/dots.js,35,,onRunComplete
+other,other%void%function%jquery.promise%promise,0,progress reporter,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/reporters/progress.js,3,,ProgressReporter
+string,string%boolean%other%object%string|function,0,write common msg,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/reporters/progress.js,9,,writeCommonMsg
+other,other%object%function%ithenable%array,0,spec success,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/reporters/progress.js,13,,specSuccess
+function,function%void%undefined%other%number,0,on browser complete,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/reporters/progress.js,17,,onBrowserComplete
+void,void%undefined%function%boolean%other,0,on run start,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/reporters/progress.js,21,,onRunStart
+undefined,undefined%void%function%boolean%other,0,on browser start,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/reporters/progress.js,26,,onBrowserStart
+boolean,boolean%self%other%jquery%angular.jqlite,0,remove,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/reporters/progress.js,36,,_remove
+render,render%other%void%undefined%string,0,render,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/reporters/progress.js,51,,_render
+void,void%undefined%boolean%other%self,0,refresh,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/reporters/progress.js,57,,_refresh
+other,other%number%string%void%undefined,0,progress color reporter,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/reporters/progress_color.js,4,,ProgressColorReporter
+other,other%boolean%void%function%object,0,add adapter,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/reporters/multi.js,10,,addAdapter
+boolean,boolean%void%other%undefined%function,0,remove adapter,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/reporters/multi.js,14,,removeAdapter
+string,string%cc.color%array%other%string|undefined,0,base color reporter,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/reporters/base_color.js,3,,BaseColorReporter
+function,function%string%other%webinspector.heapsnapshotgridnode.childrenprovider%number,0,base reporter,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/reporters/base.js,8,,BaseReporter
+void,void%undefined%function%boolean%other,0,on run start,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/reporters/base.js,29,,onRunStart
+undefined,undefined%void%function%boolean%other,0,on browser start,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/reporters/base.js,33,,onBrowserStart
+other,other%void%undefined%object%string,0,render browser,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/reporters/base.js,37,,renderBrowser
+string,string%other%number%boolean%object,0,write,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/reporters/base.js,65,,write
+string,string%boolean%other%object%string|function,0,write common msg,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/reporters/base.js,77,,writeCommonMsg
+function,function%void%undefined%other%thin.core.layer,0,on browser error,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/reporters/base.js,81,,onBrowserError
+void,void%function%other%undefined%boolean,0,on browser log,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/reporters/base.js,85,,onBrowserLog
+function,function%void%undefined%other%boolean,0,on spec complete,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/reporters/base.js,103,,onSpecComplete
+other,other%object%function%ithenable%array,0,spec success,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/reporters/base.js,120,,specSuccess
+other,other%boolean%object%string%array,0,spec skip,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/reporters/base.js,123,,specSkipped
+other,other%object%string%array%incomingmessage,0,spec failure,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/reporters/base.js,126,,specFailure
+function,function%void%undefined%other%boolean,0,on run complete,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/reporters/base.js,137,,onRunComplete
+other,other%function%array.<function()>%webinspector.heapsnapshotproviderproxy%object,0,decorator factory,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/reporters/base.js,148,,decoratorFactory
+other,other%void%string%runnable%object,0,question,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/init/color_schemes.js,6,,question
+function|string,function|string%function%boolean%other%array,0,success,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/init/color_schemes.js,9,,success
+other,other%void%string%runnable%object,0,question,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/init/color_schemes.js,19,,question
+function|string,function|string%function%boolean%other%array,0,success,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/init/color_schemes.js,22,,success
+string,string%boolean%other%array.<boolean>%array,0,quote,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/init/formatters.js,6,,quote
+number,number%string%int%other%number|undefined,0,format line,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/init/formatters.js,10,,formatLine
+number,number%string%boolean%other%array,0,format multi line,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/init/formatters.js,14,,formatMultiLines
+string,string%array%other%object%array.<string>,0,format file,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/init/formatters.js,20,,formatFiles
+string,string%other%number%object%boolean,0,format preprocessors,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/init/formatters.js,28,,formatPreprocessors
+string,string%other%array%object%array.<string>,0,get config path,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/init/formatters.js,35,,getConfigPath
+string,string%other%array%object%file,0,generate config file,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/init/formatters.js,45,,generateConfigFile
+other,other%string%object%array%promise,0,write config file,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/init/formatters.js,53,,writeConfigFile
+other,other%string%object%array%void,0,write requirejs config file,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/init/formatters.js,57,,writeRequirejsConfigFile
+string,string%other%boolean%object%number,0,format answer,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/init/formatters.js,61,,formatAnswers
+boolean,boolean%other%string%void%object,0,create for path,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/init/formatters.js,102,,createForPath
+other,other%queue%function%object%ithenable,0,print log queue,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/init/log-queue.js,4,,printLogQueue
+boolean,boolean%string%error%number%void,0,push,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/init/log-queue.js,9,,push
+boolean,boolean%undefined%void%self%treenode,0,show prompt,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/init/state_machine.js,19,,showPrompt
+void,void%undefined%function%boolean%string,0,on keypress,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/init/state_machine.js,24,,onKeypress
+object,object%other%options%object|undefined%string,0,suggest option,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/init/state_machine.js,40,,suggestOption
+void,void%undefined%boolean%other%function,0,kill,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/init/state_machine.js,58,,kill
+undefined,undefined%void%boolean%treenode%other,0,on line,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/init/state_machine.js,65,,onLine
+function,function%void%undefined%other%boolean,0,next question,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/init/state_machine.js,109,,nextQuestion
+void,void%boolean%other%undefined%string,0,process,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/init/state_machine.js,134,,process
+other,other%object%string%array%array.<object>,0,bundle resource,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/utils/bundle-utils.js,7,,bundleResource
+boolean,boolean%other%ithenable%object%string,0,bundle resource if not exist,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/utils/bundle-utils.js,17,,bundleResourceIfNotExist
+string,string%other%object%buffer%number,0,sha,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/utils/crypto-utils.js,6,,sha1
+array,array%string%object%promise%other,0,read file,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/utils/file-utils.js,6,,readFile
+void,void%other%object%string%array,0,save file,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/utils/file-utils.js,10,,saveFile
+array,array%other%string%object%boolean,0,copy file,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/utils/file-utils.js,14,,copyFile
+boolean,boolean%void%other%ithenable%string,0,remove file if exists,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/utils/file-utils.js,18,,removeFileIfExists
+undefined,undefined%boolean%void%other%string,0,bind available port,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/utils/net-utils.js,7,,bindAvailablePort
+string,string%object%other%boolean%function,0,stringify,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/utils/json-utils.js,5,,stringify
+string,string%other%array%object%array.<string>,0,format path mapping,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/utils/path-utils.js,6,,formatPathMapping
+other,other%string%boolean%number%object,0,calculate absolute path,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/utils/path-utils.js,10,,calculateAbsolutePath
+string,string%other%object%array%ithenable,0,find by path,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/middleware/source_files.js,8,,findByPath
+string,string%object%other%string|null%array.<string>,0,compose url,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/middleware/source_files.js,12,,composeUrl
+string,string%other%array%object%promise,0,create source file middleware,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/middleware/source_files.js,21,,createSourceFilesMiddleware
+other,other%object%function%string%array,0,parse proxy config,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/middleware/proxy.js,7,,parseProxyConfig
+other,other%array.<object>%array%mixed%array.<any>,1,proxy,array proxy record object,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/middleware/proxy.js,78,,proxies
+string,string%other%string|undefined%object%xmlelement,1,url root,url root karma mount,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/middleware/proxy.js,78,,urlRoot
+function,function%object%other%goog.testing.mockinterface%function|array,0,create proxy handler,return handler understand proxy redirects along proxy use,handler function,proxy url root,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/middleware/proxy.js,78,function,createProxyHandler
+other,other%void%collection%boolean%object,0,null proxy,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/middleware/proxy.js,80,,nullProxy
+object,object%other%void%array%string,0,upgrade,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/middleware/proxy.js,81,,upgrade
+webinspector.heapsnapshotgridnode.childrenprovider,webinspector.heapsnapshotgridnode.childrenprovider%other%webinspector.heapsnapshotproviderproxy%function%webinspector.profileheader,0,create proxy,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/middleware/proxy.js,85,,createProxy
+object,object%other%void%array%string,0,upgrade,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/middleware/proxy.js,96,,upgrade
+object,object%other%json%config%string,1,config,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/middleware/proxy.js,114,,config
+other,other%function%object%element%boolean,1,proxy,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/middleware/proxy.js,114,,proxies
+other,other%undefined%void%boolean%object,0,create,,,config proxy,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/middleware/proxy.js,114,,create
+string,string%object%other%array%array.<string>,1,protocol,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/middleware/runner.js,15,,protocol
+string,string%other%object%array.<string>%array,1,hostname,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/middleware/runner.js,15,,hostname
+array.<object>,array.<object>%number%other%object%string,1,port,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/middleware/runner.js,15,,port
+string,string%object%string|object%string|undefined%other,1,url root,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/middleware/runner.js,15,,urlRoot
+other,other%promise%queue%void%xmlhttprequest,0,create runner middleware,,,protocol hostname port url root,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/middleware/runner.js,15,,createRunnerMiddleware
+other,other%boolean%void%webinspector.heapsnapshotgridnode.childrenprovider%promise,0,create stopper middleware,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/middleware/stopper.js,7,,createStopperMiddleware
+string,string%boolean%void%other%number,0,strip host from url,strip hostname request path handle request use normally proxy absolute uri request path,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/middleware/strip_host.js,6,,stripHostFromUrl
+string,string%other%array%array.<string>%object,0,file path to url path,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/middleware/karma.js,37,,filePathToUrlPath
+string,string%other%object%array%array.<object>,0,get query,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/middleware/karma.js,44,,getQuery
+other,other%object%thin.ui.propertypane.propertygroup%htmlelement%array,0,get xua compatible meta element,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/middleware/karma.js,48,,getXUACompatibleMetaElement
+string,string%other%array%array.<string>%object,0,get xua compatible url,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/middleware/karma.js,56,,getXUACompatibleUrl
+other,other%boolean%void%webinspector.heapsnapshotgridnode.childrenprovider%function,0,create karma middleware,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/middleware/karma.js,64,,createKarmaMiddleware
+other,other%string%void%webinspector.heapsnapshotproviderproxy%object,0,create serve file,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/middleware/common.js,12,,createServeFile
+other,other%webinspector.networkrequest%object%request%string,0,convert for range request,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/middleware/common.js,18,,convertForRangeRequest
+other,other%string%void%object%socket,0,serve,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/middleware/common.js,87,,serve404
+boolean,boolean%void%undefined%string%array,0,set no cache header,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/middleware/common.js,93,,setNoCacheHeaders
+boolean,boolean%void%undefined%string%other,0,set heavy cache header,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/middleware/common.js,99,,setHeavyCacheHeaders
+string,string%other%function%string|function%array,0,initialize mime type,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/middleware/common.js,103,,initializeMimeTypes
+other,other%boolean%void%jquery.promise%function,0,then,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/middleware/common.js,116,,then
+undefined,undefined%other%void%object%array,0,set,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/middleware/common.js,120,,set
+boolean,boolean%void%undefined%howler%other,0,capture timeout launcher,kill browser capture give capture timeout,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/launchers/capture_timeout.js,6,,CaptureTimeoutLauncher
+number,number%boolean%integer%number|string%int,1,capture timeout,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/launchers/capture_timeout.js,34,,captureTimeout
+function,function%other%angular.jqlite%boolean%collection,0,decorator factory,,,capture timeout,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/launchers/capture_timeout.js,34,,decoratorFactory
+undefined,undefined%void%other%number%boolean,0,retry launcher,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/launchers/retry.js,3,,RetryLauncher
+other,other%function%array.<function()>%webinspector.heapsnapshotproviderproxy%object,0,decorator factory,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/launchers/retry.js,23,,decoratorFactory
+void,void%other%boolean%undefined%string,0,process launcher,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/launchers/process.js,5,,ProcessLauncher
+array,array%number%jquery%undefined%other,0,start,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/launchers/process.js,32,,_start
+other,other%array%object%string%array.<object>,0,get command,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/launchers/process.js,36,,_getCommand
+object,object%other%object|undefined%string%mixed,0,get option,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/launchers/process.js,40,,_getOptions
+object,object%string%other%array%boolean,0,normalize command,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/launchers/process.js,45,,_normalizeCommand
+void,void%undefined%function%boolean%other,0,on stdout,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/launchers/process.js,54,,_onStdout
+undefined,undefined%void%function%boolean%other,0,on stderr,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/launchers/process.js,58,,_onStderr
+ithenable,ithenable%array%other%boolean%void,0,exec command,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/launchers/process.js,62,,_execCommand
+void,void%undefined%function%boolean%other,0,on process exit,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/launchers/process.js,103,,_onProcessExit
+void,void%boolean%undefined%other%array,0,clear temp dir and report do,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/launchers/process.js,133,,_clearTempDirAndReportDone
+void,void%undefined%function%other%boolean,0,on kill timeout,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/launchers/process.js,143,,_onKillTimeout
+other,other%function%array.<function()>%webinspector.heapsnapshotproviderproxy%object,0,decorator factory,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/launchers/process.js,164,,decoratorFactory
+boolean,boolean%other%function%void%string,0,spawn without output,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/launchers/process.js,168,,spawnWithoutOutput
+string,string%number%other%function%object,0,base launcher,base launcher custom launcher extends,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/launchers/base.js,18,,BaseLauncher
+array,array%number%jquery%undefined%other,0,start,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/launchers/base.js,38,,start
+void,void%undefined%boolean%other%function,0,kill,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/launchers/base.js,46,,kill
+boolean,boolean%void%undefined%other%number,0,force kill,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/launchers/base.js,61,,forceKill
+undefined,undefined%void%boolean%other%number,0,restart,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/launchers/base.js,68,,restart
+boolean,boolean%void%undefined%other%element,0,mark capture,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/launchers/base.js,90,,markCaptured
+boolean,boolean%bool%other%boolean|undefined%void,0,be capture,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/launchers/base.js,96,,isCaptured
+string,string%other%object%boolean%string|buffer,0,to string,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/launchers/base.js,100,,toString
+function,function%void%undefined%boolean%other,0,do,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/launchers/base.js,104,,_done
+other,other%function%array.<function()>%webinspector.heapsnapshotproviderproxy%object,0,decorator factory,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/lib/launchers/base.js,125,,decoratorFactory
+object,object%other%array%string%array.<object>,0,info,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/static/debug.js,2,,info
+function,function%void%boolean%function|string%other,0,complete,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/static/debug.js,5,,complete
+other,other%void%function%boolean%undefined,0,load,,,,/home/zcl/Desktop/parametermismatch/dataset/karma/static/debug.js,26,,loaded

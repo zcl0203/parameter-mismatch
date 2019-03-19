@@ -1,0 +1,26 @@
+prediction,top_5,datapoint_type,cleaned_name,cleaned_comment,return_param_comment,params,filename,line_number,original,name
+string,string%object%array%other%array.<string>,1,result key,merge,,,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,255,,result.key
+string,string%any%object%boolean%other,1,val,merge,,,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,255,,val
+object,object%string%array%other%mixed,1,result key,deep merge,,,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,279,,result.key
+mixed,mixed%object%string%boolean%number,1,val,deep merge,,,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,279,,val
+mixed,mixed%object%other%string%boolean,1,,deep merge,,,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,281,None,
+mixed,mixed%object%string%boolean%number,1,val,deep merge,,,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,281,,val
+other,other%object%entity%widget%context,1,,create instance,,,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/axios.js,36,None,
+array,array%object%number%string%other,1,argument i,for each,,,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,288,,arguments.i
+string,string%object%number%mixed%boolean,1,assign value,for each,,,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,288,,assignValue
+object,object%other%boolean%mixed%function,1,config,throw if cancellation request,,,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/dispatchRequest.js,26,,config
+array,array%object%other%object|array%mixed,1,obj,be array,,,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,219,,obj
+other,other%object%string%string|number%number,1,val,be object,,,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,145,,val
+number,number%array%function|string%string|function%string,1,val,be function,,,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,145,,val
+string,string%goog.uri%other%string|object%string|undefined,1,request url,resolve url,,,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/helpers/isURLSameOrigin.js,56,,requestURL
+array,array%object%number%string%other,1,argument i,for each,,,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,262,,arguments.i
+string,string%object%number%mixed%boolean,1,assign value,for each,,,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/utils.js,262,,assignValue
+object,object%other%boolean%mixed%function,1,config,throw if cancellation request,,,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/dispatchRequest.js,72,,config
+object,object%other%boolean%mixed%function,1,config,throw if cancellation request,,,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/core/dispatchRequest.js,60,,config
+string,string%other%object%mixed%array,1,,encode,,,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/helpers/buildURL.js,54,None,
+string,string%other%object%mixed%array,1,,encode,,,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/helpers/buildURL.js,54,None,
+string,string%other%object%string|object%goog.uri,1,window location href,resolve url,,,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/helpers/isURLSameOrigin.js,47,,window.location.href
+string,string%other%object%array%array.<object>|array.<string>,1,header,set content type if unset,,,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/defaults.js,48,,headers
+string,string%other%boolean%object%number,1,,set content type if unset,,,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/defaults.js,48,string,
+string,string%other%object%array%array.<object>|array.<string>,1,header,set content type if unset,,,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/defaults.js,52,,headers
+string,string%other%boolean%object%number,1,,set content type if unset,,,/home/zcl/Desktop/parametermismatch/dataset/axios/lib/defaults.js,52,string,
